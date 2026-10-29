@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ page.title }} · {{ site.name }}{% endblock %}</title>
+<meta name="description" content="{{ page.description }}">
+<link rel="canonical" href="{{ abs_url(page.url) }}">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta name="author" content="{{ site.author }}">
+<meta property="og:type" content="{% block ogtype %}website{% endblock %}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:url" content="{{ abs_url(page.url) }}">
+<meta property="og:image" content="{{ site.url }}{{ book.cover }}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }}: Situations" href="{{ site.url }}/rss.xml">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+{% block head %}{% endblock %}
+<script type="application/ld+json">
+{{ {"@context":"https://schema.org","@type":"WebSite","name":site.name,"alternateName":site.brand,"url":site.url,"author":{"@type":"Person","name":site.author}} | tojson }}
+</script>
+{% block jsonld %}{% endblock %}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap nav">
+    <a class="logo" href="/"><span class="logo-title">Steer, Don't Guess</span><span class="logo-sub">The Jirgenson Model</span></a>
+    <nav aria-label="Main">
+      <a href="/#book">Book</a>
+      <a href="/situations/">Situations</a>
+      <a href="/reviews/">Reviews</a>
+      <a href="/author/">Author</a>
+      <a href="/ai-assistant/">AI prompt</a>
+      <a class="btn btn-amber btn-sm" href="/buy/">Get the book</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+{% block content %}{% endblock %}
+</main>
+<footer class="floor">
+  <div class="wrap foot">
+    <div>
+      <p class="foot-title">{{ book.full_title }}</p>
+      <p class="muted">By {{ site.author }}, {{ site.author_title }}, {{ site.author_location }}. {{ book.edition }}.</p>
+      <p class="muted small">Not financial, legal or investment advice. Characters in the book are composites; numbers are illustrative.</p>
+    </div>
+    <div class="foot-cols">
+      <div><p class="foot-h">Book</p><a href="/buy/">Where to buy</a><a href="{{ book.free_sample }}" rel="noopener">Read Chapter 1 free</a><a href="/reviews/">Reviews</a><a href="/press/">Press kit</a></div>
+      <div><p class="foot-h">Model</p><a href="/#model">What is the Jirgenson Model</a><a href="/situations/">Situations</a><a href="/ai-assistant/">Canon and prompt</a><a href="{{ site.github_model }}" rel="noopener">GitHub</a></div>
+      <div><p class="foot-h">Author</p><a href="/author/">Martin Jirgenson</a><a href="/contact/">Contact</a><a href="/rss.xml">RSS</a></div>
+    </div>
+    <p class="muted small copyright">© {{ now[:4] }} Martin Jirgenson. All rights reserved.</p>
+  </div>
+</footer>
+</body>
+</html>
