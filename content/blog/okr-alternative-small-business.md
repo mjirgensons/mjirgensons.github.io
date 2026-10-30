@@ -1,6 +1,6 @@
 ---
 title: "An OKR alternative for small business: what OKRs leave out"
-description: Looking for an OKR alternative for a small business? The same freelancer's goals written as OKRs and through the Jirgenson Model, side by side, plus OKR vs balanced scorecard.
+description: An OKR alternative for small business: one freelancer's goals written as OKRs and as a goal vector, side by side, plus OKR vs balanced scorecard.
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 14, One model for every field; Chapter 1, Goal: not a dream but a list with an order; Chapter 4, Error
@@ -38,7 +38,7 @@ That is a good OKR. Clear objective, measurable results, a deadline. Now the sam
 
 Look at the fourth row. The OKR says "in progress". The goal vector says the most important thing in Elena's working life is in the emergency zone today, and the right column tells her what to do about it on Monday.
 
-## The three things OKRs leave out
+## The OKR alternative: three things OKRs leave out
 
 ### 1. A rule for when key results collide
 
