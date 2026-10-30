@@ -5,7 +5,7 @@ date: 2026-10-29
 updated: 2026-10-29
 chapter: Chapter 4, Error: the main signal that drives decisions
 slug: business-crisis-what-to-do-first
-keywords: [business crisis what to do first, small business emergency plan, cash crisis small business, red line business, crisis management small business owner]
+keywords: [how to handle a crisis in a small business, business crisis plan, cash flow crisis, small business emergency plan, red line business, business triage]
 answer: How to handle a crisis in a small business, in one line: check for danger to people, legal duties and mandatory payments first; then freeze everything secondary and put all time, money and attention on the one number that has crossed its red line. If several are red, start with the one nearest to irreversible damage.
 ---
 
@@ -28,22 +28,26 @@ The book sets the order once, in a calm moment, so that you do not have to inven
 
 The protocol has a companion rule for every new problem that lands on your desk during the crisis, the triage: which goal does it belong to, in which zone is that goal's parameter now, and is it more important than what you are doing at this moment? Three questions, and most interruptions fail the third.
 
+## A business crisis plan you write before the crisis
+
+A business crisis plan is not a binder you open when the building is on fire. In the Jirgenson Model it is three short things written in a calm week: your goals in the order you would give them up, a red line for each of them, and the four steps of the red protocol above. A cash flow crisis is the most common reason owners reach for it, because the reserve is usually the first number to cross its line. With the plan already on paper, the night the bank calls becomes a matter of following an order you chose with a clear head, not inventing one in a panic.
+
 ## An example with euros
 
 Andrew runs a coffee shop with a queue at the door every morning. Revenue holds at about €30,000 a month. His margin, once write-offs are counted, is 9%, so expenses are €27,300 and he keeps €2,700 a month. His reserve is half a month of expenses.
 
-Before the crisis, in a calm week, he set zones for the reserve: normal from two months of expenses upward, acceptable between one and two, red below one. He is already in the red when the bad month comes: the milk supplier raises prices by 8%, the espresso machine needs a repair that eats a tenth of a month of expenses, and a barista leaves.
+In a calm moment he sets zones for the reserve: normal from two months of expenses upward, acceptable between one and two, red below one. By that measure he starts the book in the red, and he never knew it, because he had been reading the bank balance instead of the months.
 
-The protocol applied:
+Now imagine the red protocol applied that night, step by step. The book does not prescribe these exact moves; this is an illustration of how the four steps sort a real list of worries:
 
-| Step | What Andrew does | What he does not do |
+| Step | What an owner in Andrew's position does | What he does not do |
 |---|---|---|
-| 1 | Confirms wages and the tax instalment are covered this month; they are. No danger to people. | Does not touch wages to pay the supplier. |
-| 2 | Freezes the planned second espresso machine and the new pastry line. | Does not cancel them; the decision waits for yellow. |
-| 3 | Puts everything on the reserve: price list up 5% (the fastest reversible lever), the repair paid in two instalments, hours covered with a part-time barista instead of a replacement hire. | Does not take a high-interest loan to "fix it quickly". |
-| 4 | Only one red parameter; no ordering needed. | Does not start three initiatives at once. |
+| 1 | Confirms wages and taxes for the month are covered. No danger to people. | Does not delay wages to pay a supplier. |
+| 2 | Freezes every growth idea on the list. | Does not cancel them; they wait for yellow. |
+| 3 | Puts everything on the reserve and the levers that act on it fastest and reversibly, such as prices and write-offs. | Does not reach for an expensive loan to "fix it quickly". |
+| 4 | Only one red number, so no ordering is needed. | Does not start three initiatives at once. |
 
-In the book's model, the same shop with a 15% margin reaches a two-month reserve by month 10 of the plan; with nothing changed it takes until month 16. The difference is the whole crisis, and it is made of two levers that Andrew can move with his own hands.
+In the book's running numbers, raising the margin step by step to 15% takes the reserve to two months of expenses by month 10; with nothing changed it takes until month 16. And when a genuinely bad month arrives later (the supplier raises prices by 8%, a repair is needed, a barista leaves), the reserve already stands at 1.52 months: yellow, not red. The same shock that would have been a catastrophe at half a month is now a problem to observe, explain and prepare a lever for. That is what red lines buy you: not fewer storms, but a ship that is no longer at the waterline when they come.
 
 ## Where the protocol does not help
 
@@ -73,6 +77,10 @@ It also connects to everything around it. The red line only works if your goals 
 If you run a business, read this chapter before you need it. Start with [the free sample](/blog/free-sample/), then get the full book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
+
+### What should be in a business crisis plan?
+
+Your goals in refusal order, a red line for each set in advance, and the four steps of the red protocol: danger and obligations first, freeze secondary work, concentrate on the red number, and among several reds, the nearest irreversible damage first.
 
 ### What is the first thing to do in a business crisis?
 

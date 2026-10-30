@@ -5,7 +5,7 @@ date: 2026-10-29
 updated: 2026-10-29
 chapter: Chapter 1, Goal: not a dream but a list with an order
 slug: set-priorities-refusal-order
-keywords: [how to set priorities small business, prioritize goals when everything is urgent, refusal order of goals, goal setting for business owners, too many goals]
+keywords: [how to set priorities when everything is urgent, setting priorities, how to prioritize goals, everything is a priority, too many goals, refusal order of goals]
 answer: How to set priorities when everything is urgent: write down everything you want, then ask which goal you would drop first if circumstances forced you, and which you would defend to the last. The last one standing is your real priority. Keep nine goals or fewer, give each a number and a deadline, and treat law and safety as constraints.
 ---
 
@@ -32,6 +32,10 @@ The test takes ten seconds. If you cannot answer in ten seconds, someone is alre
 **5. Give every goal six fields.** The parameter; how it is counted and from which source; the target value and deadline; the current value; the permissible deviation; the check rhythm and who owns it. A goal without a number, a unit and a deadline is a wish.
 
 **6. Run the refusal test.** Order the list by what you would drop first. Then check it for five defects: goals that cannot be met together; a necessary requirement missing; an order that changes every week; a secondary goal being saved at the cost of the primary; one goal under two names.
+
+## When everything is a priority, nothing is
+
+"Everything is a priority" is the sentence owners say just before a bad quarter. It feels like commitment; in practice it means the order is being set by whoever calls last. Setting priorities is not choosing what matters. It is choosing, in advance, what gives way. That is why the book's method for how to prioritize goals ends in a numbered list, not a highlighted one, and why it caps the list at nine: past that, you do not have too many goals, you have a wish list with a deadline problem.
 
 ## An example (illustrative)
 

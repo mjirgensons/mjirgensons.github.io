@@ -5,7 +5,7 @@ date: 2026-10-29
 updated: 2026-10-29
 chapter: Chapter 2, Where you really are
 slug: busy-but-not-profitable
-keywords: [busy but not profitable, small business profit margin low, where does the money go small business, cash reserve months of expenses, business numbers for owners]
+keywords: [busy but not profitable, why is my business not making money, coffee shop profit margin, how to track write offs, real profit margin, cash reserve months of expenses]
 answer: Busy but not profitable means you are counting activity instead of the state. Replace "many, few, normal" with measured values from one source per number, count the costs that never become a payment (write-offs, your own hours, free extras), and express your reserve in months of expenses. Most owners find the margin is lower than it felt.
 ---
 
@@ -21,20 +21,26 @@ That is the opening of *Steer, Don't Guess*, and it describes a state most owner
 
 When Andrew finally counts, three things are missing from his picture.
 
-**Write-offs.** Milk past its date, pastries thrown out at closing, the free coffee for the regular who "always comes back". None of it is in the spreadsheet, because none of it was a payment. Counted, it moves his margin from the 12 to 13% he felt to 9%.
+**Write-offs.** Milk that had gone sour, pastries written off at the end of the shift. None of it ever showed up in a report, because it was never counted anywhere. Andrew had been sure his margin was holding at around twenty per cent. Counted honestly, it was 9%.
 
-**His own hours.** He works the bar when a barista is sick and does the books at night. At zero cost in the accounts, at full cost in his life. The model puts the owner's time, health and money into the goal list on purpose, so that it cannot disappear.
+**His own hours.** Sixty-five a week. At zero cost in the accounts, at full cost in his life. The model puts the owner's time, health and money into the goal list on purpose, so that it cannot disappear.
 
 **The reserve, in the wrong unit.** He knows the bank balance. He does not know how many months of expenses it covers, which is the only unit that tells him how long he has. In the book's running numbers: revenue of €30,000 a month, a margin of 9%, expenses of €27,300, a reserve of half a month. Half a month is the red zone by any sensible threshold.
 
 | | What Andrew felt | What the numbers show |
 |---|---|---|
-| Margin | "about 12 to 13%" | 9% once write-offs are counted |
-| Monthly profit | "a few thousand" | €2,700 |
-| Reserve | "the account is fine" | 0.5 months of expenses: red |
-| Owner's time | not counted | counted, and over the limit |
+| Margin | "around twenty per cent" | 9% once write-offs are counted |
+| Monthly profit | not calculated | €2,700 |
+| Reserve | a bank balance | 0.5 months of expenses: red |
+| Owner's time | not on the list | 65 hours a week |
 
 Nothing here required an accountant. It required one honest count from one source per number.
+
+## Why is my business not making money? Start with the coffee shop profit margin
+
+If you are asking why your business is not making money while the room is full, the first suspect is almost always the margin you think you have. Andrew's coffee shop is the book's worked example, and its coffee shop profit margin tells the whole story in two numbers: around twenty per cent in his head, nine per cent in reality. The gap was not fraud or bad luck. It was waste that never reached a report.
+
+The fix is not glamorous. For two weeks, write down everything that goes in the bin and everything given away. Add it to the cost of goods. Recalculate the margin from one source, the accounting system the till exports to. Then set a target with a deadline: in the book, Andrew aims for 15% by the sixth month and tracks it every week. Once the margin is honest, the reserve can be measured in months, and you finally know how long you have.
 
 ## Three rules for reading your state
 

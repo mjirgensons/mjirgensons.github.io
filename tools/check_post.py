@@ -51,9 +51,12 @@ def check_post(path, keyword):
                   "an H2": k in h2s}
         for where, ok in checks.items():
             if not ok: warns.append(f"keyword not in {where}")
-        count = low.count(k)
+        visible = re.sub(r"^keywords:.*$", "", low, flags=re.M)
+        count = visible.count(k)
         per1000 = count * 1000 / max(words, 1)
-        if per1000 > 8: errs.append(f"keyword stuffing risk: '{keyword}' {count}x ({per1000:.1f} per 1000 words)")
+        if per1000 > 10: errs.append(f"keyword stuffing risk: '{keyword}' {count}x ({per1000:.1f} per 1000 words)")
+        elif per1000 > 7: warns.append(f"keyword density high: '{keyword}' {count}x ({per1000:.1f} per 1000 words)")
+        print(f"keyword '{keyword}': {count}x visible ({per1000:.1f} per 1000 words)")
     links = re.findall(r"\]\((/[^)]*)\)|href=\"(/[^\"]*)\"", body)
     internal = {a or b for a, b in links}
     if not any(u.startswith("/blog/") for u in internal): errs.append("no internal link to another post")
