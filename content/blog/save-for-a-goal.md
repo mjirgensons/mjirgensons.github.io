@@ -12,13 +12,13 @@ answer: "To save for a goal, write the amount and the date, count what you have 
 
 The most memorable character in a serious management book is thirteen years old. His name is Alex, he wants a €300 bicycle by 1 September, and it is 1 May. He has €40, a games console he loves, football twice a week and a scooter he no longer rides. By the end of *Steer, Don't Guess* he has bought the bicycle, and he has never learned a single clever word.
 
-Martin Jirgenson uses Alex for a reason. If a method only works for companies with dashboards and finance teams, it is not a method; it is a privilege. Alex's piggy bank proves the opposite. Everything you need to save for a goal fits on one sheet of paper, and a teenager can run it on Sundays.
+Alex is in the book for a reason. If a method only works for companies with dashboards and finance teams, it is not a method; it is a privilege. Alex's piggy bank proves the opposite. Everything you need to save for a goal fits on one sheet of paper, and a teenager can run it on Sundays.
 
 ## Save for a goal, step one: decide what you will give up
 
 Before any money moves, Alex has a problem most adults never admit to: his wishes compete. He wants the bicycle, football twice a week, and as much console time as he likes. Every evening on the console is an evening without odd jobs for the neighbours.
 
-So he runs the book's refusal test: if he had to give things up one at a time, which would go first? At first he wants to keep everything. Then he notices that the football training camp starts in June and will leave him only two free evenings a week. The choice becomes easy. Games go first, football second, and the bicycle stays until last. His list:
+So he runs the refusal test: if he had to give things up one at a time, which would go first? At first he wants to keep everything. Then he notices that the football training camp starts in June and will leave him only two free evenings a week. The choice becomes easy. Games go first, football second, and the bicycle stays until last. His list:
 
 1. Bicycle fund: €300 by 1 September.
 2. Football: twice a week.
@@ -55,7 +55,7 @@ Here is the part I would print and put on the fridge. Alex builds two forecasts 
 
 ## How to save for a goal backwards: the monthly checkpoints
 
-Now Alex walks backwards from the date. €300 on 1 September means €235 on 1 August, €170 on 1 July, €105 on 1 June, and €40 on 1 May, the day he drew up the plan. (The line is approximate, the book notes, because the scooter's €60 will arrive in one go, while the line spreads it evenly.) This is the same backward move a coffee shop uses to plan a second location, explained in [backward planning](/blog/backward-planning/).
+Now Alex walks backwards from the date. €300 on 1 September means €235 on 1 August, €170 on 1 July, €105 on 1 June, and €40 on 1 May, the day he drew up the plan. (The line is approximate, because the scooter's €60 will arrive in one go, while the line spreads it evenly.) This is the same backward move a coffee shop uses to plan a second location, explained in [backward planning](/blog/backward-planning/).
 
 Then he draws a table with four columns, the date, the plan, the actual amount and the zone, and counts the piggy bank every Sunday.
 
@@ -72,7 +72,7 @@ On 1 September Alex's piggy bank holds €300. He goes out and buys the bicycle.
 
 ## The same method for a family budget in deficit
 
-If a bicycle sounds too small, Chapter 14 runs the same steps on a household. Emma and Paul earn €4,000 a month. Over the last quarter their expenses rose by 10%, to €4,400, and their savings stand at €2,000. Every month they are €400 short. At first they quarrelled. Then they took their state from three months of bank statements and built three scenarios:
+If a bicycle sounds too small, here are the same steps on a household. Emma and Paul earn €4,000 a month. Over the last quarter their expenses rose by 10%, to €4,400, and their savings stand at €2,000. Every month they are €400 short. At first they quarrelled. Then they took their state from three months of bank statements and built three scenarios:
 
 | Scenario | Monthly result | What happens to the €2,000 |
 |---|---|---|
@@ -80,7 +80,7 @@ If a bicycle sounds too small, Chapter 14 runs the same steps on a household. Em
 | Cut subscriptions and eating out by €180 | −€220 | Lasts about 9 months |
 | The same, plus a side job of €300 | +€80 | The savings grow |
 
-They chose the third, but started with a single lever, the cuts, so they could see its effect, and added the side job a month later. Their savings goal is a reserve of at least three months of expenses; today they have about 0.45. The book makes a distinction here that most budgeting advice misses: expense coverage (0.45 months) and time until the money runs out (5 months) are different numbers, and you need to watch both.
+They chose the third, but started with a single lever, the cuts, so they could see its effect, and added the side job a month later. Their savings goal is a reserve of at least three months of expenses; today they have about 0.45. There is a distinction here that most budgeting advice misses: expense coverage (0.45 months) and time until the money runs out (5 months) are different numbers, and you need to watch both.
 
 ## A savings goal plan you can copy tonight
 
@@ -109,7 +109,7 @@ A plan this tight has no slack: Alex's chain closed with nothing to spare, which
 
 Alex never hears the words "error vector". He simply knows he needs €300 on 1 September, counts it every Sunday and adds a lever whenever he falls behind. Reading his story, I kept thinking how many adults would be better off with his piggy bank table than with their budgeting apps. If you have a child saving for something, read this part together. If you are the one saving, read it alone and be a little humbled.
 
-Alex is introduced in Chapter 1, which you can read free in [the free sample](/blog/free-sample/). For the method behind his checkpoints, see [backward planning](/blog/backward-planning/), and for the same thinking applied to a business, [the Jirgenson Model explained](/blog/jirgenson-model-management-method/). The whole book, with Alex, Elena, Andrew and the family budget, is on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+Alex first appears in Chapter 1, which you can read in [the free sample](/blog/free-sample/). The whole of *Steer, Don't Guess*, with Alex, Elena, Andrew and the family budget, is on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 

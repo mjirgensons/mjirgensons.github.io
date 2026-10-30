@@ -12,9 +12,9 @@ answer: "Levers of control are the actions you can take yourself, by your own de
 
 "We need profit. We have to do something."
 
-Andrew, the coffee shop owner in *Steer, Don't Guess*, says this at a morning briefing, staring at a red number. His senior barista, Sara, asks the only reasonable question: "Do what, exactly?" He does not know. They talk for ten minutes and part, in the book's words, with the feeling that they have been discussing the weather.
+Andrew, the coffee shop owner in *Steer, Don't Guess*, says this at a morning briefing, staring at a red number. His senior barista, Sara, asks the only reasonable question: "Do what, exactly?" He does not know. They talk for ten minutes and part with the feeling that they have been discussing the weather.
 
-If you have ever sat through that meeting, possibly as the person running it, Chapter 5 is written for you. It is about levers of control: the short list of things you can actually move, and the much longer list of things you only wish you could.
+If you have ever sat through that meeting, possibly as the person running it, this page is for you. It is about levers of control: the short list of things you can actually move, and the much longer list of things you only wish you could.
 
 ## Levers of control: the wheel and the heading
 
@@ -35,7 +35,7 @@ The chapter's simplest table is also its most useful. On the left, what you want
 | Customer payment period | Payment terms, prepayment, reminders |
 | Order lead time | Process steps, priority rules, capacity |
 
-"We need profit!" and "We need sales!" are pushes on the left column. Nothing moves, because nothing on the left obeys you. You see the result; you move the lever. As long as the lever goes unnamed, the book says, you get ten minutes of talk about the weather.
+"We need profit!" and "We need sales!" are pushes on the left column. Nothing moves, because nothing on the left obeys you. You see the result; you move the lever. As long as the lever goes unnamed, you get ten minutes of talk about the weather.
 
 ## How to focus on what you can control: Andrew's line
 
@@ -48,11 +48,11 @@ The most satisfying scene in the chapter is a clean sheet of paper. Andrew write
 
 He rereads the list and feels noticeably calmer. Until then he had spent his nerves on everything at once: the rent, the weather, the customers' mood. Now he has four things he can tackle tomorrow morning. That, I think, is the most honest description of how to focus on what you can control that I have read in a business book. Not a mindset. A crossed-out list.
 
-The same move works anywhere. Elena, the freelance designer in the book, first wrote "more social media, increase sales, be more visible". Every item sounded businesslike; not one could be done tomorrow. Her second list: write three chapters, prepare the book's page, collect the first hundred addresses. Those are business levers. Alex, thirteen and saving for a bicycle, crossed out "get money for my birthday" when his mother pointed out it depended on his uncle.
+The same move works anywhere. Elena, a freelance designer, first wrote "more social media, increase sales, be more visible". Every item sounded businesslike; not one could be done tomorrow. Her second list: write three chapters, prepare the book's page, collect the first hundred addresses. Those are business levers. Alex, thirteen and saving for a bicycle, crossed out "get money for my birthday" when his mother pointed out it depended on his uncle.
 
 ## Three questions before you pull any lever
 
-Not every lever is equally good. Before pulling one, the book asks three questions: Can I move it myself, today? How long before the effect shows? Can I undo it if it does not work? Here are Andrew's four levers through that filter:
+Not every lever is equally good. Before pulling one, ask three questions: Can I move it myself, today? How long before the effect shows? Can I undo it if it does not work? Here are Andrew's four levers through that filter:
 
 | Lever | Myself, today? | When the effect comes | Rollback |
 |---|---|---|---|
@@ -75,7 +75,7 @@ Here is where the chapter turns from good advice into a tool. Andrew's numbers: 
 | Profit | €2,700 | €3,750 |
 | Margin | 9% | about 12% |
 
-One lever delivers about three of the six percentage points he needs. Then the book asks the better question: where is the limit? The rise pays off as long as fewer than 6.7% of customers leave. "Raise the margin" has become something you can test: how many customers will leave? And the test is cheap, because a leading indicator answers it early: the number of receipts in the first two weeks after the change.
+One lever delivers about three of the six percentage points he needs. Then comes the better question: where is the limit? The rise pays off as long as fewer than 6.7% of customers leave. "Raise the margin" has become something you can test: how many customers will leave? And the test is cheap, because a leading indicator answers it early: the number of receipts in the first two weeks after the change.
 
 ## When there is no lever
 
@@ -83,7 +83,7 @@ Sometimes you write down a goal and cannot find a single lever. The book treats 
 
 ## Where this does not reach
 
-A lever list tells you what you can move, not how hard to push or in what combination. Strength varies, effects take time, and causes other than your lever keep acting, which is why the book insists on starting with one lever at a time so you can see its effect. And when an environmental factor is stronger than all your levers combined, no list will save you; that is a different problem, covered in [why business plans fail](/blog/why-business-plans-fail/).
+A lever list tells you what you can move, not how hard to push or in what combination. Strength varies, effects take time, and causes other than your lever keep acting, which is why it pays to start with one lever at a time so you can see its effect. And when an environmental factor is stronger than all your levers combined, no list will save you; that is a different problem, covered in [why business plans fail](/blog/why-business-plans-fail/).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -96,9 +96,9 @@ A lever list tells you what you can move, not how hard to push or in what combin
 
 ## The ten-minute exercise that ends the weather talk
 
-Chapter 5 closes with an exercise I now give to everyone who tells me they are stuck: pick one goal in trouble, write four or five actions you can take yourself in the next few days, then cross out everything that depends on others, the weather, the market or luck. It takes about ten minutes. What remains is short, a little humbling and enormously calming.
+Here is the exercise for anyone who feels stuck: pick one goal in trouble, write four or five actions you can take yourself in the next few days, then cross out everything that depends on others, the weather, the market or luck. It takes about ten minutes. What remains is short, a little humbling and enormously calming.
 
-If your goals are not written down yet, start with [how to set measurable goals](/blog/how-to-set-measurable-goals/) and the free [sample chapters](/blog/free-sample/). To see where levers sit in the whole method, read [the Jirgenson Model explained](/blog/jirgenson-model-management-method/), and for levers chosen under pressure, [what to do first in a business crisis](/blog/business-crisis-what-to-do-first/). The full Chapter 5, with the formal version and the break-even elasticity, is in the book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+If your goals are not written down yet, start with the free [sample chapters](/blog/free-sample/): levers only make sense once you know what they are for. The full Chapter 5, with the formal version and the break-even elasticity, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 
