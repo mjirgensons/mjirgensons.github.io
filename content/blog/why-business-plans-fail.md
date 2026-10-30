@@ -86,6 +86,6 @@ Many fail for reasons effort cannot fix: goals that contradict each other, start
 
 Change the plan when results miss the target. Change the goal only when your conditions or priorities have actually changed, and record that decision explicitly.
 
-### When should you give up on a business idea?
+### When to give up on a business idea?
 
 When the decline has lasted several periods, strong players are leaving, the economics do not add up in any niche within your horizon, and you have weighed the cost of leaving too early.
