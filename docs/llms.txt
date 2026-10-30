@@ -9,6 +9,7 @@
 - https://mjirgensons.github.io/blog/backward-planning/
 - https://mjirgensons.github.io/blog/competing-priorities-conflicting-goals/
 - https://mjirgensons.github.io/blog/control-cycle-management/
+- https://mjirgensons.github.io/blog/external-factors-business/
 - https://mjirgensons.github.io/blog/financial-health-check/
 - https://mjirgensons.github.io/blog/forecast-cash-flow/
 - https://mjirgensons.github.io/blog/goal-hierarchy/
