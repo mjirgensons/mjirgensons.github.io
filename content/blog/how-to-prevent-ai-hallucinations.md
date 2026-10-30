@@ -4,7 +4,6 @@ description: How to prevent AI hallucinations when you ask ChatGPT or Claude for
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 16, The electricity we have already switched on; Appendices H, I and J
-draft: true
 slug: how-to-prevent-ai-hallucinations
 keywords: [how to prevent ai hallucinations, ai hallucinations, what is ai hallucinations, ai hallucinations example, stop chatgpt making things up, chatgpt for small business]
 answer: "How to prevent AI hallucinations in business advice: give the assistant a fixed rulebook that allows only three kinds of statement about your situation (your facts, arithmetic shown from them, and labelled assumptions) and a fixed order of analysis. In a blind test of the Jirgenson Model, answers with an invented fact fell from seven in ten to one in a hundred and twenty."
@@ -12,11 +11,11 @@ answer: "How to prevent AI hallucinations in business advice: give the assistant
 
 A food truck has 72 hours before it loses its permit. The owner types the situation into an AI assistant and gets back a confident, beautifully formatted plan. It mentions an "industry average" repair time, a "typical" grace period from the city, and a cash figure the owner never gave it. All three are invented. None of them is flagged. And the owner, tired and frightened, has no way to tell which sentences came from his life and which came from the machine's imagination.
 
-That is what AI hallucinations look like in real life. Not a chatbot claiming the moon is cheese, but a plausible number in the one place where you can least afford a wrong one. If you have ever wondered how to prevent AI hallucinations when you ask for business advice, the most useful answer I have read is hidden in the appendices of a management book: *Steer, Don't Guess* by Martin Jirgenson.
+That is what AI hallucinations look like in real life: a plausible number in the one place where you can least afford a wrong one. If you have ever wondered how to prevent AI hallucinations when you ask for business advice, the most useful answer I have read is hidden in the appendices of a management book: *Steer, Don't Guess* by Martin Jirgenson.
 
 ## What AI hallucinations are, in a business conversation
 
-The textbook definition of AI hallucinations is "confident output that is not supported by the input or by reality". In a business conversation it is narrower and more dangerous. It is any figure, rule, deadline or cause that was not in what you told the assistant, presented as a fact rather than as an assumption. A "typical margin for cafes". A "standard 30-day notice". "Most clients pay within a week". Each sounds like help. Each quietly replaces your situation with an average one.
+Most people picture AI hallucinations as a chatbot insisting the moon is made of cheese: obvious, funny, harmless. In a business conversation the reality is narrower and far more dangerous. It is any figure, rule, deadline or cause that was not in what you told the assistant, presented as a fact rather than as an assumption. A "typical margin for cafes". A "standard 30-day notice". "Most clients pay within a week". Each sounds like help. Each quietly replaces your situation with an average one.
 
 The reason is not malice. A language model is built to produce a fluent answer, and when your data has a gap, the most fluent thing to do is fill it. Chapter 16 of the book puts it plainly: an assistant with nothing to anchor it "has to say something, so it does". If data are missing, it fills the gaps with plausible assumptions. If you have not said what matters most to you, it chooses for you.
 
@@ -44,7 +43,13 @@ And the single invented fact that survived? The judge traced it back to an examp
 
 What makes this part of the book brilliant is that the rules are simple enough to use tomorrow, even without the book's files.
 
-**1. Allow only three kinds of sentence about the situation.** The operating prompt permits exactly three: the person's own facts, arithmetic shown from those facts, and assumptions labelled "I am assuming", with what changes if they are wrong. Everything else (causes, typical values, what others will do) must be phrased as a check to perform. This single rule is the heart of how to prevent AI hallucinations in practice: it gives the model a legal place to put its guesses, so they stop disguising themselves as facts.
+**1. Allow only three kinds of sentence about the situation.** The operating prompt permits exactly three:
+
+- the person's own facts;
+- arithmetic shown from those facts;
+- assumptions labelled "I am assuming", with what changes if they are wrong.
+
+Everything else (causes, typical values, what others will do) must be phrased as a check to perform. This single rule is the heart of how to prevent AI hallucinations in practice: it gives the model a legal place to put its guesses, so they stop disguising themselves as facts.
 
 **2. Ask only what would change the decision.** An assistant that must compute with what it has, and may ask only questions that change the answer, has no reason to invent the rest.
 

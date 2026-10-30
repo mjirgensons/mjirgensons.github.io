@@ -6,6 +6,7 @@
 
 - https://mjirgensons.github.io/
 - https://mjirgensons.github.io/blog/free-sample/
+- https://mjirgensons.github.io/blog/how-to-prevent-ai-hallucinations/
 - https://mjirgensons.github.io/blog/business-crisis-what-to-do-first/
 - https://mjirgensons.github.io/blog/busy-but-not-profitable/
 - https://mjirgensons.github.io/blog/jirgenson-model-management-method/
