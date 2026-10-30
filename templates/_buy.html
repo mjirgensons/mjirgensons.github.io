@@ -1,7 +1,5 @@
 <div class="btn-row">
-  <a class="btn btn-amber" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
-  <a class="btn btn-teal" href="{{ book.formats[3].url }}" rel="noopener">PDF direct from the author</a>
-  <a href="{{ book.free_sample }}">Read Chapter 1 free →</a>
+  <a class="btn btn-buy" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon · Kindle ${{ book.formats[0].price }}</a>
+  <a class="btn btn-line" href="{{ book.free_sample }}">Read Chapter 1 free</a>
 </div>
-<p class="markets">Kindle ${{ book.formats[0].price }} · Paperback ${{ book.formats[1].price }} · Hardcover ${{ book.formats[2].price }} · Also on
-{% for m in book.amazon_markets[1:] %}<a href="https://{{ m.host }}/dp/{{ book.formats[0].asin }}" rel="noopener">{{ m.name }}</a>{% endfor %}</p>
+<p class="markets">Also paperback ${{ book.formats[1].price }} · hardcover ${{ book.formats[2].price }} · <a href="{{ book.formats[3].url }}" rel="noopener">PDF ${{ book.formats[3].price | replace('.00','') }}</a> · <a href="https://www.amazon.ca/dp/{{ book.formats[0].asin }}" rel="noopener">Amazon.ca</a></p>

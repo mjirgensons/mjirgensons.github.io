@@ -1,8 +1,12 @@
 {% extends "base.html" %}
 {% block content %}
-<section class="wrap col" style="padding-top:80px;min-height:50vh">
-  <p class="meta">Undefined zone</p>
+<div class="wrap">
+<section class="page-head col" style="min-height:50vh">
+  <span class="label">Undefined zone</span>
   <h1>No data at this address.</h1>
-  <p class="lead">In the Jirgenson Model, "undefined" means the data is missing, stale or contradictory. The rule: measure first, never treat it as green. Try the <a href="/">book page</a> or the <a href="/blog/">blog</a>.</p>
+  <p class="lead">In the Jirgenson Model, "undefined" means the data is missing, stale or contradictory. The rule: measure first, never treat it as green.</p>
+  <div class="btn-row"><a class="btn btn-line" href="/">Book page</a><a class="btn btn-line" href="/blog/">Blog</a></div>
 </section>
+</div>
 {% endblock %}
+{% block buybar %}{% endblock %}

@@ -1,12 +1,17 @@
 {% extends "base.html" %}
 {% block jsonld %}{% if page.faq_jsonld %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"FAQPage","mainEntity":page.faq_jsonld} | tojson }}</script>{% endif %}{% if page.url == "/author/" %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"Person","@id": site.url + "/author/#person","name":site.author,"jobTitle":site.author_title,"description":page.description,"image": site.url + site.author_photo,"url": site.url + "/author/","homeLocation":{"@type":"Place","name":site.author_location},"sameAs":[site.github_user, site.github_model, site.github_canon, site.gumroad_profile, book.formats[0].url],"knowsAbout":["Management systems","Control theory","Decision making","Small business management","Crisis management","AI assistants for business decisions"]} | tojson }}</script>{% endif %}{% if page.url == "/ai-assistant/" %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"HowTo","name":"How to use the Jirgenson Model canon and operating prompt with an AI assistant","description":page.description,"step":[{"@type":"HowToStep","name":"Download the canon and the prompt","text":"Download jirgenson_canon_v1.0_en.txt and jirgenson_prompt_v1.1_en.txt from GitHub."},{"@type":"HowToStep","name":"Start a new conversation","text":"Open a new conversation with a language model assistant."},{"@type":"HowToStep","name":"Attach the canon","text":"Attach the canon file or paste its full text."},{"@type":"HowToStep","name":"Send the prompt","text":"Send the operating prompt as your first message."},{"@type":"HowToStep","name":"Describe your situation","text":"Describe your situation in plain words with your numbers as the second message."}]} | tojson }}</script>{% endif %}{% endblock %}
 {% block content %}
-<article class="wrap col" style="padding-top:40px">
-  <p class="meta">{{ page.kicker | default(site.brand) }}</p>
-  <h1>{{ page.title }}</h1>
-  {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
-  {{ page.body | safe }}
+<div class="wrap">
+<article class="col">
+  <header class="page-head">
+    <span class="label">{{ page.kicker | default(site.brand) }}</span>
+    <h1>{{ page.title }}</h1>
+    {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+  </header>
+  <div class="prose">{{ page.body | safe }}</div>
   {% if page.faq_jsonld %}<h2>Questions people ask</h2>{% for q in page.faq_jsonld %}<details><summary>{{ q.name }}</summary><p>{{ q.acceptedAnswer.text }}</p></details>{% endfor %}{% endif %}
+  {% include "_cta.html" %}
 </article>
-<div class="wrap">{% include "_cta.html" %}</div>
+</div>
 {% endblock %}
+{% block buybar %}{% if page.url != "/buy/" %}{{ super() }}{% endif %}{% endblock %}

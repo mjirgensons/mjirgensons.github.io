@@ -14,6 +14,12 @@ SITE = json.loads((ROOT / "content" / "site.json").read_text())
 BOOK = json.loads((ROOT / "content" / "book.json").read_text())
 
 env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=select_autoescape(["html"]))
+def nice_date(v):
+    try:
+        d = datetime.date.fromisoformat(str(v)); return f"{d.day} {d.strftime('%b')} {d.year}"
+    except Exception:
+        return v
+env.filters["nice_date"] = nice_date
 md = markdown.Markdown(extensions=["extra", "toc", "sane_lists", "smarty"], extension_configs={"toc": {"toc_depth": "2-3"}})
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
@@ -59,7 +65,13 @@ def parse(path: Path):
 def words(html_text):
     return len(re.sub(r"<[^>]+>", " ", html_text).split())
 
+def wrap_tables(html_text):
+    # every table scrolls inside its own box on phones (design v2)
+    html_text = re.sub(r"<table\b", '<div class="tbl"><table', html_text)
+    return html_text.replace("</table>", "</table></div>")
+
 def write(url_path: str, html_text: str):
+    html_text = wrap_tables(html_text)
     p = OUT / url_path.strip("/") / "index.html" if url_path not in ("", "/") else OUT / "index.html"
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(html_text)

@@ -1,5 +1,8 @@
-<section class="cta">
-  <h2>{{ cta_line1 | default("You call it busy.") }}<br><span class="u">{{ cta_line2 | default("It is guessing, with extra steps.") }}</span></h2>
-  <p>{{ cta_text | default("Steer, Don't Guess replaces guessing with instruments. One method, about 250 pages, for owners, managers and freelancers who are the only thing holding it together.") }}</p>
-  {% include "_buy.html" %}
+<section class="cta-deep">
+  <h2>{{ cta_line1 | default("You call it busy.") }} {{ cta_line2 | default("It is guessing, with extra steps.") }}</h2>
+  <p>{{ cta_text | default("Steer, Don't Guess replaces guessing with instruments. One method, about 250 pages, for owners, managers, freelancers and families who are the only thing holding it together.") }}</p>
+  <div class="btn-row">
+    <a class="btn btn-buy" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon · Kindle ${{ book.formats[0].price }}</a>
+    <a class="btn btn-white" href="{{ book.free_sample }}">Read Chapter 1 free</a>
+  </div>
 </section>

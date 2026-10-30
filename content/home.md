@@ -67,18 +67,6 @@ Four parts. Each chapter below is listed with the situation it answers.
 <div><b>Appendices.</b> One-page cheat sheet; glossary; tool templates; self-check; an index by the reader's question; Andrew's running numbers; limits of the model; the canon for language models; the operating prompt; the blind test.</div><div></div>
 </div>
 
-## Formats
-
-<table class="formats"><thead><tr><th>Format</th><th>Pages</th><th class="n">Price</th><th>Where</th></tr></thead><tbody>
-<tr><td>Kindle eBook</td><td>264</td><td class="n">$9.99</td><td><a href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Amazon</a></td></tr>
-<tr><td>Paperback, 6 × 9 in</td><td>237</td><td class="n">$19.99</td><td><a href="https://www.amazon.com/dp/B0HPCJCWKF" rel="noopener">Amazon</a> · ISBN 979-8164833749</td></tr>
-<tr><td>Hardcover, 6.24 × 9.24 in</td><td>237</td><td class="n">$49.99</td><td><a href="https://www.amazon.com/dp/B0HPCR2G46" rel="noopener">Amazon</a> · ISBN 979-8164846152</td></tr>
-<tr><td>PDF (A5), direct from the author</td><td>~250</td><td class="n">$15.00</td><td><a href="https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&utm_medium=formats" rel="noopener">Gumroad</a></td></tr>
-<tr><td>Chapter 1 + cheat sheet</td><td>44</td><td class="n">free</td><td><a href="https://jirgenstorm4.gumroad.com/l/steer-free-sample?utm_source=site&utm_medium=formats" rel="noopener">Gumroad</a></td></tr>
-</tbody></table>
-
-English, first edition 2026 (edition 1.1, October 2026). Independently published. Not financial, legal or investment advice; characters are composites, numbers illustrative.
-
 ## FAQ
 
 ### Is the Jirgenson Model like OKR or PDCA?

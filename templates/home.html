@@ -5,30 +5,65 @@
 {% endblock %}
 {% block content %}
 <section class="hero"><div class="wrap hero-grid">
-  <div>
-    <p class="meta">A book by Martin Jirgenson · The Jirgenson Model</p>
+  <div class="hero-text">
+    <span class="label">The Jirgenson Model · by Martin Jirgenson</span>
     <h1>Steer, Don't&nbsp;Guess</h1>
     <p class="sub">{{ book.subtitle }}</p>
-    <p class="hook"><strong>Which of your goals would you give up first?</strong> If you can't answer in ten seconds, someone is already answering for you.</p>
-    {% include "_buy.html" %}
+    <p class="hook"><strong>Which of your goals would you give up first?</strong> If you can't answer in ten seconds, someone is already answering for you. This book replaces guessing with instruments.</p>
+    <div>{% include "_buy.html" %}</div>
   </div>
   <div class="cover"><picture><source srcset="{{ book.cover_webp }}" type="image/webp"><img src="{{ book.cover }}" width="600" height="917" alt="Cover of Steer, Don't Guess by Martin Jirgenson: a gauge with red, yellow and green zones" fetchpriority="high"></picture></div>
 </div></section>
-<section class="wrap"><div class="proof">
-  <div class="tile"><span class="num">{{ book.e5.facts_after }}</span><p>answers with an invented fact when an AI works with the book's canon and prompt. Without them: {{ book.e5.facts_before }}.</p></div>
-  <div class="tile"><span class="num">{{ book.e5.pairs }}</span><p>blind pairings won. The same AI scores {{ book.e5.with }} out of 100 with the method and {{ book.e5.without }} without: {{ book.e5.higher }} higher.</p></div>
-  <div class="tile"><span class="num">{{ book.e5.violations }}</span><p>rule violations in {{ book.e5.reviews }} blind reviews. Limits: {{ book.e5.limits }}. <a href="{{ book.e5.url }}" rel="noopener">The method and data</a>.</p></div>
+
+<section class="band"><div class="wrap band-in">
+  <span class="label">Tested, not asserted</span>
+  <h2>Ten business crises. One AI, with and without the method. A blind judge.</h2>
+  <div class="proof">
+    <div class="tile"><span class="num">{{ book.e5.facts_after }}</span><p>answers with an invented fact when an AI works with the book's canon and prompt. Without them: {{ book.e5.facts_before }}.</p></div>
+    <div class="tile"><span class="num">{{ book.e5.pairs }}</span><p>blind pairings won; {{ book.e5.with }} out of 100 against {{ book.e5.without }}.</p></div>
+    <div class="tile"><span class="num">{{ book.e5.violations }}</span><p>rule violations in {{ book.e5.reviews }} blind reviews.</p></div>
+  </div>
+  <p class="fine">Limits: {{ book.e5.limits }}. <a href="{{ book.e5.url }}" rel="noopener">See the method and data</a></p>
 </div></section>
-<article class="wrap col" id="book">
-{{ page.body | safe }}
-{% if page.faq_jsonld %}<h2 id="faq">Questions readers ask</h2>{% for q in page.faq_jsonld %}<details><summary>{{ q.name }}</summary><p>{{ q.acceptedAnswer.text }}</p></details>{% endfor %}{% endif %}
-</article>
-<section class="wrap">
+
+<section class="sec"><div class="wrap">
+  <article class="col home-body" id="book">
+  {{ page.body | safe }}
+  </article>
+</div></section>
+
+<section class="sec sec-mist" id="formats"><div class="wrap">
+  <h2>Choose your format</h2>
+  <div class="prices">
+    <div class="price-main">
+      <span class="pill">Most readers start here</span>
+      <div class="price-head"><b>{{ book.formats[0].name }}</b><span class="price">${{ book.formats[0].price }}</span></div>
+      <span class="small muted">{{ book.formats[0].pages }} pages · on your phone in a minute</span>
+      <a class="btn btn-buy" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
+    </div>
+    <div class="price-row"><span><b>Paperback</b><span class="small">{{ book.formats[1].pages }} pages · {{ book.formats[1].dims }}</span></span><span class="end"><b>${{ book.formats[1].price }}</b><a href="{{ book.formats[1].url }}" rel="noopener">Amazon</a></span></div>
+    <div class="price-row"><span><b>Hardcover</b><span class="small">{{ book.formats[2].pages }} pages · {{ book.formats[2].dims }}</span></span><span class="end"><b>${{ book.formats[2].price }}</b><a href="{{ book.formats[2].url }}" rel="noopener">Amazon</a></span></div>
+    <div class="price-row"><span><b>PDF from the author</b><span class="small">A5 · Gumroad</span></span><span class="end"><b>${{ book.formats[3].price | replace('.00','') }}</b><a href="{{ book.formats[3].url }}" rel="noopener">Gumroad</a></span></div>
+  </div>
+  <a class="btn btn-line" style="margin-top:16px" href="{{ book.free_sample }}">Read Chapter 1 free first</a>
+  <p class="small muted" style="margin-top:16px">English, first edition 2026 (edition 1.1, October 2026). Independently published. Not financial, legal or investment advice; characters are composites, numbers illustrative.</p>
+</div></section>
+
+{% if page.faq_jsonld %}<section class="sec"><div class="wrap col">
+  <h2 id="faq">Questions readers ask</h2>
+  {% for q in page.faq_jsonld %}<details><summary>{{ q.name }}</summary><p>{{ q.acceptedAnswer.text }}</p></details>{% endfor %}
+</div></section>{% endif %}
+
+<section class="sec sec-white"><div class="wrap">
   <h2 id="blog">From the blog</h2>
   <div class="cards">
-  {% for s in situations %}<a class="card" href="{{ s.url }}"><span class="meta">{% if s.pinned %}Free sample{% else %}{{ s.chapter }}{% endif %}</span><h3>{{ s.title }}</h3><p>{{ s.description }}</p></a>{% endfor %}
+  {% for s in situations %}<a class="card" href="{{ s.url }}"><span class="meta">{% if s.pinned %}Free sample{% else %}{{ s.chapter.split(',')[0].split(';')[0] }}{% endif %}</span><h3>{{ s.title }}</h3><p>{{ s.description }}</p></a>{% endfor %}
   </div>
-  <p><a href="/blog/">All posts →</a></p>
-</section>
-<div class="wrap">{% include "_cta.html" %}</div>
+  <a class="textlink" href="/blog/">All posts</a>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <div class="author-strip"><img src="{{ site.author_avatar }}" width="72" height="72" alt="Martin Jirgenson"><div><b>Martin Jirgenson</b><span class="small muted">{{ site.author_title }}, {{ site.author_location }}</span><br><a href="/author/">About the author</a></div></div>
+  {% include "_cta.html" %}
+</div></section>
 {% endblock %}
