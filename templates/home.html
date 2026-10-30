@@ -9,7 +9,7 @@
     <span class="label">The Jirgenson Model · by Martin Jirgenson</span>
     <h1>Steer, Don't&nbsp;Guess</h1>
     <p class="sub">{{ book.subtitle }}</p>
-    <p class="hook"><strong>Which of your goals would you give up first?</strong> If you can't answer in ten seconds, someone is already answering for you. This book replaces guessing with instruments.</p>
+    <p class="hook"><strong>Every day the business decides your day:</strong> the breakdown, the late supplier, the client who hasn't paid. You solve problems in the order they arrive and call it being busy. This book replaces guessing with instruments.</p>
     <div>{% include "_buy.html" %}</div>
   </div>
   <div class="cover"><picture><source srcset="{{ book.cover_webp }}" type="image/webp"><img src="{{ book.cover }}" width="600" height="917" alt="Cover of Steer, Don't Guess by Martin Jirgenson: a gauge with red, yellow and green zones" fetchpriority="high"></picture></div>
@@ -17,11 +17,23 @@
 
 <section class="band"><div class="wrap band-in">
   <span class="label">Tested, not asserted</span>
-  <h2>Ten business crises. One AI, with and without the method. A blind judge.</h2>
-  <div class="proof">
-    <div class="tile"><span class="num">{{ book.e5.facts_after }}</span><p>answers with an invented fact when an AI works with the book's canon and prompt. Without them: {{ book.e5.facts_before }}.</p></div>
-    <div class="tile"><span class="num">{{ book.e5.pairs }}</span><p>blind pairings won; {{ book.e5.with }} out of 100 against {{ book.e5.without }}.</p></div>
-    <div class="tile"><span class="num">{{ book.e5.violations }}</span><p>rule violations in {{ book.e5.reviews }} blind reviews.</p></div>
+  <h2>Does the method work? It was measured.</h2>
+  <p class="band-lead">Ten realistic business crises. The same AI answered each one twice: on its own, and with the book's method. A stronger AI judged every answer without knowing which was which.</p>
+  <div class="bars">
+    <div class="bar-group">
+      <p class="bar-q">Answers with a made-up fact</p>
+      <div class="bar-row"><span class="bar-name">AI on its own</span><span class="bar"><i style="width:70%"></i></span><b>{{ book.e5.facts_before }}</b></div>
+      <div class="bar-row good"><span class="bar-name">With the method</span><span class="bar"><i style="width:0.83%"></i></span><b>{{ book.e5.facts_after }}</b></div>
+    </div>
+    <div class="bar-group">
+      <p class="bar-q">Quality score, out of 100</p>
+      <div class="bar-row"><span class="bar-name">AI on its own</span><span class="bar"><i style="width:{{ book.e5.without }}%"></i></span><b>{{ book.e5.without }}</b></div>
+      <div class="bar-row good"><span class="bar-name">With the method</span><span class="bar"><i style="width:{{ book.e5.with }}%"></i></span><b>{{ book.e5.with }}</b></div>
+    </div>
+  </div>
+  <div class="proof proof-2">
+    <div class="tile"><span class="num">{{ book.e5.pairs }}</span><p>head-to-head comparisons won by the answer that used the method.</p></div>
+    <div class="tile"><span class="num">{{ book.e5.violations }}</span><p>rules broken in {{ book.e5.reviews }} blind reviews.</p></div>
   </div>
   <p class="fine">Limits: {{ book.e5.limits }}. <a href="{{ book.e5.url }}" rel="noopener">See the method and data</a></p>
 </div></section>
@@ -32,8 +44,15 @@
   </article>
 </div></section>
 
+<section class="sec sec-white"><div class="wrap col">
+  <h2>Who wrote it</h2>
+  <div class="author-strip"><img src="{{ site.author_avatar }}" width="72" height="72" alt="Martin Jirgenson"><div><b>Martin Jirgenson</b><span class="small muted">{{ site.author_title }}, {{ site.author_location }}</span></div></div>
+  <p class="author-bio">A researcher in control systems and a management practitioner of many years' standing, with experience in crisis management and the architecture of complex systems. The Jirgenson Model is his method for deciding by instruments instead of guesswork, tested in public, with the data open. <a href="/author/">About the author</a></p>
+</div></section>
+
 <section class="sec sec-mist" id="formats"><div class="wrap">
   <h2>Choose your format</h2>
+  <p class="price-lead">It costs less than one decision made by guessing.</p>
   <div class="prices">
     <div class="price-main">
       <span class="pill">Most readers start here</span>
@@ -43,10 +62,12 @@
     </div>
     <div class="price-row"><span><b>Paperback</b><span class="small">{{ book.formats[1].pages }} pages · {{ book.formats[1].dims }}</span></span><span class="end"><b>${{ book.formats[1].price }}</b><a href="{{ book.formats[1].url }}" rel="noopener">Amazon</a></span></div>
     <div class="price-row"><span><b>Hardcover</b><span class="small">{{ book.formats[2].pages }} pages · {{ book.formats[2].dims }}</span></span><span class="end"><b>${{ book.formats[2].price }}</b><a href="{{ book.formats[2].url }}" rel="noopener">Amazon</a></span></div>
-    <div class="price-row"><span><b>PDF from the author</b><span class="small">A5 · Gumroad</span></span><span class="end"><b>${{ book.formats[3].price | replace('.00','') }}</b><a href="{{ book.formats[3].url }}" rel="noopener">Gumroad</a></span></div>
+    <div class="price-row"><span><b>PDF from the author</b><span class="small">A5 · Gumroad</span></span><span class="end"><b>${{ book.formats[3].price }}</b><a href="{{ book.formats[3].url }}" rel="noopener">Gumroad</a></span></div>
   </div>
-  <a class="btn btn-line" style="margin-top:16px" href="{{ book.free_sample }}">Read Chapter 1 free first</a>
-  <p class="small muted" style="margin-top:16px">English, first edition 2026 (edition 1.1, October 2026). Independently published. Not financial, legal or investment advice; characters are composites, numbers illustrative.</p>
+  <p class="included"><b>Every format includes</b> the 16 chapters plus a one-page cheat sheet, tool templates, a self-check, an index by the reader's question, and the canon and operating prompt that make an AI assistant work through your numbers in a fixed order.</p>
+  <p class="small muted">All prices in US dollars. Amazon shows your local currency at checkout.</p>
+  <a class="textlink" href="{{ book.free_sample }}">Not sure yet? Read Chapter 1 free →</a>
+  <p class="small muted" style="margin-top:8px">English, first edition 2026 (edition 1.1, October 2026). Independently published. Not financial, legal or investment advice; characters are composites, numbers illustrative.</p>
 </div></section>
 
 {% if page.faq_jsonld %}<section class="sec"><div class="wrap col">
@@ -63,7 +84,6 @@
 </div></section>
 
 <section class="sec"><div class="wrap">
-  <div class="author-strip"><img src="{{ site.author_avatar }}" width="72" height="72" alt="Martin Jirgenson"><div><b>Martin Jirgenson</b><span class="small muted">{{ site.author_title }}, {{ site.author_location }}</span><br><a href="/author/">About the author</a></div></div>
   {% include "_cta.html" %}
 </div></section>
 {% endblock %}

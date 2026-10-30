@@ -6,9 +6,9 @@ updated: 2026-10-29
 
 ## What this book is
 
-Every day the business decides your day: the breakdown, the late supplier, the client who hasn't paid. You solve problems in the order they arrive and call it being busy. It is guessing, with extra steps. The bill for it comes at the end of the month, in the bank balance.
+Which of your goals would you give up first? If you can't answer in ten seconds, someone is already answering for you: fatigue, haste and whoever shouts loudest. It is guessing, with extra steps, and the bill for it comes at the end of the month, in the bank balance.
 
-*Steer, Don't Guess* replaces guessing with instruments. It is one method, about 250 pages, for owners, managers and freelancers who are the only thing holding it together. It is not a motivational book and it does not say "delegate more". It gives mechanics: goals in an order you chose, your real position in numbers rather than feelings, red lines drawn before the crisis, and a hard wall between the levers you can pull and the weather you can only watch.
+*Steer, Don't Guess* is one method, about 250 pages, for owners, managers and freelancers who are the only thing holding it together. It is not a motivational book and it does not say "delegate more". It gives mechanics: goals in an order you chose, your real position in numbers rather than feelings, red lines drawn before the crisis, and a hard wall between the levers you can pull and the weather you can only watch.
 
 <div class="def"><strong>The Jirgenson Model</strong> is a management method built on three questions: where do you want to go (a short list of measurable goals in refusal order), where are you now (the same list filled in with measured facts), and what can you actually move to close the gap (levers, kept apart from conditions). Everything else in the book is a way to do this regularly, precisely and on course. <a href="/blog/jirgenson-model-management-method/">The Jirgenson Model explained →</a></div>
 
@@ -29,9 +29,11 @@ For owners of small businesses, managers, freelancers and families who are tired
 
 Not for anyone shopping for a guarantee. Forecasts can be wrong. Data can be incomplete. The method does not replace knowing your trade. It replaces guessing.
 
-## Proof, not promises
+## Your AI assistant, working by the method
 
-The book ships with the model's **canon** and a ready **operating prompt** for an AI assistant. With them, an assistant stops giving generic advice and works with your numbers in a fixed order of analysis. This was tested, not asserted. Ten realistic business crises, from a food truck 72 hours from losing its permit to a freelancer six days from rent, each answered by the same AI with the method and without it, then judged blind by a stronger model against an answer key fixed in advance. Left to itself, the AI slipped an invented fact into **seven answers in ten**. With the Jirgenson Model, **one answer in a hundred and twenty**. It won **30 blind pairings out of 30**, scored **88.8 out of 100 against 56.2** (58% higher), beat a good generic consultant prompt by 31%, and broke **zero rules in 120 blind reviews**. Ten scenarios, one model family, an AI judge; the method and the earlier round's full data are public on GitHub. [See the data](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10). Don't believe it. Run it.
+The book includes the model's **canon** and a ready **operating prompt**. Attach them to any capable AI assistant and it stops giving generic advice: it works with your numbers, in a fixed order of analysis, and marks missing data as missing instead of filling the gap with a guess.
+
+How much difference that makes was measured on ten realistic business crises, from a food truck 72 hours from losing its permit to a freelancer six days from rent. Answers with the method scored **88.8 out of 100**; the same AI on its own scored **56.2**. The method, the data and the limits are public: [see the data](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10). Don't believe it. Run it.
 
 ## What early readers say
 
