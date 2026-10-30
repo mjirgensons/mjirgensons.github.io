@@ -102,7 +102,7 @@ The goals and the order that make triage possible are in Chapter 1, free in [the
 
 ## FAQ
 
-### My business is failing, what do I do first?
+### My business is failing: what do I do?
 
 Check for immediate danger to people, safety, payroll or legal obligations and protect those first. If there is none, do not make irreversible decisions on the first day: get the real numbers, look at the trend, and build three scenarios before acting.
 

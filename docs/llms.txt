@@ -20,6 +20,7 @@
 - https://mjirgensons.github.io/blog/how-to-calculate-profit-margin/
 - https://mjirgensons.github.io/blog/how-to-prevent-ai-hallucinations/
 - https://mjirgensons.github.io/blog/how-to-set-measurable-goals/
+- https://mjirgensons.github.io/blog/how-to-track-write-offs/
 - https://mjirgensons.github.io/blog/lagging-vs-leading-indicators/
 - https://mjirgensons.github.io/blog/levers-of-control/
 - https://mjirgensons.github.io/blog/management-frameworks-explained/
