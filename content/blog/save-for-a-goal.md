@@ -24,7 +24,7 @@ So he runs the refusal test: if he had to give things up one at a time, which wo
 2. Football: twice a week.
 3. Games: no more than 10 hours a week.
 
-The book adds a line every parent should hear: an order Alex can actually stick to is better than one the adults would approve of.
+Here is a line every parent should hear: an order Alex can actually stick to is better than one the adults would approve of.
 
 ## Count only the levers you control
 
@@ -51,7 +51,7 @@ Here is the part I would print and put on the fridge. Alex builds two forecasts 
 | Change nothing | Only pocket money: €40 + 4 × €20 | €120, still €180 short |
 | Use every lever | Pocket money, the neighbours, the scooter | €300 |
 
-"He looks at both numbers," the book says, "and nobody needs to push him." No lecture about discipline could do what that table does in ten seconds. The cost of doing nothing is no longer a feeling; it is €180.
+He looks at both numbers, and nobody needs to push him. No lecture about discipline could do what that table does in ten seconds. The cost of doing nothing is no longer a feeling; it is €180.
 
 ## How to save for a goal backwards: the monthly checkpoints
 
@@ -84,13 +84,17 @@ They chose the third, but started with a single lever, the cuts, so they could s
 
 ## A savings goal plan you can copy tonight
 
-1. **Write the goal with an amount and a date.** "€300 by 1 September", not "save more".
-2. **Write today's amount.** From the piggy bank or the bank statement, not from memory.
-3. **Put your wishes in order.** Decide what goes first if they collide.
-4. **List levers you control; cross out the rest.** Write the constraints you will not break.
-5. **Build two forecasts.** Doing nothing, and using every lever.
-6. **Work backwards to monthly checkpoints.**
-7. **Check weekly, and add a lever the moment you fall behind.**
+Each step with Alex's own entry next to it, so you can see it filled in:
+
+| Step | What to write | Alex's entry |
+|---|---|---|
+| 1. The goal | An amount and a date, not "save more" | €300 by 1 September |
+| 2. Today's amount | From the piggy bank or the statement, not memory | €40 on 1 May |
+| 3. The order | What goes first if wishes collide | Games first, football second, bicycle last |
+| 4. Levers and constraints | Only actions you control; what you will not do | €20 pocket money, €30 odd jobs, €60 scooter; no borrowing, no skipping school |
+| 5. Two forecasts | Doing nothing vs using every lever | €120 vs €300 |
+| 6. Checkpoints | Work backwards month by month | €105, €170, €235, €300 |
+| 7. Weekly check | Real amount against the line; add a lever when behind | Every Sunday; 1 June: €90 vs €105, yellow |
 
 ## Where this does not reach
 
@@ -105,7 +109,7 @@ A plan this tight has no slack: Alex's chain closed with nothing to spare, which
 - The same steps work for a family budget in deficit: watch both coverage and time until the money runs out.
 </div>
 
-## Why a teenager is the best teacher in the book
+## Why a teenager is the best teacher here
 
 Alex never hears the words "error vector". He simply knows he needs €300 on 1 September, counts it every Sunday and adds a lever whenever he falls behind. Reading his story, I kept thinking how many adults would be better off with his piggy bank table than with their budgeting apps. If you have a child saving for something, read this part together. If you are the one saving, read it alone and be a little humbled.
 
