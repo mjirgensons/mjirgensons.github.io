@@ -6,6 +6,7 @@
 
 - https://mjirgensons.github.io/
 - https://mjirgensons.github.io/blog/free-sample/
+- https://mjirgensons.github.io/blog/competing-priorities-conflicting-goals/
 - https://mjirgensons.github.io/blog/how-to-prevent-ai-hallucinations/
 - https://mjirgensons.github.io/blog/business-crisis-what-to-do-first/
 - https://mjirgensons.github.io/blog/busy-but-not-profitable/

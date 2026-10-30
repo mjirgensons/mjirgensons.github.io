@@ -4,7 +4,6 @@ description: Competing priorities and conflicting goals explained with real numb
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 1, Goal: not a dream but a list with an order; Chapter 11, Three offsets
-draft: true
 slug: competing-priorities-conflicting-goals
 keywords: [competing priorities, conflicting goals, competing priorities example, what is competing priorities, what is conflicting goals, mutually exclusive goals]
 answer: "Competing priorities are goals that pull on the same money, time or people; conflicting goals are goals that cannot all be met at once, whatever you do. Handle the first by putting them in an order you choose in advance. Handle the second by testing them against your own numbers and dropping or reshaping one before work begins."
@@ -34,7 +33,7 @@ What makes the chapter so persuasive is its account of what happens when you ski
 
 ## A competing priorities example: counting goals vs ordering them
 
-One small example in the book shows why the order matters more than the count. Two plans for the end of Andrew's year:
+One small example in the book shows why the order matters more than the count. Two plans for the end of Andrew's year, with the rows already sorted by his refusal order: the reserve on top, the goal he would defend last; his own hours at the bottom, the goal he would give up first.
 
 | | Plan X | Plan Y |
 |---|---|---|
