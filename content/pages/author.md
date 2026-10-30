@@ -7,6 +7,8 @@ lead: Martin Jirgenson is a researcher of management systems and the author of S
 updated: 2026-10-29
 ---
 
+<figure class="author-photo"><picture><source srcset="/img/martin-jirgenson.webp" type="image/webp"><img src="/img/martin-jirgenson.jpg" width="800" height="1067" alt="Martin Jirgenson, author of Steer, Don't Guess"></picture></figure>
+
 ## Background
 
 Martin Jirgenson is a researcher in control systems, a management practitioner of many years' standing and a developer of methods for optimizing business processes. His field lies where strategy meets execution: from goals and measurements to working operational and software tools. Drawing on experience in crisis management, the architecture of complex systems and the fundamental laws of control theory, he has built an integrative model that turns academic rigour into everyday tools for business and life. The Jirgenson Model is the fruit of this work.

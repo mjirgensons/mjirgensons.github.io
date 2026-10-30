@@ -163,3 +163,7 @@ hr{border:0;border-top:1px solid var(--teal-faint);margin:2em 0}
 .bookbody table{display:block;overflow-x:auto}
 nav.toc{display:block}
 .toc li{margin:2px 0}
+.byline img.ava{display:block;object-fit:cover;padding:0}
+.ava-link{border:0}
+.author-photo{margin:0 0 1.6em;max-width:360px}
+.author-photo img{width:100%;height:auto;display:block;border-radius:6px;box-shadow:0 20px 40px rgba(0,0,0,.4),0 0 0 1px var(--teal-dim)}

@@ -32,7 +32,7 @@ The method is the Jirgenson Model, published in the book *Steer, Don't Guess* (O
 ## Images
 
 - [Front cover, JPG, 600 × 917](/img/cover.jpg)
-- Author photo: on request.
+- [Author photo, JPG, 800 × 1067](/img/martin-jirgenson.jpg)
 
 ## Three angles that are not "a new book came out"
 

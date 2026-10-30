@@ -2,7 +2,7 @@
 {% block ogtype %}article{% endblock %}
 {% block title %}{{ page.title }}{% endblock %}
 {% block jsonld %}
-<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"Article","headline":page.title,"description":page.description,"url":abs_url(page.url),"datePublished":page.date,"dateModified":page.updated or page.date,"inLanguage":"en","wordCount":page.words,"author":{"@type":"Person","@id": site.url + "/author/#person","name":site.author,"jobTitle":site.author_title,"url": site.url + "/author/"},"publisher":{"@type":"Person","name":site.author},"isPartOf":{"@type":"Book","@id": site.url + "/#book","name":book.full_title},"about":page.keywords or [],"mainEntityOfPage":abs_url(page.url),"image": site.url + book.cover} | tojson }}</script>
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"Article","headline":page.title,"description":page.description,"url":abs_url(page.url),"datePublished":page.date,"dateModified":page.updated or page.date,"inLanguage":"en","wordCount":page.words,"author":{"@type":"Person","@id": site.url + "/author/#person","name":site.author,"jobTitle":site.author_title,"image": site.url + site.author_photo,"url": site.url + "/author/"},"publisher":{"@type":"Person","name":site.author},"isPartOf":{"@type":"Book","@id": site.url + "/#book","name":book.full_title},"about":page.keywords or [],"mainEntityOfPage":abs_url(page.url),"image": site.url + book.cover} | tojson }}</script>
 {% if page.faq_jsonld %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"FAQPage","mainEntity":page.faq_jsonld} | tojson }}</script>{% endif %}
 <script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":site.url + "/"},{"@type":"ListItem","position":2,"name":"Blog","item":site.url + "/blog/"},{"@type":"ListItem","position":3,"name":page.title,"item":abs_url(page.url)}]} | tojson }}</script>
 {% endblock %}
@@ -10,7 +10,7 @@
 <article class="wrap col" style="padding-top:40px">
   <p class="meta"><a href="/blog/">Blog</a> · {{ page.chapter }}</p>
   <h1>{{ page.title }}</h1>
-  <div class="byline"><span class="ava">MJ</span><span class="meta">{{ site.author }} · Published {{ page.date }}{% if page.updated and page.updated != page.date %} · Updated {{ page.updated }}{% endif %} · {{ (page.words // 200) + 1 }} min read</span></div>
+  <div class="byline"><a href="/author/" class="ava-link"><img class="ava" src="{{ site.author_avatar }}" width="40" height="40" alt="Martin Jirgenson"></a><span class="meta">{{ site.author }} · Published {{ page.date }}{% if page.updated and page.updated != page.date %} · Updated {{ page.updated }}{% endif %} · {{ (page.words // 200) + 1 }} min read</span></div>
   <p class="lead">{{ page.answer }}</p>
   {% if page.pinned %}<div class="btn-row"><a class="btn btn-amber" href="{{ book.formats[0].url }}" rel="noopener">Buy the book on Amazon</a><a class="btn btn-teal" href="{{ book.free_sample_pdf }}" rel="noopener">Download this sample as PDF</a></div>{% endif %}
   {% if page.sections and page.sections|length > 3 %}<nav class="toc" aria-label="Contents"><p class="meta" style="margin:0 0 6px">In this sample</p><ul>{% for id, t in page.sections %}<li><a href="#{{ id }}">{{ t }}</a></li>{% endfor %}</ul></nav>{% endif %}
