@@ -13,7 +13,7 @@ A food truck has 72 hours before it loses its permit. The owner types the situat
 
 That is what AI hallucinations look like in real life: a plausible number in the one place where you can least afford a wrong one. If you have ever wondered how to prevent AI hallucinations when you ask for business advice, the most useful answer I have read is hidden in the appendices of a management book: *Steer, Don't Guess* by Martin Jirgenson.
 
-## What AI hallucinations are, in a business conversation
+## AI hallucinations explained, in a business conversation
 
 Most people picture AI hallucinations as a chatbot insisting the moon is made of cheese: obvious, funny, harmless. In a business conversation the reality is narrower and far more dangerous. It is any figure, rule, deadline or cause that was not in what you told the assistant, presented as a fact rather than as an assumption. A "typical margin for cafes". A "standard 30-day notice". "Most clients pay within a week". Each sounds like help. Each quietly replaces your situation with an average one.
 

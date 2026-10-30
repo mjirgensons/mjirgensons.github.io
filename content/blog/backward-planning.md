@@ -21,7 +21,7 @@ Backward planning (also called reverse planning) is the practice of defining the
 
 What the chapter does brilliantly is keep three ideas apart that most writers blur together. The first is a practical technique. Dynamic programming is a mathematical theory of multi-step decisions, created by Richard Bellman in the 1950s, which often computes from the end backwards but is broader and more demanding. Bellman's principle of optimality is a specific property of the best strategy. Related, not identical, and the book is honest about which one you are actually using.
 
-## Backward planning in practice: a second coffee shop
+## A backward planning example: a second coffee shop
 
 Andrew, the coffee shop owner whose story runs through the book, wants a second location. Instead of "I want a second location", he writes the end state precisely: in eighteen months the second shop is open, the first one holds a margin of at least 14% including the cost of a manager, the reserve is at least two months of expenses, and he works no more than 45 hours a week.
 
@@ -73,7 +73,7 @@ Fill it from the bottom up, starting with the goal, exactly as Andrew did; then 
 | 1 month | | | |
 | 0 (the goal) | | | |
 
-## Five questions: when reverse planning becomes real optimization
+## The Bellman principle test: when reverse planning becomes real optimization
 
 The chapter adds a test that I have not seen in any other planning book. Five questions tell you whether your task is suited to rigorous, Bellman-style optimization:
 

@@ -62,7 +62,7 @@ That sentence does three jobs. It admits uncertainty. It names the assumption th
 
 For a small business, the practical version is a rolling forecast of cash, enquiries and workload for the next three months, updated weekly or monthly. Modest, cheap, and the single biggest step from reacting to yesterday towards steering by tomorrow.
 
-## Who is at the wheel decides how far you can see
+## Forecasting for small business: who is at the wheel decides how far you see
 
 On a busy Friday a new trainee panics at the coffee machine: the queue grows, orders get mixed up, the clean cups run out. The senior barista stands beside him, and twenty minutes later the queue is gone. She did not work faster. She knew what would happen next: when the wave from the office arrives, which order is about to be picked up, when to grind the next batch.
 

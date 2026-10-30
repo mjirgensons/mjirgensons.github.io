@@ -15,7 +15,7 @@ It is a typical opening for business prompts shared online, and it works about a
 
 There is a better approach, and it has been tested: give the assistant a rulebook instead of a role.
 
-## Why role prompts are not enough for business decisions
+## AI for business decisions: why role prompts are not enough
 
 A language model asked about your business has to say something, so it does. If data are missing, it fills them in. If you have not said what matters most, it decides. If the question touches theory, it blends methods from different sources. The answer sounds sure of itself, and there is nothing to check it against.
 

@@ -19,7 +19,7 @@ The Jirgenson Model replaces "what matters most" with a sharper question.
 
 The test takes ten seconds. If you cannot answer in ten seconds, someone is already answering for you.
 
-## How to set priorities when everything is urgent, step by step
+## Setting priorities when everything is urgent, step by step
 
 **1. Scan six areas.** Finance; clients; sales; processes and quality; people; and development and the owner (your own time, health, money, freedom). Take zero to three parameters from each. An area may stay empty only by a conscious, recorded choice: the owner's own health left off the list by accident is how a business ends up running its owner.
 

@@ -55,7 +55,7 @@ Here is the part most writing on feedback loops leaves out: the errors, counted.
 
 Two things jump out. Pure reaction is the worst of all, worse even than doing nothing. And adding a reaction to the forecast made it worse again, because yesterday's deviation was just noise, and responding to noise only does harm. The order of work follows from that: first find the pattern and build it into the forecast; then decide which deviations deserve a response at all; only then speed up the response.
 
-## Why reactive management always runs late
+## Feedback loop management: why reactive management runs late
 
 Between an event and its correction lies a chain: someone has to notice the deviation, measure it, report it, decide, and carry out the decision. Then the business has to respond. Meanwhile it keeps moving. The correction arrives after the situation has changed, so it is often too strong or too weak, and with an unlucky mix of delay and force the whole system starts swinging around the goal.
 
@@ -124,7 +124,7 @@ Read how the method begins, with goals that can carry a cycle at all, in [the fr
 
 ## FAQ
 
-### What is a control cycle in management?
+### What is a control cycle, or management cycle?
 
 It is the closed loop every goal passes through: notice the pressure, recognise the situation, set goals, build the plan, build structures, observe, improve, and finish or maintain. No stage can be skipped; a missing one is done by someone else.
 

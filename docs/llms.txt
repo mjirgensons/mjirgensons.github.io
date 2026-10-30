@@ -8,6 +8,7 @@
 - https://mjirgensons.github.io/blog/free-sample/
 - https://mjirgensons.github.io/blog/backward-planning/
 - https://mjirgensons.github.io/blog/books-like-measure-what-matters/
+- https://mjirgensons.github.io/blog/business-triage/
 - https://mjirgensons.github.io/blog/chatgpt-prompt-for-business/
 - https://mjirgensons.github.io/blog/competing-priorities-conflicting-goals/
 - https://mjirgensons.github.io/blog/control-cycle-management/
@@ -15,15 +16,19 @@
 - https://mjirgensons.github.io/blog/financial-health-check/
 - https://mjirgensons.github.io/blog/forecast-cash-flow/
 - https://mjirgensons.github.io/blog/goal-hierarchy/
+- https://mjirgensons.github.io/blog/goals-for-next-year/
 - https://mjirgensons.github.io/blog/how-to-calculate-profit-margin/
 - https://mjirgensons.github.io/blog/how-to-prevent-ai-hallucinations/
 - https://mjirgensons.github.io/blog/how-to-set-measurable-goals/
 - https://mjirgensons.github.io/blog/lagging-vs-leading-indicators/
 - https://mjirgensons.github.io/blog/levers-of-control/
+- https://mjirgensons.github.io/blog/management-frameworks-explained/
 - https://mjirgensons.github.io/blog/okr-alternative-small-business/
 - https://mjirgensons.github.io/blog/one-page-business-plan/
+- https://mjirgensons.github.io/blog/predictability-in-business/
 - https://mjirgensons.github.io/blog/priorities-in-life/
 - https://mjirgensons.github.io/blog/save-for-a-goal/
+- https://mjirgensons.github.io/blog/small-business-kpis/
 - https://mjirgensons.github.io/blog/traffic-light-dashboard/
 - https://mjirgensons.github.io/blog/why-business-plans-fail/
 - https://mjirgensons.github.io/blog/business-crisis-what-to-do-first/

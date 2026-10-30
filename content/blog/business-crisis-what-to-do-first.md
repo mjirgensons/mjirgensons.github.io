@@ -28,7 +28,7 @@ The book sets the order once, in a calm moment, so that you do not have to inven
 
 The protocol has a companion rule for every new problem that lands on your desk during the crisis, the triage: which goal does it belong to, in which zone is that goal's parameter now, and is it more important than what you are doing at this moment? Three questions, and most interruptions fail the third.
 
-## A business crisis plan you write before the crisis
+## A business crisis plan template you write before the crisis
 
 A business crisis plan is not a binder you open when the building is on fire. In the Jirgenson Model it is three short things written in a calm week: your goals in the order you would give them up, a red line for each of them, and the four steps of the red protocol above. A cash flow crisis is the most common reason owners reach for it, because the reserve is usually the first number to cross its line. With the plan already on paper, the night the bank calls becomes a matter of following an order you chose with a clear head, not inventing one in a panic.
 

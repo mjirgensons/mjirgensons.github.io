@@ -77,7 +77,7 @@ Two more checks belong in every financial health check:
 - **Is the imprecision acceptable?** No measurement is perfect. If you manage margin to one percentage point and your records are off by three, you are managing noise. If you only need to know whether more or less than half your customers return, a rough count of marks on receipts is fine.
 - **Who counted it, how, and over what period?** If there is no answer, it is an impression, not a number. A receipt in the till beats someone's memory of how many receipts there were.
 
-## How to measure business performance beyond the panel
+## Ways to measure business performance beyond the panel
 
 The five readings are not the whole business. Two coffee shops with identical numbers can face very different futures because of what sits behind the panel: obligations, the term of the lease, the wear on the equipment, the team's skills. When you look forward, look behind the instruments too.
 
