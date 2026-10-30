@@ -2,14 +2,14 @@
 title: How to handle a crisis in a small business: what to do first
 description: How to handle a crisis in a small business: the red protocol from Steer, Don't Guess, the exact order of first moves, and a coffee shop worked in euros.
 date: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 chapter: Chapter 4, Error: the main signal that drives decisions
 slug: business-crisis-what-to-do-first
 keywords: [how to handle a crisis in a small business, business crisis plan, cash flow crisis, small business emergency plan, red line business, business triage]
 answer: How to handle a crisis in a small business, in one line: check for danger to people, legal duties and mandatory payments first; then freeze everything secondary and put all time, money and attention on the one number that has crossed its red line. If several are red, start with the one nearest to irreversible damage.
 ---
 
-## What a crisis is, in numbers
+## Cash flow crisis or a bad month? What a crisis is, in numbers
 
 In everyday language a crisis is a feeling: everything is on fire, the phone will not stop, and you have not slept. In the Jirgenson Model it is something narrower and more useful.
 

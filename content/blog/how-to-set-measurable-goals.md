@@ -142,6 +142,6 @@ Write six fields for each goal: what you measure, how it is calculated and where
 
 "Margin, operating profit as a share of revenue from the accounting system: 15% by month six; currently 9%; no lower than 14% once reached; checked weekly by the owner." It has a number, a unit, a deadline, a starting point and a warning level.
 
-### What is a good alternative to SMART goals?
+### What is a good SMART goals alternative?
 
 Keep what SMART does well and add three fields it leaves out: the current value, the permissible deviation and a check rhythm with a named owner. Then put the goals in a refusal order, so you know which one wins when two collide.

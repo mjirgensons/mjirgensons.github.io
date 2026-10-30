@@ -23,7 +23,7 @@ A helmsman does not turn the ship with his bare hands. He turns the wheel, and t
 
 (A note for readers arriving from management accounting: Robert Simons' "Levers of Control" is a different, well-known framework about control systems in large organisations. This post is about the practical meaning of the phrase for an owner: the levers you personally can pull.)
 
-## Lever vs result: the mistake behind most "we must do something" meetings
+## Business levers vs results: the mistake behind most "we must do something" meetings
 
 The chapter's simplest table is also its most useful. On the left, what you want; on the right, what you can actually do about it:
 

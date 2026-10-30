@@ -57,7 +57,7 @@ Chapter 10 adds the rule that keeps this from turning into an excuse to quit eve
 
 So when should you give up on a business idea? The book gives four questions to tell a doomed environment from a difficult season: has the decline lasted several periods in a row; are the strongest players leaving; do the economics add up in at least one niche within your horizon; and what would it cost to leave by mistake? Without them, "doomed" becomes a label you can slap on any failure.
 
-## Where the three checks stop
+## Why plans fail for other reasons: where the three checks stop
 
 The three offsets do not explain every failure, and the book says so plainly: a wrong idea of cause and effect, a shortage of resources, poor execution, conflicting incentives and unacceptable risk also sink plans. What the offsets give you is the three failures you can see coming, checked in fifteen minutes before you spend a single euro.
 

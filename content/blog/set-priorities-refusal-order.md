@@ -2,14 +2,14 @@
 title: How to set priorities when everything is urgent: the refusal test
 description: How to set priorities when everything is urgent: the refusal test from Steer, Don't Guess turns a wish list into a real order in ten seconds.
 date: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 chapter: Chapter 1, Goal: not a dream but a list with an order
 slug: set-priorities-refusal-order
 keywords: [how to set priorities when everything is urgent, setting priorities, how to prioritize goals, everything is a priority, too many goals, refusal order of goals]
 answer: How to set priorities when everything is urgent: write down everything you want, then ask which goal you would drop first if circumstances forced you, and which you would defend to the last. The last one standing is your real priority. Keep nine goals or fewer, give each a number and a deadline, and treat law and safety as constraints.
 ---
 
-## Why "what matters most" does not work
+## How to prioritize goals: why "what matters most" does not work
 
 Ask an owner what matters most and you get a list: revenue, the team, quality, clients, growth, family. All of it true, none of it an order. The moment two of these collide, a client who wants a discount against the margin, a late night against the family, the list is silent, and the decision is made by whoever shouts loudest, by fatigue, or by the order in which the problems arrived.
 
@@ -79,7 +79,7 @@ The whole of Chapter 1, with the worked examples, is in [the free sample](/blog/
 
 ## FAQ
 
-### How many goals should a small business have?
+### Too many goals: how many should a small business have?
 
 Nine or fewer for a human-run system; three to five get real work in a year. The rest become methods, constraints or next year's goals.
 
