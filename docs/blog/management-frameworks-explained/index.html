@@ -194,8 +194,8 @@
 </div>
 <h2 id="one-frame-for-all-of-them">One frame for all of them</h2>
 <p>The appeal of putting these side by side is how much less contradictory they look. The confusion comes from treating them as rival religions. Treated as tools, each with its own job, they fit into one frame with room to spare.</p>
-<p>The ranked goal list that sits underneath all of them is in Chapter 1, free in <a href="/blog/free-sample/">the free sample</a>. The full comparison, with what the model takes from each method and what it adds, is in <em>Steer, Don&rsquo;t Guess</em> on <a href="https://www.amazon.com/dp/B0HPBR6BNX">Amazon</a>.</p></div>
-  <div class="inline-buy"><img src="/img/cover.jpg" width="64" height="98" alt="" loading="lazy"><div><p>The full chapter, with every calculation, is in the book.</p><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Kindle $9.99</a></div></div>
+<p>The ranked goal list that sits underneath all of them is in Chapter 1, free in <a href="/blog/free-sample/">the free sample</a>. The full comparison, with what the model takes from each method and what it adds, is in <em>Steer, Don&rsquo;t Guess</em> on <a href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Amazon</a>.</p></div>
+  <div class="inline-buy"><img src="/img/cover.jpg" width="64" height="98" alt="" loading="lazy"><div><p>The full chapter, with every calculation, is in the book.</p><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Kindle $9.99</a></div></div>
   <h2>Questions people ask</h2><details><summary>What is the difference between OKR and Balanced Scorecard?</summary><p>OKR focuses a team on a few objectives with measurable key results for a period. The Balanced Scorecard measures the business from four sides (finance, customers, internal processes, learning and growth). One sets focus; the other sets breadth.</p></details><details><summary>Are OKRs good for startups and small teams?</summary><p>They help with focus, but a small team also needs a rule for which key result wins in a conflict, a signal for when a number is bad enough to act, and named levers. Adding a ranked order and colour zones covers that.</p></details><details><summary>What is the Theory of Constraints in simple terms?</summary><p>A system can only go as fast as its tightest bottleneck, so find that bottleneck, get the most out of it, organise everything else around it, widen it if necessary, then look for the next one.</p></details>
   <p class="note">This topic is covered in <strong>Chapter 14, One model for every field (How the model differs from familiar approaches)</strong> of <em>Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</em>. The numbers in the examples are illustrative; the book states its limits in Appendix G.</p>
   <section class="cta-deep"><h2>Read Chapter 1 free</h2><p>The Introduction and Chapter 1, with the refusal test, about 9,500 words.</p><div class="btn-row"><a class="btn btn-white" href="/blog/free-sample/">Start reading</a></div></section>
@@ -215,7 +215,7 @@
     </div>
     <div class="foot-cols">
       <div><p class="foot-h">Book</p><a href="/buy/">Where to buy</a><a href="/blog/free-sample/">Read Chapter 1 free</a><a href="/reviews/">Reviews</a><a href="/press/">Press kit</a></div>
-      <div><p class="foot-h">Model</p><a href="/blog/jirgenson-model-management-method/">The Jirgenson Model</a><a href="/blog/">Blog</a><a href="/ai-assistant/">Canon and prompt</a><a href="https://github.com/mjirgensons/jirgenson-model" rel="noopener">GitHub</a></div>
+      <div><p class="foot-h">Model</p><a href="/blog/jirgenson-model-management-method/">The Jirgenson Model</a><a href="/blog/">Blog</a><a href="/ai-assistant/">Canon and prompt</a><a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a></div>
       <div><p class="foot-h">Author</p><a href="/author/">Martin Jirgenson</a><a href="/contact/">Contact</a><a href="/rss.xml">RSS</a></div>
     </div>
     <p class="copyright">© 2026 Martin Jirgenson. All rights reserved.</p>
@@ -223,12 +223,18 @@
 </footer>
 <div class="buybar is-hidden" id="buybar" role="region" aria-label="Buy the book">
   <div><b>Kindle $9.99</b><span>Chapter 1 free</span></div>
-  <a class="btn btn-buy" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Buy on Amazon</a>
+  <a class="btn btn-buy" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Buy on Amazon</a>
 </div>
 <script>
 (function(){var b=document.getElementById('buybar');if(!b)return;var h=document.querySelector('.hero');
 function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b.classList.toggle('is-hidden',y<lim)}
 upd();window.addEventListener('scroll',upd,{passive:true});
+(function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
+var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
+if(!ca)return;document.documentElement.classList.add('ca');
+document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
+var P={'$9.99':'CA$12.99','$19.99':'CA$28.00','$49.99':'CA$70.05'};
+document.querySelectorAll('.btn-buy,.buybar b,.price,.price-row b,.markets').forEach(function(el){var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT),n;while(n=w.nextNode()){n.nodeValue=n.nodeValue.replace(/\$(9|19|49)\.99/g,function(m){return P[m]||m})}});}catch(e){}})();
 document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});})();
 </script>
 <!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->

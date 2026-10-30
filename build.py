@@ -70,8 +70,19 @@ def wrap_tables(html_text):
     html_text = re.sub(r"<table\b", '<div class="tbl"><table', html_text)
     return html_text.replace("</table>", "</table></div>")
 
+def external_new_tab(html_text):
+    # links that leave the site open in a new tab so the reader keeps the page (Martin, 2026-10-30)
+    def fix(m):
+        tag = m.group(0)
+        href = re.search(r'href="([^"]+)"', tag)
+        if not href or not href.group(1).startswith("http") or "mjirgensons.github.io" in href.group(1):
+            return tag
+        tag = re.sub(r'\s(target|rel)="[^"]*"', "", tag)
+        return tag[:-1] + ' target="_blank" rel="noopener">'
+    return re.sub(r"<a\b[^>]*>", fix, html_text)
+
 def write(url_path: str, html_text: str):
-    html_text = wrap_tables(html_text)
+    html_text = external_new_tab(wrap_tables(html_text))
     p = OUT / url_path.strip("/") / "index.html" if url_path not in ("", "/") else OUT / "index.html"
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(html_text)
@@ -139,7 +150,7 @@ def main():
     pages.insert(0, ("/", hm.get("updated", datetime.date.today().isoformat()), "1.0"))
 
     # ---- 404
-    (OUT / "404.html").write_text(render("404.html", page={"url": "/404.html", "title": "Undefined zone: no data here", "description": "Page not found."}))
+    (OUT / "404.html").write_text(external_new_tab(render("404.html", page={"url": "/404.html", "title": "Undefined zone: no data here", "description": "Page not found."})))
 
     # ---- sitemap, rss, llms.txt
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']

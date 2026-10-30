@@ -226,7 +226,7 @@
 </div>
 <h2 id="where-to-start">Where to start</h2>
 <p>Read the <a href="/blog/free-sample/">free sample</a>: the author&rsquo;s foreword, the Introduction with the whole model in one picture, the Prologue and Chapter 1 with the refusal test, about 9,500 words. Run the refusal test on your own goals. If it does nothing for you, keep your money. If it does, the rest of the method, sixteen chapters and ten appendices, is in the book: <a href="/buy/">Kindle, paperback, hardcover or PDF</a>.</p></div>
-  <div class="inline-buy"><img src="/img/cover.jpg" width="64" height="98" alt="" loading="lazy"><div><p>The full chapter, with every calculation, is in the book.</p><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Kindle $9.99</a></div></div>
+  <div class="inline-buy"><img src="/img/cover.jpg" width="64" height="98" alt="" loading="lazy"><div><p>The full chapter, with every calculation, is in the book.</p><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Kindle $9.99</a></div></div>
   <h2>Questions people ask</h2><details><summary>What is the Jirgenson Model?</summary><p>A management method developed by Martin Jirgenson and published in the book Steer, Don&#39;t Guess (2026). It applies control theory to business and life: an ordered list of measurable goals, the real state in measured numbers, red lines set in advance, levers kept apart from conditions, and regular correction by feedback and forecast.</p></details><details><summary>Who is Martin Jirgenson?</summary><p>A researcher of management systems and a management practitioner based in Ontario, Canada, and the author of Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life. He developed the Jirgenson Model to help owners, managers and families decide by instruments rather than by guesswork.</p></details><details><summary>Is there a book about control theory for small business owners?</summary><p>Yes. Steer, Don&#39;t Guess explains feedback control, control by forecast, phase lag, stability margin and backward planning in plain words for owners, freelancers and managers, with worked examples in euros and a formal level for readers who want the definitions.</p></details><details><summary>How do I set priorities in business and life?</summary><p>Write down everything you want, keep it to nine goals or fewer across six areas including your own time and health, give each a number and a deadline, then order them by what you would give up first. The last goal standing is your real priority. This is the refusal test from Chapter 1.</p></details><details><summary>How do I stop guessing in business decisions?</summary><p>Give every decision something to compare against: a goal with a number, the measured current value from one source, and a red line set in advance. Then act only on levers you can change, in the order your priorities dictate, and check the gap on a fixed rhythm.</p></details><details><summary>Is the Jirgenson Model an alternative to OKR or EOS?</summary><p>It works on top of them. OKR and EOS give objectives, scorecards and rhythm; the Jirgenson Model adds the refusal order among goals, zones with red lines, the split between levers and conditions, and control by forecast.</p></details>
   <p class="note">This topic is covered in <strong>The whole book, Chapters 1 to 16</strong> of <em>Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</em>. The numbers in the examples are illustrative; the book states its limits in Appendix G.</p>
   <section class="cta-deep"><h2>Read Chapter 1 free</h2><p>The Introduction and Chapter 1, with the refusal test, about 9,500 words.</p><div class="btn-row"><a class="btn btn-white" href="/blog/free-sample/">Start reading</a></div></section>
@@ -246,7 +246,7 @@
     </div>
     <div class="foot-cols">
       <div><p class="foot-h">Book</p><a href="/buy/">Where to buy</a><a href="/blog/free-sample/">Read Chapter 1 free</a><a href="/reviews/">Reviews</a><a href="/press/">Press kit</a></div>
-      <div><p class="foot-h">Model</p><a href="/blog/jirgenson-model-management-method/">The Jirgenson Model</a><a href="/blog/">Blog</a><a href="/ai-assistant/">Canon and prompt</a><a href="https://github.com/mjirgensons/jirgenson-model" rel="noopener">GitHub</a></div>
+      <div><p class="foot-h">Model</p><a href="/blog/jirgenson-model-management-method/">The Jirgenson Model</a><a href="/blog/">Blog</a><a href="/ai-assistant/">Canon and prompt</a><a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a></div>
       <div><p class="foot-h">Author</p><a href="/author/">Martin Jirgenson</a><a href="/contact/">Contact</a><a href="/rss.xml">RSS</a></div>
     </div>
     <p class="copyright">© 2026 Martin Jirgenson. All rights reserved.</p>
@@ -254,12 +254,18 @@
 </footer>
 <div class="buybar is-hidden" id="buybar" role="region" aria-label="Buy the book">
   <div><b>Kindle $9.99</b><span>Chapter 1 free</span></div>
-  <a class="btn btn-buy" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Buy on Amazon</a>
+  <a class="btn btn-buy" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Buy on Amazon</a>
 </div>
 <script>
 (function(){var b=document.getElementById('buybar');if(!b)return;var h=document.querySelector('.hero');
 function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b.classList.toggle('is-hidden',y<lim)}
 upd();window.addEventListener('scroll',upd,{passive:true});
+(function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
+var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
+if(!ca)return;document.documentElement.classList.add('ca');
+document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
+var P={'$9.99':'CA$12.99','$19.99':'CA$28.00','$49.99':'CA$70.05'};
+document.querySelectorAll('.btn-buy,.buybar b,.price,.price-row b,.markets').forEach(function(el){var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT),n;while(n=w.nextNode()){n.nodeValue=n.nodeValue.replace(/\$(9|19|49)\.99/g,function(m){return P[m]||m})}});}catch(e){}})();
 document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});})();
 </script>
 <!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->
