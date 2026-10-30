@@ -4,7 +4,6 @@ description: Why business plans fail even when you do everything right: the thre
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 11, Three offsets: why even a good plan fails; Chapter 10, Steady mode and manoeuvre
-draft: true
 slug: why-business-plans-fail
 keywords: [why business plans fail, why plans fail, plan vs goal, when to give up on a business idea, titanic test business, three offsets]
 answer: "Why business plans fail, in most cases that no amount of effort can fix: the goal contradicts itself, the starting numbers are wrong, or the market the plan lives in is dying. Steer, Don't Guess calls these the three offsets and checks them before any work begins. When a plan misses, change the plan; change the goal only when conditions or priorities have changed."
@@ -12,7 +11,13 @@ answer: "Why business plans fail, in most cases that no amount of effort can fix
 
 Some people do everything right and still get nowhere. They set goals, take measurements, move levers, check themselves against the table, and still they miss. Chapter 11 of *Steer, Don't Guess* begins with that uncomfortable sentence, and then does something most business books never attempt: it explains why business plans fail when the people running them are neither lazy nor incompetent.
 
-The answer is three pictures. A man trying to board two trains leaving in opposite directions. A man lost in a big building who sees an open window and decides it is the exit; the window is on the tenth floor. And a man who reaches the pier in good time and buys a ticket for the maiden voyage of the most beautiful liner in the world. He did everything right. The ship is the *Titanic*.
+The answer is three pictures:
+
+- a man trying to board two trains leaving in opposite directions;
+- a man lost in a big building who sees an open window and decides it is the exit (the window is on the tenth floor);
+- a man who reaches the pier in good time and buys a ticket for the maiden voyage of the most beautiful liner in the world.
+
+The third man did everything right. The ship is the *Titanic*.
 
 ## Why business plans fail before work even begins
 
