@@ -7,6 +7,7 @@
 - https://mjirgensons.github.io/
 - https://mjirgensons.github.io/blog/free-sample/
 - https://mjirgensons.github.io/blog/backward-planning/
+- https://mjirgensons.github.io/blog/chatgpt-prompt-for-business/
 - https://mjirgensons.github.io/blog/competing-priorities-conflicting-goals/
 - https://mjirgensons.github.io/blog/control-cycle-management/
 - https://mjirgensons.github.io/blog/external-factors-business/
