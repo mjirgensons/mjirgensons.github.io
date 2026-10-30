@@ -67,13 +67,13 @@
   <div class="prose"><figure class="author-photo"><picture><source srcset="/img/martin-jirgenson.webp" type="image/webp"><img src="/img/martin-jirgenson.jpg" width="800" height="1067" alt="Martin Jirgenson, author of Steer, Don't Guess"></picture></figure>
 
 <h2 id="background">Background</h2>
-<p>Martin Jirgenson is a researcher in control systems, a management practitioner of many years&rsquo; standing and a developer of methods for optimizing business processes. His field lies where strategy meets execution: from goals and measurements to working operational and software tools. Drawing on experience in crisis management, the architecture of complex systems and the fundamental laws of control theory, he has built an integrative model that turns academic rigour into everyday tools for business and life. The Jirgenson Model is the fruit of this work.</p>
+<p>Martin Jirgenson is a researcher in control systems, a management practitioner of many years' standing and a developer of methods for optimizing business processes. His field lies where strategy meets execution: from goals and measurements to working operational and software tools. Drawing on experience in crisis management, the architecture of complex systems and the fundamental laws of control theory, he has built an integrative model that turns academic rigour into everyday tools for business and life. The Jirgenson Model is the fruit of this work.</p>
 <h2 id="the-jirgenson-model">The Jirgenson Model</h2>
 <p>The model treats any result as a process with points of control. Management is three things done regularly: know where you want to go (a short, ordered list of measurable goals), know where you really are (the same list filled with measured facts), and reduce the gap (levers you can move, kept apart from conditions you cannot). The rest of the model, zones and red lines, three schemes of control, three offsets, the backward move, exists to do those three things precisely and on course. <a href="/blog/jirgenson-model-management-method/">The Jirgenson Model explained, with a glossary →</a></p>
-<p>The model&rsquo;s rulebook, the <strong>canon</strong>, and the <strong>operating prompt</strong> for AI assistants are published under an open licence on <a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a>, together with the blind test that measured them. <a href="/ai-assistant/">How to use them →</a></p>
+<p>The model's rulebook, the <strong>canon</strong>, and the <strong>operating prompt</strong> for AI assistants are published under an open licence on <a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a>, together with the blind test that measured them. <a href="/ai-assistant/">How to use them →</a></p>
 <h2 id="publications">Publications</h2>
 <ul>
-<li><em>Steer, Don&rsquo;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life.</em> English edition 1.1, October 2026. <a href="/buy/">Kindle, paperback, hardcover</a>.</li>
+<li><em>Steer, Don't Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life.</em> English edition 1.1, October 2026. <a href="/buy/">Kindle, paperback, hardcover</a>.</li>
 <li><em>Jirgenson Model Canon v1.0</em> and <em>Operating Prompt v1.1</em>. Open files, 2026. <a href="https://github.com/mjirgensons/jirgenson-canon" target="_blank" rel="noopener">GitHub</a>.</li>
 <li><em>E5: blind test of the operating prompt.</em> Method, data, judgments and limits, October 2026. <a href="https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10" target="_blank" rel="noopener">GitHub</a>.</li>
 </ul>
@@ -123,13 +123,12 @@ function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b
 upd();window.addEventListener('scroll',upd,{passive:true});})();
 </script>
 <script>
-/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so send them to amazon.ca with CAD prices */
+/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; prices stay in US dollars (Martin, 2026-10-30) */
 (function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
 var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
 if(!ca)return;document.documentElement.classList.add('ca');
 document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
-var P={'$9.99':'CA$12.99','$19.99':'CA$28.00','$49.99':'CA$70.05'};
-document.querySelectorAll('.btn-buy,.buybar b,.price,.price-row b,.markets,.formats td,.prose li').forEach(function(el){var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT),n;while(n=w.nextNode()){n.nodeValue=n.nodeValue.replace(/\$(9|19|49)\.99/g,function(m){return P[m]||m})}});}catch(e){}})();
+}catch(e){}})();
 document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});
 </script>
 <!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->

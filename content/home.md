@@ -44,22 +44,22 @@ What they criticise: the terminology is dense in places (goal vectors, state vec
 Four parts. Each chapter below is listed with the situation it answers.
 
 <div class="chapters">
-<div><b>Part I: See</b></div><div></div>
+<div class="part">Part I: See</div>
 <div><b>1. Goal: not a dream but a list with an order.</b> Which goal would you give up first? The refusal test.</div>
 <div><b>2. Where you really are.</b> Busy but not profitable: reading the state from one source per number.</div>
 <div><b>3. Environmental factors.</b> What pushes you off course and what carries you.</div>
 <div><b>4. Error: the main signal.</b> How far from the goal, in which zone, and what the red zone demands first.</div>
-<div><b>Part II: Act</b></div><div></div>
+<div class="part">Part II: Act</div>
 <div><b>5. Levers.</b> What you can really change, and what you can only watch.</div>
 <div><b>6. Control concept.</b> Every goal has a plan: five questions on one page.</div>
 <div><b>7. Full control cycle.</b> Eight stages, from noticing the pressure to finishing or maintaining.</div>
-<div><b>Part III: Stay on course</b></div><div></div>
+<div class="part">Part III: Stay on course</div>
 <div><b>8. Predictability.</b> Who is at the wheel: what you can foresee well enough to control.</div>
 <div><b>9. Three ways to control.</b> By plan, by deviation, by forecast; why you always react too late.</div>
 <div><b>10. Steady mode and manoeuvre.</b> When to change the plan and when to change the goal.</div>
 <div><b>11. Three offsets.</b> Why even a good plan fails.</div>
 <div><b>12. Seven steps of entering control.</b> Taking back a business that runs you.</div>
-<div><b>Part IV: Tools and the backward move</b></div><div></div>
+<div class="part">Part IV: Tools and the backward move</div>
 <div><b>13. Tools.</b> Goal table, dashboard, lever list, one-page plan, rolling forecast.</div>
 <div><b>14. One model for every field.</b> Where OKR, Balanced Scorecard, PDCA, Theory of Constraints and EOS fit.</div>
 <div><b>15. The backward move.</b> From the goal to today: backward planning and Bellman's principle in plain words.</div>

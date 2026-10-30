@@ -65,19 +65,19 @@
     <p class="lead">Six early reviews, read before publication, agree on the same points, including the critical ones. They are summarised here in full; reader reviews on Amazon and Goodreads are linked below as they appear.</p>
   </header>
   <div class="prose"><h2 id="what-the-early-reviews-agree-on">What the early reviews agree on</h2>
-<p><strong>Mechanics, not advice.</strong> &ldquo;Most management books give advice. This one gives mechanics.&rdquo; The book does not hand out tips like &ldquo;delegate&rdquo; or &ldquo;think strategically&rdquo;; it shows how to break a problem with five goals and ten constraints into parts you can handle.</p>
+<p><strong>Mechanics, not advice.</strong> "Most management books give advice. This one gives mechanics." The book does not hand out tips like "delegate" or "think strategically"; it shows how to break a problem with five goals and ten constraints into parts you can handle.</p>
 <p><strong>The refusal test is the idea quoted most.</strong> Rank your goals by which one you would give up first and which you would defend to the end. If you do not decide that in advance, the decision is made for you by fatigue, haste and whoever shouts loudest.</p>
 <p><strong>Levers versus conditions.</strong> Reviewers call this the most liberating distinction in the book: separate what you can turn yourself (prices, the menu, terms, hours) from what you can only take into account (the weather, a competitor, your own lack of resources), and stop spending energy on the second kind.</p>
 <p><strong>Three reading levels in every chapter.</strong> A simple everyday example (a teenager saving for a bike), a practical case (a coffee shop, a freelance designer) and a formal level with definitions and formulas. Reviewers note that this makes the book work for a teenager planning pocket money, a small-business owner and an analyst alike.</p>
-<p><strong>The author promises nothing.</strong> Every reviewer mentions it: the model is presented as a tool for thinking, not a recipe for success; forecasts can be wrong, data can be incomplete, the model does not replace industry knowledge or a financial calculation. One reviewer: &ldquo;This caution makes the book&rsquo;s approach more credible.&rdquo;</p>
+<p><strong>The author promises nothing.</strong> Every reviewer mentions it: the model is presented as a tool for thinking, not a recipe for success; forecasts can be wrong, data can be incomplete, the model does not replace industry knowledge or a financial calculation. One reviewer: "This caution makes the book's approach more credible."</p>
 <h2 id="what-they-criticise">What they criticise</h2>
 <p>The terminology is dense (goal vectors, state vectors, zones, control modes, three offsets). Repeated examples slow the reading in places. Readers who already know goal-setting methods and PDCA will find part of the content familiar. The novelty, as one review puts it, is in how the ideas are arranged and applied, not in a brand-new principle.</p>
-<p>The author&rsquo;s answer: the terms are kept because the canon for AI assistants depends on them being exact, and the glossary (Appendix B) and the one-page cheat sheet (Appendix A) exist for exactly this reason.</p>
+<p>The author's answer: the terms are kept because the canon for AI assistants depends on them being exact, and the glossary (Appendix B) and the one-page cheat sheet (Appendix A) exist for exactly this reason.</p>
 <h2 id="reader-reviews">Reader reviews</h2>
 <p>The book was published on 24 October 2026. Reader reviews on Amazon and Goodreads will be linked here as they appear. If you have read it, the most useful thing you can do for the next reader is to write one, including what did not work for you.</p>
 <ul>
 <li><a href="https://www.amazon.com/review/create-review?asin=B0HPBR6BNX" target="_blank" rel="noopener">Write a review on Amazon</a></li>
-<li>Goodreads: the book&rsquo;s page is being set up; the link will appear here.</li>
+<li>Goodreads: the book's page is being set up; the link will appear here.</li>
 <li>Or send it to the author: <a href="/contact/">contact page</a>. Reviews sent directly are published here with your name or initials, as you prefer, including critical ones.</li>
 </ul></div>
   
@@ -118,13 +118,12 @@ function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b
 upd();window.addEventListener('scroll',upd,{passive:true});})();
 </script>
 <script>
-/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so send them to amazon.ca with CAD prices */
+/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; prices stay in US dollars (Martin, 2026-10-30) */
 (function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
 var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
 if(!ca)return;document.documentElement.classList.add('ca');
 document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
-var P={'$9.99':'CA$12.99','$19.99':'CA$28.00','$49.99':'CA$70.05'};
-document.querySelectorAll('.btn-buy,.buybar b,.price,.price-row b,.markets,.formats td,.prose li').forEach(function(el){var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT),n;while(n=w.nextNode()){n.nodeValue=n.nodeValue.replace(/\$(9|19|49)\.99/g,function(m){return P[m]||m})}});}catch(e){}})();
+}catch(e){}})();
 document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});
 </script>
 <!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->

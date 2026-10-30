@@ -20,7 +20,7 @@ def nice_date(v):
     except Exception:
         return v
 env.filters["nice_date"] = nice_date
-md = markdown.Markdown(extensions=["extra", "toc", "sane_lists", "smarty"], extension_configs={"toc": {"toc_depth": "2-3"}})
+md = markdown.Markdown(extensions=["extra", "toc", "sane_lists"], extension_configs={"toc": {"toc_depth": "2-3"}})
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
 
@@ -81,8 +81,12 @@ def external_new_tab(html_text):
         return tag[:-1] + ' target="_blank" rel="noopener">'
     return re.sub(r"<a\b[^>]*>", fix, html_text)
 
+def straight_apostrophes(html_text):
+    # one apostrophe style across the site: straight ' (Martin, 2026-10-30)
+    return html_text.replace("\u2019", "'").replace("\u2018", "'")
+
 def write(url_path: str, html_text: str):
-    html_text = external_new_tab(wrap_tables(html_text))
+    html_text = straight_apostrophes(external_new_tab(wrap_tables(html_text)))
     p = OUT / url_path.strip("/") / "index.html" if url_path not in ("", "/") else OUT / "index.html"
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(html_text)
@@ -150,7 +154,7 @@ def main():
     pages.insert(0, ("/", hm.get("updated", datetime.date.today().isoformat()), "1.0"))
 
     # ---- 404
-    (OUT / "404.html").write_text(external_new_tab(render("404.html", page={"url": "/404.html", "title": "Undefined zone: no data here", "description": "Page not found."})))
+    (OUT / "404.html").write_text(straight_apostrophes(external_new_tab(render("404.html", page={"url": "/404.html", "title": "Undefined zone: no data here", "description": "Page not found."}))))
 
     # ---- sitemap, rss, llms.txt
     sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']

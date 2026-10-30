@@ -74,11 +74,11 @@
 <p>Prices are set in US dollars; Amazon shows your local currency at checkout. ISBN paperback 979-8164833749, hardcover 979-8164846152. If your local Amazon store does not show the book, search for the ISBN.</p>
 <h2 id="direct-from-the-author-pdf">Direct from the author (PDF)</h2>
 <ul>
-<li><a href="https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&amp;utm_medium=buy" target="_blank" rel="noopener">Steer, Don&rsquo;t Guess, PDF (A5), about 250 pages, $15</a> on Gumroad. Same text as the print editions, readable on any device, no DRM.</li>
+<li><a href="https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&amp;utm_medium=buy" target="_blank" rel="noopener">Steer, Don't Guess, PDF (A5), about 250 pages, $15</a> on Gumroad. Same text as the print editions, readable on any device, no DRM.</li>
 <li><a href="https://jirgenstorm4.gumroad.com/l/steer-free-sample?utm_source=site&amp;utm_medium=buy" target="_blank" rel="noopener">Chapter 1 free: introduction, Chapter 1 and the one-page cheat sheet, 44 pages</a>. Run the refusal test on yourself first.</li>
 </ul>
 <h2 id="the-canon-and-the-prompt-are-free">The canon and the prompt are free</h2>
-<p>The two files the book&rsquo;s AI appendix is built on, the model canon and the operating prompt, are published under an open licence on <a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a>. You do not need the book to use them; the book explains why they work and how to read what the assistant gives back. <a href="/ai-assistant/">How to use them →</a></p></div>
+<p>The two files the book's AI appendix is built on, the model canon and the operating prompt, are published under an open licence on <a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a>. You do not need the book to use them; the book explains why they work and how to read what the assistant gives back. <a href="/ai-assistant/">How to use them →</a></p></div>
   <h2>Questions people ask</h2><details><summary>Is the Kindle edition the same as the paperback?</summary><p>Yes, the same text, edition 1.1. Kindle reports 264 pages because of its typesetting; the print editions have 237.</p></details><details><summary>Can I buy it outside the US and Canada?</summary><p>Yes. The same editions are listed on every Amazon marketplace; use the ISBN or the links above. The PDF on Gumroad is available worldwide.</p></details><details><summary>Is there a refund?</summary><p>For Amazon purchases, Amazon&#39;s return policy applies. For the PDF, read the free 44-page sample first: it contains the whole of Chapter 1, so you know what you are buying.</p></details>
   <section class="cta-deep">
   <h2>You call it busy. It is guessing, with extra steps.</h2>
@@ -109,13 +109,12 @@
 </footer>
 
 <script>
-/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so send them to amazon.ca with CAD prices */
+/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; prices stay in US dollars (Martin, 2026-10-30) */
 (function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
 var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
 if(!ca)return;document.documentElement.classList.add('ca');
 document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
-var P={'$9.99':'CA$12.99','$19.99':'CA$28.00','$49.99':'CA$70.05'};
-document.querySelectorAll('.btn-buy,.buybar b,.price,.price-row b,.markets,.formats td,.prose li').forEach(function(el){var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT),n;while(n=w.nextNode()){n.nodeValue=n.nodeValue.replace(/\$(9|19|49)\.99/g,function(m){return P[m]||m})}});}catch(e){}})();
+}catch(e){}})();
 document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});
 </script>
 <!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->

@@ -129,9 +129,9 @@
 </tr>
 </tbody>
 </table></div>
-<p>The single invented fact in 120 reviews was copied from an example sentence inside the prompt itself. Limits: ten scenarios, one model family, an AI judge. The results above are for the latest tested version of the prompt (1.5); the files on GitHub are the book edition. The method and the earlier round&rsquo;s full data, with every answer, judge record and script, are <a href="https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10" target="_blank" rel="noopener">public</a>. Don&rsquo;t believe it; run it.</p>
+<p>The single invented fact in 120 reviews was copied from an example sentence inside the prompt itself. Limits: ten scenarios, one model family, an AI judge. The results above are for the latest tested version of the prompt (1.5); the files on GitHub are the book edition. The method and the earlier round's full data, with every answer, judge record and script, are <a href="https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10" target="_blank" rel="noopener">public</a>. Don't believe it; run it.</p>
 <h2 id="what-you-get-back">What you get back</h2>
-<p>A short brief in your own words: where you are (three to six numbers, computed), the greatest danger with a date and an amount, what to do today, this week and this month on levers you actually control, what you protect first, what not to do now, what to measure and when to check, and two forecasts, &ldquo;if nothing changes&rdquo; and &ldquo;if the plan works&rdquo;, each with a range. The model&rsquo;s vocabulary stays inside the assistant&rsquo;s reasoning; you see results.</p></div>
+<p>A short brief in your own words: where you are (three to six numbers, computed), the greatest danger with a date and an amount, what to do today, this week and this month on levers you actually control, what you protect first, what not to do now, what to measure and when to check, and two forecasts, "if nothing changes" and "if the plan works", each with a range. The model's vocabulary stays inside the assistant's reasoning; you see results.</p></div>
   <h2>Questions people ask</h2><details><summary>Which AI assistants does it work with?</summary><p>Any capable language model that accepts a long text attachment or paste: ChatGPT, Claude, Gemini and others. The published test used one model family; results elsewhere may differ.</p></details><details><summary>Will the assistant choose my priorities for me?</summary><p>No. The canon forbids it (§15.2): the assistant proposes a refusal order from your words, marks it as its own proposal, and proceeds; you confirm or change it.</p></details><details><summary>Does it invent numbers?</summary><p>The prompt allows only three kinds of sentence about your situation: your facts, arithmetic shown from them, and assumptions labelled as such. In the final round of the blind test, answers with an invented fact fell from 7 in 10 to 1 in 120.</p></details>
   <section class="cta-deep">
   <h2>You call it busy. It is guessing, with extra steps.</h2>
@@ -170,13 +170,12 @@ function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b
 upd();window.addEventListener('scroll',upd,{passive:true});})();
 </script>
 <script>
-/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so send them to amazon.ca with CAD prices */
+/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; prices stay in US dollars (Martin, 2026-10-30) */
 (function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
 var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
 if(!ca)return;document.documentElement.classList.add('ca');
 document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
-var P={'$9.99':'CA$12.99','$19.99':'CA$28.00','$49.99':'CA$70.05'};
-document.querySelectorAll('.btn-buy,.buybar b,.price,.price-row b,.markets,.formats td,.prose li').forEach(function(el){var w=document.createTreeWalker(el,NodeFilter.SHOW_TEXT),n;while(n=w.nextNode()){n.nodeValue=n.nodeValue.replace(/\$(9|19|49)\.99/g,function(m){return P[m]||m})}});}catch(e){}})();
+}catch(e){}})();
 document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});
 </script>
 <!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->

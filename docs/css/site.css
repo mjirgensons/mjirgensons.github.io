@@ -104,6 +104,8 @@ p{margin:0 0 1em}
 .chapters div{padding:10px 0;border-bottom:1px solid var(--line)}
 .chapters div:empty{display:none}
 .chapters b{color:var(--ink)}
+.chapters .part{border-bottom:0;padding:24px 0 6px;font:700 13px/1.4 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--steel)}
+.chapters .part:first-child{padding-top:4px}
 
 /* pricing */
 .prices{display:flex;flex-direction:column;gap:10px}
