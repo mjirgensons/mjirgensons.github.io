@@ -10,6 +10,7 @@
 - https://mjirgensons.github.io/blog/competing-priorities-conflicting-goals/
 - https://mjirgensons.github.io/blog/control-cycle-management/
 - https://mjirgensons.github.io/blog/financial-health-check/
+- https://mjirgensons.github.io/blog/forecast-cash-flow/
 - https://mjirgensons.github.io/blog/goal-hierarchy/
 - https://mjirgensons.github.io/blog/how-to-prevent-ai-hallucinations/
 - https://mjirgensons.github.io/blog/how-to-set-measurable-goals/
