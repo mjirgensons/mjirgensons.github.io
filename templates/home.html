@@ -24,11 +24,11 @@
 {% if page.faq_jsonld %}<h2 id="faq">Questions readers ask</h2>{% for q in page.faq_jsonld %}<details><summary>{{ q.name }}</summary><p>{{ q.acceptedAnswer.text }}</p></details>{% endfor %}{% endif %}
 </article>
 <section class="wrap">
-  <h2 id="situations">Which chapter answers your situation?</h2>
+  <h2 id="blog">From the blog</h2>
   <div class="cards">
-  {% for s in situations %}<a class="card" href="{{ s.url }}"><span class="meta">{{ s.chapter }}</span><h3>{{ s.title }}</h3><p>{{ s.description }}</p></a>{% endfor %}
+  {% for s in situations %}<a class="card" href="{{ s.url }}"><span class="meta">{% if s.pinned %}Free sample{% else %}{{ s.chapter }}{% endif %}</span><h3>{{ s.title }}</h3><p>{{ s.description }}</p></a>{% endfor %}
   </div>
-  <p><a href="/situations/">All situations →</a></p>
+  <p><a href="/blog/">All posts →</a></p>
 </section>
 <div class="wrap">{% include "_cta.html" %}</div>
 {% endblock %}

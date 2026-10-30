@@ -148,3 +148,18 @@ hr{border:0;border-top:1px solid var(--teal-faint);margin:2em 0}
   body{font-size:17px}
 }
 @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto} }
+/* book text (free sample) */
+.bookbody figure{margin:2em 0}
+.bookbody figure img{width:100%;height:auto;background:#fff;border-radius:6px;padding:10px;box-shadow:0 0 0 1px var(--teal-faint)}
+.bookbody figcaption{font:400 14px/1.4 var(--font-h);color:var(--text-muted);margin-top:8px}
+.bookbody .basic,.bookbody .practical,.bookbody .advanced,.bookbody .example{border:1px solid var(--teal-faint);border-left:3px solid var(--teal);border-radius:0 6px 6px 0;padding:14px 18px 4px;margin:1.4em 0;background:var(--card)}
+.bookbody .advanced{border-left-color:var(--amber)}
+.bookbody .basic::before,.bookbody .practical::before,.bookbody .advanced::before,.bookbody .example::before{display:block;font:700 12px var(--font-h);letter-spacing:.14em;text-transform:uppercase;color:var(--text-muted);margin-bottom:6px}
+.bookbody .basic::before{content:"Basic level"}.bookbody .practical::before{content:"Practical level"}.bookbody .advanced::before{content:"Advanced level"}
+.bookbody .example::before{content:attr(title)}
+.bookbody .signature{text-align:right;font-style:italic;color:var(--text-muted)}
+.bookbody math{font-size:1.05em}.bookbody math[display="block"]{display:block;overflow-x:auto;margin:1em 0}
+.bookbody h2{font-size:clamp(26px,3.4vw,34px)}
+.bookbody table{display:block;overflow-x:auto}
+nav.toc{display:block}
+.toc li{margin:2px 0}

@@ -20,7 +20,8 @@
     {"name": "Amazon.co.uk", "host": "www.amazon.co.uk"},
     {"name": "Amazon.de", "host": "www.amazon.de"}
   ],
-  "free_sample": "https://jirgenstorm4.gumroad.com/l/steer-free-sample?utm_source=site&utm_medium=cta",
+  "free_sample": "/blog/free-sample/",
+  "free_sample_pdf": "https://jirgenstorm4.gumroad.com/l/steer-free-sample?utm_source=site&utm_medium=cta",
   "free_sample_pages": 44,
   "e5": {"with": "88.9", "without": "55.9", "pairs": "30 of 30", "facts_before": "75%", "facts_after": "11%",
          "limits": "one judge model, one model family, ten cases; the full method, data and limits are public",

@@ -18,22 +18,27 @@ md = markdown.Markdown(extensions=["extra", "toc", "sane_lists", "smarty"], exte
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.S)
 
+def parse_fm(block):
+    meta = {}
+    for line in block.splitlines():
+        if ":" in line:
+            k, v = line.split(":", 1)
+            v = v.strip()
+            if v.startswith("[") and v.endswith("]"):
+                v = [x.strip().strip('"') for x in v[1:-1].split(",") if x.strip()]
+            elif v.lower() in ("true", "false"):
+                v = v.lower() == "true"
+            else:
+                v = v.strip('"')
+            meta[k.strip()] = v
+    return meta
+
 def parse(path: Path):
     text = path.read_text()
     m = FM_RE.match(text)
     meta, body = {}, text
     if m:
-        for line in m.group(1).splitlines():
-            if ":" in line:
-                k, v = line.split(":", 1)
-                v = v.strip()
-                if v.startswith("[") and v.endswith("]"):
-                    v = [x.strip().strip('"') for x in v[1:-1].split(",") if x.strip()]
-                elif v.lower() in ("true", "false"):
-                    v = v.lower() == "true"
-                else:
-                    v = v.strip('"')
-                meta[k.strip()] = v
+        meta = parse_fm(m.group(1))
         body = m.group(2)
     # FAQ block: "## FAQ" followed by "### question" + answer paragraphs, until next "## " or end
     faq = []
@@ -74,22 +79,38 @@ def main():
 
     pages = []  # for sitemap: (url, lastmod, priority)
 
-    # ---- situations (articles)
-    sits = []
-    for f in sorted((ROOT / "content" / "situations").glob("*.md")):
-        meta, body = parse(f)
+    # ---- blog posts (content/blog/*.md and *.html)
+    posts = []
+    for f in sorted((ROOT / "content" / "blog").iterdir()):
+        if f.suffix == ".md":
+            meta, body = parse(f)
+        elif f.suffix == ".html":
+            text = f.read_text(); m = FM_RE.match(text)
+            meta, _ = parse_fm(m.group(1)), None
+            body = m.group(2); meta["faq_jsonld"] = []
+        else:
+            continue
         if meta.get("draft"):
             continue
         slug = meta.get("slug") or f.stem
-        meta.update(slug=slug, url=f"/situations/{slug}/", body=body, words=words(body))
-        sits.append(meta)
-    sits.sort(key=lambda m: m.get("date", ""), reverse=True)
-    for m in sits:
-        related = [s for s in sits if s["slug"] != m["slug"]][:3]
-        write(m["url"], render("situation.html", page=m, related=related))
-        pages.append((m["url"], m.get("updated", m.get("date")), "0.8"))
-    write("/situations/", render("situations_index.html", page={"url": "/situations/", "title": "Situations: which chapter answers your question", "description": "Business situations, one page each, with the chapter of Steer, Don't Guess that answers them: crisis, priorities, cash, levers, plans that fail."}, situations=sits))
-    pages.append(("/situations/", datetime.date.today().isoformat(), "0.7"))
+        h2s = re.findall(r'<h2\s+id="([^"]+)"[^>]*>(.*?)</h2>', body, re.S)
+        meta.update(slug=slug, url=f"/blog/{slug}/", body=body, words=words(body),
+                    sections=[(i, re.sub(r"<[^>]+>", "", t)) for i, t in h2s])
+        posts.append(meta)
+    posts.sort(key=lambda m: (bool(m.get("pinned")), m.get("date", "")), reverse=True)
+    for m in posts:
+        related = [s for s in posts if s["slug"] != m["slug"]][:3]
+        write(m["url"], render("post.html", page=m, related=related))
+        pages.append((m["url"], m.get("updated", m.get("date")), "0.9" if m.get("pinned") else "0.8"))
+    write("/blog/", render("blog_index.html", page={"url": "/blog/", "title": "Blog: the Jirgenson Model in practice", "description": "Free chapters of Steer, Don't Guess and articles on business situations: crisis, priorities, cash, levers, plans that fail, AI for business decisions. Each post names the chapter that covers it."}, posts=posts))
+    pages.append(("/blog/", datetime.date.today().isoformat(), "0.8"))
+    # old /situations/ URLs -> /blog/ (never submitted to search engines; kept as redirects)
+    for slug in ["business-crisis-what-to-do-first", "set-priorities-refusal-order", "busy-but-not-profitable", ""]:
+        target = abs_url(f"/blog/{slug}/" if slug else "/blog/")
+        p = OUT / "situations" / slug / "index.html" if slug else OUT / "situations" / "index.html"
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(f'<!doctype html><meta charset="utf-8"><title>Moved</title><link rel="canonical" href="{target}"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url={target}"><a href="{target}">{target}</a>')
+    sits = posts
 
     # ---- simple pages from content/pages/*.md
     for f in sorted((ROOT / "content" / "pages").glob("*.md")):
@@ -102,7 +123,7 @@ def main():
     # ---- home
     hm, hbody = parse(ROOT / "content" / "home.md")
     hm.update(url="/", body=hbody)
-    write("/", render("home.html", page=hm, situations=sits[:3]))
+    write("/", render("home.html", page=hm, situations=sits[:4]))
     pages.insert(0, ("/", hm.get("updated", datetime.date.today().isoformat()), "1.0"))
 
     # ---- 404
@@ -116,7 +137,7 @@ def main():
     (OUT / "sitemap.xml").write_text("\n".join(sm))
 
     rss = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0"><channel>',
-           f"<title>{html.escape(SITE['name'])}: Situations</title>", f"<link>{SITE['url']}</link>",
+           f"<title>{html.escape(SITE['name'])}: Blog</title>", f"<link>{SITE['url']}</link>",
            f"<description>{html.escape(SITE['description'])}</description>"]
     for m in sits:
         rss.append(f"<item><title>{html.escape(m['title'])}</title><link>{abs_url(m['url'])}</link><guid>{abs_url(m['url'])}</guid>"

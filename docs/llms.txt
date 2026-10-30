@@ -5,10 +5,11 @@
 ## Pages
 
 - https://mjirgensons.github.io/
-- https://mjirgensons.github.io/situations/business-crisis-what-to-do-first/
-- https://mjirgensons.github.io/situations/busy-but-not-profitable/
-- https://mjirgensons.github.io/situations/set-priorities-refusal-order/
-- https://mjirgensons.github.io/situations/
+- https://mjirgensons.github.io/blog/free-sample/
+- https://mjirgensons.github.io/blog/business-crisis-what-to-do-first/
+- https://mjirgensons.github.io/blog/busy-but-not-profitable/
+- https://mjirgensons.github.io/blog/set-priorities-refusal-order/
+- https://mjirgensons.github.io/blog/
 - https://mjirgensons.github.io/ai-assistant/
 - https://mjirgensons.github.io/author/
 - https://mjirgensons.github.io/buy/

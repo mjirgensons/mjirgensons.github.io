@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="wrap" style="padding-top:40px">
+  <p class="meta">{{ site.brand }}</p>
+  <h1>Blog</h1>
+  <p class="lead col">Free chapters of <em>Steer, Don't Guess</em> and articles on the situations the book answers: what the numbers usually show, what to do first, and which chapter covers it in full. New posts every few days.</p>
+  <div class="cards">{% for s in posts %}<a class="card" href="{{ s.url }}"><span class="meta">{% if s.pinned %}Free sample · {% endif %}{{ s.date }}</span><h3>{{ s.title }}</h3><p>{{ s.description }}</p></a>{% endfor %}</div>
+</section>
+<div class="wrap">{% include "_cta.html" %}</div>
+{% endblock %}

@@ -1,7 +1,7 @@
 <div class="btn-row">
   <a class="btn btn-amber" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
   <a class="btn btn-teal" href="{{ book.formats[3].url }}" rel="noopener">PDF direct from the author</a>
-  <a href="{{ book.free_sample }}" rel="noopener">Read Chapter 1 free ({{ book.free_sample_pages }} pages) →</a>
+  <a href="{{ book.free_sample }}">Read Chapter 1 free →</a>
 </div>
 <p class="markets">Kindle ${{ book.formats[0].price }} · Paperback ${{ book.formats[1].price }} · Hardcover ${{ book.formats[2].price }} · Also on
 {% for m in book.amazon_markets[1:] %}<a href="https://{{ m.host }}/dp/{{ book.formats[0].asin }}" rel="noopener">{{ m.name }}</a>{% endfor %}</p>
