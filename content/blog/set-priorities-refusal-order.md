@@ -1,12 +1,12 @@
 ---
 title: How to set priorities when everything is urgent: the refusal test
-description: A list of goals is not a priority until it has an order. The refusal test from the Jirgenson Model gives you that order in ten seconds and tells you what a crisis would take from you first.
+description: How to set priorities when everything is urgent: the refusal test from Steer, Don't Guess turns a wish list into a real order in ten seconds.
 date: 2026-10-29
 updated: 2026-10-29
 chapter: Chapter 1, Goal: not a dream but a list with an order
 slug: set-priorities-refusal-order
 keywords: [how to set priorities small business, prioritize goals when everything is urgent, refusal order of goals, goal setting for business owners, too many goals]
-answer: Write down everything you want, then ask one question: if circumstances forced you to drop these goals one by one, which would go first, second, and which would you defend to the last? The last one standing is your real priority. Keep the list to nine items or fewer, give each a number, a deadline and a source, and treat legal and safety requirements as constraints, not goals.
+answer: How to set priorities when everything is urgent: write down everything you want, then ask which goal you would drop first if circumstances forced you, and which you would defend to the last. The last one standing is your real priority. Keep nine goals or fewer, give each a number and a deadline, and treat law and safety as constraints.
 ---
 
 ## Why "what matters most" does not work
@@ -19,7 +19,7 @@ The Jirgenson Model replaces "what matters most" with a sharper question.
 
 The test takes ten seconds. If you cannot answer in ten seconds, someone is already answering for you.
 
-## How to build the list
+## How to set priorities when everything is urgent, step by step
 
 **1. Scan six areas.** Finance; clients; sales; processes and quality; people; and development and the owner (your own time, health, money, freedom). Take zero to three parameters from each. An area may stay empty only by a conscious, recorded choice: the owner's own health left off the list by accident is how a business ends up running its owner.
 
@@ -62,6 +62,16 @@ The refusal order elicits preferences; it is not a complete decision algorithm. 
 - Goals are what to achieve; methods are how. Obligations are constraints, not goals.
 - The same goals in a different order are a different plan.
 </div>
+
+## Why this chapter stays with you
+
+Most goal-setting books ask you to dream bigger. Chapter 1 of *Steer, Don't Guess* asks you to give things up, in advance, on paper, and that turns out to be far more useful. The refusal test is the idea early reviewers quote most, and it is easy to see why: it takes ten seconds, it cannot be faked, and it tells you something about your own life that no spreadsheet will. More than one reader has found that the goal they would defend to the last was not the one their calendar was serving.
+
+What the chapter does brilliantly is make the order practical. The same five goals in a different order lead to different decisions on a bad Tuesday, and the book shows exactly how: two plans for Andrew's coffee shop that meet the same number of goals, and only the order tells you which one is better.
+
+The order is also the foundation for everything that follows: red lines and [what to do first in a crisis](/blog/business-crisis-what-to-do-first/), and reading [where your money really goes](/blog/busy-but-not-profitable/). The full map is in [the Jirgenson Model explained](/blog/jirgenson-model-management-method/).
+
+The whole of Chapter 1, with the worked examples, is in [the free sample](/blog/free-sample/). If the refusal test does something for you, the rest of the method is in the book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 

@@ -1,12 +1,12 @@
 ---
-title: "The Jirgenson Model: a management method for small business owners who are tired of guessing"
-description: What the Jirgenson Model is, who Martin Jirgenson is, and how the method applies control theory to business and life: priorities in refusal order, numbers instead of feelings, red lines, levers, feedback and forecast. With a glossary and a comparison with OKR, EOS, PDCA and the Balanced Scorecard.
+title: "The Jirgenson Model: a management method for small business owners"
+description: The Jirgenson Model by Martin Jirgenson: control theory for business and life, priorities, red lines and levers, with a glossary and an OKR comparison.
 date: 2026-10-29
 updated: 2026-10-29
 chapter: The whole book, Chapters 1 to 16
 slug: jirgenson-model-management-method
 keywords: [Jirgenson Model, Martin Jirgenson, management method for small business owners, control theory for business, feedback control management, how to set priorities in business and life, stop guessing business decisions, decision making framework for small business, management system for owners, OKR alternative, EOS alternative, business book on priorities and numbers]
-answer: The Jirgenson Model is a management method developed by Martin Jirgenson, a management systems researcher in Ontario, Canada, and set out in his book Steer, Don't Guess (2026). It applies the logic of control theory, the engineering discipline behind autopilots and thermostats, to a business, a career or a family budget. Management becomes three questions asked regularly: where do I want to go (an ordered list of measurable goals), where am I really (the same list filled with measured facts), and what can I actually move to close the gap (levers, kept apart from conditions I cannot change).
+answer: The Jirgenson Model is a management method by Martin Jirgenson, set out in Steer, Don't Guess (2026). It applies control theory to business and life in three questions asked regularly: where do I want to go, where am I really, and what can I actually move to close the gap?
 ---
 
 ## What the Jirgenson Model is, in one paragraph
@@ -167,6 +167,16 @@ Owners of small businesses who are the only thing holding it together. Freelance
 
 **Canon.** The compact, machine-readable rulebook of the model, used by AI assistants.
 
+</div>
+
+<div class="takeaways" markdown="1">
+### Key takeaways
+
+- The Jirgenson Model turns management into three questions: where am I going, where am I really, what can I move.
+- Goals get an order you choose in advance (the refusal test), and red lines you set while calm.
+- Levers are what you can change; conditions are what you can only watch. Plan only on levers.
+- Feedback catches problems; forecast gets ahead of them. The model uses both.
+- With an AI assistant, the canon and prompt cut invented facts from seven answers in ten to one in a hundred and twenty.
 </div>
 
 ## Where to start

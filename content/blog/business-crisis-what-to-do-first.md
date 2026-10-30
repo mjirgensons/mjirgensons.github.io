@@ -1,12 +1,12 @@
 ---
 title: How to handle a crisis in a small business: what to do first
-description: A crisis means one number has crossed a red line. What to do first, in which order, and what to leave untouched today: the red protocol from the Jirgenson Model, with a coffee-shop example in euros.
+description: How to handle a crisis in a small business: the red protocol from Steer, Don't Guess, the exact order of first moves, and a coffee shop worked in euros.
 date: 2026-10-29
 updated: 2026-10-29
 chapter: Chapter 4, Error: the main signal that drives decisions
 slug: business-crisis-what-to-do-first
 keywords: [business crisis what to do first, small business emergency plan, cash crisis small business, red line business, crisis management small business owner]
-answer: First, check for immediate danger to people, legal duties and mandatory payments and act on that. Then freeze everything secondary and put all time, money and attention on the one number that has crossed its red line, and on the levers that act on that number. If several numbers are red, start with the one closest to irreversible damage. Everything else waits.
+answer: How to handle a crisis in a small business, in one line: check for danger to people, legal duties and mandatory payments first; then freeze everything secondary and put all time, money and attention on the one number that has crossed its red line. If several are red, start with the one nearest to irreversible damage.
 ---
 
 ## What a crisis is, in numbers
@@ -17,7 +17,7 @@ In everyday language a crisis is a feeling: everything is on fire, the phone wil
 
 That definition does two things. It tells you the crisis is about *a number*, not about the number of fires; and it tells you that you still have a move, because "irreversible" has not arrived yet. The whole point of the red protocol is to use that window.
 
-## The red protocol: four steps in a fixed order
+## How to handle a crisis in a small business: the red protocol
 
 The book sets the order once, in a calm moment, so that you do not have to invent it at two in the morning.
 
@@ -61,6 +61,16 @@ The book promises nothing: forecasts can be wrong and the protocol does not repl
 - No growth moves while any parameter is red.
 - Set red lines in a calm moment and revise them rarely, never inside the crisis.
 </div>
+
+## What the book adds that a crisis checklist cannot
+
+Crisis checklists are everywhere, and most of them fail at two in the morning for the same reason: they tell you what to do but not in which order, and they say nothing about the numbers that should have warned you a month earlier. What Chapter 4 does brilliantly is turn "crisis" from a mood into a measurement. Once the red line is written down in a calm week, the panic has nowhere to stand. You are not deciding whether this is a crisis; the number has already decided, and you are simply following an order you chose when your head was clear.
+
+The chapter's quiet trick is the triage question for every new problem that lands during the storm: which goal does it belong to, what zone is that goal in, and is it more important than what I am doing right now? Three questions, and most interruptions politely leave the room.
+
+It also connects to everything around it. The red line only works if your goals have an order ([the refusal test](/blog/set-priorities-refusal-order/)), and the red number is usually the reserve that looked fine while the shop was full ([busy but not profitable](/blog/busy-but-not-profitable/)). The whole system is laid out in [the Jirgenson Model explained](/blog/jirgenson-model-management-method/).
+
+If you run a business, read this chapter before you need it. Start with [the free sample](/blog/free-sample/), then get the full book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 

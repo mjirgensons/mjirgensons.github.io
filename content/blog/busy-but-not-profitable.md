@@ -1,12 +1,12 @@
 ---
 title: Busy but not profitable: how to see it in the numbers
-description: A full shop and an empty account are not a mystery; they are a measurement problem. How to read your real state with one source per number, what the coffee-shop owner in Steer, Don't Guess found once write-offs were counted, and the five numbers to check every week.
+description: Busy but not profitable? How a full coffee shop with an empty till finds its real margin, and the five numbers every owner should check weekly.
 date: 2026-10-29
 updated: 2026-10-29
 chapter: Chapter 2, Where you really are
 slug: busy-but-not-profitable
 keywords: [busy but not profitable, small business profit margin low, where does the money go small business, cash reserve months of expenses, business numbers for owners]
-answer: You are busy because you count activity; you are not profitable because you do not count the state. Replace "many, few, normal" with measured values from one source per number, count the costs that never make it into the spreadsheet (write-offs, your own hours, free extras), and express your reserve in months of expenses. Most owners find the margin is lower than they felt it was, and that is the first number a plan can be built on.
+answer: Busy but not profitable means you are counting activity instead of the state. Replace "many, few, normal" with measured values from one source per number, count the costs that never become a payment (write-offs, your own hours, free extras), and express your reserve in months of expenses. Most owners find the margin is lower than it felt.
 ---
 
 ## The queue is not a number
@@ -17,7 +17,7 @@ That is the opening of *Steer, Don't Guess*, and it describes a state most owner
 
 <div class="def"><strong>In the Jirgenson Model, the state vector</strong> is the same list of goals you already have, filled in with measured facts: not "many", "few" or "normal", but values, each with one definition, one main source and one owner of the calculation. Panic and bravado both replace facts with feelings; the state is accepted as it is.</div>
 
-## Where the money went
+## Busy but not profitable: where the money went
 
 When Andrew finally counts, three things are missing from his picture.
 
@@ -60,6 +60,16 @@ The book states its limits: this is an illustration, not a financial model of a 
 - Express the reserve in months of expenses; it is the unit that says how long you have.
 - One indicator, one definition, one source, one owner. Unknown is not green.
 </div>
+
+## The chapter that makes a full room add up
+
+There is a particular kind of tiredness that comes from a business that looks successful. The queue is real, the compliments are real, and the bank balance at the end of the month is also real. Chapter 2 of *Steer, Don't Guess* is written for exactly that tiredness, and its answer is refreshingly unglamorous: stop reading the room and start reading the numbers, one source at a time.
+
+What the chapter does brilliantly is show how little it takes. Andrew does not hire a consultant or buy software. He counts what goes in the bin for two weeks, writes his reserve in months instead of dollars, and puts his own hours on the list. Three small acts of honesty, none of which takes more than an evening, and the fog lifts: a margin of 9%, half a month of reserve, a red zone he had been living in without a name for it.
+
+From there the book shows what to do with an honest picture: which [levers to pull first in the red zone](/blog/business-crisis-what-to-do-first/), how to decide [which goal gives way first](/blog/set-priorities-refusal-order/), and how it all fits into [the Jirgenson Model](/blog/jirgenson-model-management-method/).
+
+Andrew's story starts in the Prologue of [the free sample](/blog/free-sample/). His running numbers, month by month, are in the book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 
