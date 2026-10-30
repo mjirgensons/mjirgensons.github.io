@@ -10,7 +10,7 @@ Every day the business decides your day: the breakdown, the late supplier, the c
 
 *Steer, Don't Guess* replaces guessing with instruments. It is one method, about 250 pages, for owners, managers and freelancers who are the only thing holding it together. It is not a motivational book and it does not say "delegate more". It gives mechanics: goals in an order you chose, your real position in numbers rather than feelings, red lines drawn before the crisis, and a hard wall between the levers you can pull and the weather you can only watch.
 
-<div class="def"><strong>The Jirgenson Model</strong> is a management method built on three questions: where do you want to go (a short list of measurable goals in refusal order), where are you now (the same list filled in with measured facts), and what can you actually move to close the gap (levers, kept apart from conditions). Everything else in the book is a way to do this regularly, precisely and on course. [The Jirgenson Model explained →](/blog/jirgenson-model-management-method/)</div>
+<div class="def"><strong>The Jirgenson Model</strong> is a management method built on three questions: where do you want to go (a short list of measurable goals in refusal order), where are you now (the same list filled in with measured facts), and what can you actually move to close the gap (levers, kept apart from conditions). Everything else in the book is a way to do this regularly, precisely and on course. <a href="/blog/jirgenson-model-management-method/">The Jirgenson Model explained →</a></div>
 
 ## What you will learn
 
