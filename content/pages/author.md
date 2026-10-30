@@ -15,7 +15,7 @@ Martin Jirgenson is a researcher in control systems, a management practitioner o
 
 ## The Jirgenson Model
 
-The model treats any result as a process with points of control. Management is three things done regularly: know where you want to go (a short, ordered list of measurable goals), know where you really are (the same list filled with measured facts), and reduce the gap (levers you can move, kept apart from conditions you cannot). The rest of the model, zones and red lines, three schemes of control, three offsets, the backward move, exists to do those three things precisely and on course.
+The model treats any result as a process with points of control. Management is three things done regularly: know where you want to go (a short, ordered list of measurable goals), know where you really are (the same list filled with measured facts), and reduce the gap (levers you can move, kept apart from conditions you cannot). The rest of the model, zones and red lines, three schemes of control, three offsets, the backward move, exists to do those three things precisely and on course. [The Jirgenson Model explained, with a glossary →](/blog/jirgenson-model-management-method/)
 
 The model's rulebook, the **canon**, and the **operating prompt** for AI assistants are published under an open licence on [GitHub](https://github.com/mjirgensons/jirgenson-model), together with the blind test that measured them. [How to use them →](/ai-assistant/)
 
