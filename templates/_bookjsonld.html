@@ -2,7 +2,7 @@
 {{ {
  "@context":"https://schema.org","@type":"Book","@id": site.url + "/#book",
  "name": book.full_title, "alternateName": book.title, "headline": book.title,
- "author": {"@type":"Person","@id": site.url + "/author/#person","name": site.author,"jobTitle": site.author_title,"image": site.url + site.author_photo,"url": site.url + "/author/","sameAs":[site.github_user, site.github_model, site.github_canon, site.gumroad_profile]},
+ "author": {"@type":"Person","@id": site.url + "/author/#person","name": site.author,"jobTitle": site.author_title,"image": site.url + site.author_photo,"url": site.url + "/author/","sameAs":[site.linkedin, site.amazon_author, site.github_user, site.github_model, site.github_canon, site.gumroad_profile]},
  "inLanguage":"en","publisher":{"@type":"Organization","name":book.publisher},"datePublished":book.date_published,
  "image": site.url + book.cover, "url": site.url + "/", "genre":["Business","Management","Decision making"],
  "about":["Setting priorities","Reading business numbers","Course correction","Small business management","Control theory in management","AI assistant prompt for business decisions"],

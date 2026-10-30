@@ -28,6 +28,7 @@ The model's rulebook, the **canon**, and the **operating prompt** for AI assista
 ## Elsewhere
 
 - [GitHub](https://github.com/mjirgensons)
-- [Amazon author page](https://www.amazon.com/dp/B0HPBR6BNX)
+- [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/)
+- [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ)
 - [Gumroad](https://jirgenstorm4.gumroad.com)
 - [Contact](/contact/)
