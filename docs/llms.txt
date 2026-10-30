@@ -17,6 +17,7 @@
 - https://mjirgensons.github.io/blog/lagging-vs-leading-indicators/
 - https://mjirgensons.github.io/blog/levers-of-control/
 - https://mjirgensons.github.io/blog/okr-alternative-small-business/
+- https://mjirgensons.github.io/blog/one-page-business-plan/
 - https://mjirgensons.github.io/blog/priorities-in-life/
 - https://mjirgensons.github.io/blog/save-for-a-goal/
 - https://mjirgensons.github.io/blog/traffic-light-dashboard/
