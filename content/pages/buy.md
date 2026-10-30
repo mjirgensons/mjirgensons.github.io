@@ -10,13 +10,13 @@ priority: 0.9
 
 ## Amazon
 
-<table class="formats"><thead><tr><th>Format</th><th class="n">Price (USD)</th><th>Amazon.com</th><th>Other stores</th></tr></thead><tbody>
+<table class="formats"><thead><tr><th>Format</th><th class="n">Price</th><th>Amazon.com</th><th>Other stores</th></tr></thead><tbody>
 <tr><td>Kindle eBook, 264 pages</td><td class="n">$9.99</td><td><a href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Buy Kindle</a></td><td><a href="https://www.amazon.ca/dp/B0HPBR6BNX" rel="noopener">.ca</a> · <a href="https://www.amazon.co.uk/dp/B0HPBR6BNX" rel="noopener">.co.uk</a> · <a href="https://www.amazon.de/dp/B0HPBR6BNX" rel="noopener">.de</a></td></tr>
 <tr><td>Paperback, 237 pages, 6 × 9 in</td><td class="n">$19.99</td><td><a href="https://www.amazon.com/dp/B0HPCJCWKF" rel="noopener">Buy paperback</a></td><td><a href="https://www.amazon.ca/dp/B0HPCJCWKF" rel="noopener">.ca</a> · <a href="https://www.amazon.co.uk/dp/B0HPCJCWKF" rel="noopener">.co.uk</a> · <a href="https://www.amazon.de/dp/B0HPCJCWKF" rel="noopener">.de</a></td></tr>
 <tr><td>Hardcover, 237 pages, 6.24 × 9.24 in</td><td class="n">$49.99</td><td><a href="https://www.amazon.com/dp/B0HPCR2G46" rel="noopener">Buy hardcover</a></td><td><a href="https://www.amazon.ca/dp/B0HPCR2G46" rel="noopener">.ca</a> · <a href="https://www.amazon.co.uk/dp/B0HPCR2G46" rel="noopener">.co.uk</a> · <a href="https://www.amazon.de/dp/B0HPCR2G46" rel="noopener">.de</a></td></tr>
 </tbody></table>
 
-Prices are set in US dollars; Amazon shows your local currency at checkout. ISBN paperback 979-8164833749, hardcover 979-8164846152. If your local Amazon store does not show the book, search for the ISBN.
+ISBN paperback 979-8164833749, hardcover 979-8164846152. If your local Amazon store does not show the book, search for the ISBN.
 
 ## Direct from the author (PDF)
 
