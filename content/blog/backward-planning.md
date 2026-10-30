@@ -64,13 +64,15 @@ You do not need software. A sheet of paper and twenty minutes will do. Here is t
 4. **Check resources at every row.** Money, people and time must exist for each step, or the chain is a story.
 5. **Read the first row as your task for this week.**
 
+Fill it from the bottom up, starting with the goal, exactly as Andrew did; then read it from the top, where this week sits.
+
 | Time before the goal | What must be true | Resources needed | Check date |
 |---|---|---|---|
-| 0 (the goal) | | | |
-| 1 month | | | |
-| 3 months | | | |
+| This week (today) | | | |
 | 6 months | | | |
-| This week | | | |
+| 3 months | | | |
+| 1 month | | | |
+| 0 (the goal) | | | |
 
 ## Five questions: when reverse planning becomes real optimization
 
@@ -86,7 +88,7 @@ A "yes" to all five is rare, and the book says so. But if you cannot answer the 
 
 ## Where planning backwards breaks
 
-Two failures sink a backward plan, and the book names both. If the starting point is wrong, a flawless algorithm still takes you to the wrong place: "never mistake an open window on a high floor for an exit." And if the goal belongs to a dying environment, even the best route ends in a dead end. The model's working hypothesis is that the better a goal is aligned with the direction of its surroundings, the less resistance you meet; in Andrew's case, the university building next door works for the second location, not against it.
+Two failures sink a backward plan, and the book names both. If the starting point is wrong, a flawless algorithm still takes you to the wrong place. As the book warns, recalling the man lost in a building who heads for the only opening he can see: "never mistake an open window on a high floor for an exit." And if the goal belongs to a dying environment, even the best route ends in a dead end. The model's working hypothesis is that the better a goal is aligned with the direction of its surroundings, the less resistance you meet; in Andrew's case, the university building next door works for the second location, not against it.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -115,4 +117,4 @@ Write the end state and today's state precisely, then ask what must be true 3, 6
 
 ### Is there a backward planning template?
 
-Yes: a table with columns for time before the goal, what must be true, resources needed and a check date. The first row you fill from the bottom is your task for this week.
+Yes: a table with columns for time before the goal, what must be true, resources needed and a check date. Put the goal in the bottom row and today in the top row, fill it upwards from the goal, and the top row is your task for this week.
