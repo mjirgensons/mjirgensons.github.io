@@ -4,10 +4,9 @@ description: Lagging vs leading indicators for small business owners: what each 
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 5, Levers: what you can really change; Chapter 6, Concept and plan; Chapter 8, Factors; Chapter 13, Tools
-draft: true
 slug: lagging-vs-leading-indicators
 keywords: [lagging vs leading indicators, leading indicators, leading indicators example, what is a leading indicator, lagging indicators, leading vs lagging kpi]
-answer: "Lagging vs leading indicators: lagging ones, such as monthly revenue or profit, tell you what has already happened. Leading ones, such as enquiries, bookings or margin per receipt this week, point to what is likely to happen next, while you can still act. Give every financial goal at least one leading indicator, check it weekly, and test that it really predicts the result."
+answer: "The main difference is timing: lagging indicators, such as monthly revenue or profit, tell you what has already happened. Leading indicators, such as enquiries, bookings or margin per receipt this week, point to what is likely to happen next, while you can still act. Give every financial goal at least one leading indicator, check it weekly, and test that it really predicts the result."
 ---
 
 Picture a house with one safety device: a fire alarm. It works perfectly. It rings loudly, every time, the moment the living room is in flames.
@@ -45,12 +44,12 @@ Take Andrew's coffee shop. His goal was a 15% margin by month six, starting from
 
 There is a scale of information value worth keeping in your head. From most to least useful for a decision:
 
-1. Information about processes that may create a threat or an opportunity.
+1. Information about processes that may create a threat or an opportunity (a new university building going up next door).
 2. A threat or an opportunity has appeared.
 3. It has begun to materialise; a trend is visible.
 4. There is a deviation, but within permissible limits.
 5. The deviation is at the edge of what is permissible.
-6. The parameter has gone beyond the limit.
+6. The parameter has gone beyond the limit (the monthly profit figure arrives, and it is already red).
 
 Lagging indicators live at the bottom of that list. By the time monthly profit is red, you are at step six, and every option left is an emergency option. Leading indicators live at the top. They give you the same information while the choice is still calm.
 
