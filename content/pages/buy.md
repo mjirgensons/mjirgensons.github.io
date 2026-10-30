@@ -20,7 +20,7 @@ Prices are set in US dollars; Amazon shows your local currency at checkout. ISBN
 
 ## Direct from the author (PDF)
 
-- [Steer, Don't Guess, PDF (A5), about 250 pages, $15.00 (USD)](https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&utm_medium=buy) on Gumroad. Same text as the print editions, readable on any device, no DRM.
+- [Steer, Don't Guess, PDF (A5), about 250 pages, $15.00](https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&utm_medium=buy) on Gumroad. Same text as the print editions, readable on any device, no DRM.
 - [Chapter 1 free: introduction, Chapter 1 and the one-page cheat sheet, 44 pages](https://jirgenstorm4.gumroad.com/l/steer-free-sample?utm_source=site&utm_medium=buy). Run the refusal test on yourself first.
 
 ## The canon and the prompt are free
