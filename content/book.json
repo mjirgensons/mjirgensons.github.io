@@ -9,21 +9,86 @@
   "cover": "/img/cover.jpg",
   "cover_webp": "/img/cover.webp",
   "formats": [
-    {"key": "kindle", "name": "Kindle eBook", "price": "9.99", "currency": "USD", "asin": "B0HPBR6BNX", "pages": 264, "url": "https://www.amazon.com/dp/B0HPBR6BNX", "schema": "EBook"},
-    {"key": "paperback", "name": "Paperback", "price": "19.99", "currency": "USD", "asin": "B0HPCJCWKF", "isbn": "9798164833749", "pages": 237, "url": "https://www.amazon.com/dp/B0HPCJCWKF", "schema": "Paperback", "dims": "6 x 9 in"},
-    {"key": "hardcover", "name": "Hardcover", "price": "49.99", "currency": "USD", "asin": "B0HPCR2G46", "isbn": "9798164846152", "pages": 237, "url": "https://www.amazon.com/dp/B0HPCR2G46", "schema": "Hardcover", "dims": "6.24 x 9.24 in"},
-    {"key": "pdf", "name": "PDF (A5), direct from the author", "price": "15.00", "currency": "USD", "pages": 250, "url": "https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&utm_medium=cta", "schema": "EBook"}
+    {
+      "key": "kindle",
+      "name": "Kindle eBook",
+      "price": "9.99",
+      "currency": "USD",
+      "asin": "B0HPBR6BNX",
+      "pages": 264,
+      "url": "https://www.amazon.com/dp/B0HPBR6BNX",
+      "schema": "EBook"
+    },
+    {
+      "key": "paperback",
+      "name": "Paperback",
+      "price": "19.99",
+      "currency": "USD",
+      "asin": "B0HPCJCWKF",
+      "isbn": "9798164833749",
+      "pages": 237,
+      "url": "https://www.amazon.com/dp/B0HPCJCWKF",
+      "schema": "Paperback",
+      "dims": "6 x 9 in"
+    },
+    {
+      "key": "hardcover",
+      "name": "Hardcover",
+      "price": "49.99",
+      "currency": "USD",
+      "asin": "B0HPCR2G46",
+      "isbn": "9798164846152",
+      "pages": 237,
+      "url": "https://www.amazon.com/dp/B0HPCR2G46",
+      "schema": "Hardcover",
+      "dims": "6.24 x 9.24 in"
+    },
+    {
+      "key": "pdf",
+      "name": "PDF (A5), direct from the author",
+      "price": "15.00",
+      "currency": "USD",
+      "pages": 250,
+      "url": "https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&utm_medium=cta",
+      "schema": "EBook"
+    }
   ],
   "amazon_markets": [
-    {"name": "Amazon.com", "host": "www.amazon.com"},
-    {"name": "Amazon.ca", "host": "www.amazon.ca"},
-    {"name": "Amazon.co.uk", "host": "www.amazon.co.uk"},
-    {"name": "Amazon.de", "host": "www.amazon.de"}
+    {
+      "name": "Amazon.com",
+      "host": "www.amazon.com"
+    },
+    {
+      "name": "Amazon.ca",
+      "host": "www.amazon.ca"
+    },
+    {
+      "name": "Amazon.co.uk",
+      "host": "www.amazon.co.uk"
+    },
+    {
+      "name": "Amazon.de",
+      "host": "www.amazon.de"
+    }
   ],
   "free_sample": "/blog/free-sample/",
   "free_sample_pdf": "https://jirgenstorm4.gumroad.com/l/steer-free-sample?utm_source=site&utm_medium=cta",
   "free_sample_pages": 44,
-  "e5": {"with": "88.9", "without": "55.9", "pairs": "30 of 30", "facts_before": "75%", "facts_after": "11%",
-         "limits": "one judge model, one model family, ten cases; the full method, data and limits are public",
-         "url": "https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10"}
+  "e5": {
+    "with": "88.8",
+    "without": "56.2",
+    "generic": "67.7",
+    "pairs": "30 of 30",
+    "higher": "58%",
+    "higher_generic": "31%",
+    "facts_before": "7 in 10",
+    "facts_after": "1 in 120",
+    "violations": "0",
+    "reviews": "120",
+    "control_before": "4.2",
+    "control_after": "8.3",
+    "version": "1.5",
+    "limits": "ten scenarios, one model family, an AI judge",
+    "url": "https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10"
+  }
 }

@@ -15,9 +15,9 @@
   <div class="cover"><picture><source srcset="{{ book.cover_webp }}" type="image/webp"><img src="{{ book.cover }}" width="600" height="917" alt="Cover of Steer, Don't Guess by Martin Jirgenson: a gauge with red, yellow and green zones" fetchpriority="high"></picture></div>
 </div></section>
 <section class="wrap"><div class="proof">
-  <div class="tile"><span class="num">{{ book.e5.with }}</span><p>out of 100 on ten realistic business cases with the book's canon and prompt, against {{ book.e5.without }} without. Blind judge, pre-registered answer key.</p></div>
-  <div class="tile"><span class="num">{{ book.e5.pairs }}</span><p>pairs in which the judge preferred the method's answer.</p></div>
-  <div class="tile"><span class="num" style="font-size:clamp(36px,3.6vw,48px)">{{ book.e5.facts_before }} → {{ book.e5.facts_after }}</span><p>share of answers with an invented fact, before and after. Limits: {{ book.e5.limits }}. <a href="{{ book.e5.url }}" rel="noopener">See the data</a>.</p></div>
+  <div class="tile"><span class="num">{{ book.e5.facts_after }}</span><p>answers with an invented fact when an AI works with the book's canon and prompt. Without them: {{ book.e5.facts_before }}.</p></div>
+  <div class="tile"><span class="num">{{ book.e5.pairs }}</span><p>blind pairings won. The same AI scores {{ book.e5.with }} out of 100 with the method and {{ book.e5.without }} without: {{ book.e5.higher }} higher.</p></div>
+  <div class="tile"><span class="num">{{ book.e5.violations }}</span><p>rule violations in {{ book.e5.reviews }} blind reviews. Limits: {{ book.e5.limits }}. <a href="{{ book.e5.url }}" rel="noopener">The method and data</a>.</p></div>
 </div></section>
 <article class="wrap col" id="book">
 {{ page.body | safe }}

@@ -1,4 +1,4 @@
-# Steer, Don't Guess — everything on this site may be crawled, indexed, cited and used by search and AI assistants.
+# Steer, Don't Guess: everything on this site may be crawled, indexed, cited and used by search and AI assistants.
 User-agent: *
 Allow: /
 

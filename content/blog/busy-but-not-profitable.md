@@ -21,7 +21,7 @@ That is the opening of *Steer, Don't Guess*, and it describes a state most owner
 
 When Andrew finally counts, three things are missing from his picture.
 
-**Write-offs.** Milk past its date, pastries thrown out at closing, the free coffee for the regular who "always comes back". None of it is in the spreadsheet, because none of it was a payment. Counted, it moves his margin from the 12–13% he felt to 9%.
+**Write-offs.** Milk past its date, pastries thrown out at closing, the free coffee for the regular who "always comes back". None of it is in the spreadsheet, because none of it was a payment. Counted, it moves his margin from the 12 to 13% he felt to 9%.
 
 **His own hours.** He works the bar when a barista is sick and does the books at night. At zero cost in the accounts, at full cost in his life. The model puts the owner's time, health and money into the goal list on purpose, so that it cannot disappear.
 
@@ -29,7 +29,7 @@ When Andrew finally counts, three things are missing from his picture.
 
 | | What Andrew felt | What the numbers show |
 |---|---|---|
-| Margin | "about 12–13%" | 9% once write-offs are counted |
+| Margin | "about 12 to 13%" | 9% once write-offs are counted |
 | Monthly profit | "a few thousand" | €2,700 |
 | Reserve | "the account is fine" | 0.5 months of expenses: red |
 | Owner's time | not counted | counted, and over the limit |

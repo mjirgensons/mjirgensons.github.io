@@ -70,7 +70,7 @@ if __name__ == "__main__":
     a = ap.parse_args()
     if a.all:
         root = Path(__file__).resolve().parent.parent
-        errs = [e for p in list((root / "content").rglob("*.*")) + list((root / "templates").rglob("*.html")) if p.suffix in (".md", ".html", ".json") for e in dash_errors(p)]
+        errs = [e for p in list((root / "content").rglob("*.*")) + list((root / "templates").rglob("*.html")) + list((root / "static").rglob("*.*")) if p.suffix in (".md", ".html", ".json", ".txt", ".css", ".svg") for e in dash_errors(p)]
         warns = []
     else:
         errs, warns = check_post(a.path, a.keyword)

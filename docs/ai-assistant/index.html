@@ -4,14 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Jirgenson Model canon and prompt for AI assistants · Steer, Don&#39;t Guess</title>
-<meta name="description" content="Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model: priorities in refusal order, numbers not feelings, red lines, levers, two forecasts. Blind-tested: 88.9 vs 55.9, invented facts 75% to 11%.">
+<meta name="description" content="Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model. Blind-tested: invented facts fell from 7 answers in 10 to 1 in 120.">
 <link rel="canonical" href="https://mjirgensons.github.io/ai-assistant/">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 <meta name="author" content="Martin Jirgenson">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Steer, Don&#39;t Guess">
 <meta property="og:title" content="The Jirgenson Model canon and prompt for AI assistants">
-<meta property="og:description" content="Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model: priorities in refusal order, numbers not feelings, red lines, levers, two forecasts. Blind-tested: 88.9 vs 55.9, invented facts 75% to 11%.">
+<meta property="og:description" content="Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model. Blind-tested: invented facts fell from 7 answers in 10 to 1 in 120.">
 <meta property="og:url" content="https://mjirgensons.github.io/ai-assistant/">
 <meta property="og:image" content="https://mjirgensons.github.io/img/cover.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -25,7 +25,7 @@
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "WebSite", "alternateName": "The Jirgenson Model", "author": {"@type": "Person", "name": "Martin Jirgenson"}, "name": "Steer, Don\u0027t Guess", "url": "https://mjirgensons.github.io"}
 </script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "Any capable language model that accepts a long text attachment or paste: ChatGPT, Claude, Gemini and others. The published test used one model family; results elsewhere may differ."}, "name": "Which AI assistants does it work with?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "No. The canon forbids it (\u00a715.2): the assistant proposes a refusal order from your words, marks it as its own proposal, and proceeds; you confirm or change it."}, "name": "Will the assistant choose my priorities for me?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "The prompt allows only three kinds of sentence about your situation: your facts, arithmetic shown from them, and assumptions labelled as such. In the blind test, answers with an invented fact fell from 75% to 11%; not to zero."}, "name": "Does it invent numbers?"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "HowTo", "description": "Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model: priorities in refusal order, numbers not feelings, red lines, levers, two forecasts. Blind-tested: 88.9 vs 55.9, invented facts 75% to 11%.", "name": "How to use the Jirgenson Model canon and operating prompt with an AI assistant", "step": [{"@type": "HowToStep", "name": "Download the canon and the prompt", "text": "Download jirgenson_canon_v1.0_en.txt and jirgenson_prompt_v1.1_en.txt from GitHub."}, {"@type": "HowToStep", "name": "Start a new conversation", "text": "Open a new conversation with a language model assistant."}, {"@type": "HowToStep", "name": "Attach the canon", "text": "Attach the canon file or paste its full text."}, {"@type": "HowToStep", "name": "Send the prompt", "text": "Send the operating prompt as your first message."}, {"@type": "HowToStep", "name": "Describe your situation", "text": "Describe your situation in plain words with your numbers as the second message."}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "Any capable language model that accepts a long text attachment or paste: ChatGPT, Claude, Gemini and others. The published test used one model family; results elsewhere may differ."}, "name": "Which AI assistants does it work with?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "No. The canon forbids it (\u00a715.2): the assistant proposes a refusal order from your words, marks it as its own proposal, and proceeds; you confirm or change it."}, "name": "Will the assistant choose my priorities for me?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "The prompt allows only three kinds of sentence about your situation: your facts, arithmetic shown from them, and assumptions labelled as such. In the final round of the blind test, answers with an invented fact fell from 7 in 10 to 1 in 120."}, "name": "Does it invent numbers?"}]}</script><script type="application/ld+json">{"@context": "https://schema.org", "@type": "HowTo", "description": "Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model. Blind-tested: invented facts fell from 7 answers in 10 to 1 in 120.", "name": "How to use the Jirgenson Model canon and operating prompt with an AI assistant", "step": [{"@type": "HowToStep", "name": "Download the canon and the prompt", "text": "Download jirgenson_canon_v1.0_en.txt and jirgenson_prompt_v1.1_en.txt from GitHub."}, {"@type": "HowToStep", "name": "Start a new conversation", "text": "Open a new conversation with a language model assistant."}, {"@type": "HowToStep", "name": "Attach the canon", "text": "Attach the canon file or paste its full text."}, {"@type": "HowToStep", "name": "Send the prompt", "text": "Send the operating prompt as your first message."}, {"@type": "HowToStep", "name": "Describe your situation", "text": "Describe your situation in plain words with your numbers as the second message."}]}</script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -64,37 +64,59 @@
 </ol>
 <p>Three modes are built in: <strong>emergency</strong> (one action for today), <strong>quick</strong> (where you are and what to do this week, in one reply), and <strong>full</strong> (analysis in rounds with up to five questions). You do not need to name the mode; the assistant picks it from your message.</p>
 <h2 id="what-the-blind-test-measured">What the blind test measured</h2>
-<p>The same model answered ten realistic business cases with the canon and prompt and without them. A stronger model judged every pair blind against a pre-registered answer key.</p>
+<p>Ten realistic business crises, each answered three times by the same AI (Claude Sonnet 5.5) with the canon and prompt and without them. A stronger model (Claude Opus 5.5) judged every pair blind, in both orders, against an answer key fixed in advance. Final round, prompt version 1.5:</p>
 <table>
 <thead>
 <tr>
 <th></th>
 <th>With the method</th>
 <th>Without</th>
+<th>Good generic prompt</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Score, 0–100</td>
-<td><strong>88.9</strong></td>
-<td>55.9</td>
+<td>Score out of 100</td>
+<td><strong>88.8</strong></td>
+<td>56.2</td>
+<td>67.7</td>
 </tr>
 <tr>
-<td>Pairs preferred by the judge</td>
+<td>Blind pairings won</td>
 <td><strong>30 of 30</strong></td>
 <td>0</td>
+<td></td>
 </tr>
 <tr>
-<td>Answers containing an invented fact</td>
-<td><strong>11%</strong></td>
-<td>75%</td>
+<td>Answers with an invented fact</td>
+<td><strong>1 in 120</strong></td>
+<td>7 in 10</td>
+<td></td>
+</tr>
+<tr>
+<td>Rule violations per answer</td>
+<td><strong>0</strong></td>
+<td>1.05</td>
+<td>0.97</td>
+</tr>
+<tr>
+<td>Control quality (1 to 10)</td>
+<td><strong>8.3</strong></td>
+<td>4.2</td>
+<td>6.0</td>
+</tr>
+<tr>
+<td>Critical points covered</td>
+<td><strong>97%</strong></td>
+<td>55%</td>
+<td>66%</td>
 </tr>
 </tbody>
 </table>
-<p>Limits, stated in the book and in the repository: one judge model, one model family, ten development cases (ten further sealed cases are held out and hashed). The full method, raw answers, all 120 judge records, a second-judge spot check and the scripts are <a href="https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10">public</a>. Don&rsquo;t believe it; run it.</p>
+<p>The single invented fact in 120 reviews was copied from an example sentence inside the prompt itself. Limits: ten scenarios, one model family, an AI judge. The results above are for the latest tested version of the prompt (1.5); the files on GitHub are the book edition. The method and the earlier round&rsquo;s full data, with every answer, judge record and script, are <a href="https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10">public</a>. Don&rsquo;t believe it; run it.</p>
 <h2 id="what-you-get-back">What you get back</h2>
 <p>A short brief in your own words: where you are (three to six numbers, computed), the greatest danger with a date and an amount, what to do today, this week and this month on levers you actually control, what you protect first, what not to do now, what to measure and when to check, and two forecasts, &ldquo;if nothing changes&rdquo; and &ldquo;if the plan works&rdquo;, each with a range. The model&rsquo;s vocabulary stays inside the assistant&rsquo;s reasoning; you see results.</p>
-  <h2>Questions people ask</h2><details><summary>Which AI assistants does it work with?</summary><p>Any capable language model that accepts a long text attachment or paste: ChatGPT, Claude, Gemini and others. The published test used one model family; results elsewhere may differ.</p></details><details><summary>Will the assistant choose my priorities for me?</summary><p>No. The canon forbids it (§15.2): the assistant proposes a refusal order from your words, marks it as its own proposal, and proceeds; you confirm or change it.</p></details><details><summary>Does it invent numbers?</summary><p>The prompt allows only three kinds of sentence about your situation: your facts, arithmetic shown from them, and assumptions labelled as such. In the blind test, answers with an invented fact fell from 75% to 11%; not to zero.</p></details>
+  <h2>Questions people ask</h2><details><summary>Which AI assistants does it work with?</summary><p>Any capable language model that accepts a long text attachment or paste: ChatGPT, Claude, Gemini and others. The published test used one model family; results elsewhere may differ.</p></details><details><summary>Will the assistant choose my priorities for me?</summary><p>No. The canon forbids it (§15.2): the assistant proposes a refusal order from your words, marks it as its own proposal, and proceeds; you confirm or change it.</p></details><details><summary>Does it invent numbers?</summary><p>The prompt allows only three kinds of sentence about your situation: your facts, arithmetic shown from them, and assumptions labelled as such. In the final round of the blind test, answers with an invented fact fell from 7 in 10 to 1 in 120.</p></details>
 </article>
 <div class="wrap"><section class="cta">
   <h2>You call it busy.<br><span class="u">It is guessing, with extra steps.</span></h2>

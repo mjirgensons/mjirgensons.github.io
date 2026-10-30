@@ -95,7 +95,7 @@ If you already run OKR or EOS, the model gives you the missing layer: the order 
 
 ## The AI version: a canon and a prompt
 
-The model is also written for language models. Its canon, a compact rulebook, and an operating prompt are [published openly](/ai-assistant/). With them, an AI assistant such as ChatGPT, Claude or Gemini stops giving generic advice and works through your numbers in a fixed order: priorities, state, red lines, levers, two forecasts. In a blind test on ten realistic business cases, the same model scored 88.9 out of 100 with the method against 55.9 without; a stronger judge preferred the method's answer in 30 of 30 pairs; answers containing an invented fact fell from 75% to 11%. One judge, one model family, ten cases: the limits are stated, and the data is public.
+The model is also written for language models. Its canon, a compact rulebook, and an operating prompt are [published openly](/ai-assistant/). With them, an AI assistant such as ChatGPT, Claude or Gemini stops giving generic advice and works through your numbers in a fixed order: priorities, state, red lines, levers, two forecasts. In a blind test on ten realistic business crises, the same AI invented a fact in seven answers out of ten when left alone, and in one answer out of a hundred and twenty with the model. It scored 88.8 out of 100 against 56.2, won 30 blind pairings out of 30 and broke no rules in 120 reviews. Ten scenarios, one model family, an AI judge; the method and the earlier round's full data are public on GitHub.
 
 ## Who the method is for
 
