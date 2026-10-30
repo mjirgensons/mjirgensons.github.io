@@ -4,7 +4,6 @@ description: An OKR alternative for small business: one freelancer's goals writt
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 14, One model for every field; Chapter 1, Goal: not a dream but a list with an order; Chapter 4, Error
-draft: true
 slug: okr-alternative-small-business
 keywords: [okr alternative, okr for small business, okr vs balanced scorecard, okr alternative for small business, okr problems, goal setting for small business]
 answer: "A good OKR alternative for small business keeps what OKRs do well (few goals, measurable results) and adds what a small team needs most: a refusal order that says which goal wins when two collide, three zones for every number so you know when to act, and named levers for each goal. The Jirgenson Model is built that way and can sit on top of OKRs rather than replace them."

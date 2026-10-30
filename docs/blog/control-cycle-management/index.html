@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The control cycle: why reactive management always runs late</title>
+<meta name="description" content="The control cycle in eight stages, why reactive management falls behind, and a croissant order run three ways with every error counted. PDCA side by side.">
+<link rel="canonical" href="https://mjirgensons.github.io/blog/control-cycle-management/">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta name="author" content="Martin Jirgenson">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Steer, Don&#39;t Guess">
+<meta property="og:title" content="The control cycle: why reactive management always runs late">
+<meta property="og:description" content="The control cycle in eight stages, why reactive management falls behind, and a croissant order run three ways with every error counted. PDCA side by side.">
+<meta property="og:url" content="https://mjirgensons.github.io/blog/control-cycle-management/">
+<meta property="og:image" content="https://mjirgensons.github.io/img/cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="Steer, Don&#39;t Guess: Blog" href="https://mjirgensons.github.io/rss.xml">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebSite", "alternateName": "The Jirgenson Model", "author": {"@type": "Person", "name": "Martin Jirgenson"}, "name": "Steer, Don\u0027t Guess", "url": "https://mjirgensons.github.io"}
+</script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "about": ["control cycle", "reactive vs proactive management", "feedback loop management", "pdca example", "what is a control cycle", "control by forecast"], "author": {"@id": "https://mjirgensons.github.io/author/#person", "@type": "Person", "image": "https://mjirgensons.github.io/img/martin-jirgenson.jpg", "jobTitle": "Management systems researcher", "name": "Martin Jirgenson", "url": "https://mjirgensons.github.io/author/"}, "dateModified": "2026-10-30", "datePublished": "2026-10-30", "description": "The control cycle in eight stages, why reactive management falls behind, and a croissant order run three ways with every error counted. PDCA side by side.", "headline": "The control cycle: why reactive management always runs late", "image": "https://mjirgensons.github.io/img/cover.jpg", "inLanguage": "en", "isPartOf": {"@id": "https://mjirgensons.github.io/#book", "@type": "Book", "name": "Steer, Don\u0027t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life"}, "mainEntityOfPage": "https://mjirgensons.github.io/blog/control-cycle-management/", "publisher": {"@type": "Person", "name": "Martin Jirgenson"}, "url": "https://mjirgensons.github.io/blog/control-cycle-management/", "wordCount": 1687}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "It is the closed loop every goal passes through: notice the pressure, recognise the situation, set goals, build the plan, build structures, observe, improve, and finish or maintain. No stage can be skipped; a missing one is done by someone else."}, "name": "What is a control cycle in management?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "Reactive management measures a deviation after it happens and corrects it, so it always lags. Proactive management forecasts the next state, acts on the forecast and lets new facts correct it. It is better only when the forecast beats yesterday\u0027s number."}, "name": "What is the difference between reactive and proactive management?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "PDCA covers the middle of it: planning, doing, checking and acting. A full control cycle adds noticing the pressure, naming the situation before planning, and deciding when a goal is reached and moves to maintenance."}, "name": "Is PDCA the same as a control cycle?"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "item": "https://mjirgensons.github.io/", "name": "Home", "position": 1}, {"@type": "ListItem", "item": "https://mjirgensons.github.io/blog/", "name": "Blog", "position": 2}, {"@type": "ListItem", "item": "https://mjirgensons.github.io/blog/control-cycle-management/", "name": "The control cycle: why reactive management always runs late", "position": 3}]}</script>
+
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap nav">
+    <a class="logo" href="/"><span class="logo-title">Steer, Don't Guess</span><span class="logo-sub">The Jirgenson Model</span></a>
+    <nav aria-label="Main">
+      <a href="/#book">Book</a>
+      <a href="/blog/">Blog</a>
+      <a href="/reviews/">Reviews</a>
+      <a href="/author/">Author</a>
+      <a href="/ai-assistant/">AI prompt</a>
+      <a class="btn btn-amber btn-sm" href="/buy/">Get the book</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+
+<article class="wrap col" style="padding-top:40px">
+  <p class="meta"><a href="/blog/">Blog</a> · Chapter 7, Full control cycle: eight stages; Chapter 9, Three ways to control: from the calendar to the forecast; Chapter 14, One model for every field</p>
+  <h1>The control cycle: why reactive management always runs late</h1>
+  <div class="byline"><a href="/author/" class="ava-link"><img class="ava" src="/img/martin-jirgenson-avatar.jpg" width="40" height="40" alt="Martin Jirgenson"></a><span class="meta">Martin Jirgenson · Published 2026-10-30 · 9 min read</span></div>
+  <p class="lead">A control cycle is the closed loop every goal passes through: notice the pressure, recognise the situation, set the goals, build the plan, build structures, observe, improve, and finish or maintain. Reactive management corrects only after a deviation appears, so it always runs late; proactive management forecasts the next state and acts on the forecast, then lets new facts correct it.</p>
+  
+  <nav class="toc" aria-label="Contents"><p class="meta" style="margin:0 0 6px">In this article</p><ul><li><a href="#three-drivers-on-the-same-road">Three drivers on the same road</a></li><li><a href="#reactive-vs-proactive-management-a-hundred-croissants-three-ways">Reactive vs proactive management: a hundred croissants, three ways</a></li><li><a href="#why-reactive-management-always-runs-late">Why reactive management always runs late</a></li><li><a href="#the-control-cycle-eight-stages-none-optional">The control cycle: eight stages, none optional</a></li><li><a href="#a-pdca-example-side-by-side-with-the-eight-stages">A PDCA example, side by side with the eight stages</a></li><li><a href="#where-this-does-not-reach">Where this does not reach</a></li><li><a href="#fifteen-minutes-to-find-the-empty-stage">Fifteen minutes to find the empty stage</a></li></ul></nav>
+  <div class="bookbody"><p>Every morning Andrew ordered a hundred croissants, because that was how it had always been done. On Tuesdays almost a third went in the bin. On Saturdays the display case was empty by ten. He called it bad luck.</p>
+<p>It was not bad luck. It was a control system, just a very primitive one. And the way he fixed it, in three attempts, is the clearest lesson in reactive versus proactive management I know, because every attempt can be counted in croissants.</p>
+<h2 id="three-drivers-on-the-same-road">Three drivers on the same road</h2>
+<p>Before the croissants, a picture. Three drivers on one road:</p>
+<ul>
+<li>the first has locked the accelerator in place and watches neither the speedometer nor the signs;</li>
+<li>the second drives attentively, but brakes only when the brake lights ahead come on;</li>
+<li>the third watches three cars ahead and eases off before anyone has touched the brakes.</li>
+</ul>
+<p>Same road, different results. These are the three ways to control anything, from a car to a cash reserve.</p>
+<table>
+<thead>
+<tr>
+<th>Scheme</th>
+<th>How it works</th>
+<th>Weak point</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>By plan (open loop)</td>
+<td>Set it and follow it, never checking reality</td>
+<td>Cannot adapt, because it does not read reality</td>
+</tr>
+<tr>
+<td>By deviation (reactive)</td>
+<td>Measure the deviation, then correct it</td>
+<td>Acts after the event; with delays it falls behind and can swing back and forth</td>
+</tr>
+<tr>
+<td>By forecast (proactive)</td>
+<td>Forecast the next state, act on the forecast, let new facts correct it</td>
+<td>Needs a model and discipline; with a bad model it can do worse than simple feedback</td>
+</tr>
+</tbody>
+</table>
+<p>Note the honesty of that last cell. Proactive is not automatically better. It is better when the forecast is better than yesterday&rsquo;s number.</p>
+<h2 id="reactive-vs-proactive-management-a-hundred-croissants-three-ways">Reactive vs proactive management: a hundred croissants, three ways</h2>
+<p>Andrew tested all three schemes on his own display case.</p>
+<p><strong>By plan.</strong> A hundred every day. Rain, holidays and Fridays make no difference. Tuesday sells seventy, thirty go in the bin. Saturday demand is a hundred and thirty, and thirty guests leave empty-handed.</p>
+<p><strong>By deviation.</strong> Every morning: &ldquo;Forty were left over yesterday, so today I order sixty.&rdquo; On Tuesday thirty were left, so he orders seventy for Wednesday, and Wednesday wants about ninety. On Friday everything sold out, so he orders a hundred for Saturday, and a hundred and thirty people come. He is always correcting for a day that has already gone.</p>
+<p><strong>By forecast.</strong> He starts recording sales by day of the week and by weather. A few weeks later the pattern is plain: about 70 on a Tuesday, about 130 on a Saturday, 15% fewer when it rains. Now the forecast sets the order, and by midday he adjusts it if sales are off. A rainy Saturday: 130 × 0.85, about 110.</p>
+<p>Waste fell, and so did shortages. Then he did the same with the cash reserve, the milk orders and the shift schedule.</p>
+<p>Here is the part most writing on feedback loops leaves out: the errors, counted. Two weeks of real daily demand, and four ordering rules tested on the second week. The score is the total number of croissants the order missed by, over seven days:</p>
+<table>
+<thead>
+<tr>
+<th>Ordering rule</th>
+<th>Total miss in week two</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A hundred every day (plan)</td>
+<td>100</td>
+</tr>
+<tr>
+<td>As many as sold yesterday (reactive)</td>
+<td>130</td>
+</tr>
+<tr>
+<td>Yesterday&rsquo;s order nudged by a third of yesterday&rsquo;s error (smoothed reactive)</td>
+<td>119</td>
+</tr>
+<tr>
+<td>As on the same day last week (forecast)</td>
+<td>76</td>
+</tr>
+<tr>
+<td>The forecast plus a reaction to yesterday&rsquo;s error</td>
+<td>96</td>
+</tr>
+</tbody>
+</table>
+<p>Two things jump out. Pure reaction is the worst of all, worse even than doing nothing. And adding a reaction to the forecast made it worse again, because yesterday&rsquo;s deviation was just noise, and responding to noise only does harm. The order of work follows from that: first find the pattern and build it into the forecast; then decide which deviations deserve a response at all; only then speed up the response.</p>
+<h2 id="why-reactive-management-always-runs-late">Why reactive management always runs late</h2>
+<p>Between an event and its correction lies a chain: someone has to notice the deviation, measure it, report it, decide, and carry out the decision. Then the business has to respond. Meanwhile it keeps moving. The correction arrives after the situation has changed, so it is often too strong or too weak, and with an unlucky mix of delay and force the whole system starts swinging around the goal.</p>
+<p>You can put a number on that delay. Andrew looks at his figures once a week, so noticing takes up to 7 days. The decision is made at the Monday meeting: 1 day. Changing the menu and prices: 7 days. Guests adjusting their habits and the month&rsquo;s margin being calculated: about 30 days. Total, about 45 days. That is why his first real check of the margin plan comes in month two, not month one. Before the loop has gone round once, what you measure is not the effect of the lever. It is noise.</p>
+<h2 id="the-control-cycle-eight-stages-none-optional">The control cycle: eight stages, none optional</h2>
+<p>Forecasting is one part of a larger loop.</p>
+<div class="def"><strong>In the Jirgenson Model,</strong> the full control cycle is the closed loop of eight stages that every goal passes through. Stages 1 to 4 decide where to go and by what rule to act (the forecasting part); stages 5 to 7 carry the work out and adapt it (the executing part); stage 8 closes the cycle. Only control by forecast can carry all eight.</div>
+
+<p>Every goal, in a business, a project or a household, passes through the same eight stages:</p>
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Stage</th>
+<th>Andrew&rsquo;s coffee shop</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Notice the pressure</td>
+<td>The cash reserve is melting, the owner is burning out</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Recognise the situation</td>
+<td>Not &ldquo;a bad season&rdquo;: no cash cushion, and a 9% margin instead of the believed twenty</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Set the goals</td>
+<td>Five measurable goals in refusal order</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Build the concept</td>
+<td>A one-page plan for the margin</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Build structures</td>
+<td>A shared spreadsheet, weekly till data, an owner for each indicator</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Observe and coordinate</td>
+<td>Every Monday at the spreadsheet with Sara</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Improve the concept</td>
+<td>Month two: one item he meant to drop had to stay, because it brings the regulars in</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Finish or maintain</td>
+<td>Reserve at 2.0 months for three months running, then maintenance mode</td>
+</tr>
+</tbody>
+</table>
+<p>Stage 2 is the one owners underestimate. Naming the situation decides which levers come into play. &ldquo;A bad season&rdquo; calls for patience. &ldquo;No cash cushion with a 9% margin&rdquo; calls for work on prices, purchasing and the menu. Name it wrong, and you pull the right levers on the wrong problem. (How Andrew found the real margin is told in <a href="/blog/busy-but-not-profitable/">busy but not profitable</a>.)</p>
+<p>And then the rule that makes the cycle more than a checklist: a skipped stage does not disappear. Somebody else performs it, rarely in your favour. Skip stage 3 and the market, the bank or a competitor sets your goal for you. Skip stage 6 and your debts start observing you. Skip stages 1 and 2 and a crisis will recognise the situation for you, at the worst possible moment.</p>
+<h2 id="a-pdca-example-side-by-side-with-the-eight-stages">A PDCA example, side by side with the eight stages</h2>
+<p>PDCA (Plan, Do, Check, Act, going back to Shewhart and popularised by Deming) is the best-known improvement loop in business, and a good one. Within this model it has a clear job: a small, local cycle of checking and improvement. Laying the two side by side shows exactly where (an illustration, mapped by stage):</p>
+<table>
+<thead>
+<tr>
+<th>Eight stages</th>
+<th>PDCA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Notice the pressure</td>
+<td>Not covered: PDCA starts once you already know what to improve</td>
+</tr>
+<tr>
+<td>2. Recognise the situation</td>
+<td>Not covered</td>
+</tr>
+<tr>
+<td>3. Set the goals</td>
+<td>Plan</td>
+</tr>
+<tr>
+<td>4. Build the concept</td>
+<td>Plan</td>
+</tr>
+<tr>
+<td>5. Build structures</td>
+<td>Do</td>
+</tr>
+<tr>
+<td>6. Observe and coordinate</td>
+<td>Check</td>
+</tr>
+<tr>
+<td>7. Improve the concept</td>
+<td>Act</td>
+</tr>
+<tr>
+<td>8. Finish or maintain</td>
+<td>Not covered: the loop simply repeats</td>
+</tr>
+</tbody>
+</table>
+<p>PDCA is the engine room of stages 3 to 7. What it does not tell you is when to start (stages 1 and 2), how to name the problem before you plan, and when a goal is reached and its resources should be freed (stage 8). Nor does it say whether your Check should react to yesterday or forecast tomorrow, which, as the croissants show, is the difference between 130 missed and 76.</p>
+<h2 id="where-this-does-not-reach">Where this does not reach</h2>
+<p>Control by forecast needs a model, and a bad model can do worse than simple feedback: forecasting is not a virtue in itself. If demand genuinely shifts to a new level, a smoothed rule will lag behind, so how strongly to respond remains a decision, not a constant. And the eight stages describe what must happen, not how big your team must be; in a small business one person may carry several stages, as long as none is left empty.</p>
+<div class="takeaways">
+<h3 id="key-takeaways">Key takeaways</h3>
+<ul>
+<li>There are three ways to control: by plan, by deviation (reactive) and by forecast (proactive).</li>
+<li>Reactive management runs late because of a chain of delays; in the croissant test it missed more than doing nothing.</li>
+<li>First find the pattern, then decide which deviations deserve a response, and only then speed up.</li>
+<li>The control cycle has eight stages; a skipped one is performed by someone else, rarely in your favour.</li>
+</ul>
+</div>
+<h2 id="fifteen-minutes-to-find-the-empty-stage">Fifteen minutes to find the empty stage</h2>
+<p>Take the project that is proving hardest right now and write one sentence for each of the eight stages. One of them will be empty. Most often it is stage 3 (wishes, not measurable goals) or stage 6 (nobody looks regularly). Decide the first action that fills it. It takes about fifteen minutes, and it is usually the most useful quarter of an hour in the month.</p>
+<p>On Andrew&rsquo;s first Monday at the spreadsheet, he feared an hour of talk. It came down to three questions: which numbers changed this week, which zone are they in, what do we do about it. The till answered the first, the colours the second, a two-line list the third. That is what a closed control cycle feels like from the inside: there is almost nothing left to argue about.</p>
+<p>Read how the method begins, with goals that can carry a cycle at all, in <a href="/blog/free-sample/">the free sample</a>. The full Chapters 7 and 9, with the loop delay formula and all four ordering rules worked out, are in <em>Steer, Don&rsquo;t Guess</em> on <a href="https://www.amazon.com/dp/B0HPBR6BNX">Amazon</a>.</p></div>
+  <h2>Questions people ask</h2><details><summary>What is a control cycle in management?</summary><p>It is the closed loop every goal passes through: notice the pressure, recognise the situation, set goals, build the plan, build structures, observe, improve, and finish or maintain. No stage can be skipped; a missing one is done by someone else.</p></details><details><summary>What is the difference between reactive and proactive management?</summary><p>Reactive management measures a deviation after it happens and corrects it, so it always lags. Proactive management forecasts the next state, acts on the forecast and lets new facts correct it. It is better only when the forecast beats yesterday&#39;s number.</p></details><details><summary>Is PDCA the same as a control cycle?</summary><p>PDCA covers the middle of it: planning, doing, checking and acting. A full control cycle adds noticing the pressure, naming the situation before planning, and deciding when a goal is reached and moves to maintenance.</p></details>
+  <p class="muted small" style="margin-top:2em">This topic is covered in <strong>Chapter 7, Full control cycle: eight stages; Chapter 9, Three ways to control: from the calendar to the forecast; Chapter 14, One model for every field</strong> of <em>Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</em>. The numbers in the examples are illustrative; the book states its limits in Appendix G.</p>
+  <h2>Read next</h2>
+  <div class="cards"><a class="card" href="/blog/free-sample/"><span class="meta">From the author, Introduction, Prologue, Chapter 1, Appendix A</span><h3>Free sample: From the author, the Introduction and Chapter 1 of Steer, Don&#39;t Guess</h3><p>Read the opening of Steer, Don&#39;t Guess by Martin Jirgenson free: From the author, the Introduction (control architecture in an age of change), the Prologue, Chapter 1 (Goal: not a dream but a list with an order, the refusal test) and the one-page cheat sheet. About 9,500 words.</p></a><a class="card" href="/blog/backward-planning/"><span class="meta">Chapter 15, The backward move: from the goal to today</span><h3>Backward planning: how to plan from the goal back to this week</h3><p>Backward planning (reverse planning) explained with a coffee shop&#39;s second location, a free two-column template, and the five questions that tell you when it works.</p></a><a class="card" href="/blog/competing-priorities-conflicting-goals/"><span class="meta">Chapter 1, Goal: not a dream but a list with an order; Chapter 11, Three offsets</span><h3>Competing priorities: how to tell when two goals cannot both win</h3><p>Competing priorities and conflicting goals explained with real numbers: how to spot two goals that cannot both win, and how to choose before a crisis does.</p></a></div>
+</article>
+<div class="wrap"><section class="cta">
+  <h2>You call it busy.<br><span class="u">It is guessing, with extra steps.</span></h2>
+  <p>Steer, Don&#39;t Guess replaces guessing with instruments. One method, about 250 pages, for owners, managers and freelancers who are the only thing holding it together.</p>
+  <div class="btn-row">
+  <a class="btn btn-amber" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Buy on Amazon</a>
+  <a class="btn btn-teal" href="https://jirgenstorm4.gumroad.com/l/steer-dont-guess?utm_source=site&amp;utm_medium=cta" rel="noopener">PDF direct from the author</a>
+  <a href="/blog/free-sample/">Read Chapter 1 free →</a>
+</div>
+<p class="markets">Kindle $9.99 · Paperback $19.99 · Hardcover $49.99 · Also on
+<a href="https://www.amazon.ca/dp/B0HPBR6BNX" rel="noopener">Amazon.ca</a><a href="https://www.amazon.co.uk/dp/B0HPBR6BNX" rel="noopener">Amazon.co.uk</a><a href="https://www.amazon.de/dp/B0HPBR6BNX" rel="noopener">Amazon.de</a></p>
+</section></div>
+
+</main>
+<footer class="floor">
+  <div class="wrap foot">
+    <div>
+      <p class="foot-title">Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</p>
+      <p class="muted">By Martin Jirgenson, Management systems researcher, Ontario, Canada. English edition 1.1, October 2026.</p>
+      <p class="muted small">Not financial, legal or investment advice. Characters in the book are composites; numbers are illustrative.</p>
+    </div>
+    <div class="foot-cols">
+      <div><p class="foot-h">Book</p><a href="/buy/">Where to buy</a><a href="/blog/free-sample/">Read Chapter 1 free</a><a href="/reviews/">Reviews</a><a href="/press/">Press kit</a></div>
+      <div><p class="foot-h">Model</p><a href="/blog/jirgenson-model-management-method/">What is the Jirgenson Model</a><a href="/blog/">Blog</a><a href="/ai-assistant/">Canon and prompt</a><a href="https://github.com/mjirgensons/jirgenson-model" rel="noopener">GitHub</a></div>
+      <div><p class="foot-h">Author</p><a href="/author/">Martin Jirgenson</a><a href="/contact/">Contact</a><a href="/rss.xml">RSS</a></div>
+    </div>
+    <p class="muted small copyright">© 2026 Martin Jirgenson. All rights reserved.</p>
+  </div>
+</footer>
+</body>
+</html>

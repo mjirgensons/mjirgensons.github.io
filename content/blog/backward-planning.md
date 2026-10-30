@@ -4,7 +4,6 @@ description: Backward planning (reverse planning) explained with a coffee shop's
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 15, The backward move: from the goal to today
-draft: true
 slug: backward-planning
 keywords: [backward planning, reverse planning, backward planning template, what is backward planning, plan backwards from a goal, how to plan backwards from a goal]
 answer: "Backward planning means starting from the finished result and asking, step by step, what must be true just before it, until you reach this week. The output is a two-column table, time before the goal and what must be true, whose first row tells you what to do now. It works best when the end state and your starting point are both written down precisely."

@@ -4,7 +4,6 @@ description: How to set measurable goals that you can actually steer by: six fie
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 1, Goal: not a dream but a list with an order
-draft: true
 slug: how-to-set-measurable-goals
 keywords: [how to set measurable goals, measurable goals, measurable goals example, what are measurable goals, smart goals alternative, goal setting for small business]
 answer: "How to set measurable goals: fill in six fields for each one. Parameter, definition and data source, target value and deadline, current value, permissible deviation, and who checks it and how often. Keep the list to nine goals at most, put them in an order you choose in advance, and test each with one question: does it have a number, a unit and a deadline?"

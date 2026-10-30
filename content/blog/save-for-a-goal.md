@@ -4,7 +4,6 @@ description: How to save for a goal with a plan that survives real life: a 13-ye
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 15, The backward move; Chapter 14, One model for every field; Chapters 1, 3, 5 and 6
-draft: true
 slug: save-for-a-goal
 keywords: [save for a goal, how to save for a goal, savings goal plan, teach kids to save money, family budget deficit, savings plan example]
 answer: "To save for a goal, write the amount and the date, count what you have today, list the levers you control yourself, and work backwards to a checkpoint for each month. Check the real amount against the line every week; when you fall behind, add a lever at once. A thirteen-year-old in Steer, Don't Guess bought his €300 bicycle on time this way."

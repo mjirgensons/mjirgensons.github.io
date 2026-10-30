@@ -4,7 +4,6 @@ description: The control cycle in eight stages, why reactive management falls be
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 7, Full control cycle: eight stages; Chapter 9, Three ways to control: from the calendar to the forecast; Chapter 14, One model for every field
-draft: true
 slug: control-cycle-management
 keywords: [control cycle, reactive vs proactive management, feedback loop management, pdca example, what is a control cycle, control by forecast]
 answer: "A control cycle is the closed loop every goal passes through: notice the pressure, recognise the situation, set the goals, build the plan, build structures, observe, improve, and finish or maintain. Reactive management corrects only after a deviation appears, so it always runs late; proactive management forecasts the next state and acts on the forecast, then lets new facts correct it."

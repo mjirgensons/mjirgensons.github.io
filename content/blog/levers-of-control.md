@@ -4,7 +4,6 @@ description: Levers of control for small business owners: how to tell a lever fr
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 5, Levers: what you can really change
-draft: true
 slug: levers-of-control
 keywords: [levers of control, business levers, focus on what you can control, how to focus on what you can control, control vector, lever vs result]
 answer: "Levers of control are the actions you can take yourself, by your own decision, that move a result: prices, menu, purchasing, payment terms. The result itself (margin, sales, trust) is never a lever. List your levers, cross out everything that depends on other people or luck, and before pulling one ask: can I do it today, when will it show, and can I undo it?"
