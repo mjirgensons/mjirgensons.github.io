@@ -17,7 +17,7 @@ Throughout my career, I have designed and deployed core enterprise systems spann
 
 I wrote Steer, Don't Guess specifically for business owners, CEOs and top managers. It is a direct management method for setting priorities, reading the numbers and correcting course in business and life. It strips away abstract theory, delivering a clear framework to help you steer your operations through complex realities.
 
-<div class="inline-buy"><img src="/img/cover.jpg" width="96" height="147" alt="Steer, Don't Guess book cover"><div><p><strong>Steer, Don't Guess:</strong> Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</p><div class="btn-row"><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Kindle $9.99</a><a class="btn btn-line btn-sm" href="https://www.amazon.com/dp/B0HPCJCWKF" rel="noopener">Paperback</a><a class="btn btn-line btn-sm" href="https://www.amazon.com/dp/B0HPCR2G46" rel="noopener">Hardcover</a><a class="btn btn-line btn-sm" href="/blog/free-sample/">Read Chapter 1 free</a></div></div></div>
+<div class="inline-buy"><img src="/img/cover.jpg" width="96" height="147" alt="Steer, Don't Guess book cover"><div><p><strong>Steer, Don't Guess:</strong> Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</p><div class="btn-row"><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Kindle</a><a class="btn btn-line btn-sm" href="https://www.amazon.com/dp/B0HPCJCWKF" rel="noopener">Paperback</a><a class="btn btn-line btn-sm" href="https://www.amazon.com/dp/B0HPCR2G46" rel="noopener">Hardcover</a><a class="btn btn-line btn-sm" href="/blog/free-sample/">Read Chapter 1 free</a></div></div></div>
 
 ## The Jirgenson Model
 
