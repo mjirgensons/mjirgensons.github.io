@@ -10,7 +10,6 @@
   </header>
   <div class="prose">{{ page.body | safe }}</div>
   {% if page.faq_jsonld %}<h2>Questions people ask</h2>{% for q in page.faq_jsonld %}<details><summary>{{ q.name }}</summary><p>{{ q.acceptedAnswer.text }}</p></details>{% endfor %}{% endif %}
-  {% if page.faq_jsonld %}<h2>Questions people ask</h2>{% for q in page.faq_jsonld %}<details><summary>{{ q.name }}</summary><p>{{ q.acceptedAnswer.text }}</p></details>{% endfor %}{% endif %}
   {% include "_cta.html" %}
 </article>
 </div>
