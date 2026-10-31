@@ -42,6 +42,9 @@ def check_post(path, keyword):
     low = text.lower()
     for b in BANNED:
         if b in low: errs.append(f"banned phrase: '{b}'")
+    # Martin 2026-10-31: the site never states the book's price (it changes on KDP; Amazon shows it)
+    for pr in re.findall(r"(?:Kindle|paperback|hardcover|PDF|book)[^.\n]{0,40}\$\d+(?:\.\d\d)?|\$\d+(?:\.\d\d)?[^.\n]{0,20}(?:Kindle|on Amazon)", text, re.I):
+        errs.append(f"book price stated: '{pr.strip()}' (no prices on the site)")
     if keyword:
         k = keyword.lower()
         first100 = " ".join(plain.split()[:100]).lower()
