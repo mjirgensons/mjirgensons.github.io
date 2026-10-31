@@ -4,7 +4,6 @@ description: "A management system for a small business is seven simple tools, no
 date: 2026-10-31
 updated: 2026-10-31
 chapter: Chapter 13, Tools: what a working system is built from
-draft: true
 slug: management-system-small-business
 keywords: [management system, build management system, what is a management system, management system definition, management system example, spreadsheet management system, one spreadsheet, simple dashboard, meeting calendar, complete system]
 answer: "A management system for a small business is seven simple tools, not software: a goal table, one data source per number, a traffic-light dashboard, a list of levers, a one-page plan per goal, a forecast and a meeting calendar. You can build the first five in one week with a shared spreadsheet and a short Monday meeting."
