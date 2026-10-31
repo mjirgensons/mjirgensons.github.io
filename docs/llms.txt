@@ -9,6 +9,7 @@
 - https://mjirgensons.github.io/blog/action-plan-template/
 - https://mjirgensons.github.io/blog/ai-for-business-decisions/
 - https://mjirgensons.github.io/blog/backward-planning-template/
+- https://mjirgensons.github.io/blog/balanced-scorecard-explained/
 - https://mjirgensons.github.io/blog/book-launch-plan/
 - https://mjirgensons.github.io/blog/books-like-the-goal/
 - https://mjirgensons.github.io/blog/business-crisis-plan/
@@ -39,7 +40,9 @@
 - https://mjirgensons.github.io/blog/reactive-vs-proactive-management/
 - https://mjirgensons.github.io/blog/teach-kids-to-save-money/
 - https://mjirgensons.github.io/blog/too-many-goals/
+- https://mjirgensons.github.io/blog/waste-in-small-business/
 - https://mjirgensons.github.io/blog/what-is-a-leading-indicator/
+- https://mjirgensons.github.io/blog/when-to-give-up-on-a-business-idea/
 - https://mjirgensons.github.io/blog/when-to-pivot-small-business/
 - https://mjirgensons.github.io/blog/backward-planning/
 - https://mjirgensons.github.io/blog/books-like-measure-what-matters/
