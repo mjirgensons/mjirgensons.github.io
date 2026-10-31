@@ -8,7 +8,9 @@
 - https://mjirgensons.github.io/blog/free-sample/
 - https://mjirgensons.github.io/blog/action-plan-template/
 - https://mjirgensons.github.io/blog/ai-for-business-decisions/
+- https://mjirgensons.github.io/blog/ai-for-small-business/
 - https://mjirgensons.github.io/blog/ai-hallucinations-example/
+- https://mjirgensons.github.io/blog/ai-in-management/
 - https://mjirgensons.github.io/blog/backward-planning-template/
 - https://mjirgensons.github.io/blog/balanced-scorecard-explained/
 - https://mjirgensons.github.io/blog/book-launch-plan/
@@ -16,6 +18,7 @@
 - https://mjirgensons.github.io/blog/business-crisis-plan/
 - https://mjirgensons.github.io/blog/business-levers/
 - https://mjirgensons.github.io/blog/cash-reserve-months-of-expenses/
+- https://mjirgensons.github.io/blog/chatgpt-custom-instructions/
 - https://mjirgensons.github.io/blog/client-concentration-freelancer/
 - https://mjirgensons.github.io/blog/coffee-shop-book/
 - https://mjirgensons.github.io/blog/control-theory-for-business/
