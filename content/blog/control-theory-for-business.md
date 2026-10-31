@@ -125,7 +125,7 @@ You have two choices. Keep running the business by hope and month-end reports, a
 
 The map gets you a sensor and a dial. The thresholds, the red protocol and the forecasts turn them into a controller that works on your worst Monday.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, *Steer, Don't Guess* by Martin Jirgenson: sixteen chapters, with the coffee shop's numbers running through all of them.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, *Steer, Don't Guess* by Martin Jirgenson: sixteen chapters, with the coffee shop's numbers running through all of them.
 
 ## FAQ
 

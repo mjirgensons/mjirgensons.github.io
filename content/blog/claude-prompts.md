@@ -130,7 +130,7 @@ You have two choices. Keep asking a fresh, eager chatbot that agrees with everyt
 
 The free files give you the analyst. One source for every number and your own red lines give it something solid to work on.
 
-Set up the system first, from the [AI assistant page](/ai-assistant/). Then test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt inside as appendices.
+Set up the system first, from the [AI assistant page](/ai-assistant/). Then test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt inside as appendices.
 
 ## FAQ
 

@@ -130,7 +130,7 @@ This is not another framework on the shelf. It keeps your scorecard and decides 
 
 The scorecard shows the field. The refusal order and the zones tell you which row to save first.
 
-Test the logic for free: the refusal test is in [Chapter 1, free to read](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters, each written at three levels: basic, practical and advanced.
+Test the logic for free: the refusal test is in [Chapter 1, free to read](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters, each written at three levels: basic, practical and advanced.
 
 ## FAQ
 

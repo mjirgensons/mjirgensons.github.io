@@ -132,7 +132,7 @@ You have two choices. Write next year's list without yourself on it, and let the
 
 The row gets you seen. The zone thresholds and the rules of the manoeuvre keep you from vanishing back into the business in the first hard month.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter ends with a task you can do on your own list.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter ends with a task you can do on your own list.
 
 ## FAQ
 

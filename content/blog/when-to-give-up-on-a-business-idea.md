@@ -142,7 +142,7 @@ The test tells you where you stand. The launch and stop conditions and the early
 
 Picture the next slow month: you open one sheet, read three answers, and sleep on a decision instead of a fear.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
 ## FAQ
 

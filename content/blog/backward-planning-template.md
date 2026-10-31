@@ -139,7 +139,7 @@ You have two choices tonight. Keep the big goal in your head, plan forwards from
 
 The template gives you the route. Launch conditions and the three offsets tell you whether to set off, and when to turn back. For the theory behind the chain, including the five-question test for real optimisation, see [backward planning](/blog/backward-planning/).
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter ends with a twenty-minute task.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter ends with a twenty-minute task.
 
 ## FAQ
 

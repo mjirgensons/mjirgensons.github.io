@@ -117,7 +117,7 @@ The test gets the right driver into each seat. The zones and the forecast tell t
 
 Picture next Friday: you are not behind the counter, the queue is moving, and the sheet on the wall is doing your job.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 

@@ -6,7 +6,7 @@ updated: 2026-10-31
 chapter: Prologue and Appendix F, Andrew's running numbers
 slug: coffee-shop-book
 keywords: [coffee shop book, coffee shop numbers, running a coffee shop by the numbers, coffee shop owner book, practical business books, control theory book, books like rework]
-answer: "Steer, Don't Guess is a coffee shop book in disguise: one owner, Andrew, runs his shop by five numbers for a year. Cash reserve, margin, regular customers, complaints and his own hours. You can copy his month-zero table tonight; the full year, with every calculation, is on Kindle for $9.99."
+answer: "Steer, Don't Guess is a coffee shop book in disguise: one owner, Andrew, runs his shop by five numbers for a year. Cash reserve, margin, regular customers, complaints and his own hours. You can copy his month-zero table tonight; the full year, with every calculation, is in the book on Kindle."
 ---
 
 It is two in the morning. Andrew sits at his kitchen table, going over the same numbers for the third time.
@@ -121,7 +121,7 @@ You have two choices. Keep serving the queue and hope the till adds up this mont
 
 The table gets you started. The two evenings that turned Andrew's year, the zones and the bad-month decision, are where the method earns its keep.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system, with Andrew's whole year and every calculation, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It is a Kindle book for $9.99: sixteen chapters, each with a task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system, with Andrew's whole year and every calculation, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It is a Kindle book: sixteen chapters, each with a task to try yourself.
 
 ## FAQ
 

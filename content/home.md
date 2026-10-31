@@ -1,6 +1,6 @@
 ---
 title: Steer, Don't Guess
-description: Steer, Don't Guess by Martin Jirgenson: a practical method (the Jirgenson Model) for setting priorities, reading the numbers and correcting course in business and life. Kindle $9.99, paperback, hardcover, PDF. Read Chapter 1 free.
+description: Steer, Don't Guess by Martin Jirgenson: a practical method (the Jirgenson Model) for setting priorities, reading the numbers and correcting course in business and life. Kindle, paperback, hardcover, PDF. Read Chapter 1 free.
 updated: 2026-10-29
 ---
 

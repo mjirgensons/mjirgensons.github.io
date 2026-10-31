@@ -129,7 +129,7 @@ You have two choices. Keep asking an assistant with no handbook, one that agrees
 
 The files give the assistant its rulebook. Levers and steering by forecast give you the brief it needs.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt in its appendices.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt in its appendices.
 
 ## FAQ
 

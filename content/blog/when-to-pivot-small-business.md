@@ -138,7 +138,7 @@ You have two choices. Sign on enthusiasm and hope the reserve holds. Or write on
 
 The line protects you from the wrong start. The backward move and the zone thresholds tell you the right one.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
 ## FAQ
 

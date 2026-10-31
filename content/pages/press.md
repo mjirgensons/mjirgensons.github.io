@@ -18,7 +18,7 @@ The method is the Jirgenson Model, published in the book *Steer, Don't Guess* (O
 - Title: *Steer, Don't Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life*
 - Author: Martin Jirgenson
 - Published: 24 October 2026 (print), 26 October 2026 (Kindle); English edition 1.1; independently published
-- Formats: Kindle $9.99 (ASIN B0HPBR6BNX); paperback $19.99 (ISBN 979-8164833749); hardcover $49.99 (ISBN 979-8164846152); PDF $15 direct from the author
+- Formats: Kindle (ASIN B0HPBR6BNX); paperback (ISBN 979-8164833749); hardcover (ISBN 979-8164846152); PDF direct from the author
 - Length: 237 pages print; four parts, 16 chapters, 10 appendices
 - Free: Chapter 1 with the cheat sheet (44 pages); the model canon and operating prompt (GitHub, open licence)
 - Blind test E5: [method, data, judgments, scripts](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)

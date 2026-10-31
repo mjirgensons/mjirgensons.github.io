@@ -152,7 +152,7 @@ You have two choices. Keep pricing on cost plus, reading reports in margin and t
 
 The definition gets you a true reading. The zone thresholds and the lever list tell you what to do when that reading drops.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter ends with a task to try on your own numbers.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter ends with a task to try on your own numbers.
 
 ## FAQ
 

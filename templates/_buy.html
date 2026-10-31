@@ -1,5 +1,5 @@
 <div class="btn-row">
-  <a class="btn btn-buy btn-lg" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon · Kindle ${{ book.formats[0].price }}</a>
+  <a class="btn btn-buy btn-lg" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
 </div>
 <a class="textlink free-link" href="{{ book.free_sample }}">Not sure yet? Read Chapter 1 free. It costs nothing →</a>
-<p class="markets">Also paperback ${{ book.formats[1].price }} · hardcover ${{ book.formats[2].price }} · <a href="{{ book.formats[3].url }}" rel="noopener">PDF ${{ book.formats[3].price }}</a> · <a href="https://www.amazon.ca/dp/{{ book.formats[0].asin }}" rel="noopener">Amazon.ca</a></p>
+<p class="markets">Kindle, paperback and hardcover on Amazon · <a href="{{ book.formats[3].url }}" rel="noopener">PDF from the author</a> · <a href="https://www.amazon.ca/dp/{{ book.formats[0].asin }}" rel="noopener">Amazon.ca</a></p>

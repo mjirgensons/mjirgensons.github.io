@@ -153,7 +153,7 @@ You have two choices after reading this. Keep the vocabulary, sound sharper in m
 
 The definitions name the parts. The thresholds, the red protocol, the forecast and the backward move make them work when things break.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with Andrew's numbers carried from the first page to the last appendix.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with Andrew's numbers carried from the first page to the last appendix.
 
 ## FAQ
 

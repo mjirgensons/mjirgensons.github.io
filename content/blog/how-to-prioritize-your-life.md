@@ -132,7 +132,7 @@ The page gives you the order. The zones and the launch conditions tell you when 
 
 That is how to prioritize your life in practice. Next Sunday evening, you open one page and know what you will refuse this week.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book.
 
 ## FAQ
 

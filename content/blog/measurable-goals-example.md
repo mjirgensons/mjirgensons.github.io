@@ -150,7 +150,7 @@ You have two choices. Keep last year's list and learn in December whether it wor
 
 The list gives you a direction. The state measurement and the zone thresholds tell you when to act, and in what order.
 
-Test the logic for free: [the free sample, with the refusal test and Alex's and Elena's full lists](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each on a basic, a practical and an advanced level.
+Test the logic for free: [the free sample, with the refusal test and Alex's and Elena's full lists](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each on a basic, a practical and an advanced level.
 
 ## FAQ
 

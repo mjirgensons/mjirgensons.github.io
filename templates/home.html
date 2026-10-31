@@ -56,13 +56,13 @@
   <div class="prices">
     <div class="price-main">
       <span class="pill">Most readers start here</span>
-      <div class="price-head"><b>{{ book.formats[0].name }}</b><span class="price">${{ book.formats[0].price }}</span></div>
+      <div class="price-head"><b>{{ book.formats[0].name }}</b></div>
       <span class="small muted">{{ book.formats[0].pages }} pages · on your phone in a minute</span>
       <a class="btn btn-buy" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
     </div>
-    <div class="price-row"><span><b>Paperback</b><span class="small">{{ book.formats[1].pages }} pages · {{ book.formats[1].dims }}</span></span><span class="end"><b>${{ book.formats[1].price }}</b><a href="{{ book.formats[1].url }}" rel="noopener">Amazon</a></span></div>
-    <div class="price-row"><span><b>Hardcover</b><span class="small">{{ book.formats[2].pages }} pages · {{ book.formats[2].dims }}</span></span><span class="end"><b>${{ book.formats[2].price }}</b><a href="{{ book.formats[2].url }}" rel="noopener">Amazon</a></span></div>
-    <div class="price-row"><span><b>PDF from the author</b><span class="small">A5 · Gumroad</span></span><span class="end"><b>${{ book.formats[3].price }}</b><a href="{{ book.formats[3].url }}" rel="noopener">Gumroad</a></span></div>
+    <div class="price-row"><span><b>Paperback</b><span class="small">{{ book.formats[1].pages }} pages · {{ book.formats[1].dims }}</span></span><span class="end"><a href="{{ book.formats[1].url }}" rel="noopener">Amazon</a></span></div>
+    <div class="price-row"><span><b>Hardcover</b><span class="small">{{ book.formats[2].pages }} pages · {{ book.formats[2].dims }}</span></span><span class="end"><a href="{{ book.formats[2].url }}" rel="noopener">Amazon</a></span></div>
+    <div class="price-row"><span><b>PDF from the author</b><span class="small">A5 · Gumroad</span></span><span class="end"><a href="{{ book.formats[3].url }}" rel="noopener">Gumroad</a></span></div>
   </div>
   <p class="included"><b>Every format includes</b> the 16 chapters plus a one-page cheat sheet, tool templates, a self-check, an index by the reader's question, and the canon and operating prompt that make an AI assistant work through your numbers in a fixed order.</p>
   <a class="textlink" href="{{ book.free_sample }}">Not sure yet? Read Chapter 1 free →</a>

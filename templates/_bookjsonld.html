@@ -7,9 +7,9 @@
  "image": site.url + book.cover, "url": site.url + "/", "genre":["Business","Management","Decision making"],
  "about":["Setting priorities","Reading business numbers","Course correction","Small business management","Control theory in management","AI assistant prompt for business decisions"],
  "isbn": book.formats[1].isbn, "numberOfPages": book.formats[1].pages,
- "workExample":[ {"@type":"Book","bookFormat":"https://schema.org/EBook","name":book.formats[0].name,"url":book.formats[0].url,"numberOfPages":book.formats[0].pages,"offers":{"@type":"Offer","price":book.formats[0].price,"priceCurrency":"USD","availability":"https://schema.org/InStock","url":book.formats[0].url,"seller":{"@type":"Organization","name":"Amazon"}}},
-   {"@type":"Book","bookFormat":"https://schema.org/Paperback","name":book.formats[1].name,"isbn":book.formats[1].isbn,"url":book.formats[1].url,"numberOfPages":book.formats[1].pages,"offers":{"@type":"Offer","price":book.formats[1].price,"priceCurrency":"USD","availability":"https://schema.org/InStock","url":book.formats[1].url,"seller":{"@type":"Organization","name":"Amazon"}}},
-   {"@type":"Book","bookFormat":"https://schema.org/Hardcover","name":book.formats[2].name,"isbn":book.formats[2].isbn,"url":book.formats[2].url,"numberOfPages":book.formats[2].pages,"offers":{"@type":"Offer","price":book.formats[2].price,"priceCurrency":"USD","availability":"https://schema.org/InStock","url":book.formats[2].url,"seller":{"@type":"Organization","name":"Amazon"}}},
-   {"@type":"Book","bookFormat":"https://schema.org/EBook","name":book.formats[3].name,"url":book.formats[3].url,"offers":{"@type":"Offer","price":book.formats[3].price,"priceCurrency":"USD","availability":"https://schema.org/InStock","url":book.formats[3].url,"seller":{"@type":"Organization","name":"Gumroad"}}} ]
+ "workExample":[ {"@type":"Book","bookFormat":"https://schema.org/EBook","name":book.formats[0].name,"url":book.formats[0].url,"numberOfPages":book.formats[0].pages},
+   {"@type":"Book","bookFormat":"https://schema.org/Paperback","name":book.formats[1].name,"isbn":book.formats[1].isbn,"url":book.formats[1].url,"numberOfPages":book.formats[1].pages},
+   {"@type":"Book","bookFormat":"https://schema.org/Hardcover","name":book.formats[2].name,"isbn":book.formats[2].isbn,"url":book.formats[2].url,"numberOfPages":book.formats[2].pages},
+   {"@type":"Book","bookFormat":"https://schema.org/EBook","name":book.formats[3].name,"url":book.formats[3].url} ]
 } | tojson }}
 </script>

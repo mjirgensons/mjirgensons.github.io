@@ -135,7 +135,7 @@ The zones tell you how serious each gap is. The red protocol and the list of lev
 
 Picture next Monday: one look at the colours, one row that matters, and no argument about the rest.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
 ## FAQ
 

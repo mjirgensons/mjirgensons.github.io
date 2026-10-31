@@ -122,7 +122,7 @@ You have two choices. Keep waiting for the monthly report, and keep fixing last 
 
 The sheet shows you where the lag lives. The forecast scheme and the two forecasts let you act before it costs you.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
 ## FAQ
 

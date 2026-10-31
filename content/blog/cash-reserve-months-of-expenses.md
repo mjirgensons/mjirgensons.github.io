@@ -117,7 +117,7 @@ You have two choices this week. Keep reading the balance in the app and hope the
 
 The number tells you how long you have. The red protocol and the two forecasts tell you what to do with that time.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with every calculation from this page worked through.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with every calculation from this page worked through.
 
 ## FAQ
 

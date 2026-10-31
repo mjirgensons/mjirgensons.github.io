@@ -122,7 +122,7 @@ You have two choices tonight. Keep steering by "around twenty" and hope the bank
 
 The audit gives you true readings. The zone lines, the red protocol and the list of levers turn those readings into action. Next Monday you could open the meeting with numbers nobody argues about.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters, each ending with a task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters, each ending with a task to try yourself.
 
 ## FAQ
 

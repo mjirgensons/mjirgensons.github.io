@@ -158,7 +158,7 @@ The ranked sheet tells you what comes first. The zone thresholds and the levers 
 
 Picture next Monday with the sheet on the desk. The loyalty card invoice gets its answer in ten seconds: not while row one is short.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It is a Kindle book of sixteen chapters.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It is a Kindle book of sixteen chapters.
 
 ## FAQ
 

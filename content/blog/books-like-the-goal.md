@@ -110,7 +110,7 @@ You have two choices. Pick another management book from the list, read it on the
 
 The ten-minute test finds the right constraint for this week. The refusal order and the red protocol keep finding it when everything breaks at once. If you also want the list sorted by the problem each book solves, including books on goal setting, see [books like Measure What Matters](/blog/books-like-measure-what-matters/).
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, sixteen chapters, each with a short task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, sixteen chapters, each with a short task to try yourself.
 
 ## FAQ
 

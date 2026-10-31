@@ -116,7 +116,7 @@ You have two choices today. Close this tab, glance at the balance again, and kee
 
 The divisions tell you where you stand. The two forecasts and the zone lines tell you when to act, and on what. Next month you could open the statement and know, before you scroll, whether the line still holds.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter runs at a basic, a practical and an advanced level.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and every chapter runs at a basic, a practical and an advanced level.
 
 ## FAQ
 

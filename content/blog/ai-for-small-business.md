@@ -127,7 +127,7 @@ You have two choices. Keep asking an assistant that agrees with everything, and 
 
 The files turn a talker into a colleague. The refusal order and the red lines turn your brief into one worth answering.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt in its appendices.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt in its appendices.
 
 ## FAQ
 

@@ -126,7 +126,7 @@ You need one line and a glance every Monday. Next Monday you open the till expor
 
 The line gives you a pulse. The zone thresholds and the two forecasts tell you what the pulse means and when to move.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a task to try yourself at the end of every chapter.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a task to try yourself at the end of every chapter.
 
 ## FAQ
 

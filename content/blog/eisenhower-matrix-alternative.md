@@ -135,7 +135,7 @@ You have two choices this week. Keep sorting the calls into four boxes and hope 
 
 The ranking settles the order. The zone lines, the red protocol and the list of levers tell you what to do on the day two goals turn red. Next Monday, a new request could take you one minute instead of one argument.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a task to try at the end of every chapter.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a task to try at the end of every chapter.
 
 ## FAQ
 

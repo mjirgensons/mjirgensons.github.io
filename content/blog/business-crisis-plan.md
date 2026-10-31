@@ -132,7 +132,7 @@ You have two choices. Close this tab and trust that you will think clearly at tw
 
 The page tells you what to do when the number turns red. The levers and the two forecasts tell you which move works, and warn you months before the red arrives. For the order of moves on the night itself, see [what to do first in a business crisis](/blog/business-crisis-what-to-do-first/).
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a printable Red Card for the worst day.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a printable Red Card for the worst day.
 
 ## FAQ
 

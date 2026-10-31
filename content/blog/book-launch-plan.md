@@ -140,7 +140,7 @@ You have two choices for your book. Launch it on hope, and count the sales at th
 
 The page gets your launch moving. The zones and the corridor keep it on course when month 5 looks thin.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
 ## FAQ
 

@@ -124,7 +124,7 @@ Next Monday a new request lands on your desk. You check it against one line of a
 
 The test clears the goal list. The resource table and the other two offsets decide whether the plan built on it can hold.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with every calculation worked out.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with every calculation worked out.
 
 ## FAQ
 

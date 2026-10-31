@@ -123,7 +123,7 @@ You have two choices. Keep asking an assistant that agrees with everything and s
 
 The files keep the tool a tool. An honest state and a clear rule for changing goals keep you the owner.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt in its appendices.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt in its appendices.
 
 ## FAQ
 

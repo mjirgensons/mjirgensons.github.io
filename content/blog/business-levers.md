@@ -127,9 +127,9 @@ You have two choices. Hold one more meeting about the market and leave with the 
 
 You need one sheet and ten quiet minutes. Next Monday the meeting opens with four levers and closes with an owner for each.
 
-The sheet tells you what you can move. The one-page plan and the zones tell you what to move first, and when. Set against €1,800 of missing profit a month, $9.99 is a small test.
+The sheet tells you what you can move. The one-page plan and the zones tell you what to move first, and when. Set against €1,800 of missing profit a month, the book is a small test.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the formal version of every lever calculation for readers who want the maths.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the formal version of every lever calculation for readers who want the maths.
 
 ## FAQ
 

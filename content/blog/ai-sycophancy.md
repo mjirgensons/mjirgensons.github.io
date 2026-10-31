@@ -128,7 +128,7 @@ You have two choices. Keep asking an assistant that agrees with everything and h
 
 The free files change how the assistant works. The red lines, and the order of action when two goals turn red at once, are the part you still need to set yourself. They are in Chapter 4 of *Steer, Don't Guess*.
 
-Start with the free files. Then test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book that explains why the files work.
+Start with the free files. Then test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book that explains why the files work.
 
 ## FAQ
 

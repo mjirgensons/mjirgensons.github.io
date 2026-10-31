@@ -121,7 +121,7 @@ You have two choices tonight. Keep the ten answers as a feeling, and let the nex
 
 The circle tells you where you are weak. The exact method for each empty row, with thresholds, forecasts and the three offsets, is what turns the circle into a fix.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book: sixteen chapters, a one-page cheat sheet, and this self check at the back.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book: sixteen chapters, a one-page cheat sheet, and this self check at the back.
 
 ## FAQ
 

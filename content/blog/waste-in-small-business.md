@@ -117,7 +117,7 @@ You have two choices tonight. Keep trusting the margin in your head, and hire, s
 
 The sheet fixes the reading. The zones and the one-page plan turn that reading into a decision you can defend.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and the coffee shop's numbers run through every chapter.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and the coffee shop's numbers run through every chapter.
 
 ## FAQ
 

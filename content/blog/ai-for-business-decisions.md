@@ -124,7 +124,7 @@ You have two choices. Keep asking the chatbot open questions and act on whatever
 
 The check-it rule keeps the expensive mistakes out. The refusal order and the thresholds stop the assistant from guessing in the first place.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with the canon and the prompt printed as appendices.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with the canon and the prompt printed as appendices.
 
 ## FAQ
 

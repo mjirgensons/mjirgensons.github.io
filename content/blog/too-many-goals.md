@@ -149,7 +149,7 @@ The short list gives you an order. The sources and the zones tell you when the o
 
 Next Monday, a new problem lands on your desk. You check which goal it touches, and you know at once if it waits.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters.
 
 ## FAQ
 

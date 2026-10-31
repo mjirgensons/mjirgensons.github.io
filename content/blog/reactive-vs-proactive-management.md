@@ -138,7 +138,7 @@ Next Monday you open the sheet, read one gap in sales, and pull one lever before
 
 The Monday forecast shows the gap coming. The zone thresholds and the two forecasts tell you which gaps to ignore and which to fight.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with every forecast worked out in numbers.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with every forecast worked out in numbers.
 
 ## FAQ
 

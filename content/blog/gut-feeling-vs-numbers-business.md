@@ -143,7 +143,7 @@ You have two choices. Keep steering by "lots" and "roughly," and find the bend i
 
 The row tells you where you are. The zones and the forecast tell you what to do about it.
 
-For the full one-evening template, see the [financial health check](/blog/financial-health-check/). Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+For the full one-evening template, see the [financial health check](/blog/financial-health-check/). Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
 ## FAQ
 

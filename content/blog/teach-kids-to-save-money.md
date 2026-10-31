@@ -124,7 +124,7 @@ The sheet starts the habit. The zones and the backward move keep it on track whe
 
 Next Sunday your child tips out the piggy bank, counts, and tells you the colour before you ask.
 
-Test the logic for free: [Chapter 1, where Alex first appears](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with Alex, a freelancer, a coffee shop and a family budget side by side.
+Test the logic for free: [Chapter 1, where Alex first appears](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with Alex, a freelancer, a coffee shop and a family budget side by side.
 
 ## FAQ
 

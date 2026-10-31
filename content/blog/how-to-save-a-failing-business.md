@@ -118,7 +118,7 @@ You have two choices this evening. Keep the three tabs open and save the busines
 
 The readings point the boat. The attention queue and the scenario forecast keep it pointed when the next four numbers slide at once.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with the Red Card for the days your hands shake.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with the Red Card for the days your hands shake.
 
 ## FAQ
 

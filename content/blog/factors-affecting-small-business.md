@@ -123,7 +123,7 @@ Next Monday revenue dips, and you check one line on the sheet before you touch a
 
 The bins tell you what is pushing. The zones and early recognition tell you how far, and how soon.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with every factor worked out in euros.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with every factor worked out in euros.
 
 ## FAQ
 

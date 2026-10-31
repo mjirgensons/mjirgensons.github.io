@@ -74,7 +74,7 @@
   </div>
 </footer>
 {% block buybar %}<div class="buybar is-hidden" id="buybar" role="region" aria-label="Buy the book">
-  <div><b>Kindle ${{ book.formats[0].price }}</b><span>Chapter 1 free</span></div>
+  <div><b>Steer, Don't Guess</b><span>Chapter 1 free</span></div>
   <a class="btn btn-buy" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
 </div>
 <script>
@@ -83,7 +83,7 @@ function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b
 upd();window.addEventListener('scroll',upd,{passive:true});})();
 </script>{% endblock %}
 <script>
-/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; prices stay in US dollars (Martin, 2026-10-30) */
+/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; no prices are shown on the site (Martin, 2026-10-31) */
 (function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
 var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
 if(!ca)return;document.documentElement.classList.add('ca');

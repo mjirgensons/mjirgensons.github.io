@@ -128,7 +128,7 @@ You have two choices. Wait for the next bank alert and have the same argument ag
 
 The table ends the fight. The forecasts and the backward move get you from 0.45 months to three.
 
-Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle for $9.99, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and the same method runs a business, a family and a teenager's savings.
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and the same method runs a business, a family and a teenager's savings.
 
 ## FAQ
 
