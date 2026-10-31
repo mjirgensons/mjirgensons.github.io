@@ -1,23 +1,27 @@
 ---
 title: Martin Jirgenson
-description: Martin Jirgenson is a researcher of management systems and a management practitioner based in Ontario, Canada, and the author of Steer, Don't Guess (2026). He developed the Jirgenson Model to help owners, managers and families decide by instruments rather than by guesswork, with or without AI.
+description: Martin Jirgenson, Business Development Executive, Systems Architect and Author of Steer, Don't Guess. Over 25 years in business development and operations; founder of VocaIQ.
 url: /author/
 kicker: About the author
-lead: Martin Jirgenson is a researcher of management systems and the author of Steer, Don't Guess (2026). Based in Ontario, Canada, he developed the Jirgenson Model to help owners, managers and families make decisions by instruments rather than by guesswork, with or without AI.
-updated: 2026-10-29
+lead: Business Development Executive, Systems Architect and Author
+updated: 2026-10-31
 ---
 
 <figure class="author-photo"><picture><source srcset="/img/martin-jirgenson.webp" type="image/webp"><img src="/img/martin-jirgenson.jpg" width="800" height="1067" alt="Martin Jirgenson, author of Steer, Don't Guess"></picture></figure>
 
-## Background
+I build business systems that scale, operate reliably and drive revenue. With over 25 years of experience in business development and operations, I rely on hard data and practical execution rather than guesswork.
 
-Martin Jirgenson is a researcher in control systems, a management practitioner of many years' standing and a developer of methods for optimizing business processes. His field lies where strategy meets execution: from goals and measurements to working operational and software tools. Drawing on experience in crisis management, the architecture of complex systems and the fundamental laws of control theory, he has built an integrative model that turns academic rigour into everyday tools for business and life. The Jirgenson Model is the fruit of this work.
+My work is defined by strategic project development and national level execution. I developed a national school management platform that became the standard for an entire country, currently serving over 90 percent of its schools. I have built and operated custom manufacturing enterprises from the ground up, directing full commercial strategies, cross border partnerships and end to end production.
+
+Throughout my career, I have designed and deployed core enterprise systems spanning production, inventory and field operations to support massive commercial growth and distributed execution. Today, as the founder of VocaIQ, I build premium AI voice agent services that automate and scale B2B operations across North America.
+
+I wrote Steer, Don't Guess specifically for business owners, CEOs and top managers. It is a direct management method for setting priorities, reading the numbers and correcting course in business and life. It strips away abstract theory, delivering a clear framework to help you steer your operations through complex realities.
+
+<div class="inline-buy"><img src="/img/cover.jpg" width="96" height="147" alt="Steer, Don't Guess book cover"><div><p><strong>Steer, Don't Guess:</strong> Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</p><div class="btn-row"><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" rel="noopener">Kindle $9.99</a><a class="btn btn-line btn-sm" href="https://www.amazon.com/dp/B0HPCJCWKF" rel="noopener">Paperback</a><a class="btn btn-line btn-sm" href="https://www.amazon.com/dp/B0HPCR2G46" rel="noopener">Hardcover</a><a class="btn btn-line btn-sm" href="/blog/free-sample/">Read Chapter 1 free</a></div></div></div>
 
 ## The Jirgenson Model
 
-The model treats any result as a process with points of control. Management is three things done regularly: know where you want to go (a short, ordered list of measurable goals), know where you really are (the same list filled with measured facts), and reduce the gap (levers you can move, kept apart from conditions you cannot). The rest of the model, zones and red lines, three schemes of control, three offsets, the backward move, exists to do those three things precisely and on course. [The Jirgenson Model explained, with a glossary →](/blog/jirgenson-model-management-method/)
-
-The model's rulebook, the **canon**, and the **operating prompt** for AI assistants are published under an open licence on [GitHub](https://github.com/mjirgensons/jirgenson-model), together with the blind test that measured them. [How to use them →](/ai-assistant/)
+I do not keep my core methods proprietary. I developed and released The Jirgenson Model, an open source AI framework designed to eliminate LLM hallucinations and enforce strict rule compliance in business applications. You can access the operating prompts, benchmarking scripts and full documentation for free on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Publications
 
