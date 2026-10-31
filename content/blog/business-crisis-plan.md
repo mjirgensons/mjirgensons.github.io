@@ -27,11 +27,11 @@ A crisis plan written during the crisis is a mood with bullet points.
 
 ## The one-page plan: five blocks, filled in
 
-Here is the whole page. Each block sits next to a real entry from the book's examples: Andrew's coffee shop and Elena, a freelance designer.
+Here is the whole page. Each block sits next to an entry from the book's examples: Andrew's coffee shop and Elena, a freelance designer.
 
 ### 1. Your goals, in the order you would give them up
 
-Ask: if things got bad, which goal would I drop first? Which would I defend to the very end? Number them.
+Ask: if things got bad, which goal would I drop first? Which would I defend to the end? Number them.
 
 Above the list, write what is never traded: safety, the law, wages, taxes, loan payments. These are not goals you give up in turn. They decide which moves are allowed at all.
 
@@ -107,10 +107,10 @@ The page is complete. It tells you what to do once a number is red, in what orde
 
 It does not touch the cause. The red line still arrives as a surprise, because nothing on the page looks ahead. And when you reach for a lever, the page does not say which ones you can pull yourself, today, and how fast each one works.
 
-Two steps close that gap:
+Two steps close that gap.
 
 - **The list of levers.** Three questions for every lever separate the ones you control from the ones you only wish you did. Chapter 5.
-- **Two forecasts and control by forecast.** "If nothing changes" against "if the plan works", in numbers and dates, so you see the red line months before you reach it. Chapters 8 and 9.
+- **Two forecasts and control by forecast.** "If nothing changes" against "if the plan works", in numbers and dates. You see the red line months before you reach it. Chapters 8 and 9.
 
 The plan is one piece of a loop: goals in order, the real state, the gap, levers, plan, forecast.
 
@@ -138,7 +138,7 @@ Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/).
 
 ### What should a business crisis plan include?
 
-Five blocks on one page: goals in the order you would give them up, a red line for each with its reason, a freeze list, a rule for two reds at once, and a check rhythm with one person to tell.
+Five blocks on one page. Goals in the order you would give them up. A red line for each, with its reason. A freeze list, a rule for two reds at once, and a check rhythm with one person to tell.
 
 ### When should I write a small business emergency plan?
 

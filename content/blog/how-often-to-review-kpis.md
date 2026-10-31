@@ -88,13 +88,13 @@ And the judge line for his live lever: prices up 5%, a loop of about 45 days. Th
 
 ## What the wrong rhythm costs
 
+If nothing changes, Andrew's reserve reaches two months of expenses at month 16. With the plan working, at month 10. At the end of month 3, the "change nothing" line still sits at 0.8 months: red. A slow rhythm keeps you on that line longer.
+
 Andrew's weekly look paid for itself in month 2. It showed that one menu item he planned to drop was the one that brought the regulars in. He kept it.
 
 Without that look, the item vanishes. A month later the regulars thin out and nobody knows why. Andrew goes back to the loyalty cards he had shelved and pays for them out of a reserve already in the red. The error surfaces in month 6 instead of month 2: four months of a broken plan.
 
-Speed works against a slow look too. Complaints that climb two a week go from two to ten in four weeks. A monthly look can find them green one month and past red the next, with no warning in between.
-
-Now the money. If nothing changes, Andrew's reserve reaches two months of expenses at month 16. With the plan working, at month 10. At the end of month 3, the "change nothing" line still sits at 0.8 months: red.
+Complaints that climb two a week go from two to ten in four weeks. A monthly look can find them green one month and past red the next, with no warning in between.
 
 Six extra months of checking the bank app before every supplier payment. That is what a missing rhythm buys.
 

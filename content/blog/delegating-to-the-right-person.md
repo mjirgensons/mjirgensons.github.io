@@ -25,7 +25,7 @@ Here is the rule. In each area of the business, the person at the wheel should b
 
 The same restaurant is easy to read for an experienced manager and a mystery for a novice. Same kitchen, same guests, same Friday. What changes is how far the person in charge can see.
 
-<div class="def"><strong>In the Jirgenson Model,</strong> predictability belongs to a pair: the work plus the person at the wheel. You can control exactly as much as you can foresee. So the question is never only "what is our process?" It is also "who runs it, and what can they see coming?"</div>
+<div class="def"><strong>In the Jirgenson Model,</strong> predictability belongs to a pair: the work plus the person at the wheel. You can control exactly as much as you can foresee. So never ask only about the process. Ask who runs it, and what they can see coming.</div>
 
 This turns delegation from a favour into a design choice. You are not offloading work. You are moving each area to the head that predicts it best.
 
@@ -48,7 +48,7 @@ This takes about fifteen minutes with a sheet of paper. Here are the steps, and 
 3. **Check the state of whoever holds it now.** Hours this week, time of day, what else they carry. A tired expert forecasts worse than the same expert rested.
 4. **Hand it over with a map.** Write down what the best person watches: the time, what happens, what to do five minutes before. That page is a process map.
 
-Andrew's sheet:
+Andrew's sheet (an illustration, built from the coffee shop's own scenes):
 
 | Area | What must be foreseen | Who sees it coming | At the wheel after the test |
 |---|---|---|---|
@@ -103,7 +103,7 @@ For the full Friday sheet and four ways to recognise a problem before it lands, 
 <div class="takeaways" markdown="1">
 ### Key takeaways
 
-- Delegate each area to whoever sees furthest ahead in it, not to the top title.
+- Delegating to the right person means each area goes to whoever sees furthest ahead in it, not to the top title.
 - A tired owner is a faulty instrument. Big decisions wait for the morning unless people or mandatory payments are in danger.
 - Sometimes the one who sees a problem first is outside the business. Find that source.
 - Put the best person's foresight on a process map, so it survives a day off.

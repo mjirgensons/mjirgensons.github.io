@@ -27,7 +27,7 @@ A balance in euros tells you how much. A reserve in months tells you how long. O
 
 ## Cash reserve months of expenses: the calculation in ten minutes
 
-You need two documents: the bank statement and your accounts. Here are the steps, each with Andrew's coffee shop next to it. His figures are the book's worked illustration: revenue of €30,000 a month, a margin of 9%.
+You need two documents: the bank statement and your accounts. Here are the steps, each with Andrew's coffee shop next to it. His figures are a worked illustration: revenue of €30,000 a month, a margin of 9%.
 
 | Step | What to do | Andrew's entry |
 |---|---|---|

@@ -54,7 +54,7 @@ As a balanced scorecard:
 | Internal processes | Complaints a week | 5 |
 | Learning and growth | Not yet chosen | None |
 
-Neither version has a row for Andrew's 65 hours. The OKR had no reason to include them. The scorecard's four sides have no place named for the owner.
+Neither version has a row for Andrew's 65 hours. The OKR had no reason to list them. The scorecard has no side named for the owner; his hours would have to squeeze into learning and growth.
 
 The model sweeps six areas instead of four: finance, clients, sales, processes and quality, people, and development and owner. The last one holds the owner's own time, health and money. It is the area forgotten most often. Yet it is often goal number one.
 
@@ -70,15 +70,15 @@ Here is the test neither format passes. Take two plans for the end of Andrew's y
 | Complaints (goal 2) | 2, met | 1, met |
 | Hours (goal 40) | 40, met | 38, met |
 
-Count the key results and the plans tie at four out of five.
+Count key results and the plans tie, four out of five.
 
 Now ask Andrew's question. Which goal would I give up last? The reserve. Without it the shop closes, and then margin, customers and quality stop mattering. Read the plans in that order. The first difference sits in row one. Plan X meets the reserve. Plan Y misses it. Plan X wins.
 
-Counting goals and ordering goals give different answers. On a bad Monday, only the order tells you what to do.
+A tally and a ranking can disagree. On a bad Monday, only the ranking tells you what to do.
 
 ## Build one sheet that does both jobs
 
-Take the best of each method and add the order. It takes about fifteen minutes. Four steps, each with Andrew's entry.
+Take the best of each and add the order. About fifteen minutes. Four steps, each with Andrew's entry.
 
 ### 1. Sweep the six areas
 
