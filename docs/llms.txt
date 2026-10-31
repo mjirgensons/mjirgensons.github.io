@@ -37,7 +37,6 @@
 - https://mjirgensons.github.io/blog/reactive-vs-proactive-management/
 - https://mjirgensons.github.io/blog/teach-kids-to-save-money/
 - https://mjirgensons.github.io/blog/what-is-a-leading-indicator/
-- https://mjirgensons.github.io/blog/when-to-give-up-on-a-business-idea/
 - https://mjirgensons.github.io/blog/when-to-pivot-small-business/
 - https://mjirgensons.github.io/blog/backward-planning/
 - https://mjirgensons.github.io/blog/books-like-measure-what-matters/
