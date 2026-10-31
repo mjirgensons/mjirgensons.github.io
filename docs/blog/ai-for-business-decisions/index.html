@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F7F8F6">
+<title>AI for Business Decisions: What to Let It Do, What to Check</title>
+<meta name="description" content="AI for business decisions: the four jobs an assistant can do in your loop, the risk in each, and a one-line rule for which answers to check by hand.">
+<link rel="canonical" href="https://mjirgensons.github.io/blog/ai-for-business-decisions/">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta name="author" content="Martin Jirgenson">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Steer, Don&#39;t Guess">
+<meta property="og:title" content="AI for Business Decisions: What to Let It Do, What to Check">
+<meta property="og:description" content="AI for business decisions: the four jobs an assistant can do in your loop, the risk in each, and a one-line rule for which answers to check by hand.">
+<meta property="og:url" content="https://mjirgensons.github.io/blog/ai-for-business-decisions/">
+<meta property="og:image" content="https://mjirgensons.github.io/img/cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="Steer, Don&#39;t Guess: Blog" href="https://mjirgensons.github.io/rss.xml">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css?v=3">
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebSite", "alternateName": "The Jirgenson Model", "author": {"@type": "Person", "name": "Martin Jirgenson"}, "name": "Steer, Don\u0027t Guess", "url": "https://mjirgensons.github.io"}
+</script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "about": ["ai for business decisions", "chatgpt prompt for business", "chatgpt for small business", "ai business advice", "best chatgpt prompt for business", "claude prompt for business", "should ai make business decisions", "ai decision making for small business", "check ai answers", "ai assistant for small business", "human in the loop"], "author": {"@id": "https://mjirgensons.github.io/author/#person", "@type": "Person", "image": "https://mjirgensons.github.io/img/martin-jirgenson.jpg", "jobTitle": "Management systems researcher", "name": "Martin Jirgenson", "url": "https://mjirgensons.github.io/author/"}, "dateModified": "2026-10-31", "datePublished": "2026-10-31", "description": "AI for business decisions: the four jobs an assistant can do in your loop, the risk in each, and a one-line rule for which answers to check by hand.", "headline": "AI for Business Decisions: What to Let It Do, What to Check", "image": "https://mjirgensons.github.io/img/cover.jpg", "inLanguage": "en", "isPartOf": {"@id": "https://mjirgensons.github.io/#book", "@type": "Book", "name": "Steer, Don\u0027t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life"}, "mainEntityOfPage": "https://mjirgensons.github.io/blog/ai-for-business-decisions/", "publisher": {"@type": "Person", "name": "Martin Jirgenson"}, "url": "https://mjirgensons.github.io/blog/ai-for-business-decisions/", "wordCount": 1421}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "It should prepare them, not make them. The safe way to use AI for business decisions is to let it compare numbers with goals, build scenarios and list options. You confirm the order of goals and take the final decision. Give it rights to act only with a log and your confirmation."}, "name": "Should AI make business decisions?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "One that gives rules instead of a role. It sets what the assistant may say, how it works and what it must not decide. In a blind test, a rulebook scored 88.8 against 67.7 for a good generic consultant prompt."}, "name": "What is the best ChatGPT prompt for business?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "Give it your goal and state numbers and ask for the gaps. If any figure differs from your own sum, restart. For costly decisions, check by hand whenever the chance of error times the cost is larger than the cost of checking."}, "name": "How do I check AI business advice?"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "item": "https://mjirgensons.github.io/", "name": "Home", "position": 1}, {"@type": "ListItem", "item": "https://mjirgensons.github.io/blog/", "name": "Blog", "position": 2}, {"@type": "ListItem", "item": "https://mjirgensons.github.io/blog/ai-for-business-decisions/", "name": "AI for Business Decisions: What to Let It Do, What to Check", "position": 3}]}</script>
+
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap nav">
+    <a class="logo" href="/">Steer, Don't Guess</a>
+    <nav class="nav-desk" aria-label="Main">
+      <a href="/#book">Book</a>
+      <a href="/blog/">Blog</a>
+      <a href="/reviews/">Reviews</a>
+      <a href="/author/">Author</a>
+      <a href="/ai-assistant/">AI prompt</a>
+      <a class="btn" href="/buy/">Get the book</a>
+    </nav>
+    <details class="menu">
+      <summary aria-label="Menu"><svg class="bars" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="x" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></summary>
+      <nav class="menu-panel" aria-label="Main">
+        <a href="/#book">Book</a>
+        <a href="/blog/">Blog</a>
+        <a href="/blog/free-sample/">Read Chapter 1 free</a>
+        <a href="/reviews/">Reviews</a>
+        <a href="/author/">Author</a>
+        <a href="/ai-assistant/">AI prompt</a>
+        <a class="btn btn-buy" href="/buy/">Get the book</a>
+      </nav>
+    </details>
+  </div>
+</header>
+<main id="main">
+
+<div class="wrap">
+<article class="col article">
+  <a class="crumb" href="/blog/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>Blog</a>
+  <span class="label">Chapter 16</span>
+  <h1>AI for Business Decisions: What to Let It Do, What to Check</h1>
+  <div class="byline"><a href="/author/"><img class="ava" src="/img/martin-jirgenson-avatar.jpg" width="40" height="40" alt="Martin Jirgenson"></a><div><b>Martin Jirgenson</b><span>31 Oct 2026 · 8 min read</span></div></div>
+  <div class="answer"><span class="label">Short answer</span><p>Use AI for business decisions as a calculator and an analyst, not as the one who decides. It can notice a deviation, build scenarios and prepare options; each job needs its own safeguard. You set the order of goals. Check an answer by hand when the chance it is wrong times the cost of the decision is larger than the cost of checking.</p></div>
+  
+  <details class="toc"><summary>In this article · 8 sections</summary><ol><li><a href="#why-a-fluent-answer-is-not-a-safe-one">Why a fluent answer is not a safe one</a></li><li><a href="#ai-for-business-decisions-four-jobs-four-risks">AI for business decisions: four jobs, four risks</a></li><li><a href="#the-check-it-rule-filled-in">The check-it rule, filled in</a></li><li><a href="#what-changed-when-the-same-ai-had-rules">What changed when the same AI had rules</a></li><li><a href="#what-six-months-of-trusting-the-guess-cost">What six months of trusting the guess cost</a></li><li><a href="#can-i-trust-a-test-run-by-ai">&#34;Can I trust a test run by AI?&#34;</a></li><li><a href="#where-the-check-stops">Where the check stops</a></li><li><a href="#two-ways-to-use-chatgpt-for-small-business">Two ways to use ChatGPT for small business</a></li></ol></details>
+  <div class="prose bookbody"><p>A food truck is 72 hours from losing its permit. Picture the owner typing the problem into a chatbot after closing.</p>
+<p>The answer arrives fast. It is calm, well formatted and sure of itself. It may also contain a number the owner never gave it.</p>
+<p>That food truck was one of ten test situations in a blind experiment. Without rules, seven answers in ten contained an invented fact. With a rulebook attached, one in a hundred and twenty did.</p>
+<p>The machine was the same in both cases. What changed was what it was allowed to do.</p>
+<h2 id="why-a-fluent-answer-is-not-a-safe-one">Why a fluent answer is not a safe one</h2>
+<p>An assistant asked about your business has to say something. So it does.</p>
+<p>If a number is missing, it fills the hole with something plausible. If you did not say what matters most, it chooses for you. Then it hands you the result in perfect sentences, and there is nothing to check it against.</p>
+<p>That is the trouble with most AI business advice. The grammar is flawless. The source of each number is unknown.</p>
+<p>The common enemy here is not the tool. It is the confident guess: a figure that sounds right, arrives fast and was never yours.</p>
+<h2 id="ai-for-business-decisions-four-jobs-four-risks">AI for business decisions: four jobs, four risks</h2>
+<p>Any tool, from a spreadsheet to a chatbot, can sit in your control loop in one of four places. Each place has its own way to fail and its own safeguard. Here they are, with Andrew's coffee shop next to each. The last column is an illustration built on his numbers.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Job in the loop</th>
+<th>What the AI does</th>
+<th>How it fails</th>
+<th>Safeguard</th>
+<th>Andrew's example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Notice the deviation</td>
+<td>Compares the actual figure with the goal and raises a signal</td>
+<td>False alarms, or silence from poor data</td>
+<td>One source per number; thresholds set in advance</td>
+<td>Reserve 0.5 months against a goal of 2.0: signal raised</td>
+</tr>
+<tr>
+<td>2. Build scenarios</td>
+<td>Calculates "if nothing changes" and "if the plan works"</td>
+<td>A neat calculation on wrong assumptions</td>
+<td>Assumptions written down; forecast checked against facts</td>
+<td>Goal reached at month 16 unchanged, month 10 with the plan</td>
+</tr>
+<tr>
+<td>3. Prepare the decision</td>
+<td>Gathers options, consequences, questions</td>
+<td>The first option to hand gets quietly accepted</td>
+<td>A person approves the order of goals</td>
+<td>It proposes "reserve first"; Andrew confirms it</td>
+</tr>
+<tr>
+<td>4. Execute</td>
+<td>Reminds, orders, sends</td>
+<td>A mistake repeated at speed; actions you cannot undo</td>
+<td>Limited rights, a log, a person confirms</td>
+<td>It drafts the supplier email; Andrew presses send</td>
+</tr>
+</tbody>
+</table></div>
+<p>Read the table from top to bottom. The further down, the more a mistake costs. So the access you give the assistant should shrink as you go down.</p>
+<div class="def"><strong>In the Jirgenson Model,</strong> a tool is not a lever. With a lever you move the process. With a tool you see and calculate. An assistant is a tool: it can see, calculate and prepare, while the choice and the responsibility stay with you.</div>
+
+<h2 id="the-check-it-rule-filled-in">The check-it rule, filled in</h2>
+<p>You cannot check every answer. You also cannot trust every answer. One line settles it.</p>
+<p>Check an answer by hand when p × L is larger than c.</p>
+<ul>
+<li><strong>p</strong> is the share of the assistant's answers that turn out wrong on tasks like this one. Take it from your own log.</li>
+<li><strong>L</strong> is the cost of the decision if the answer is wrong.</li>
+<li><strong>c</strong> is the cost of checking.</li>
+</ul>
+<p>Here is the rule at work, with p = 0.1 (one wrong answer in ten):</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Decision</th>
+<th>p × L</th>
+<th>Cost of a 15-minute check at €40 an hour</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Buy equipment for €2,000</td>
+<td>0.1 × €2,000 = €200</td>
+<td>€10</td>
+<td>Check it</td>
+</tr>
+<tr>
+<td>Order €20 of pastries</td>
+<td>0.1 × €20 = €2</td>
+<td>€10</td>
+<td>Do not check each one. Check one in ten and update p</td>
+</tr>
+</tbody>
+</table></div>
+<p>Then add one test that takes two minutes. Give the assistant your goal rows and your state rows, and ask for the gaps. Andrew's five rows must come back as −1.5, −6, −15, +3 and +25. Any other number means the assistant did not calculate from your data.</p>
+<p>Treat that as a red light. Find the cause: the data, the calculation or the version of the rules. Then start a fresh conversation and enter your goals and your state again.</p>
+<p>That is the whole tool: four jobs with their safeguards, one line for when to check, and one two-minute test.</p>
+<h2 id="what-changed-when-the-same-ai-had-rules">What changed when the same AI had rules</h2>
+<p>Back to the ten test situations. The biggest gains came where an owner is most likely to panic. The translation agency losing clients to automatic translation gained 51 points. The food truck 72 hours from losing its permit gained 42.</p>
+<p>Across all ten, the same AI scored 58% higher with the rulebook than with nothing. Here is the comparison that matters to anyone who already writes good prompts:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Same AI, same situations</th>
+<th>Score out of 100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No instructions</td>
+<td>56.2</td>
+</tr>
+<tr>
+<td>A good generic consultant prompt</td>
+<td>67.7</td>
+</tr>
+<tr>
+<td>The model's canon and operating prompt</td>
+<td>88.8</td>
+</tr>
+</tbody>
+</table></div>
+<p>That is 31% above a good generic prompt. A blind judge preferred the answer with the rules 30 times out of 30. Rule violations fell to zero in 120 blind reviews. Control quality doubled, from 4.2 to 8.3 out of 10. And the answers got shorter, from 501 to 454 words.</p>
+<p>One detail is almost funny. The only invented fact in 120 reviews was copied from the prompt's own example sentence. The assistant did not make it up. It borrowed it.</p>
+<h2 id="what-six-months-of-trusting-the-guess-cost">What six months of trusting the guess cost</h2>
+<p>Andrew's own story shows the cost without any AI in it. He believed his margin was about twenty per cent. It was 9%. That week he had planned a second barista and an advertising campaign, both resting on a margin that did not exist.</p>
+<p>Feed that twenty per cent to an assistant, and it will build a handsome plan on it. Fast, tidy and wrong. Within a few months the money runs out, and no one understands why.</p>
+<p>With a plan built on the honest 9%, the café reaches two months of reserve at month 10. Left as it was, at month 16. Six months of difference, decided by what you typed in.</p>
+<h2 id="can-i-trust-a-test-run-by-ai">"Can I trust a test run by AI?"</h2>
+<p>Ask that question. The answer is in the limits. Ten scenarios, one model family, an AI judge; the method and the earlier round's full data are public on GitHub. Results with other assistants may differ.</p>
+<p>The rule above does not ask you to trust the test. It asks you to keep your own log and to check the expensive answers by hand.</p>
+<h2 id="where-the-check-stops">Where the check stops</h2>
+<p>Be clear about what the check-it rule does. It treats a symptom: bad answers no longer slip through on expensive decisions.</p>
+<p>The cause is still in place. The assistant invents and chooses because you have not given it two things. It has no order of goals, so it picks your priorities. It has no thresholds, so it cannot tell a yellow number from a red one.</p>
+<p>Two steps close that gap.</p>
+<ul>
+<li><strong>The goal list in refusal order.</strong> What you would give up first and what you defend last. Chapter 1.</li>
+<li><strong>The zone thresholds and the red protocol.</strong> Where each number turns yellow or red, and what goes first when several are red. Chapter 4.</li>
+</ul>
+<p>The free rulebook files, and how to load them step by step, are in <a href="/blog/chatgpt-prompt-for-business/">the ChatGPT prompt for business</a>. Without your goals and thresholds, even the best ChatGPT prompt for business is guessing about the two things only you know.</p>
+<div class="takeaways">
+<h3 id="key-takeaways">Key takeaways</h3>
+<ul>
+<li>Let AI notice, calculate and prepare. Keep the order of goals and the final choice.</li>
+<li>The further a job sits from "notice" and closer to "execute", the tighter the access.</li>
+<li>Check by hand when p × L is larger than the cost of checking.</li>
+<li>Ask for your gaps back. A wrong number means it did not use your data.</li>
+<li>A fluent answer is not a checked one.</li>
+</ul>
+</div>
+<h2 id="two-ways-to-use-chatgpt-for-small-business">Two ways to use ChatGPT for small business</h2>
+<p>You have two choices. Keep asking the chatbot open questions and act on whatever sounds most confident. Or give it your goals, your numbers and a rule for what to check.</p>
+<p>The check-it rule keeps the expensive mistakes out. The refusal order and the thresholds stop the assistant from guessing in the first place.</p>
+<p>Test the logic for free: <a href="/blog/free-sample/">Chapter 1, with the refusal test</a>. Or get the full control system on Kindle for $9.99, <a href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">on Amazon</a>. It comes as a book, with the canon and the prompt printed as appendices.</p></div>
+  <div class="inline-buy"><img src="/img/cover.jpg" width="64" height="98" alt="" loading="lazy"><div><p>The full chapter, with every calculation, is in the book.</p><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Kindle $9.99</a></div></div>
+  <h2>Questions people ask</h2><details><summary>Should AI make business decisions?</summary><p>It should prepare them, not make them. The safe way to use AI for business decisions is to let it compare numbers with goals, build scenarios and list options. You confirm the order of goals and take the final decision. Give it rights to act only with a log and your confirmation.</p></details><details><summary>What is the best ChatGPT prompt for business?</summary><p>One that gives rules instead of a role. It sets what the assistant may say, how it works and what it must not decide. In a blind test, a rulebook scored 88.8 against 67.7 for a good generic consultant prompt.</p></details><details><summary>How do I check AI business advice?</summary><p>Give it your goal and state numbers and ask for the gaps. If any figure differs from your own sum, restart. For costly decisions, check by hand whenever the chance of error times the cost is larger than the cost of checking.</p></details>
+  <p class="note">This topic is covered in <strong>Chapter 16, The electricity we have already switched on; Appendices H and I</strong> of <em>Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</em>. The numbers in the examples are illustrative; the book states its limits in Appendix G.</p>
+  <section class="cta-deep"><h2>Read Chapter 1 free</h2><p>The Introduction and Chapter 1, with the refusal test, about 9,500 words.</p><div class="btn-row"><a class="btn btn-white" href="/blog/free-sample/">Start reading</a></div></section>
+  
+  <h2>Read next</h2>
+  <div class="cards"><a class="card" href="/blog/free-sample/"><span class="meta">From the author</span><h3>Free sample: From the author, the Introduction and Chapter 1 of Steer, Don&#39;t Guess</h3></a><a class="card" href="/blog/action-plan-template/"><span class="meta">Chapter 6</span><h3>Action Plan Template: Five Rows That Turn a Goal Into Monday</h3></a><a class="card" href="/blog/backward-planning-template/"><span class="meta">Chapter 15</span><h3>Backward Planning Template: a Filled-In Example You Can Copy</h3></a></div>
+</article>
+</div>
+
+</main>
+<footer class="floor">
+  <div class="wrap foot">
+    <div>
+      <p class="foot-title">Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</p>
+      <p>By Martin Jirgenson, Management systems researcher, Ontario, Canada. English edition 1.1, October 2026.</p>
+      <p class="small">Not financial, legal or investment advice. Characters in the book are composites; numbers are illustrative.</p>
+    </div>
+    <div class="foot-cols">
+      <div><p class="foot-h">Book</p><a href="/buy/">Where to buy</a><a href="/blog/free-sample/">Read Chapter 1 free</a><a href="/reviews/">Reviews</a><a href="/press/">Press kit</a></div>
+      <div><p class="foot-h">Model</p><a href="/blog/jirgenson-model-management-method/">The Jirgenson Model</a><a href="/blog/">Blog</a><a href="/ai-assistant/">Canon and prompt</a><a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a></div>
+      <div><p class="foot-h">Author</p><a href="/author/">Martin Jirgenson</a><a href="/contact/">Contact the author</a><a href="https://www.linkedin.com/in/martin-jirgenson-3098609a/" target="_blank" rel="noopener">LinkedIn</a><a href="/rss.xml">RSS</a></div>
+    </div>
+    <p class="copyright">© 2026 Martin Jirgenson. All rights reserved.</p>
+  </div>
+</footer>
+<div class="buybar is-hidden" id="buybar" role="region" aria-label="Buy the book">
+  <div><b>Kindle $9.99</b><span>Chapter 1 free</span></div>
+  <a class="btn btn-buy" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Buy on Amazon</a>
+</div>
+<script>
+(function(){var b=document.getElementById('buybar');if(!b)return;var h=document.querySelector('.hero');
+function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b.classList.toggle('is-hidden',y<lim)}
+upd();window.addEventListener('scroll',upd,{passive:true});})();
+</script>
+<script>
+/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; prices stay in US dollars (Martin, 2026-10-30) */
+(function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
+var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
+if(!ca)return;document.documentElement.classList.add('ca');
+document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
+}catch(e){}})();
+document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});
+</script>
+<!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
