@@ -15,6 +15,7 @@ I read every message myself, and I reply personally, as the author. Questions ab
 - **Email: [martin.jirgenson@gmail.com](mailto:martin.jirgenson@gmail.com)**: for reviews, press, podcasts and anything about the book.
 - **[Message me on LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/)**: the quickest way to reach me.
 - **[Follow me on Amazon](https://www.amazon.com/e/B0HPCVYHDJ)**: my author page, where new books and editions appear first.
+- **[Follow me on Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson)**: add the book to your shelf and leave a rating.
 - **[GitHub](https://github.com/mjirgensons/jirgenson-model)**: open an issue or a discussion for anything about the canon, the prompt or the blind test.
 - **[Gumroad](https://jirgenstorm4.gumroad.com)**: you can also message me through my Gumroad page.
 
