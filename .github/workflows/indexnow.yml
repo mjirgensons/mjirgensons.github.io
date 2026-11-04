@@ -1,0 +1,29 @@
+name: IndexNow ping
+# After each push to main, wait for GitHub Pages to deploy, then send every sitemap URL
+# to IndexNow (Bing, Yandex, Seznam, Naver). Free; the key file lives in docs/.
+on:
+  push:
+    branches: [main]
+    paths: ["docs/**"]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Wait for Pages deploy
+        run: sleep 120
+      - name: Send sitemap URLs to IndexNow
+        run: |
+          python3 - <<'PY'
+          import json, re, urllib.request
+          key = "3f5573082a047d7fd044b24d1fd40f67"
+          urls = re.findall(r"<loc>([^<]+)</loc>", open("docs/sitemap.xml").read())
+          body = json.dumps({"host": "mjirgensons.github.io", "key": key,
+                             "keyLocation": f"https://mjirgensons.github.io/{key}.txt",
+                             "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                       headers={"Content-Type": "application/json; charset=utf-8"})
+          with urllib.request.urlopen(req) as r:
+              print("IndexNow", r.status, len(urls), "URLs")
+          PY
