@@ -2,7 +2,7 @@
 title: "Levers of control: what you can actually change in a business"
 description: Levers of control for small business owners: how to tell a lever from a result, the three questions to ask before pulling one, and a 5% price rise tested in euros.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 5, Levers: what you can really change
 slug: levers-of-control
 keywords: [levers of control, business levers, focus on what you can control, how to focus on what you can control, control vector, lever vs result]

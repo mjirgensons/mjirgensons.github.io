@@ -2,7 +2,7 @@
 title: "The Jirgenson Model: 3 questions to steer a small business"
 description: "The Jirgenson Model in three weekly questions: where you want to go, where you really are, and what you can move. A management method for owners, with a glossary."
 date: 2026-10-29
-updated: 2026-10-29
+updated: 2026-11-04
 chapter: The whole book, Chapters 1 to 16
 slug: jirgenson-model-management-method
 keywords: [Jirgenson Model, Martin Jirgenson, management method for small business owners, control theory for business, feedback control management, how to set priorities in business and life, stop guessing business decisions, decision making framework for small business, management system for owners, OKR alternative, EOS alternative, business book on priorities and numbers]

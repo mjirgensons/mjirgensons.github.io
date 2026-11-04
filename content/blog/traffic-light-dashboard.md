@@ -2,7 +2,7 @@
 title: "Traffic light dashboard: set red, yellow and green in advance"
 description: How to build a traffic light dashboard for a small business: where to draw the red line, what yellow asks of you, and why green means leave it alone.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 4, Error: the main signal that drives decisions
 slug: traffic-light-dashboard
 keywords: [traffic light dashboard, traffic light dashboard template, business dashboard, red line business, what is a business dashboard, kpi zones]

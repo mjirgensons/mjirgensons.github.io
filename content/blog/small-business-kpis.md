@@ -2,7 +2,7 @@
 title: "Small business KPIs: build a dashboard you can read in a minute"
 description: Small business KPIs without software: which to track, a dashboard built in six steps, how often to measure each number, and a nine-question completeness test.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 13, Tools: what a working system is built from
 slug: small-business-kpis
 keywords: [small business kpis, key business metrics for startups, ways to measure business performance, what is a business dashboard, kpi dashboard template, how often to review kpis]

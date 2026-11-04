@@ -2,7 +2,7 @@
 title: "Management Glossary in Plain English, With Coffee Shop Examples"
 description: "A management glossary in plain English: goal vector, refusal order, zones, stability margin, levers, phase lag, steady mode, each with one coffee shop example."
 date: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-04
 chapter: Appendix B, Glossary
 slug: management-glossary
 keywords: [management glossary, glossary of management terms, control theory terms explained, stability margin meaning, phase lag meaning, steady mode meaning, manoeuvre meaning, closed loop meaning, leading indicator meaning]

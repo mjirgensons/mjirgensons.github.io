@@ -2,7 +2,7 @@
 title: "Business triage: what to do when everything goes wrong at once"
 description: Business triage for a bad month: seven steps from calming the noise to one decision, which problem goes first, and a coffee shop's three scenarios in numbers.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 12, Seven steps of entering control; Conclusion, the Red Card
 slug: business-triage
 keywords: [business triage, business triage template, my business is failing what do i do, emergency plan business, how to save a failing business, what to do when everything goes wrong]

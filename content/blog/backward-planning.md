@@ -2,7 +2,7 @@
 title: "Backward planning: a two-column template from goal to this week"
 description: "Backward planning in one two-column table: start at the finished goal, ask what must be true just before it, stop at this week. Free template, coffee shop example."
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 15, The backward move: from the goal to today
 slug: backward-planning
 keywords: [backward planning, reverse planning, backward planning template, what is backward planning, plan backwards from a goal, how to plan backwards from a goal]
