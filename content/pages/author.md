@@ -35,6 +35,7 @@ I do not keep my core methods proprietary. I developed and released The Jirgenso
 - [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/)
 - [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ)
 - [Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson)
+- [ORCID](https://orcid.org/0009-0001-3034-3552)
 - [Wikidata](https://www.wikidata.org/wiki/Q141981336)
 - [Gumroad](https://jirgenstorm4.gumroad.com)
 - [Contact](/contact/)
