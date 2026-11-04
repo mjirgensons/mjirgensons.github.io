@@ -52,7 +52,7 @@ A startup has less history and fewer sources, which makes the discipline more im
 
 ## How often to review each KPI
 
-Measure often enough that a number cannot slip across its whole yellow band unnoticed between two looks, but do not judge a lever before it has had time to work. In practice:
+Measure often enough that a number cannot slip across its whole yellow band unnoticed between two looks, but do not judge one of your [levers of control](/blog/levers-of-control/) before it has had time to work. In practice:
 
 | Number | How fast it moves | Rhythm |
 |---|---|---|

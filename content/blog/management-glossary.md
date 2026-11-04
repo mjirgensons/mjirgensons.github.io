@@ -67,7 +67,7 @@ Learn the words in this order and you can name every part of your own business i
 
 ## Levers: what you can move
 
-**Levers (control vector).** Parameters you can change yourself, by your own decision. Profit is not a lever. Price is.
+**Levers (control vector).** Parameters you can change yourself, by your own decision. Profit is not a lever. Price is. Here is how to tell [levers of control](/blog/levers-of-control/) from results.
 
 *Andrew's list:* the prices of lattes and cappuccinos, the menu, purchasing, portion size. The weather, the rent and foot traffic failed the test.
 

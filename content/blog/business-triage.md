@@ -54,6 +54,8 @@ The reserve, at 1.56 months, was also yellow, but it was growing, moving away fr
 
 ## Three scenarios, one lever
 
+Each scenario must move a real lever: something Andrew can change by his own decision. (How to tell [levers of control](/blog/levers-of-control/) from results.)
+
 For step 6, Andrew put three options side by side:
 
 | Scenario | Margin | Reserve reaches 2.0 | Holds for three months |

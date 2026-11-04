@@ -1,6 +1,6 @@
 ---
-title: "The Jirgenson Model: a management method for small business owners"
-description: The Jirgenson Model by Martin Jirgenson: control theory for business and life, priorities, red lines and levers, with a glossary and an OKR comparison.
+title: "The Jirgenson Model: 3 questions to steer a small business"
+description: "The Jirgenson Model in three weekly questions: where you want to go, where you really are, and what you can move. A management method for owners, with a glossary."
 date: 2026-10-29
 updated: 2026-10-29
 chapter: The whole book, Chapters 1 to 16

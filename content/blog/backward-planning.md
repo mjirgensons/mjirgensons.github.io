@@ -1,6 +1,6 @@
 ---
-title: "Backward planning: how to plan from the goal back to this week"
-description: Backward planning (reverse planning) explained with a coffee shop's second location, a free two-column template, and the five questions that tell you when it works.
+title: "Backward planning: a two-column template from goal to this week"
+description: "Backward planning in one two-column table: start at the finished goal, ask what must be true just before it, stop at this week. Free template, coffee shop example."
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 15, The backward move: from the goal to today

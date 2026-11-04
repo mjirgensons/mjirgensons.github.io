@@ -78,7 +78,7 @@ One lever delivers about three of the six percentage points he needs. Then comes
 
 ## When there is no lever
 
-Sometimes you write down a goal and cannot find a single lever. The book treats that as a signal with two possible meanings. Either the goal is worded so it cannot be controlled directly ("readers' trust" is not a lever; publications, examples and reviews are, and trust follows), or the lever exists and you have not spotted it. The question that finds it: what has to be done for this to happen, and who does it? If the honest answer is "nobody", no effort will solve the task, and you need to revisit the goal or who is responsible for it.
+Sometimes you write down a goal and cannot find a single lever. The book treats that as a signal with two possible meanings. Either the goal is worded so it cannot be controlled directly ("readers' trust" is not a lever; publications, examples and reviews are, and trust follows), or the lever exists and you have not spotted it. The question that finds it: what has to be done for this to happen, and who does it? If the honest answer is "nobody", no effort will solve the task, and you need to revisit the goal or who is responsible for it. If two goals reach for the same lever, you have [competing priorities](/blog/competing-priorities-conflicting-goals/), and you set their order before you pull it.
 
 ## Where this does not reach
 
