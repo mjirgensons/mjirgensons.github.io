@@ -9,7 +9,7 @@ updated: 2026-10-29
 
 ## The story
 
-A management method was written down as a compact rulebook (a "canon") and an operating prompt, so that an AI assistant works by the method instead of giving generic advice. It was then blind-tested over five rounds: the same model (Claude Sonnet 5.5) answered ten realistic small-business crises with and without the method, and a stronger model (Claude Opus 5.5) judged every pair blind against an answer key fixed in advance. In the final round, the share of answers containing an invented fact fell from 7 in 10 to 1 in 120, and that single invented fact was copied from an example sentence in the prompt itself. The method won 30 of 30 blind pairings, scored 88.8 out of 100 against 56.2 (58% higher), beat a good generic consultant prompt by 31% (88.8 against 67.7), doubled control quality (4.2 to 8.3) and produced zero rule violations in 120 blind reviews. The limits: ten scenarios, one model family, an AI judge. The method and the earlier round's full data are public.
+A management method was written down as a compact rulebook (a "canon") and an operating prompt, so that an AI assistant works by the method instead of giving generic advice. It was then blind-tested over five rounds: the same model (Claude Sonnet 5.5) answered ten realistic small-business crises with and without the method, and a stronger model (Claude Opus 5.5) judged every pair blind against an answer key fixed in advance. In the final round, the share of answers containing an invented fact fell from 7 in 10 to 1 in 120, and that single invented fact was copied from an example sentence in the prompt itself. The method won 30 of 30 blind pairings, scored 88.8 out of 100 against 56.2 (58% higher), beat a good generic consultant prompt by 31% (88.8 against 67.7), doubled control quality (4.2 to 8.3) and produced zero rule violations in 120 blind reviews. The limits: ten scenarios, one model family, an AI judge. The full record of every round is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934) (DOI 10.5281/zenodo.23964934).
 
 The method is the Jirgenson Model, published in the book *Steer, Don't Guess* (October 2026). The author is Martin Jirgenson, a management systems researcher based in Ontario, Canada.
 
@@ -21,7 +21,7 @@ The method is the Jirgenson Model, published in the book *Steer, Don't Guess* (O
 - Formats: Kindle (ASIN B0HPBR6BNX); paperback (ISBN 979-8164833749); hardcover (ISBN 979-8164846152); PDF direct from the author
 - Length: 237 pages print; four parts, 16 chapters, 10 appendices
 - Free: Chapter 1 with the cheat sheet (44 pages); the model canon and operating prompt (GitHub, open licence)
-- Blind test E5: [method, data, judgments, scripts](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Blind test E5: full record (scenarios, answers, judge records, scripts) on [Zenodo, DOI 10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934); summary on [GitHub](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
 
 ## Author bio
 

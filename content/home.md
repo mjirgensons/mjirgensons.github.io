@@ -33,7 +33,7 @@ Not for anyone shopping for a guarantee. Forecasts can be wrong. Data can be inc
 
 The book includes the model's **canon** and a ready **operating prompt**. Attach them to any capable AI assistant and it stops giving generic advice: it works with your numbers, in a fixed order of analysis, and marks missing data as missing instead of filling the gap with a guess.
 
-How much difference that makes was measured on ten realistic business crises, from a food truck 72 hours from losing its permit to a freelancer six days from rent. Answers with the method scored **88.8 out of 100**; the same AI on its own scored **56.2**. The method, the data and the limits are public: [see the data](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10). Don't believe it. Run it.
+How much difference that makes was measured on ten realistic business crises, from a food truck 72 hours from losing its permit to a freelancer six days from rent. Answers with the method scored **88.8 out of 100**; the same AI on its own scored **56.2**. The method, the data and the limits are public, with a permanent DOI: [see the full record on Zenodo](https://doi.org/10.5281/zenodo.23964934). Don't believe it. Run it.
 
 ## What early readers say
 

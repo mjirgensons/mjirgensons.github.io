@@ -2,7 +2,7 @@
 title: "How to prevent AI hallucinations in business advice"
 description: How to prevent AI hallucinations when you ask ChatGPT or Claude for business advice: a blind test where invented facts fell from 7 answers in 10 to 1 in 120.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 16, The electricity we have already switched on; Appendices H, I and J
 slug: how-to-prevent-ai-hallucinations
 keywords: [how to prevent ai hallucinations, ai hallucinations, what is ai hallucinations, ai hallucinations example, stop chatgpt making things up, chatgpt for small business]
@@ -39,6 +39,8 @@ Left to itself, the assistant slipped something made up into seven answers out o
 
 And the single invented fact that survived? The judge traced it back to an example sentence inside the prompt itself. The assistant had not made anything up. It had copied, faithfully, the one number its own instructions contained. If there is a better illustration of how literally these systems follow what you give them, I have not seen it.
 
+You do not have to take these numbers on trust. The complete experimental record (the scenarios and answer key, all 240 answers, all 600 blind judge records, the scripts and the limits) is archived on Zenodo with a permanent DOI: [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934).
+
 ## How to prevent AI hallucinations: the five rules that did the work
 
 What makes this part of the book brilliant is that the rules are simple enough to use tomorrow, even without the book's files.
@@ -69,7 +71,7 @@ An assistant with the canon starts from your own sentence. If the money runs out
 
 ## Where this does not reach
 
-The test has clear limits, and the book states them calmly: ten scenarios, one model family, an AI judge. The method and the earlier round's full data are public on GitHub, and the author invites anyone to rerun it. A rulebook does not make a language model infallible, and it does not replace your judgement or your data. What it does is make deviations visible. When the assistant starts inventing, you notice at once, because you know what the right move looks like.
+The test has clear limits, and the book states them calmly: ten scenarios, one model family, an AI judge. The full record of every round, with every answer, judge record and script, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934) with a permanent DOI, and the author invites anyone to rerun it. A rulebook does not make a language model infallible, and it does not replace your judgement or your data. What it does is make deviations visible. When the assistant starts inventing, you notice at once, because you know what the right move looks like.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

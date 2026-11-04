@@ -2,7 +2,7 @@
 title: "AI for Business Decisions: What to Let It Do, What to Check"
 description: "AI for business decisions: the four jobs an assistant can do in your loop, the risk in each, and a one-line rule for which answers to check by hand."
 date: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-04
 chapter: Chapter 16, The electricity we have already switched on; Appendices H and I
 slug: ai-for-business-decisions
 keywords: [ai for business decisions, chatgpt prompt for business, chatgpt for small business, ai business advice, best chatgpt prompt for business, claude prompt for business, should ai make business decisions, ai decision making for small business, check ai answers, ai assistant for small business, human in the loop]
@@ -13,7 +13,7 @@ A food truck is 72 hours from losing its permit. Picture the owner typing the pr
 
 The answer arrives fast. It is calm, well formatted and sure of itself. It may also contain a number the owner never gave it.
 
-That food truck was one of ten test situations in a blind experiment. Without rules, seven answers in ten contained an invented fact. With a rulebook attached, one in a hundred and twenty did.
+That food truck was one of ten test situations in a [blind experiment](https://doi.org/10.5281/zenodo.23964934). Without rules, seven answers in ten contained an invented fact. With a rulebook attached, one in a hundred and twenty did.
 
 The machine was the same in both cases. What changed was what it was allowed to do.
 
@@ -91,7 +91,7 @@ With a plan built on the honest 9%, the café reaches two months of reserve at m
 
 ## "Can I trust a test run by AI?"
 
-Ask that question. The answer is in the limits. Ten scenarios, one model family, an AI judge; the method and the earlier round's full data are public on GitHub. Results with other assistants may differ.
+Ask that question. The answer is in the limits. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934). Results with other assistants may differ.
 
 The rule above does not ask you to trust the test. It asks you to keep your own log and to check the expensive answers by hand.
 

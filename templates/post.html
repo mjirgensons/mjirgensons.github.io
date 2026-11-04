@@ -4,7 +4,8 @@
 {% block jsonld %}
 <script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"Article","headline":page.title,"description":page.description,"url":abs_url(page.url),"datePublished":page.date,"dateModified":page.updated or page.date,"inLanguage":"en","wordCount":page.words,"author":{"@type":"Person","@id": site.url + "/author/#person","name":site.author,"jobTitle":site.author_title,"image": site.url + site.author_photo,"url": site.url + "/author/"},"publisher":{"@type":"Person","name":site.author},"isPartOf":{"@type":"Book","@id": site.url + "/#book","name":book.full_title},"about":page.keywords or [],"mainEntityOfPage":abs_url(page.url),"image": site.url + book.cover} | tojson }}</script>
 {% if page.faq_jsonld %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"FAQPage","mainEntity":page.faq_jsonld} | tojson }}</script>{% endif %}
-<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":site.url + "/"},{"@type":"ListItem","position":2,"name":"Blog","item":site.url + "/blog/"},{"@type":"ListItem","position":3,"name":page.title,"item":abs_url(page.url)}]} | tojson }}</script>
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":site.url + "/"},{"@type":"ListItem","position":2,"name":"Blog","item":site.url + "/blog/"},{"@type":"ListItem","position":3,"name":page.title,"item":abs_url(page.url)}]} | tojson }}</script>{% if "10.5281/zenodo" in page.body %}
+{% include "_datasetjsonld.html" %}{% endif %}
 {% endblock %}
 {% block content %}
 <div class="wrap">

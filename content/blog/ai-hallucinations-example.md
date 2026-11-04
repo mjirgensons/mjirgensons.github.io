@@ -2,7 +2,7 @@
 title: "AI Hallucinations Example: How to Spot an Invented Fact"
 description: "An AI hallucinations example from business advice, the five shapes an invented fact takes, and a 15-minute audit that sorts every sentence before you act on it."
 date: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-04
 chapter: Chapter 16, The electricity we have already switched on; Appendices H, I and J
 slug: ai-hallucinations-example
 keywords: [ai hallucinations example, how to prevent ai hallucinations, ai hallucinations, what is ai hallucinations, stop chatgpt making things up, chatgpt for small business, ai hallucination examples in business, how to spot ai hallucinations, chatgpt invented numbers, check ai answers, ai reproducibility check]
@@ -58,7 +58,7 @@ The same AI scored 58% higher with the model. It scored 31% higher than a good g
 
 And the one invented fact left in 120 reviews? It was copied from an example sentence inside the prompt itself.
 
-Ten scenarios, one model family, an AI judge; the method and the earlier round's full data are public on GitHub.
+Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
 
 ## How to spot AI hallucinations: a 15-minute audit
 

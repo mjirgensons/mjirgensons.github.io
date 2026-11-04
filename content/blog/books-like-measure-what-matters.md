@@ -2,7 +2,7 @@
 title: "Books like Measure What Matters: five to read next"
 description: Books like Measure What Matters for owners and managers, from The Goal to Traction: what each one adds, and which to read for which problem.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 14, One model for every field (How the model differs from familiar approaches)
 slug: books-like-measure-what-matters
 keywords: [books like measure what matters, books like the goal, business books for small business owners, books on goal setting, okr book alternatives, management books for entrepreneurs]
@@ -60,7 +60,7 @@ Here is the honest pitch for my own book, as a comparison rather than an adverti
 | Theory of Constraints (Goldratt) | Finding the bottleneck | A check of the environment, and the bottleneck as the cause of a red number |
 | EOS (Wickman) | A meeting rhythm for small companies | The goal, state and error framework that explains why each practice works |
 
-It is built around a coffee shop owner, a freelance designer and a thirteen-year-old saving for a bicycle, with every number worked out. Its appendices include a free rulebook and prompt that make an AI assistant analyse a business situation by the method; in a blind test it scored 88.8 out of 100 against 67.7 for a good generic consultant prompt. If you want to see how it compares with OKRs on one concrete set of goals, the side-by-side is in [an OKR alternative for small business](/blog/okr-alternative-small-business/).
+It is built around a coffee shop owner, a freelance designer and a thirteen-year-old saving for a bicycle, with every number worked out. Its appendices include a free rulebook and prompt that make an AI assistant analyse a business situation by the method; in a [blind test](https://doi.org/10.5281/zenodo.23964934) it scored 88.8 out of 100 against 67.7 for a good generic consultant prompt. If you want to see how it compares with OKRs on one concrete set of goals, the side-by-side is in [an OKR alternative for small business](/blog/okr-alternative-small-business/).
 
 Where it stops: it is designed for one person or a small team working mostly on paper, which is why it caps a goal list at nine. Large organisations with many teams need alignment tools it does not try to provide.
 

@@ -2,7 +2,7 @@
 title: "ChatGPT prompt for business decisions: a free, tested one"
 description: A free ChatGPT prompt for business decisions that was blind-tested against a good generic consultant prompt: how to use it, what to write, and what comes back.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-04
 chapter: Chapter 16, The electricity we have already switched on; Appendices H and I
 slug: chatgpt-prompt-for-business
 keywords: [chatgpt prompt for business, chatgpt for small business, ai business advice, ai for business decisions, best chatgpt prompt for business, claude prompt for business]
@@ -13,7 +13,7 @@ answer: "The ChatGPT prompt for business that holds up best is not a clever role
 
 It is a typical opening for business prompts shared online, and it works about as well as telling a stranger they are an expert. The assistant becomes more confident, not more correct. It still fills gaps in your data with plausible guesses, still chooses your priorities for you, and still gives a different shape of answer every time you ask.
 
-There is a better approach, and it has been tested: give the assistant a rulebook instead of a role.
+There is a better approach, and it has been [tested](https://doi.org/10.5281/zenodo.23964934): give the assistant a rulebook instead of a role.
 
 ## AI for business decisions: why role prompts are not enough
 
@@ -74,7 +74,7 @@ An assistant is no substitute for honesty. Enter wrong numbers and it will build
 
 ## Where this does not reach
 
-The test has clear limits: ten scenarios, one model family, an AI judge. The method and the earlier round's full data are public on GitHub, and you are invited to rerun it. The files on GitHub are the book edition; the results above are for the latest tested prompt version. Results with other assistants may differ. And no prompt replaces a lawyer, an accountant or your own judgement where the stakes require them.
+The test has clear limits: ten scenarios, one model family, an AI judge. The full record of every round, with every answer, judge record and script, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934) with a permanent DOI, and you are invited to rerun it. The files on GitHub are the book edition; the results above are for the latest tested prompt version. Results with other assistants may differ. And no prompt replaces a lawyer, an accountant or your own judgement where the stakes require them.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

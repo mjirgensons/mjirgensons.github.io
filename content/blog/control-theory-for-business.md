@@ -2,7 +2,7 @@
 title: "Control Theory for Business, Explained With One Coffee Shop"
 description: "Control theory for business in plain words: setpoint, sensor, error, actuator, delay and margin, each mapped onto one coffee shop, plus a 15-minute loop check."
 date: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-04
 chapter: The whole book, Chapters 1 to 16
 slug: control-theory-for-business
 keywords: [control theory for business, Jirgenson Model, Martin Jirgenson, management method for small business owners, feedback control management, how to set priorities in business and life, stop guessing business decisions, decision making framework for small business, management system for owners, OKR alternative, EOS alternative, business book on priorities and numbers, control theory in management, feedback loop in business, closed loop vs open loop management, stability margin business]
@@ -92,7 +92,7 @@ It is not, unless you want it to be. Every chapter of the method runs on three l
 
 "Another framework, then." It does not replace OKR, EOS, the Balanced Scorecard or PDCA. It sits above them. OKR supplies the wording of goals, EOS the meeting rhythm, PDCA a small improvement cycle. The control loop adds what they leave open: the order of goals, the red lines, and what to do first when everything burns.
 
-The loop is precise enough for a machine to follow. In a blind test on ten business crises, the same AI invented a fact in seven answers out of ten on its own. With the model's rules, in one answer out of 120. A blind judge preferred the version with the rules 30 times out of 30. Ten scenarios, one model family, an AI judge; the method and the earlier round's full data are public on GitHub.
+The loop is precise enough for a machine to follow. In a blind test on ten business crises, the same AI invented a fact in seven answers out of ten on its own. With the model's rules, in one answer out of 120. A blind judge preferred the version with the rules 30 times out of 30. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
 
 ## Where the loop map stops
 

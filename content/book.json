@@ -89,6 +89,8 @@
     "control_after": "8.3",
     "version": "1.5",
     "limits": "ten scenarios, one model family, an AI judge",
-    "url": "https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10"
+    "url": "https://doi.org/10.5281/zenodo.23964934",
+    "doi": "10.5281/zenodo.23964934",
+    "github_url": "https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10"
   }
 }

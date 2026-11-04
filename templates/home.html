@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ book.full_title }} · by {{ site.author }}{% endblock %}
-{% block jsonld %}{% include "_bookjsonld.html" %}
+{% block jsonld %}{% include "_bookjsonld.html" %}{% include "_datasetjsonld.html" %}
 <script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"FAQPage","mainEntity":page.faq_jsonld} | tojson }}</script>
 {% endblock %}
 {% block content %}

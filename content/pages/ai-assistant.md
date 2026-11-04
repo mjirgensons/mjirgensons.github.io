@@ -37,7 +37,7 @@ Ten realistic business crises, each answered three times by the same AI (Claude 
 | Control quality (1 to 10) | **8.3** | 4.2 | 6.0 |
 | Critical points covered | **97%** | 55% | 66% |
 
-The single invented fact in 120 reviews was copied from an example sentence inside the prompt itself. Limits: ten scenarios, one model family, an AI judge. The results above are for the latest tested version of the prompt (1.5); the files on GitHub are the book edition. The method and the earlier round's full data, with every answer, judge record and script, are [public](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10). Don't believe it; run it.
+The single invented fact in 120 reviews was copied from an example sentence inside the prompt itself. Limits: ten scenarios, one model family, an AI judge. The results above are for the latest tested version of the prompt (1.5); the files on GitHub are the book edition. The full record of every round, with every answer, judge record and script, is public on Zenodo with a permanent DOI: [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934). Don't believe it; run it.
 
 ## What you get back
 
