@@ -2,7 +2,7 @@
 title: "AI Hallucinations Example: How to Spot an Invented Fact"
 description: "An AI hallucinations example from business advice, the five shapes an invented fact takes, and a 15-minute audit that sorts every sentence before you act on it."
 date: 2026-10-31
-updated: 2026-11-04
+updated: 2026-11-05
 chapter: Chapter 16, The electricity we have already switched on; Appendices H, I and J
 slug: ai-hallucinations-example
 keywords: [ai hallucinations example, how to prevent ai hallucinations, ai hallucinations, what is ai hallucinations, stop chatgpt making things up, chatgpt for small business, ai hallucination examples in business, how to spot ai hallucinations, chatgpt invented numbers, check ai answers, ai reproducibility check]
@@ -41,7 +41,7 @@ Each one swaps your situation for an average one.
 
 ## What a blind test found
 
-Left to itself, the assistant slipped something unsupported into seven answers out of ten. With the Jirgenson Model's canon and operating prompt, one answer in 120. In the same 60 blind reviews, that is 102 invented facts against one.
+Left to itself, the assistant slipped something unsupported into seven answers out of ten. With the Jirgenson Model's canon and operating prompt, one answer in 120. In the same 60 blind reviews, the judge flagged 102 invented facts against one.
 
 The test ran the same AI (Claude Sonnet 5.5) on ten realistic crises, with and without the model. A stronger model (Claude Opus 5.5) judged the pairs blind.
 
@@ -57,6 +57,16 @@ The test ran the same AI (Claude Sonnet 5.5) on ten realistic crises, with and w
 The same AI scored 58% higher with the model. It scored 31% higher than a good generic consultant prompt. The blind judge preferred it 30 times out of 30. The biggest gains came in the crises: the translation agency rose 51 points, the food truck 42.
 
 And the one invented fact left in 120 reviews? It was copied from an example sentence inside the prompt itself.
+
+What did the 102 look like? Not wild lies. Quiet ones, the kind you would nod along to. In the judge's own words:
+
+- "Wages are legally protected, so you can't just delay them." A legal rule for a country nobody named.
+- "A bank transfer is instant." Stated as fact, in a cash crisis measured in days.
+- "No-shows are usually concentrated in a few clients." A pattern with no data behind it.
+- "Full-time minimum wage ~780 EUR/month gross." A figure the owner never gave.
+- "A helmet usually costs another €30 to €50." A price from nowhere, in a teenager's savings plan.
+
+Each one sounds reasonable. That is the danger. The one left with the method was a rule of thumb about goals, "with your hours, three to five can get real work", in an answer where the owner's hours were never given. Every flagged item is listed in a [public file](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10/derived), so you can read all 102.
 
 Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
 
