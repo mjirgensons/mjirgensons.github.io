@@ -21,7 +21,7 @@ The method is the Jirgenson Model, published in the book *Steer, Don't Guess* (O
 - Formats: Kindle (ASIN B0HPBR6BNX); paperback (ISBN 979-8164833749); hardcover (ISBN 979-8164846152); PDF direct from the author
 - Length: 237 pages print; four parts, 16 chapters, 10 appendices
 - Free: Chapter 1 with the cheat sheet (44 pages); the model canon and operating prompt (GitHub, open licence)
-- Blind test E5: full record (scenarios, answers, judge records, scripts) on [Zenodo, DOI 10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934); also on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test); summary on [GitHub](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Blind test E5: full record (scenarios, answers, judge records, scripts) on [Zenodo, DOI 10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934); also on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test) and [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt); summary on [GitHub](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
 
 ## Author bio
 
