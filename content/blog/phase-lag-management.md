@@ -71,7 +71,7 @@ Andrew ran it on three numbers:
 
 Two numbers on one panel. Two different rhythms. The calendar would have given both the same one.
 
-And the mirror rule: never judge a lever faster than its loop. Andrew raised prices by 5%. Its loop is about 45 days. So he reads the margin once a month and decides on the next price step no earlier than month 2.
+And the mirror rule: never judge a [lever](/blog/levers-of-control/) faster than its loop. Andrew raised prices by 5%. Its loop is about 45 days. So he reads the margin once a month and decides on the next price step no earlier than month 2.
 
 ## Faster does not mean better
 

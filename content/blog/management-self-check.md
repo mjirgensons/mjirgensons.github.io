@@ -42,7 +42,7 @@ The ten questions follow the loop in order. Goals first, then where you are, the
 | 7 | Does each goal have a one-page plan that lists the means you will not use? | Plan | 6 |
 | 8 | Have the people responsible been named and a rhythm of meetings set? | People and rhythm | 7, 13 |
 | 9 | Is there a forecast in numbers, and someone who looks ahead? | Forecast | 8, 9 |
-| 10 | Have you checked the three offsets and the outside factors, and planned backwards from the goal? | Checks before acting | 3, 11, 15 |
+| 10 | Have you checked the three offsets and the outside factors, and [planned backwards from the goal](/blog/backward-planning/)? | Checks before acting | 3, 11, 15 |
 
 Write your answers down. Then read what each No costs.
 

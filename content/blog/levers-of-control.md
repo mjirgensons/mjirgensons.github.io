@@ -2,10 +2,10 @@
 title: "Levers of control: what you can actually change in a business"
 description: Levers of control for small business owners: how to tell a lever from a result, the three questions to ask before pulling one, and a 5% price rise tested in euros.
 date: 2026-10-30
-updated: 2026-11-04
+updated: 2026-11-05
 chapter: Chapter 5, Levers: what you can really change
 slug: levers-of-control
-keywords: [levers of control, business levers, focus on what you can control, how to focus on what you can control, control vector, lever vs result]
+keywords: [levers of control, business levers, focus on what you can control, how to focus on what you can control, control vector, lever vs result, lever of control, simons levers of control]
 answer: "Levers of control are the actions you can take yourself, by your own decision, that move a result: prices, menu, purchasing, payment terms. The result itself (margin, sales, trust) is never a lever. List your levers, cross out everything that depends on other people or luck, and before pulling one ask: can I do it today, when will it show, and can I undo it?"
 ---
 
@@ -21,7 +21,11 @@ A helmsman does not turn the ship with his bare hands. He turns the wheel, and t
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a lever is a parameter you can reach and change by your own decision. The set of your levers is called the control vector. Everything that affects the result but is not yours to move (weather, foot traffic, the market's mood) is an environmental factor: you take it into account, you do not work on it.</div>
 
-(A note for readers arriving from management accounting: Robert Simons' "Levers of Control" is a different, well-known framework about control systems in large organisations. This post is about the practical meaning of the phrase for an owner: the levers you personally can pull.)
+## Simons' levers of control vs the levers you pull
+
+If you searched for Robert Simons' *Levers of Control* (Harvard Business School Press, 1995), here is the short version. Simons names four systems a large organisation uses to steer its people: beliefs systems (the values everyone shares), boundary systems (what nobody may do), diagnostic control systems (targets and the reports that watch them) and interactive control systems (the few numbers top management discusses face to face).
+
+That is control of a company from above. This page is about the other meaning of the phrase: the short list of things you, the owner, can change by your own decision this week. The two fit together. A diagnostic system tells you that margin is red. It does not tell you which lever to pull.
 
 ## Business levers vs results: the mistake behind most "we must do something" meetings
 
@@ -97,7 +101,11 @@ A lever list tells you what you can move, not how hard to push or in what combin
 
 Here is the exercise for anyone who feels stuck: pick one goal in trouble, write four or five actions you can take yourself in the next few days, then cross out everything that depends on others, the weather, the market or luck. It takes about ten minutes. What remains is short, a little humbling and enormously calming.
 
-If your goals are not written down yet, start with the free [sample chapters](/blog/free-sample/): levers only make sense once you know what they are for. The full Chapter 5, with the formal version and the break-even elasticity, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+You have two choices. Hold another meeting about the weather. Or spend those ten minutes on a list of levers and pull one of them on Monday.
+
+The list is one step. It does not say when a number is bad enough to act on; that is the zones, Chapter 4. It does not turn a lever into a plan with a deadline and an indicator; that is the control concept, Chapter 6.
+
+Test the logic for free: [Chapter 1, the goals that levers serve](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 

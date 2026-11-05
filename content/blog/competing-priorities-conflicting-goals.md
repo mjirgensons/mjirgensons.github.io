@@ -1,15 +1,15 @@
 ---
-title: "Competing priorities: how to tell when two goals cannot both win"
-description: Competing priorities and conflicting goals explained with real numbers: how to spot two goals that cannot both win, and how to choose before a crisis does.
+title: "Competing priorities and objectives: when two goals cannot both win"
+description: "Competing priorities, competing objectives and conflicting goals, with real numbers: how to spot two goals that cannot both win, and choose before a crisis does."
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-05
 chapter: Chapter 1, Goal: not a dream but a list with an order; Chapter 11, Three offsets
 slug: competing-priorities-conflicting-goals
-keywords: [competing priorities, conflicting goals, competing priorities example, what is competing priorities, what is conflicting goals, mutually exclusive goals]
+keywords: [competing priorities, conflicting goals, competing priorities example, what is competing priorities, what is conflicting goals, mutually exclusive goals, competing objectives, competing objectives example, what are competing objectives]
 answer: "Competing priorities are goals that pull on the same money, time or people; conflicting goals are goals that cannot all be met at once, whatever you do. Handle the first by putting them in an order you choose in advance. Handle the second by testing them against your own numbers and dropping or reshaping one before work begins."
 ---
 
-A captain is fond of two ports and wants to reach both. A ship cannot sail in two directions at once, so the captain dashes back and forth, burns fuel and arrives nowhere. That small image opens Chapter 1 of *Steer, Don't Guess*, and it is the best description of the problem I have come across. Most owners do not suffer from a lack of goals. They suffer from goals that quietly pull against each other, and from never having decided, in a calm hour, which one wins.
+A captain is fond of two ports and wants to reach both. A ship cannot sail in two directions at once, so the captain dashes back and forth, burns fuel and arrives nowhere. That small image opens Chapter 1 of *Steer, Don't Guess*. The trouble is rarely a lack of goals. It is goals that quietly pull against each other, and a winner that nobody picked in a calm hour.
 
 The book's answer is refreshingly practical: one test for goals that share resources, and a second, stricter one for goals that cannot coexist. The difference between the two is where most plans go wrong.
 
@@ -17,11 +17,19 @@ The book's answer is refreshingly practical: one test for goals that share resou
 
 **Competing priorities** share resources. A bigger cash reserve and a nicer menu both want this month's money; a second location and your Sundays both want your time. They can both be achieved, but not at the same speed, and something has to go first.
 
-**Conflicting goals** cannot be reached together at all. No order, effort or optimism will make them fit. Jirgenson calls it a badly defined goal, the first of the three offsets in Chapter 11: two trains leaving the station in opposite directions.
+**Conflicting goals** cannot be reached together at all. No order, effort or optimism will make them fit. The model calls it a badly defined goal, the first of the three offsets in Chapter 11: two trains leaving the station in opposite directions.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> competing priorities are resolved by the refusal order (which goal you would give up first, and which last). Conflicting goals are a defect of the goal list itself: the set of states in which all goals are met is empty, and one goal must be dropped or reshaped before any plan is built.</div>
 
 The trap is treating an impossible pair as if it were merely a question of order. You rank them, you work harder, and you fail anyway, because the problem was never the order. It was the arithmetic.
+
+## Competing objectives: the same fight, now with numbers
+
+Competing objectives are the same problem with a target attached. A cash reserve of 2.0 months. A margin of 15%. Forty regular customers. Each number looks settled. None of them says which one wins when the money covers only one.
+
+Andrew's list had exactly this shape: reserve, margin, regulars, complaints and his own hours, each with a target. Every target was sensible on its own. Together they were a tug of war.
+
+A target tells you how far to go. It does not tell you what to drop. So competing objectives get the same two tests as any goals. First, order them with the refusal test. Then check with arithmetic that one state of the business can meet them all.
 
 ## How to handle competing priorities: decide the order before the storm
 
@@ -60,7 +68,7 @@ That is the whole method:
 
 ## The five defects to check in any goal list
 
-Chapter 1 adds a checklist I now use on every plan I read. A goal list can fail in five typical ways: mutually exclusive goals (the trap above); a missing necessary requirement, like taxes left off the list; goals that change every Monday; a secondary goal saved at the cost of the main one (expensive beans bought while the reserve is below the safe minimum); and duplicates, the same goal under two names, quietly given double weight. Five minutes with that list catches most of these problems before they cost you a season.
+Chapter 1 adds a five-point check for any goal list. A goal list can fail in five typical ways: mutually exclusive goals (the trap above); a missing necessary requirement, like taxes left off the list; goals that change every Monday; a secondary goal saved at the cost of the main one (expensive beans bought while the reserve is below the safe minimum); and duplicates, the same goal under two names, quietly given double weight. Five minutes with that list catches most of these problems before they cost you a season.
 
 ## Where this does not reach
 
@@ -75,17 +83,19 @@ The refusal order tells you what you value more; it is not a complete decision m
 - Counting met goals and ordering goals give different answers. Go with the order.
 </div>
 
-## Why this chapter is worth the book on its own
+## Two choices before the next demand arrives
 
-Most goal-setting advice adds goals. Chapter 1 of *Steer, Don't Guess* subtracts them, in advance, on paper, and the relief is immediate. You stop negotiating with yourself every morning. When a new demand arrives, you already know where it belongs and whether it outranks what you are doing. And when two goals turn out to be incompatible, you find out at the kitchen table, not three months later at the bank.
+You have two choices today. Keep the list as it is, and let the loudest demand of the week pick the winner again. Or settle the order now, on one page, while the room is calm.
 
-Read the whole of Chapter 1 free in [the free sample](/blog/free-sample/), try the ten-second version in [how to set priorities when everything is urgent](/blog/set-priorities-refusal-order/), and see where it leads in [what to do first in a business crisis](/blog/business-crisis-what-to-do-first/). The full method, including the three offsets that explain why good plans fail, is in the book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+The order is the first step, not the whole system. It does not tell you when a goal is losing badly enough to act; that is the zones, Chapter 4. It does not catch a plan that is doomed before it starts; that is the three offsets, Chapter 11. For the ten-second version of the test, see [how to set priorities when everything is urgent](/blog/set-priorities-refusal-order/).
+
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 
 ### What is the difference between competing priorities and conflicting goals?
 
-Competing priorities pull on the same time, money or people but can all be reached in some order. Conflicting goals cannot all be met at once whatever you do, so one must be dropped or reshaped before planning.
+Priorities that compete pull on the same time, money or people, but they can all be reached in some order. Conflicting goals cannot all be met at once whatever you do, so one must be dropped or reshaped before planning.
 
 ### How do you manage competing priorities?
 
@@ -94,3 +104,7 @@ Put them in an order you choose in advance with the refusal test: ask which goal
 ### How do you know if two goals are conflicting?
 
 Write each with a number and deadline, add your real limits (capacity, cash, hours), and check whether any single state meets them all. If none does, the goals conflict.
+
+### What are competing objectives?
+
+Competing objectives are numeric targets that pull on the same money, time or people. Example: a 2.0-month cash reserve and a 15% margin. Order them in advance with the refusal test, then check with arithmetic that they can all be met together.

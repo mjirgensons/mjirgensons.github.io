@@ -2,7 +2,7 @@
 title: "Backward planning: a two-column template from goal to this week"
 description: "Backward planning in one two-column table: start at the finished goal, ask what must be true just before it, stop at this week. Free template, coffee shop example."
 date: 2026-10-30
-updated: 2026-11-04
+updated: 2026-11-05
 chapter: Chapter 15, The backward move: from the goal to today
 slug: backward-planning
 keywords: [backward planning, reverse planning, backward planning template, what is backward planning, plan backwards from a goal, how to plan backwards from a goal]
@@ -100,9 +100,13 @@ Two failures sink a backward plan, and the book names both. If the starting poin
 
 ## The chapter that turns ambition into an assignment
 
-There is a moment in Chapter 15 where a five-year dream becomes a hiring decision for next week, and it is one of the most satisfying passages in any management book I know. *Steer, Don't Guess* does not ask you to dream smaller. It asks you to dream precisely, and then it hands you the first task. For families it works the same way: the book's thirteen-year-old saving for a bike uses exactly this chain, as you can see in [how to save for a goal](/blog/save-for-a-goal/).
+In Chapter 15 a five-year dream becomes a hiring decision for next week. The method does not ask you to dream smaller. It asks you to dream precisely, and then it hands you the first task.
 
-Read the Introduction and Chapter 1 free in [the free sample](/blog/free-sample/), see the whole method in [the Jirgenson Model explained](/blog/jirgenson-model-management-method/), and check your goals first with [competing priorities vs conflicting goals](/blog/competing-priorities-conflicting-goals/), because no backward chain can be built on two goals that contradict each other. The full Chapter 15, with the formal version for readers who want it, is in the book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+You have two choices. Keep the goal on the vision board and hope the years add up. Or write the two columns tonight and do row one this week.
+
+The table is one step. It assumes the goals do not contradict each other; check that first with [competing priorities vs conflicting goals](/blog/competing-priorities-conflicting-goals/). It also needs each row turned into a plan with levers, an indicator and a deadline; that is the control concept, Chapter 6.
+
+Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
 ## FAQ
 

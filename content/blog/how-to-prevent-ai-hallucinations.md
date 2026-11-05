@@ -1,8 +1,8 @@
 ---
-title: "How to prevent AI hallucinations in business advice"
-description: How to prevent AI hallucinations when you ask ChatGPT or Claude for business advice: a blind test where invented facts fell from 7 answers in 10 to 1 in 120.
+title: "How to prevent AI hallucinations: from 7 in 10 answers to 1 in 120"
+description: "How to prevent AI hallucinations in business advice: five rules that cut answers with an invented fact from 7 in 10 to 1 in 120 in a blind test."
 date: 2026-10-30
-updated: 2026-11-04
+updated: 2026-11-05
 chapter: Chapter 16, The electricity we have already switched on; Appendices H, I and J
 slug: how-to-prevent-ai-hallucinations
 keywords: [how to prevent ai hallucinations, ai hallucinations, what is ai hallucinations, ai hallucinations example, stop chatgpt making things up, chatgpt for small business]
@@ -15,7 +15,7 @@ That is what AI hallucinations look like in real life: a plausible number in the
 
 ## AI hallucinations explained, in a business conversation
 
-Most people picture AI hallucinations as a chatbot insisting the moon is made of cheese: obvious, funny, harmless. In a business conversation the reality is narrower and far more dangerous. It is any figure, rule, deadline or cause that was not in what you told the assistant, presented as a fact rather than as an assumption. A "typical margin for cafes". A "standard 30-day notice". "Most clients pay within a week". Each sounds like help. Each quietly replaces your situation with an average one.
+The usual picture of AI hallucinations is a chatbot insisting the moon is made of cheese: obvious, funny, harmless. In a business conversation the reality is narrower and far more dangerous. It is any figure, rule, deadline or cause that was not in what you told the assistant, presented as a fact rather than as an assumption. A "typical margin for cafes". A "standard 30-day notice". "Most clients pay within a week". Each sounds like help. Each quietly replaces your situation with an average one.
 
 The reason is not malice. A language model is built to produce a fluent answer, and when your data has a gap, the most fluent thing to do is fill it. Chapter 16 of the book puts it plainly: an assistant with nothing to anchor it "has to say something, so it does". If data are missing, it fills the gaps with plausible assumptions. If you have not said what matters most to you, it chooses for you.
 
@@ -23,7 +23,7 @@ The reason is not malice. A language model is built to produce a fluent answer, 
 
 ## The blind test: seven in ten, then one in a hundred and twenty
 
-Most advice on how to prevent AI hallucinations stops at "write a better prompt". Jirgenson did something rarer: he measured it. The experiment, called E5, gave the same AI (Claude Sonnet 5.5) ten realistic small-business crises: the food truck racing its permit deadline, a translation agency that depends on one client while AI reshapes its whole market, a freelancer six days from rent with a client who has stopped paying. Each case was answered with no instructions, the way most people use AI, and again with the Jirgenson Model's canon and operating prompt. A stronger model (Claude Opus 5.5) judged every pair blind against an answer key fixed in advance.
+The usual advice on how to prevent AI hallucinations stops at "write a better prompt". This test did something rarer: it measured the effect. The experiment, called E5, gave the same AI (Claude Sonnet 5.5) ten realistic small-business crises: the food truck racing its permit deadline, a translation agency that depends on one client while AI reshapes its whole market, a freelancer six days from rent with a client who has stopped paying. Each case was answered with no instructions, the way AI is usually used, and again with the Jirgenson Model's canon and operating prompt. A stronger model (Claude Opus 5.5) judged every pair blind against an answer key fixed in advance.
 
 The results read like a before and after photograph:
 

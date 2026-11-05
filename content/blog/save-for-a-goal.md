@@ -29,7 +29,7 @@ Here is a line every parent should hear: an order Alex can actually stick to is 
 
 Alex's first list of ways to get money included "get money for my birthday". His mother gently pointed out that this depended on his uncle. He crossed it out.
 
-That small moment is the heart of the method. A lever is something you can move with your own hands. Birthday money is a condition: welcome if it comes, but you cannot plan on it. What remained were three real levers:
+That small moment is the heart of the method. A [lever](/blog/levers-of-control/) is something you can move with your own hands. Birthday money is a condition: welcome if it comes, but you cannot plan on it. What remained were three real levers:
 
 - pocket money, €20 a month;
 - paid odd jobs for the neighbours, about €30 a month, from three hours a week;

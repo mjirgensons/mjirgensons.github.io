@@ -1,8 +1,8 @@
 ---
-title: "The Jirgenson Model: 3 questions to steer a small business"
-description: "The Jirgenson Model in three weekly questions: where you want to go, where you really are, and what you can move. A management method for owners, with a glossary."
+title: "The Jirgenson Model: steer your business with 3 weekly questions"
+description: "The Jirgenson Model: a management method for owners in three weekly questions: where you want to go, where you really are, what you can move. Free Chapter 1."
 date: 2026-10-29
-updated: 2026-11-04
+updated: 2026-11-05
 chapter: The whole book, Chapters 1 to 16
 slug: jirgenson-model-management-method
 keywords: [Jirgenson Model, Martin Jirgenson, management method for small business owners, control theory for business, feedback control management, how to set priorities in business and life, stop guessing business decisions, decision making framework for small business, management system for owners, OKR alternative, EOS alternative, business book on priorities and numbers]
@@ -11,7 +11,7 @@ answer: The Jirgenson Model is a management method by Martin Jirgenson, set out 
 
 ## What the Jirgenson Model is, in one paragraph
 
-Most small business owners manage the way most people drive in fog: by reacting to whatever appears in front of them. The machine breaks, a supplier is late, a client does not pay, and the day is spent in the order the problems arrived. The Jirgenson Model replaces that with steering. You decide in advance which goals matter and in which order you would give them up; you measure where you really are, one number from one source at a time; you set red lines while you are calm; you separate what you can change from what you can only watch; and you check the gap on a fixed rhythm, acting before the deviation becomes a crisis, not after.
+Managing without a model is driving in fog: you react to whatever appears in front of you. The machine breaks, a supplier is late, a client does not pay, and the day is spent in the order the problems arrived. The Jirgenson Model replaces that with steering. You decide in advance which goals matter and in which order you would give them up; you measure where you really are, one number from one source at a time; you set red lines while you are calm; you separate what you can change from what you can only watch; and you check the gap on a fixed rhythm, acting before the deviation becomes a crisis, not after.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> management is the regular reduction of the gap between where you want to be (the goal vector) and where you really are (the state vector), using only the parameters you can change directly (levers), in the order your priorities dictate, before the gap crosses a limit you set in advance.</div>
 
@@ -56,12 +56,12 @@ Guessing is what happens when a decision has no goal to compare against, no numb
 
 - **Red lines before the crisis.** Thresholds for every goal are set in a calm moment, with the reason (where damage becomes hard to reverse), and revised rarely, never inside a crisis.
 - **A fixed order for the red zone.** Danger to people and mandatory obligations first; freeze secondary work; put time, money and attention on the red number and its levers; among several reds, the one nearest to irreversible damage first. See [How to handle a crisis in a small business](/blog/business-crisis-what-to-do-first/).
-- **Levers versus weather.** A lever is a parameter you can change directly by your own decision: prices, the menu, terms, hours, the order of work. Conditions are what you cannot change: the season, a competitor's move, the rate of inflation. You list conditions, you never plan on them. Start with levers that are fast and reversible.
+- **Levers versus weather.** A [lever](/blog/levers-of-control/) is a parameter you can change directly by your own decision: prices, the menu, terms, hours, the order of work. Conditions are what you cannot change: the season, a competitor's move, the rate of inflation. You list conditions, you never plan on them. Start with levers that are fast and reversible.
 - **Two forecasts, always.** "If nothing changes" and "if the plan works", each with numbers, a range and a date. A negative forecast always comes with an action.
 
 ## Three ways to control: by plan, by deviation, by forecast
 
-The book distinguishes three schemes, and most small businesses use only the first two.
+The book distinguishes three schemes. Only the third acts before the deviation arrives.
 
 | Scheme | How it works | Typical weakness |
 |---|---|---|
@@ -73,11 +73,11 @@ They are not a ladder but a combination. For a small business, the forecast sche
 
 ## Why good plans fail: the three offsets
 
-Before acting, the model checks three anchor points of any plan. **A badly defined goal:** two goals that cannot be met together, like two trains leaving in opposite directions. **A wrong starting state:** the numbers do not match their sources, "a window taken for an exit". **A doomed enclosing system:** the goal belongs to a process that is dying, the "Titanic test". When the strongest force in the environment is against your goal and exceeds your means, tactics are powerless: change the environment or the goal, not the price list.
+Before acting, the model checks three anchor points of any plan. **A badly defined goal:** [two goals that cannot be met together](/blog/competing-priorities-conflicting-goals/), like two trains leaving in opposite directions. **A wrong starting state:** the numbers do not match their sources, "a window taken for an exit". **A doomed enclosing system:** the goal belongs to a process that is dying, the "Titanic test". When the strongest force in the environment is against your goal and exceeds your means, tactics are powerless: change the environment or the goal, not the price list.
 
 ## Planning backwards from the goal
 
-The backward move starts from the end state and asks, step by step, what must be true just before it, until it reaches this week. The output is a two-column table, "time before the goal" and "what must be true", whose first row answers "what do I do this week?". The book connects this practical technique to dynamic programming and Bellman's principle of optimality, and is explicit about the difference between the three.
+The [backward move](/blog/backward-planning/) starts from the end state and asks, step by step, what must be true just before it, until it reaches this week. The output is a two-column table, "time before the goal" and "what must be true", whose first row answers "what do I do this week?". The book connects this practical technique to dynamic programming and Bellman's principle of optimality, and is explicit about the difference between the three.
 
 ## How the Jirgenson Model compares with OKR, EOS, PDCA and the Balanced Scorecard
 

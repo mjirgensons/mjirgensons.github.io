@@ -63,7 +63,7 @@ Andrew did not wait for the supplier's invoice to find out that prices were risi
 
 ## Leading vs lagging KPI: how to choose and test one
 
-A good leading indicator has four properties. You can check it often (weekly or faster). It moves before the result does. It responds to your levers. And you have tested that it actually predicts the result. Here is how to find one:
+A good leading indicator has four properties. You can check it often (weekly or faster). It moves before the result does. It responds to your [levers](/blog/levers-of-control/). And you have tested that it actually predicts the result. Here is how to find one:
 
 1. **Start from a lagging goal.** "Margin 15% by month six."
 2. **Ask what has to happen first.** For margin to rise, each sale has to carry more profit. That points to margin per receipt.

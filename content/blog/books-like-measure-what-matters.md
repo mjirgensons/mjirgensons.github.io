@@ -34,7 +34,7 @@ What to take from it: find the constraint first. Where it stops: it does not tel
 
 Kaplan and Norton argue that financial measures alone do not show where a business is heading. Their scorecard looks from four sides: finance, customers, internal processes, and learning and growth. If your reports are all revenue and profit, this book widens the view.
 
-What to take from it: several sides of the business, measured deliberately. Where it stops: it does not say which side wins when two of them conflict.
+What to take from it: several sides of the business, measured deliberately. Where it stops: it does not say which side wins when [two of them conflict](/blog/competing-priorities-conflicting-goals/).
 
 ## Traction: a rhythm for small companies
 
