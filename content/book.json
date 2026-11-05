@@ -83,6 +83,8 @@
     "higher_generic": "31%",
     "facts_before": "7 in 10",
     "facts_after": "1 in 120",
+    "facts_same_before": "102",
+    "facts_same_after": "1",
     "violations": "0",
     "reviews": "120",
     "control_before": "4.2",

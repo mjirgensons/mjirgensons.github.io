@@ -41,7 +41,7 @@ Each one swaps your situation for an average one.
 
 ## What a blind test found
 
-Left to itself, the assistant slipped something unsupported into seven answers out of ten. With the Jirgenson Model's canon and operating prompt, one answer in 120.
+Left to itself, the assistant slipped something unsupported into seven answers out of ten. With the Jirgenson Model's canon and operating prompt, one answer in 120. In the same 60 blind reviews, that is 102 invented facts against one.
 
 The test ran the same AI (Claude Sonnet 5.5) on ten realistic crises, with and without the model. A stronger model (Claude Opus 5.5) judged the pairs blind.
 

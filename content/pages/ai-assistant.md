@@ -1,6 +1,6 @@
 ---
 title: The Jirgenson Model canon and prompt for AI assistants
-description: Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model. Blind-tested: invented facts fell from 7 answers in 10 to 1 in 120.
+description: Free canon and operating prompt that make an AI assistant (ChatGPT, Claude, Gemini) analyse a business situation by the Jirgenson Model. Blind-tested: on its own the AI invented more than 100 facts; with the method, one.
 url: /ai-assistant/
 kicker: AI assistant
 lead: Two plain-text files turn a general-purpose AI assistant into a management analyst that works by the Jirgenson Model and refuses to start without it. They are free. The book explains why they work and how to read what comes back.
@@ -26,12 +26,15 @@ Three modes are built in: **emergency** (one action for today), **quick** (where
 
 ## What the blind test measured
 
-Ten realistic business crises, each answered three times by the same AI (Claude Sonnet 5.5) with the canon and prompt and without them. A stronger model (Claude Opus 5.5) judged every pair blind, in both orders, against an answer key fixed in advance. Final round, prompt version 1.5:
+Ten realistic business crises, each answered three times by the same AI (Claude Sonnet 5.5) with the canon and prompt and without them. A stronger model (Claude Opus 5.5) judged every pair blind, in both orders, against an answer key fixed in advance. Final round, prompt version 1.5.
+
+**Same AI, same 60 blind reviews: more than 100 invented facts on its own, one with the method.** The weakest answer with the method scored higher than the best answer without it.
 
 | | With the method | Without | Good generic prompt |
 |---|---|---|---|
 | Score out of 100 | **88.8** | 56.2 | 67.7 |
 | Blind pairings won | **30 of 30** | 0 | |
+| Invented facts, same 60 blind reviews | **1** | 102 | |
 | Answers with an invented fact | **1 in 120** | 7 in 10 | |
 | Rule violations per answer | **0** | 1.05 | 0.97 |
 | Control quality (1 to 10) | **8.3** | 4.2 | 6.0 |

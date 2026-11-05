@@ -29,13 +29,14 @@ The results read like a before and after photograph:
 
 | | Without the method | With the method |
 |---|---|---|
+| Invented facts in the same 60 blind reviews | 102 | **1** |
 | Answers containing an invented fact | 7 in 10 | **1 in 120** |
 | Rule violations per answer | 1.05 | **0** |
 | Score out of 100 | 56.2 | **88.8** |
 | Blind pairings won | 0 | **30 of 30** |
 | Control quality (1 to 10) | 4.2 | **8.3** |
 
-Left to itself, the assistant slipped something made up into seven answers out of ten. With the method, one answer in a hundred and twenty. It broke no rules in 120 blind reviews, scored 58% higher, and beat a good generic consultant prompt by 31%. The biggest gains came exactly where hallucinations hurt most: the translation agency case improved by 51 points, the food truck by 42.
+Left to itself, the assistant slipped something made up into seven answers out of ten. With the method, one answer in a hundred and twenty. Count the invented facts themselves and it is more than 100 against one. It broke no rules in 120 blind reviews, scored 58% higher, and beat a good generic consultant prompt by 31%. The biggest gains came exactly where hallucinations hurt most: the translation agency case improved by 51 points, the food truck by 42.
 
 And the single invented fact that survived? The judge traced it back to an example sentence inside the prompt itself. The assistant had not made anything up. It had copied, faithfully, the one number its own instructions contained. If there is a better illustration of how literally these systems follow what you give them, I have not seen it.
 

@@ -13,7 +13,7 @@ A food truck is 72 hours from losing its permit. Picture the owner typing the pr
 
 The answer arrives fast. It is calm, well formatted and sure of itself. It may also contain a number the owner never gave it.
 
-That food truck was one of ten test situations in a [blind experiment](https://doi.org/10.5281/zenodo.23964934). Without rules, seven answers in ten contained an invented fact. With a rulebook attached, one in a hundred and twenty did.
+That food truck was one of ten test situations in a [blind experiment](https://doi.org/10.5281/zenodo.23964934). Without rules, seven answers in ten contained an invented fact. With a rulebook attached, one in a hundred and twenty did. Counted fact by fact, it was more than 100 to one.
 
 The machine was the same in both cases. What changed was what it was allowed to do.
 

@@ -92,7 +92,7 @@ It is not, unless you want it to be. Every chapter of the method runs on three l
 
 "Another framework, then." It does not replace OKR, EOS, the Balanced Scorecard or PDCA. It sits above them. OKR supplies the wording of goals, EOS the meeting rhythm, PDCA a small improvement cycle. The control loop adds what they leave open: the order of goals, the red lines, and what to do first when everything burns.
 
-The loop is precise enough for a machine to follow. In a blind test on ten business crises, the same AI invented a fact in seven answers out of ten on its own. With the model's rules, in one answer out of 120. A blind judge preferred the version with the rules 30 times out of 30. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
+The loop is precise enough for a machine to follow. In a blind test on ten business crises, the same AI invented a fact in seven answers out of ten on its own. With the model's rules, in one answer out of 120: more than 100 invented facts against one. A blind judge preferred the version with the rules 30 times out of 30. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
 
 ## Where the loop map stops
 

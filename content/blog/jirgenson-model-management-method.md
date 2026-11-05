@@ -176,7 +176,7 @@ Owners of small businesses who are the only thing holding it together. Freelance
 - Goals get an order you choose in advance (the refusal test), and red lines you set while calm.
 - Levers are what you can change; conditions are what you can only watch. Plan only on levers.
 - Feedback catches problems; forecast gets ahead of them. The model uses both.
-- With an AI assistant, the canon and prompt cut invented facts from seven answers in ten to one in a hundred and twenty.
+- With an AI assistant, the canon and prompt cut invented facts from more than 100 to one in the same blind reviews.
 </div>
 
 ## Where to start
