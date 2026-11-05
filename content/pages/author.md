@@ -26,7 +26,7 @@ I do not keep my core methods proprietary. I developed and released The Jirgenso
 ## Publications
 
 - *Steer, Don't Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life.* English edition 1.1, October 2026. [Kindle, paperback, hardcover](/buy/).
-- *Jirgenson Model Canon v1.0* and *Operating Prompt v1.1*. Open files, 2026. [GitHub](https://github.com/mjirgensons/jirgenson-canon).
+- *Jirgenson Model Canon v1.0* and *Operating Prompt v1.5-c* (v1.1 printed in the book). Open files, 2026. [GitHub](https://github.com/mjirgensons/jirgenson-model).
 - *E5: a blind test and stepwise optimisation of the Jirgenson Model operating prompt on ten small-business crisis scenarios.* Dataset, Zenodo, November 2026. DOI [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934). Also on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test) and [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt); summary on [GitHub](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10).
 
 ## Elsewhere

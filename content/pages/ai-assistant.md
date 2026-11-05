@@ -4,13 +4,13 @@ description: Free canon and operating prompt that make an AI assistant (ChatGPT,
 url: /ai-assistant/
 kicker: AI assistant
 lead: Two plain-text files turn a general-purpose AI assistant into a management analyst that works by the Jirgenson Model and refuses to start without it. They are free. The book explains why they work and how to read what comes back.
-updated: 2026-10-29
+updated: 2026-11-05
 ---
 
 ## What the files are
 
 - **The canon** (`jirgenson_canon_v1.0_en.txt`): the compact rulebook of the model, sections §0 to §16, canon-id JMC-1. It is Appendix H of the book.
-- **The operating prompt** (`jirgenson_prompt_v1.1_en.txt`): tells the assistant how to work with the canon: gate on the canon, help first, apply the model silently, never invent data, propose a refusal order and let the owner confirm it, give two forecasts with ranges, name the most dangerous thing with a date. It is Appendix I of the book.
+- **The operating prompt** (`jirgenson_prompt_v1.5-c_en.txt`): tells the assistant how to work with the canon: gate on the canon, help first, apply the model silently, never invent data, propose a refusal order and let the owner confirm it, give two forecasts with ranges, name the most dangerous thing with a date. This is the version that produced the results in the table below. The book prints the earlier v1.1 (Appendix I); it works the same way, and the newer file replaces it with no other change.
 
 Both files are on [GitHub](https://github.com/mjirgensons/jirgenson-model) under an open licence. Without the canon the assistant will not start and will ask for it: this is by design.
 
