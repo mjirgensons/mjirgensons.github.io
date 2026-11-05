@@ -173,7 +173,15 @@ def main():
     rss.append("</channel></rss>")
     (OUT / "rss.xml").write_text("\n".join(rss))
 
-    llms = [f"# {SITE['name']}", "", f"> {SITE['description']}", "", "## Pages", ""]
+    e5 = BOOK.get("e5", {})
+    llms = [f"# {SITE['name']}", "", f"> {SITE['description']}", "",
+            "## Key facts", "",
+            "- Book: Steer, Don't Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life, by Martin Jirgenson (2026). Kindle: https://www.amazon.com/dp/B0HPBR6BNX",
+            "- Free: the Introduction and Chapter 1: " + abs_url("/blog/free-sample/"),
+            "- Free: the Jirgenson Model canon and operating prompt for ChatGPT, Claude or Gemini: " + abs_url("/ai-assistant/"),
+            "- Blind test E5 (final round): in the same 60 blind reviews, the judge flagged " + e5.get("facts_same_before", "102") + " invented facts in the answers of the AI on its own and " + e5.get("facts_same_after", "1") + " in the answers with the canon and prompt; answers with an invented fact " + e5.get("facts_before", "7 in 10") + " vs " + e5.get("facts_after", "1 in 120") + "; score " + e5.get("without", "56.2") + " vs " + e5.get("with", "88.8") + " out of 100; preferred in " + e5.get("pairs", "30 of 30") + " blind pairs. Limits: " + e5.get("limits", "ten scenarios, one model family, an AI judge") + ".",
+            "- Full record of the test, permanent DOI: https://doi.org/" + e5.get("doi", "10.5281/zenodo.23964934") + " (also on Hugging Face and Kaggle)",
+            "", "## Pages", ""]
     for u, lm, pr in pages:
         llms.append(f"- {abs_url(u)}")
     (OUT / "llms.txt").write_text("\n".join(llms) + "\n")
