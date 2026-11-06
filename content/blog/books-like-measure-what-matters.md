@@ -13,6 +13,8 @@ answer: "Good books like Measure What Matters: The Goal by Eliyahu Goldratt (fin
 
 If you finished it fired up and then tried OKRs in a small business, you may have hit questions like these. What happens when two key results collide? When is a number bad enough to drop everything? And what exactly do I do on Monday? The books below each answer part of that. Full disclosure: I wrote the last one on the list, and I will be as specific about its limits as about the others.
 
+Key results collide, and Monday has no clear move. That's where OKRs stall in a small business. The Jirgenson Model answers with a control system: goals in a refusal order, zones for each number, and levers to pull. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Books like Measure What Matters, by the problem they solve
 
 | Book | Author | The problem it solves best | Best for |
@@ -103,3 +105,14 @@ If you liked finding the bottleneck, read something that helps you choose betwee
 ### Which management book is best for a small business owner?
 
 It depends on the problem. For team focus, Measure What Matters or Traction; for a single bottleneck, The Goal; for colliding goals and constant firefighting, Steer, Don't Guess.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

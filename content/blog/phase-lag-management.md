@@ -17,6 +17,8 @@ You read it, you decide, you act. By the time your fix lands, the situation has 
 
 That gap has a name. Control theory calls it phase lag. It usually gets called bad luck.
 
+A late report steers you into last month. The Jirgenson Model answers it as a control system: real numbers at the right rhythm, zones that warn early, levers judged after a full loop. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What is phase lag?
 
 Between an event and your correction sits a chain. Someone has to notice the deviation. Someone has to decide. Someone has to act. Then the business has to respond.
@@ -137,3 +139,14 @@ Because a monthly report adds up to a month of detection delay before you even s
 ### How often should I measure my business numbers?
 
 Often enough that a number cannot cross its whole yellow band between two looks. Divide the width of the band by twice the fastest change you expect. Cash reserve may need a monthly look; complaints after a staff change, a weekly one.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

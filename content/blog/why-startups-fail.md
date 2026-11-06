@@ -17,6 +17,8 @@ The post mortem will say "ran out of cash". It will be true, and it will explain
 
 So skip the autopsy. Run the check while the patient is still alive.
 
+Cash running out is the symptom, and a broken anchor point is the cause. The Jirgenson Model checks all three anchors first: a goal that holds together, true starting numbers and a market that still lives. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You find the crack while there's still runway to fix it.
+
 ## Why startups fail before the first sale
 
 The money is a reading. The cause sits in one of three places. You can check all three before you spend a cent.
@@ -152,3 +154,14 @@ Not by default. A failure alone does not make the next start safer. What helps i
 ### How do you write a startup post mortem?
 
 Write it before launch, not after. Answer three questions for the main goal: can all goals be met together, do the numbers match the data, is the market growing. Mark every "I don't know" as a measurement task with a date.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

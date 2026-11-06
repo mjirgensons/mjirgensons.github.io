@@ -17,6 +17,8 @@ You spend two days polishing the deck, and it still cannot tell you where the ca
 
 That is the gap to close. Not a lack of effort. A way of steering that only ever looks in the mirror.
 
+A deck that only reads last month can't steer next quarter. The Jirgenson Model adds the missing view: real numbers, a rolling forecast and levers you pull before the runway ends. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You stop reporting the past and start steering the next move.
+
 ## Venture capital returns and the goal you defend last
 
 That first number belongs to investors. Startup statistics and startup survival rate tables describe the crowd. Your job is narrower and harder: know what you defend to the last.
@@ -160,3 +162,14 @@ Work back from your reaction time. The coffee shop in this post wants two months
 ### How do you do a runway calculation?
 
 Take the cash available now and divide it by spending minus income each month. The result is how long the money lasts at today's pace. Then divide that cash by monthly spending alone. That gives the months of costs you hold.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

@@ -108,3 +108,14 @@ OKRs focus a team on a few objectives with measurable key results for a period. 
 ### Why do OKRs fail in small businesses?
 
 Often not because the goals are wrong, but because the format does not say which key result wins in a conflict, when a number is bad enough to act, or which concrete lever to pull on Monday.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

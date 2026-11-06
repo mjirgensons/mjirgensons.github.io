@@ -19,6 +19,8 @@ Here is the irony. The till counts every coffee to the cent. The owner's own pos
 
 That gap between feeling and fact is where the failure rate lives. Close it first.
 
+Odds for everyone can't tell you where your own business stands. The Jirgenson Model answers that as a control system: goals in order, a real number beside each, zones. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Small business failure rate, year one: measure where you stand tonight
 
 The small business failure rate is a rate for everyone. Your own reading takes one evening and a sheet of paper.
@@ -171,3 +173,14 @@ No table can promise survival. You can know your position: each goal, its measur
 ### What numbers should a small business owner track?
 
 Start with five goals across finance, clients, sales, quality and your own time. Andrew tracked his reserve, margin, regular customers, complaints and hours. Nine rows is the most a person can steer without software.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

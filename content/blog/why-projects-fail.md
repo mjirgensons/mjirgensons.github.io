@@ -17,6 +17,8 @@ Here is the irony. The team logs every hour to the quarter. Nobody wrote down, b
 
 The villain is not the team. It is hope: the plan that never checked its own starting point.
 
+A green slide that turns red overnight belongs to a plan that never checked where it started. The Jirgenson Model checks the goal, the starting numbers and the environment first, then sets red lines for budget and deadline. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You know where stop begins before the money goes.
+
 ## Project over budget: draw the red line before day one
 
 <strong>Fewer than one project in ten lands on time and on budget.</strong>
@@ -153,3 +155,14 @@ Cost overrun means spending more than the original budget. It often starts with 
 ### How do you manage project risk on a small team?
 
 Write constraints first: what you will not do, even to save the project. Put the business's cash above the project in your goal order. The full method adds the tolerance corridor and launch conditions for the months after the start.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

@@ -17,6 +17,8 @@ It is late, and you are tired. The assistant has endless energy, no stake in the
 
 That is an odd deal to strike with AI. You wanted a second pair of eyes. You got a yes man with a thesaurus.
 
+An assistant that agrees with everything can't protect what you'd hate to lose. The Jirgenson Model gives it a control system: your goals in order, your real numbers, and the danger to face first. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What AI sycophancy looks like in a business chat
 
 AI sycophancy is the habit of agreeing with the person asking. A sycophantic AI leans toward what you already think, then decorates it with enthusiasm.
@@ -143,3 +145,14 @@ Trust it as an analyst, not as a judge. Give it rules, your numbers and your ord
 ### How do I stop a sycophantic AI from agreeing with everything?
 
 Give it your priorities in order before you ask, and ask what not to do now. For a lasting setup, load the free canon and operating prompt. They make the assistant start from your order and name what not to do.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

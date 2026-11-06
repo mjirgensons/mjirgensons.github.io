@@ -19,6 +19,8 @@ Nobody lied to him. Sour milk and unsold pastries never showed up in any report,
 
 Ten honest questions would have caught it. They take ten minutes and a pen.
 
+Each No marks a spot where you're steering by a number that may not exist. The Jirgenson Model gives you the answer: it fills those rows with goals in order, real numbers, zones, levers, a plan and a forecast. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What a self check measures
 
 It is easy to judge your management by how busy you feel. Busy is a feeling. These ten questions ask about things you can point to: a table, a source, a page, a date.
@@ -136,3 +138,14 @@ Answer the ten questions honestly and circle the first No. The questions follow 
 ### What should I do after the ten questions?
 
 Fill one empty row at a time, starting with the lowest-numbered No. Then test the loop: name a decision you changed because a number told you to. If you cannot, the structure exists but the loop is still open.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

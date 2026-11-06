@@ -15,6 +15,8 @@ Every owner has written goals like these, and every owner knows the quiet disapp
 
 Andrew, the coffee shop owner who runs through *Steer, Don't Guess*, starts his list with "growth and joy". By the end of one evening he has crossed it out and replaced it with five lines that would change how he ran the business for the next year. What happened in between takes fifteen minutes, and anyone can do it.
 
+A wish can't be steered, and a list without an order can't settle a clash. The Jirgenson Model gives you the answer: goals in a fixed order, each with a real number and a line where normal ends. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What are measurable goals, really?
 
 A goal is measurable when, on any Monday morning, two different people looking at the same data would agree whether you are on track.
@@ -145,3 +147,14 @@ Write six fields for each goal: what you measure, how it is calculated and where
 ### What is a good SMART goals alternative?
 
 Keep what SMART does well and add three fields it leaves out: the current value, the permissible deviation and a check rhythm with a named owner. Then put the goals in a refusal order, so you know which one wins when two collide.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

@@ -17,6 +17,8 @@ So you sit there and ask the question that ruins the weekend: what did I do wron
 
 Here is the irony. You spent a week on the video and no time at all on the wind that carries it.
 
+Stalled views aren't a verdict on you. They're the wind you never measured, and the Jirgenson Model gives each factor a direction, a strength and a lever. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## YouTube views are a reading, not a verdict
 
 Treat a low count as a reading of the environment. Then list what produced it, before you touch the next video.
@@ -165,3 +167,14 @@ Check the factors before you blame the video. List what acted on the path that w
 ### How do small YouTubers grow when big channels take the views?
 
 Write the goal behind the views first. Then list your levers: actions you can take with your own hands tomorrow. The book's chapter on factors shows how to weigh a strong factor against your levers, with worked numbers.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

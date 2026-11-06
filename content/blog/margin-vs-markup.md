@@ -17,6 +17,8 @@ Picture your own desk. The accountant's report speaks in margin. Your price list
 
 The till records every coffee to the cent. The most important number in the shop lives in the owner's head as "about twenty".
 
+Mixing up margin and markup lets a false figure sit in your head and drive big decisions. The Jirgenson Model gives you the answer: real numbers from a named source, a target you can price by and zones that flag a gap. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Margin vs markup: one profit, two divisors
 
 Both numbers start from the same profit. They differ only in what you divide it by.
@@ -167,3 +169,14 @@ The share of revenue you keep as profit. Operating margin counts all running cos
 ### How do I convert a margin target into a markup?
 
 Divide the margin by one minus the margin. A 15% margin needs 0.15 ÷ 0.85, a 17.6% markup on total cost. The full method of turning that target into zones and levers is in *Steer, Don't Guess*.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

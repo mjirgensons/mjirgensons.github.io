@@ -15,6 +15,8 @@ Andrew, the coffee shop owner in *Steer, Don't Guess*, says this at a morning br
 
 If you have ever sat through that meeting, possibly as the person running it, this page is for you. It is about levers of control: the short list of things you can actually move, and the much longer list of things you only wish you could.
 
+Staring at a red number and vowing to "do something" is how good weeks get wasted. The Jirgenson Model gives you the answer: a short list of levers you control, each tested before you pull it. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Levers of control: the wheel and the heading
 
 A helmsman does not turn the ship with his bare hands. He turns the wheel, and the heading follows. That image opens the chapter, and the whole lesson is inside it: between the wish ("sail north") and the result (the ship moving north) sits a mechanism within reach. You do not push on the result. You move the mechanism.
@@ -120,3 +122,14 @@ Write down everything that affects your goal, then cross out what depends on oth
 ### How do I know if a lever is worth pulling?
 
 Ask three questions: can I move it myself today, how soon will the effect show, and can I undo it? Then test it in numbers, such as how many customers you can lose before a price rise stops paying off.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

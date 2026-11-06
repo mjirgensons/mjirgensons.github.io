@@ -15,6 +15,8 @@ Emma and Paul did. One sum said their €2,000 covered less than half a month. T
 
 Picture your own version. The bank app shows the balance to the cent. It never shows the one number you need: the month it reaches zero.
 
+Cash that feels safe today can run dry long before you notice. The Jirgenson Model gives you the answer: real numbers, a forecast for more than one scenario and a red line where you act. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Months of runway: two numbers, not one
 
 When people ask how many months of runway they have, they mix two questions. Split them.
@@ -131,3 +133,14 @@ Set the line by the time you need to react. The coffee shop in this example aims
 ### What is the difference between runway and cash coverage?
 
 Coverage shows how many months of costs your reserve could pay. Runway shows how long the reserve lasts at today's net outflow. A family €400 short each month had 0.45 months of coverage and five months of runway.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

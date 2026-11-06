@@ -15,6 +15,8 @@ The senior barista came over and stood beside him. Twenty minutes later the queu
 
 She did not work faster. She simply knew what would happen next: when the next wave would arrive from the office next door, which order was about to be collected, the exact moment to grind the next batch. Same Friday, same machine, same customers. Chaos for one person, rhythm for the other.
 
+Chaos often isn't the market, it's the wrong person at the wheel. The Jirgenson Model answers it as a control system: goals in order, real numbers, a forecast, the right driver. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Predictability in business lives in a pair
 
 It is tempting to treat predictability as a property of the world: the market is volatile, demand is random, suppliers are unreliable. But the same car that feels like an uncontrollable lump of metal to a passenger is driven calmly by a professional. Even experienced pilots retrain when they switch aircraft: they know how to fly, but cannot yet predict how the new machine will answer their hands.
@@ -95,3 +97,14 @@ Start with the moments that go wrong most often. Write a simple map: the time, w
 ### Who should be in charge of an area of the business?
 
 The person who can best foresee what will happen next in that area, not necessarily the most senior one. Owners often gain by handing over areas where someone else sees further.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

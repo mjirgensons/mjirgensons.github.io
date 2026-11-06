@@ -17,6 +17,8 @@ Now look at your own list for next quarter. Every line is sensible. Grow sales. 
 
 You bought the planner, the habit app and the course on focus. The fault sat in a sum nobody did.
 
+Goals that clash on paper will clash every Monday, and no amount of discipline fixes the sum. The Jirgenson Model gives you the answer: goals in an order you set in advance, tested with real numbers before any plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What mutually exclusive goals are
 
 Two goals are mutually exclusive when no single state of the business meets both. Not hard. Not ambitious. Impossible, inside the limits you have this quarter.
@@ -139,3 +141,14 @@ Give each goal a number and a deadline, write your hard limits, and add up what 
 ### Are competing priorities the same as conflicting goals?
 
 No. Competing priorities share money, time or people, but some order lets each one win in turn. Mutually exclusive goals cannot all be met in any order. The full control system, including the resource table for plans, comes on Kindle.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

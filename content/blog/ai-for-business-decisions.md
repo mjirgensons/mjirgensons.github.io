@@ -17,6 +17,8 @@ That food truck was one of ten test situations in a [blind experiment](https://d
 
 The machine was the same in both cases. What changed was what it was allowed to do.
 
+The risk isn't the speed of the answer. It's a confident number you never gave the machine. The Jirgenson Model answers with a control system: you set the goals in order, and the AI works from real numbers. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Why a fluent answer is not a safe one
 
 An assistant asked about your business has to say something. So it does.
@@ -139,3 +141,14 @@ One that gives rules instead of a role. It sets what the assistant may say, how 
 ### How do I check AI business advice?
 
 Give it your goal and state numbers and ask for the gaps. If any figure differs from your own sum, restart. For costly decisions, check by hand whenever the chance of error times the cost is larger than the cost of checking.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

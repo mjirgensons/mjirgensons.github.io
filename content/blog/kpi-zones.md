@@ -17,6 +17,8 @@ Your own version might be a margin six points under target. A lot? A little? You
 
 Twenty numbers in the monthly report, and not one of them says whether to act. That is the gap KPI zones close.
 
+A number without a line makes you judge it fresh each week, mood and all. The Jirgenson Model gives you the answer: every gap becomes an error, and zones you set in advance turn it into a decision. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What KPI zones are
 
 A zone is a range of values you agree on in advance, in a calm moment. When the number lands in it, the response is already written down.
@@ -150,3 +152,14 @@ Work out the error as actual minus goal. Put red where you could no longer fix t
 ### What is a business dashboard with zones?
 
 A short table of goal numbers, each showing target, today's value, error and colour. The colour carries a ready instruction, so the table reads in a minute.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

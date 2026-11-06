@@ -19,6 +19,8 @@ Picture the usual routine. Last month's figures arrive in the third week of this
 
 That is not a reporting problem. It is a missing number.
 
+Steering by a report that lands after the month is over means you always react late. The Jirgenson Model pairs every goal with a weekly leading number and a line that triggers a revision of the plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You see the turn while you can still take it.
+
 ## What is a leading indicator, in plain words
 
 A leading indicator is a figure that moves before your result moves. The result answers "did it work?" The leading figure answers "is it working?", weeks earlier.
@@ -141,3 +143,14 @@ A lagging KPI reports a result that has already happened, such as monthly profit
 ### How many leading indicators does a small business need?
 
 At least one per financial goal, checked weekly. In Steer, Don't Guess each goal gets a one-page plan, and the leading indicator sits there beside the levers, the constraints and the deadline.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

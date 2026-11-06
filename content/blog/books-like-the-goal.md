@@ -15,6 +15,8 @@ A queue at the counter. A supplier who wants paying on Friday. A reserve that wo
 
 That is the moment people search for books like *The Goal*. This list sorts them by the question Goldratt leaves open. Disclosure: the last book on it is mine, and its limits get the same plain treatment as the others.
 
+Which of three bottlenecks comes first? That's the gap Goldratt leaves open. The Jirgenson Model fills it with a control system: goals in order, zones that flag the red number, and levers. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Books like The Goal, matched to its five steps
 
 *The Goal* is a business novel. Through its story, the reader learns the Theory of Constraints. Its five steps: identify the constraint, exploit it, subordinate everything to it, widen it, repeat.
@@ -125,3 +127,14 @@ Start with the question you are stuck on. For focus, *Measure What Matters*. For
 ### What are the five steps of the Theory of Constraints?
 
 Identify the constraint, exploit it, subordinate everything else to it, widen it, and repeat when it moves. In a small business, check first which goal the constraint is limiting.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

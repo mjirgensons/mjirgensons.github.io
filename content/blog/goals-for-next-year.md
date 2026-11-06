@@ -13,6 +13,8 @@ Every autumn the same ritual begins. A fresh notebook, a quiet evening, a list o
 
 The list was not too ambitious. It was unfinished. It had wishes without numbers, numbers without a starting point, and no order for the day two of them collide. Here is a way to set goals for next year that survives February, in three passes: tonight, this week, this month.
 
+Wishes without numbers or an order don't survive February. The Jirgenson Model turns them into goals in order, with real numbers, zones, a forecast and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Goals for next year, tonight: five wishes and one honest order
 
 Take a sheet of paper. It takes less than an hour.
@@ -104,3 +106,14 @@ Goals from six areas: finance, clients, sales, processes and quality, people, an
 ### How often should I review my yearly goals?
 
 Levers weekly, fast numbers weekly and slow ones monthly, plans quarterly, and the goals themselves every six months.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

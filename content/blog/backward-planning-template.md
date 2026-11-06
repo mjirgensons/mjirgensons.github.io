@@ -15,6 +15,8 @@ Look at your own big goal for a second. You can probably name it for next Decemb
 
 That gap is where plans die. Write the plan forwards from January, and by March it can be a document nobody opens. The goal was never wrong. The route back to this week was missing.
 
+A goal with no task for next Tuesday is where plans die. The Jirgenson Model answers as a control system: real numbers for each step, and a plan that reaches this week. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## The backward planning template, column by column
 
 Backward planning, also called reverse planning, starts from the finished result. Then it asks one question, row after row: what must be true right before this? The chain stops when it lands on this week.
@@ -154,3 +156,14 @@ Five: when, what must be true, the number that proves it, the resources it needs
 ### How do I plan backwards from a goal if I am not sure of my starting point?
 
 Measure first. Write today's numbers from one source each. A chain built from a guessed start leads somewhere precise, but not where you meant to go.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

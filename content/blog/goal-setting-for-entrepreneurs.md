@@ -19,6 +19,8 @@ If that row is missing, the business has already decided how you will spend the 
 
 The till counted every cappuccino. Andrew's own working week he had to add up from the calendar.
 
+A goal list without your own row lets the business spend your year for you. The Jirgenson Model puts the owner back on the list, with goals in order, real hours and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Goal setting for entrepreneurs starts with the owner row
 
 A goal list for a business covers six areas: finance, clients, sales, processes and quality, people, and one more. That sixth area is development and the owner: future projects, plus the owner's own time, health and money.
@@ -147,3 +149,14 @@ Yes. Your time, health and money are the sixth area of the list. Ranking them la
 ### How do startups set goals without any history?
 
 The same way, with fewer rows. Measure what you have, even if it is zero, and set a source for every number. Zones, levers and a forecast follow once the first values exist.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

@@ -13,6 +13,8 @@ Every morning Andrew ordered a hundred croissants, because that was how it had a
 
 It was not bad luck. It was a control system, just a very primitive one. And the way he fixed it, in three attempts, is the clearest lesson in reactive versus proactive management I know, because every attempt can be counted in croissants.
 
+Fixing things after the bin fills up keeps you one step late. The Jirgenson Model closes the loop with a forecast, then lets new facts correct it. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Three drivers on the same road
 
 Before the croissants, a picture. Three drivers on one road:
@@ -135,3 +137,14 @@ Reactive management measures a deviation after it happens and corrects it, so it
 ### Is PDCA the same as a control cycle?
 
 PDCA covers the middle of it: planning, doing, checking and acting. A full control cycle adds noticing the pressure, naming the situation before planning, and deciding when a goal is reached and moves to maintenance.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

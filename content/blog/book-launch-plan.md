@@ -19,6 +19,8 @@ Every item sounded businesslike. Not one of them could be done tomorrow.
 
 That is not a self publishing plan. It is a mood with bullet points.
 
+A launch plan made of moods can't warn you in time. The Jirgenson Model turns it into a control system: levers, real numbers, a forecast and a weekly check. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What a book launch plan has to answer
 
 A plan is not a wish list. It answers five questions, and it fits on one page:
@@ -155,3 +157,14 @@ Send a small trial stream of visitors to the sales page and count buyers per hun
 ### How long does a first book take to sell steadily?
 
 Longer than one month. In the example, launch comes at month 4 and steady sales of 21 a month at month 11. Judge the launch against its planned route, not against its first weeks.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

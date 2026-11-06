@@ -17,6 +17,8 @@ That missing €15 is the first money lesson your child needs, and no lecture ca
 
 You know the usual script. The parent says "save more". The child nods. Two weeks later the coins are gone and nobody can say where. You can do the same with a banking app full of charts. A plan never enters the room.
 
+A wish with no count and no plan is how the coins disappear. The Jirgenson Model turns it into a system your child runs: a dated goal, a true count, their own levers and a Sunday forecast. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). The lesson sticks because the child does the steering.
+
 ## Your job is to ask, not to decide
 
 The usual approach puts the parent in charge: the parent sets the target, the parent nags, the parent rescues. The child learns that saving is something done to them.
@@ -139,3 +141,14 @@ A €300 bicycle in four months. Start with €40 saved, add €20 a month pocke
 ### What should a family do about a budget deficit?
 
 Take the real numbers from three months of bank statements. Compare three scenarios: change nothing, cut costs, and cut costs while adding income. Start with one lever so you can see its effect.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

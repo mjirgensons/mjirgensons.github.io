@@ -19,6 +19,8 @@ The till counts every coffee. The bank counts every cent. And you still steer by
 
 That is not a data problem. It is a missing system.
 
+When the till and the bank disagree, memory and mood make the call. The Jirgenson Model gives you the answer as a control system: goals in order, real numbers, zones, levers and a forecast in one sheet. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What a management system is
 
 It is not a program you buy. It is a short set of tools. Each tool turns one question into an object you can pick up: a table, a list, a page.
@@ -153,3 +155,14 @@ No. A shared spreadsheet and a weekly export from your till or accounts are enou
 ### How long does it take to build a management system?
 
 The first five tools take about a week: the goal table takes minutes, the rest a few evenings. The full set, including thresholds and a rolling forecast, grows over the first two months.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

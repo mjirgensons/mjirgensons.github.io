@@ -17,6 +17,8 @@ Then the fuel bill arrives. The car needs tyres. And the bank shows a figure the
 
 Here is the irony. The app counts every order to the cent. The cost of earning it gets counted by feel, or not at all.
 
+A busy app screen can hide a side hustle that costs you money. The Jirgenson Model answers it as a control system: one real number per goal, from a source you trust. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Delivery driver pay after costs: measure what you keep
 
 The line at the top is about the gap between what a screen says you earned and what you kept. Close that gap tonight.
@@ -178,3 +180,14 @@ Exactly what your sheet says: the six-month average after costs, per hour of wor
 ### Is gig economy pay worth it?
 
 Only your own numbers can answer that. Measure the pay after costs per hour, set the target you need, and look at both side by side. The book adds the zones that show when a number turns from a warning into an emergency.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

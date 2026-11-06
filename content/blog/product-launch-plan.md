@@ -17,6 +17,8 @@ Now look for one number on that list. The number that must be true the day befor
 
 Here is the irony. A launch gets a date to the hour and a budget to the cent. The one question that decides it gets a feeling: will anyone come?
 
+A launch date with no launch condition is a hope with a countdown. The Jirgenson Model answers it as a control system: an end state in numbers, a plan built backwards. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Kickstarter campaign or shop opening: start from the day after
 
 The line at the top is about launches that reach the big day with nobody waiting. Fix that from the far end.
@@ -179,3 +181,14 @@ No. A checklist lists tasks, and a task can't warn you. Add a number to each row
 ### Why does a product launch fail?
 
 This post shows three common breaks: nobody waiting on the day, no number the launch must clear, and no plan for the months after. The book adds three places where a plan breaks before work starts: the three offsets.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

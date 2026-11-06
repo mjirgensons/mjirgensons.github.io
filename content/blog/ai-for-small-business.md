@@ -21,6 +21,8 @@ You asked one question and got a reading list. The machine wrote more in a minut
 
 What an owner needs from ChatGPT, or from any AI for small business, is not more text. It is a colleague with rules.
 
+A polite answer that tells you nothing new is the pain here. The Jirgenson Model gives the AI rules: goals in order, real numbers, guesses marked as guesses, and a forecast with ranges. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What AI for small business usually gets wrong
 
 A language model has to say something, so it does. Nothing tells it what matters to you. Nothing tells it where your red lines are. So it covers everything, ranks nothing and sounds sure the whole time.
@@ -142,3 +144,14 @@ Because a gap in your data invites a smooth guess. Without rules, the assistant 
 ### What is the best AI for business decisions in a small company?
 
 The best AI for business is the one that works by rules, whichever model runs it. Out of the box, ChatGPT, Claude or Gemini write broad advice for no one. With the free canon and operating prompt it works through your situation in a fixed order. The Kindle book explains that order and how to read what comes back.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

@@ -17,6 +17,8 @@ Two respected tools, a quarter of workshops, and neither one tells you whether t
 
 The trouble is not the tools. It is the question you ask.
 
+Neither tool tells you which goal gives way when two pull against each other. The Jirgenson Model gives you the answer: goals in order, real numbers and zones that turn a bad Monday into a clear decision. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## OKR vs balanced scorecard: two answers to two questions
 
 Both methods are strong, built for different jobs.
@@ -173,3 +175,14 @@ Neither wins in general. OKR helps a small team focus on a few goals. The scorec
 ### What is a good OKR alternative for small business?
 
 A ranked goal list: at most nine goals, each with a number, a deadline and today's value, ordered by the refusal test. *Steer, Don't Guess* adds zones and levers to that list, and it can sit on top of your existing OKRs.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

@@ -19,6 +19,8 @@ Here is the irony. The dashboard tracks your listing's rank by the hour. Your ow
 
 "A while" is not a number. Turn it into one tonight.
 
+Cash tracked by mood is the quiet danger here. The Jirgenson Model answers with a control system: real numbers, one source each, and zones that show red. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Amazon seller tips for the first sale: count your cash in months
 
 Write your reserve in months of expenses before you spend on another ad. Then turn the months into money, so the gap has a size.
@@ -147,3 +149,14 @@ The one you measured, with every cost and write-off inside it. Set your own targ
 ### What should a new Amazon seller track first?
 
 Five numbers against five goals: cash in months, margin, repeat buyers, complaints and your own hours. Each needs one source. The complete method, with zones, levers and forecasts, is in the full control system.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

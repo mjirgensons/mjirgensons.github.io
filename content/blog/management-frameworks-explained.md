@@ -13,6 +13,8 @@ Management books love a framework, and small business owners end up with a shelf
 
 The honest answer is that they are not competitors. Each was built to answer a different question. Here are the five most common, explained plainly, and then one real problem run through all of them, so you can see what each actually tells you.
 
+A shelf of acronyms still leaves you stuck when two goals collide on Monday. The Jirgenson Model gives you the answer as one control system: goals in order, real numbers, zones, levers and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Management frameworks explained, one by one
 
 | Framework | Origin | The question it answers | In one line |
@@ -101,3 +103,14 @@ They help with focus, but a small team also needs a rule for which key result wi
 ### What is the Theory of Constraints in simple terms?
 
 A system can only go as fast as its tightest bottleneck, so find that bottleneck, get the most out of it, organise everything else around it, widen it if necessary, then look for the next one.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

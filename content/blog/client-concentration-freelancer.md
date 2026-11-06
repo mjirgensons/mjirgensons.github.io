@@ -19,6 +19,8 @@ Picture your own version. One client pays most of your bills. Their email lands,
 
 It is not loyalty. It is client concentration, and it decides for you.
 
+When one client pays most of the bills, they're steering, not you. The Jirgenson Model makes that share a goal with a deadline and levers to shrink it. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Client concentration in one number
 
 Elena is a freelance designer. Before she set any goal, she measured. She did not trust the feeling of a "good month" after a big order. She took six months of bank statements.
@@ -152,3 +154,14 @@ There is no single safe number for everyone. Elena set her goal at no more than 
 ### How do I reduce client dependency without losing my biggest client?
 
 Grow the rest of your income instead of cutting the big client. Raise package prices, ask former clients for repeat work, open new channels or build a product. Elena's main client stayed near €900 while her total rose to €3,000.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

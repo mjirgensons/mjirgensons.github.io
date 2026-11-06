@@ -17,6 +17,8 @@ You can name your entry price to the cent. Can you name the goal you would give 
 
 Here is the irony. A trader watches prices by the second. The order of what matters in their own life sits in their head, untested, until the worst afternoon tests it for him.
 
+The worst afternoon is no time to decide what you'd give up first. The Jirgenson Model settles it early: goals in refusal order and a stop line. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Day trading success rate: the plan starts before the chart
 
 Day trading statistics give you the odds. They can't give you an order. That part is yours, and it takes ten minutes.
@@ -180,3 +182,14 @@ On the goal side, four parts. Constraints you never break. Nine goals at most, i
 ### When should you quit day trading?
 
 When the condition you wrote in advance is met. Not on the worst afternoon, and not because you are tired. Write the condition as a number with a date, and check it on a fixed rhythm.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

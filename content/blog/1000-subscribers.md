@@ -19,6 +19,8 @@ Here is the irony. The platform counts every view to the last one. The plan behi
 
 That is not a talent problem. It is a goal without a plan. And a goal without a plan remains a wish.
 
+The pain isn't the camera or the niche. It's a round number with no plan under it. The Jirgenson Model answers it as a control system: your own levers, a weekly figure that moves first, and a check date. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Get 1000 subscribers: turn the goal into one page
 
 Don't argue with the first line of this post. Answer it with paper.
@@ -176,3 +178,14 @@ Start with one page: the videos you'll make, the hours you give them, what you w
 ### What is a good YouTube upload schedule?
 
 The one you can keep with the hours you wrote down. Book the slots before you pick topics. The book shows how to fit levers, hours and limits on one page, with worked examples.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

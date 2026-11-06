@@ -17,6 +17,8 @@ The ice is not a lever. The steering wheel, the accelerator and the brake are. T
 
 Now picture a Monday meeting about falling profit. Ten minutes on rent, the weather, the street and "the market". Not one minute on the price list. That is shouting at the road crew while the car is still sliding.
 
+Every minute on rent and weather is a minute the price list never gets. The Jirgenson Model answers with a control system: find the real levers and test each one before you pull it. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What business levers are
 
 Business levers are the parameters you can reach and change by your own decision. Prices. The menu or product range. Purchasing terms. Portion size. Payment terms. Promotion channels. Process steps.
@@ -144,3 +146,14 @@ Write down everything that touches your goal. Put each item into one of three bi
 ### What is the difference between a lever and a result?
 
 A result is what you want, such as margin. A lever is what you do to move it, such as prices or the menu. Steer, Don't Guess calls the full set of your levers the control vector.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

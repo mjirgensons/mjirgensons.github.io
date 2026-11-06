@@ -19,6 +19,8 @@ Here is the irony. A business can fade with a queue at the door every morning. A
 
 The quiet signs don't ring. You set the alarm yourself, in advance.
 
+A slow slide never feels like an emergency. That's why it's hard to catch. The Jirgenson Model answers it as a control system: a goal for each number, the gap measured, and zones set in advance. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Business is struggling? Set the warning lines in one evening
 
 A quiet slide becomes visible the moment every goal has a line. Do this tonight. Andrew set his for five goals in one evening, while his head was still clear. Here is the whole tool, with his entries beside each step.
@@ -182,3 +184,14 @@ Subtract each goal from its measured value. Then check the zone. Any row past it
 ### What should I do first when my business is failing?
 
 Check for direct threats to people, safety, payments and the law. Then freeze secondary work and put everything on the red row. The complete method, with levers and forecasts, is in the full control system.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

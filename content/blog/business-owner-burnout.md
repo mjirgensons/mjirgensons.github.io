@@ -17,6 +17,8 @@ Here is the irony. The till tracks every receipt to the cent. The one number nob
 
 The villain is not you. It is the habit of steering by fatigue, with no line for when enough is enough.
 
+Burnout starts with the one number nobody checks: your own hours. The Jirgenson Model gives them a red line and hands each area to whoever sees furthest. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Business owner burnout starts with a missing row
 
 Your own time is a goal like cash. Put it on the panel with the same six fields: parameter, definition and source, target and deadline, current value, permissible deviation, owner and check rhythm.
@@ -155,3 +157,14 @@ Name the risk to one person and back it with one action. Then hand one area to w
 ### Should I quit my business if I am burned out?
 
 Not on the worst night. A bad month is an error, and an error changes the plan. Run the refusal test in a calm hour. Change the goal only if your priorities have changed.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

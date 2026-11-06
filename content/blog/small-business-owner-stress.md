@@ -19,6 +19,8 @@ Here is the irony. You can recite every worry by heart, and you still can't say 
 
 The fix is not fewer worries. It is an order, decided before the night comes.
 
+A pile of worries with no order is the real weight. The Jirgenson Model gives it one: goals in order, each in its zone, so the red row speaks first and green stays quiet. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You set the order in daylight, and the night stops choosing for you.
+
 ## Lying awake? Sort your business worries in fifteen minutes
 
 <strong>Nearly half of owners lie awake at night worrying about the business.</strong>
@@ -163,3 +165,14 @@ Turn the stress into readings. Give each goal a number, a source and three zones
 ### How do I talk to my family about business stress?
 
 Bring a reading, not a mood: the fact, its colour and the one action you've chosen. Then name the date of the next check. The full control system, from goals to forecasts, comes as a book on Kindle.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

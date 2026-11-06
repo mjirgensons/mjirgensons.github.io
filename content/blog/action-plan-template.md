@@ -17,6 +17,8 @@ The list grows every week. The goal stays put. And nowhere on the list is there 
 
 That is not a plan. It is a pile of bricks without a blueprint.
 
+A ticked list can leave the goal where it was. The Jirgenson Model fixes that as a control system: each goal gets levers, limits and a leading number. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Why a task list is not an action plan
 
 Levers are bricks: prices, offers, channels, hours. A plan is the blueprint that says which bricks, in what order, with what resources, and inside which boundaries. Without the blueprint, a busy week looks like progress.
@@ -149,3 +151,14 @@ Five rows. What you will change, and what it costs in time and money. What you w
 ### How do I know if my action plan is working before the deadline?
 
 Watch the leading indicator every week and compare it with a planned line. *Steer, Don't Guess* shows how to build that line as a forecast, so a shortfall shows up months before the deadline.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

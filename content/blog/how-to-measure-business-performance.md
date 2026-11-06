@@ -17,6 +17,8 @@ Now picture your own desk. You can quote last month's revenue to the euro. You s
 
 Nobody lied to Andrew. The number did, quietly, the way an unchecked number always can.
 
+An unchecked number lies quietly, and every plan built on it inherits the lie. The Jirgenson Model gives you real numbers you've audited, set against the zones you steer in. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Why business numbers lie
 
 A figure fails you in three ways. Each has a name, and each looks innocent.
@@ -137,3 +139,14 @@ The ones tied to your goals. For a coffee shop: cash reserve in months of expens
 ### How accurate do my business numbers need to be?
 
 Accurate enough to tell normal from trouble. If you manage margin to one point and your records are off by three, you are managing noise. A rough count will do when you only need to know whether more or fewer than half your customers return.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

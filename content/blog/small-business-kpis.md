@@ -13,6 +13,8 @@ For a long time Andrew believed a "management system" was something you bought f
 
 That is the good news about small business KPIs. You do not need a platform. You need a short list of the right numbers, one source for each, and a rhythm for looking at them.
 
+A pile of numbers nobody reads won't steer a business. The Jirgenson Model answers it as a control system: goals in order, real numbers, colour zones and a steady rhythm. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Small business KPIs: start from goals, not from a list
 
 Most KPI articles hand you a list of forty metrics. That is backwards. A KPI is only "key" if it is tied to something you are trying to achieve. So the first column of your dashboard is your goals, and every number on it answers one question: are we on track for this goal?
@@ -113,3 +115,14 @@ A short table of the numbers tied to your goals, showing for each the target, th
 ### How often should KPIs be reviewed?
 
 Fast-moving numbers weekly, slow ones monthly, plans quarterly and goals every six months. During a cash crisis, the account balance may need checking daily.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

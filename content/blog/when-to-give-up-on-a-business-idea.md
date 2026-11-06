@@ -21,6 +21,8 @@ Quit on a bad Tuesday and you may walk away from a business that was one fix fro
 
 There is a better order. Rule out two fixable causes first. Then test the ship.
 
+Deciding by mood after a bad week is how good businesses get dropped and dead ones get kept. The Jirgenson Model gives you an order instead: check the goal, check the real numbers, then test the environment. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). The answer comes from the checks, not from how tired you are.
+
 ## Why business plans fail when nobody is lazy
 
 Three offsets explain why business plans fail even when the people running them work hard. Each one is a different floor under your feet. Each can be checked before you spend another euro.
@@ -157,3 +159,14 @@ If results miss, rewrite the plan. If conditions or priorities have shifted, or 
 ### What is the Titanic test in business?
 
 A check of the system your business lives in: is the industry, street or market itself going under? If the strongest outside factor beats all your levers combined, better tactics cannot win.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

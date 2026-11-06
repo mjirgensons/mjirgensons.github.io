@@ -15,6 +15,8 @@ That is how most small businesses are run. The monthly profit figure arrives, ac
 
 The fix is not a better alarm. It is a smoke detector, and a window you can see the street from.
 
+Steering by last month's profit means you find out once the damage is paid for. The Jirgenson Model gives you the answer: leading numbers, zones and a forecast that flag trouble while you can still act. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Lagging vs leading indicators: the difference in one sentence
 
 Lagging indicators tell you what has already happened. Leading indicators point to what is likely to happen, early enough that you can still change it.
@@ -105,3 +107,14 @@ For a coffee shop aiming at a higher margin: average margin per receipt, checked
 ### How do you know if a leading indicator works?
 
 Write down what it should predict and over what horizon, then compare after a month or two. If the indicator moved and the result did not, the link is weaker than assumed, and you choose another.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

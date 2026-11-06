@@ -17,6 +17,8 @@ Here is the irony. You count every coffee sold to the cent. The coffee poured do
 
 Andrew, who runs a busy coffee shop, was sure his margin sat around twenty per cent. Once he counted the waste, it read nine. That gap did not show up as a loss. It showed up as a decision he nearly made.
 
+A margin that leaves out the bin is a number nobody checks, and it steers you wrong. The Jirgenson Model starts from real numbers: test the gauge, read the zone, then decide. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). Fix the count first, and your decisions stand on what's there.
+
 ## Why waste in small business is a measurement problem first
 
 Waste is usually treated as a kitchen problem: be more careful, throw less away. It is first a problem of the instrument.
@@ -132,3 +134,14 @@ In everyday operations, yes: stock that leaves without a sale, through spoilage,
 ### How much waste is normal for a small business?
 
 There is no universal figure. Some loss comes with any perishable stock. What matters is a known, stable number inside a tolerance you set in advance. A number you have never counted cannot be normal or abnormal.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

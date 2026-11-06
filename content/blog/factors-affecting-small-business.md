@@ -15,6 +15,8 @@ The till dips. The energy bill climbs. A competitor drops a price. By Friday you
 
 Your spreadsheet has forty columns for what you did and not one for what was done to you. So every push from outside gets booked as your own mistake.
 
+Book every outside push as your own mistake and you'll doubt a plan that works. The Jirgenson Model fixes that with real numbers and a lever for each force. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Factors affecting small business: the whole list
 
 A factor is anything that acts on your path to a goal. It helps, it hinders, or it shoves you sideways. Where it comes from does not matter. What matters is that it acts on the path.
@@ -138,3 +140,14 @@ Threats and tailwinds, each with its direction, its size in the goal's units, an
 ### How do you handle business headwinds you cannot control?
 
 Put them in the absorb bin and plan around them: adjust expenses for season and inflation, order by the forecast, keep a reserve. When one headwind outweighs every lever you have, the answer lies outside tactics. The full method is on Kindle.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

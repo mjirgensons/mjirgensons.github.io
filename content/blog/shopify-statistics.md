@@ -19,6 +19,8 @@ Here is the irony. The dashboard reports every click to the second. And the owne
 
 That is not a lack of effort. It is effort on things that don't obey you.
 
+Late nights on the store don't move sales when the changes don't obey you. The Jirgenson Model answers that as a control system: real goals, real levers, one early number. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Shopify statistics in year one: list the levers you can pull today
 
 Stop pushing on sales. Move a lever. Shopify statistics count the stores that close; your list counts the levers you hold.
@@ -178,3 +180,14 @@ Move the levers that act on it: prices, range, purchasing terms and what each or
 ### Which Etsy shop tips can I use today?
 
 Rewrite the headline of your shop page and change the order of its blocks. Then count visitors and the share who buy, every week. The complete method, from the goal list to the forecast, is in the full control system.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

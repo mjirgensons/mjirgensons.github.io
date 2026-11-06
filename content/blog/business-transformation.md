@@ -17,6 +17,8 @@ The irony is hard to miss. The new software has a budget line of its own. Nobody
 
 The villain is not the people. It is the stage of the change that nobody runs.
 
+A change stalls at the stage nobody runs, and the old argument comes back. The Jirgenson Model runs it as a control system, so you'll see the empty stage. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Business transformation in eight stages: find the empty one
 
 Whatever you are changing, a shop, a service or a whole company, the change passes through the same eight stages. Stages 1 and 8 are always there. The stages between can merge or split, but none can be dropped.
@@ -142,3 +144,14 @@ Two companies bring two goal orders and two versions of each number. Start integ
 ### How do you stop a digital transformation from running over budget?
 
 Give the budget three zones before the start, with a red line set in a calm hour. Name who checks it, and how often. The full method adds launch and stopping conditions for the whole route.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)

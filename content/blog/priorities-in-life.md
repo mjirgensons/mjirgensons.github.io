@@ -13,6 +13,8 @@ Ask anyone what matters most in their life and you will hear a beautiful list: f
 
 The problem is the question. "What matters most?" is answered with feelings, and feelings say yes to everything. There is a better question, and it works as well at a kitchen table as it does in a business.
 
+A list where everything matters can't help you on a hard Tuesday. The Jirgenson Model answers it as a control system: goals in order, each with a number and a date. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## How to set priorities in life: change the question
 
 The question is the refusal test. Imagine you had half the time, half the money, half the energy. Cross your goals out one at a time: first the one you would give up first, then the next, until one is left. Then number them in reverse. The one you crossed out last is number one.
@@ -97,3 +99,14 @@ That is your choice. The method only asks that you make it honestly and in advan
 ### How do I balance personal priorities with work?
 
 Put both on one ranked list, give the lower ones limits rather than bans, and allow planned exceptions with an end date, such as longer hours for three months on a specific project.
+
+## Published research
+
+It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:
+
+- Zenodo (DOI): [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)
+- Hugging Face: [E5 Jirgenson Model blind test](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test)
+- Kaggle: [E5 blind test dataset](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt)
+- GitHub: [experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10)
+- Wikidata: [dataset Q142022866](https://www.wikidata.org/wiki/Q142022866), [author Q141981336](https://www.wikidata.org/wiki/Q141981336)
+- ORCID: [0009-0001-3034-3552](https://orcid.org/0009-0001-3034-3552)
