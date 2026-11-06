@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 1, Goal: not a dream but a list with an order
 slug: one-person-business
-keywords: [one person business, solopreneur, solo entrepreneur, solo business, paying yourself, how to pay yourself, owner draw, what is owner draw, solopreneur meaning, owner pay, self funding business, running a business alone, solopreneur goals, freelancer goals, self funded business, refusal test, goal or method, goal vector example, how to prioritize goals]
+keywords: [one person business, solo entrepreneur, solo business, paying yourself, how to pay yourself, owner draw, what is owner draw, solopreneur meaning, owner pay, self funding business, running a business alone, solopreneur goals, freelancer goals, self funded business, refusal test, goal or method, goal vector example, how to prioritize goals]
 answer: "A one person business has no partner to break a tie, so the order of your goals must exist before the hard day. Write three to nine goals, each with a number, a unit and a deadline. Put your own pay and your reserve on the list. Then rank them with the refusal test: what you would give up first, and what you would defend to the end."
 ---
 

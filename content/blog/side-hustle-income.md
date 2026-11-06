@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 2, Where you really are
 slug: side-hustle-income
-keywords: [side hustle income, extra income, second income, side hustle meaning, what is side hustle, delivery driver pay, what is network marketing, network marketing income, gig economy pay, mlm statistics]
+keywords: [side hustle income, second income, side hustle meaning, what is side hustle, delivery driver pay, what is network marketing, network marketing income, gig economy pay, mlm statistics]
 answer: "Your real side hustle income is what stays after every cost, divided by the hours it took. Measure it in one evening: take the bank statement, not the app screen, as the source. Average six months, not the best one. Count every cost. Then divide by your hours and compare the figure with the goal you set."
 ---
 

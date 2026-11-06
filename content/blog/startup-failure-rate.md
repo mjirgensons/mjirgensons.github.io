@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 9, Three ways to control: from the calendar to the forecast
 slug: startup-failure-rate
-keywords: [startup failure rate, startup success rate, venture capital returns, seed stage startups, startup runway, unicorn startup, startup statistics, startup survival rate, startup shutdown, runway calculation]
+keywords: [startup failure rate, venture capital returns, seed stage startups, startup runway, unicorn startup, startup statistics, startup survival rate, startup shutdown, runway calculation]
 answer: "The startup failure rate describes the crowd, not your company. What you control is how you steer. A plan followed blindly cannot adapt. A reaction to last month comes too late. Only a rolling forecast acts in time. Forecast cash, demand and workload for three months, update it every week, and let the forecast set the next move."
 ---
 

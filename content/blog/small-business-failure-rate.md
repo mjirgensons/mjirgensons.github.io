@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 2, Where you really are
 slug: small-business-failure-rate
-keywords: [small business failure rate, business failure rate, why small businesses fail, how many businesses fail, small business statistics, business survival, business failure, business failure definition, business survival rate, small business survival rate, new business failure rate, first year in business, business failure statistics, second year of business, state of my business, business instrument panel, measure business state]
+keywords: [small business failure rate, business failure rate, how many businesses fail, small business statistics, business survival, business failure, business failure definition, business survival rate, small business survival rate, new business failure rate, first year in business, business failure statistics, second year of business, state of my business, business instrument panel, measure business state]
 answer: "The small business failure rate gives the odds for everyone. It does not tell you where your own business stands. To stay on the right side, measure your state tonight: your five goals, the real number beside each, and one source for every number. Andrew's coffee shop did it in two hours and found a 9% margin, not the twenty he believed."
 ---
 

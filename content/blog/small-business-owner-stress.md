@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 4, Error: the main signal that drives decisions
 slug: small-business-owner-stress
-keywords: [small business owner stress, business owner stress, business stress, business anxiety, business worries, business owner mental health, family business stress]
+keywords: [small business owner stress, business owner stress, business anxiety, business worries, business owner mental health, family business stress]
 answer: "Small business owner stress grows when every worry gets the same weight at two in the morning. Write each worry down and ask three questions. Which goal does it belong to? Which zone is that goal in now? Is it more important than what you are doing? Act on the red row first, find causes in yellow, and leave green alone."
 ---
 

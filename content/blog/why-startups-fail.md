@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 11, Three offsets: why even a good plan fails
 slug: why-startups-fail
-keywords: [why startups fail, failed startup, second startup, product market fit, serial entrepreneur, startup failure reasons, no market need, startup post mortem, startup lessons]
+keywords: [why startups fail, second startup, product market fit, serial entrepreneur, startup failure reasons, no market need, startup post mortem, startup lessons]
 answer: "Why startups fail: the money runs out, but the cause sits upstream. One of three anchor points was wrong from day one. The goal contradicts itself, the starting numbers do not match the data, or the market around the plan is fading. Check all three in writing before you spend, and fix the one that breaks."
 ---
 

@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 7, Full control cycle: eight stages
 slug: business-transformation
-keywords: [business transformation, why transformations fail, transformation failure, digital transformation failure, change management failure, why change fails, why mergers fail, merger failure rate, merger integration, phoenix pay system]
+keywords: [business transformation, why transformations fail, transformation failure, digital transformation failure, change management failure, why change fails, why mergers fail, merger failure rate, phoenix pay system]
 answer: "A business transformation passes through eight stages: notice the pressure, name the situation, set ordered goals, build the plan, build structures, observe, improve, then finish or maintain. A skipped stage does not vanish. Someone else performs it, and rarely for you. Write one sentence per stage for your change, find the empty one, and fill it first."
 ---
 

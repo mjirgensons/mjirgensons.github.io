@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 3, Environmental factors: what pushes you off course and what carries you
 slug: creator-economy
-keywords: [creator economy, youtube views, attention economy, winner takes all, twitch viewers, small creators, small youtuber, small streamer, youtube views statistics, what is creator economy, average youtube views, creator economy statistics]
+keywords: [creator economy, youtube views, winner takes all, twitch viewers, small creators, small youtuber, small streamer, youtube views statistics, what is creator economy, average youtube views, creator economy statistics]
 answer: "For one channel, the creator economy is an environment: a set of factors that carry you towards your goal or push you off course. You can't change the wind, but you can steer with it. List every factor acting on your goal, mark its direction and strength, and write one lever against each. When a factor beats every lever, change rivers."
 ---
 

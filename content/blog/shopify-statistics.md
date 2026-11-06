@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 5, Levers: what you can really change
 slug: shopify-statistics
-keywords: [shopify statistics, etsy statistics, ecommerce failure rate, ecommerce mistakes, ecommerce margin, etsy shop tips, online store tips]
+keywords: [shopify statistics, ecommerce failure rate, ecommerce mistakes, ecommerce margin, etsy shop tips, online store tips]
 answer: "Shopify statistics give the odds for every new store. They don't say which of your levers to pull. List what you can change yourself, today: prices, range, the product page, offers to past buyers. Cross out the market, the season and luck. Put three questions to each lever, start with the fast and reversible ones, and read one leading number every week."
 ---
 

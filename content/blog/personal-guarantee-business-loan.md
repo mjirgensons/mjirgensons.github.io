@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 1, Goal: not a dream but a list with an order
 slug: personal-guarantee-business-loan
-keywords: [personal guarantee business loan, personal guarantee, what is personal guarantee, personal guarantee meaning, business bankruptcy, business debt, what is business bankruptcy, owner loan to business, self funding business, protect your house]
+keywords: [personal guarantee business loan, what is personal guarantee, personal guarantee meaning, business bankruptcy, business debt, what is business bankruptcy, owner loan to business, self funding business, protect your house]
 answer: "Before you sign a personal guarantee business loan, write down what you will never risk. List your constraints first, then minimum levels, then goals in refusal order: what you would give up first and what you would defend to the end. If the loan saves a goal by breaking a constraint, the constraint wins. Find another way, or change the conditions."
 ---
 

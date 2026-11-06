@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 12, Seven steps of entering control
 slug: fear-of-failure-business
-keywords: [fear of failure, fear of failure business, starting a business, first business, entrepreneur fear, business applications]
+keywords: [fear of failure, fear of failure business, starting a business, entrepreneur fear, business applications]
 answer: "Fear of failure is noise, not a reading of your business. Do not fight it with courage. Replace it with an order of steps: calm the noise, read your real numbers, look at the trend, find the current that already carries you, write two or three scenarios, then decide and accept the consequences. Tie the start to a condition you can measure, not to a date or a mood."
 ---
 

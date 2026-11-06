@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 1, Goal: not a dream but a list with an order
 slug: day-trading-success-rate
-keywords: [day trading success rate, day trading statistics, trading plan, trading plan template, risk of ruin, trading losses, quit day trading]
+keywords: [day trading success rate, trading plan, trading plan template, risk of ruin, trading losses, quit day trading]
 answer: "The day trading success rate gives the odds for everyone. It says nothing about your own plan. Before the next trade, write a goal table: the constraints you will never break, your goals in refusal order, six fields for each, and a stop line set in advance. Then the hard day finds a decision already made."
 ---
 

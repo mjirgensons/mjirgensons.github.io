@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 10, Steady mode and manoeuvre: when to change the plan and when to change the goal
 slug: podcast-statistics
-keywords: [podcast statistics, podcast episodes, podcast tips, blog statistics, why podcasts fail, podfade, podcast growth, podcast consistency, how often to blog, content consistency, how many podcasts]
+keywords: [podcast statistics, podcast episodes, blog statistics, why podcasts fail, podfade, podcast growth, podcast consistency, how often to blog, content consistency, how many podcasts]
 answer: "Podcast statistics are harsh on new shows. To avoid podfade, treat a new show as a manoeuvre, not a mood. Before you record, write its three periods, the corridor you accept at each checkpoint, a weekly and a quarterly review, and the conditions for stopping. Then a slow month changes the plan, not the goal."
 ---
 

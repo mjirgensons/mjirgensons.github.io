@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 2, Where you really are
 slug: amazon-seller-tips
-keywords: [amazon seller tips, amazon seller success rate, amazon fba failure rate, amazon fba worth it, amazon seller statistics, amazon seller profit, new amazon seller, amazon first sale, fba profit margin]
+keywords: [amazon seller tips, amazon fba failure rate, amazon fba worth it, amazon seller statistics, amazon seller profit, new amazon seller, amazon first sale, fba profit margin]
 answer: "The first of all Amazon seller tips: know where you stand before you chase the first sale. Write your cash as months of expenses. Count your margin with every write-off in it. Give each number one source. A coffee shop owner who believed in a 20% margin found 9% this way. A rough table tonight beats a perfect system in six months."
 ---
 

@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 11, Three offsets: why even a good plan fails
 slug: why-projects-fail
-keywords: [why projects fail, project failure, project risk, project delays, cost overrun, what is cost overrun, planning fallacy, project failure rate, it project failure, project over budget, on time on budget, project management statistics]
+keywords: [why projects fail, project failure, project risk, project delays, what is cost overrun, planning fallacy, project failure rate, it project failure, project over budget, on time on budget, project management statistics]
 answer: "Why projects fail can be checked before the first task. Every plan can break in three places: the goal contradicts itself, the starting numbers are wrong, or the larger system the project lives in is sinking. Check all three in writing before you spend anything. Then give budget and deadline a red line, and decide in advance which of budget, time and scope gives way first."
 ---
 

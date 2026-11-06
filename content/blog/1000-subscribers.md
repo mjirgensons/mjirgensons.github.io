@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 6, Control concept: every goal has a plan
 slug: 1000-subscribers
-keywords: [1000 subscribers, grow youtube channel, youtube growth, youtube upload schedule, youtube goals, small youtube channel, get 1000 subscribers, first 1000 subscribers, youtube channel plan, youtube growth plan, upload consistency]
+keywords: [1000 subscribers, grow youtube channel, youtube upload schedule, youtube goals, small youtube channel, get 1000 subscribers, first 1000 subscribers, youtube channel plan, youtube growth plan, upload consistency]
 answer: "To reach 1000 subscribers, stop treating the number as the plan. Write one page for the goal: the levers you pull with your own hands, the hours you give them, what you will never do, one weekly figure that moves before the subscriber count, and a check date with a line that means revise. It takes 15 minutes."
 ---
 

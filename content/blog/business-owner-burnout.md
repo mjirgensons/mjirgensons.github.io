@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 8, Predictability: who is at the wheel
 slug: business-owner-burnout
-keywords: [business owner burnout, founder burnout, startup burnout, entrepreneur burnout, founder mental health, entrepreneur mental health, entrepreneur depression, founder stress, founder anxiety]
+keywords: [business owner burnout, founder burnout, entrepreneur burnout, founder mental health, entrepreneur mental health, entrepreneur depression, founder stress, founder anxiety]
 answer: "Business owner burnout is not fixed with more willpower. Put your own hours on the panel as a goal with a red line, like cash. Then find one area where someone else sees further ahead than you, write down what they know, and hand them the wheel. A tired owner forecasts badly, and every late-night decision pays for it."
 ---
 

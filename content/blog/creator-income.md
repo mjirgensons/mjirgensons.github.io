@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 1, Goal: not a dream but a list with an order
 slug: creator-income
-keywords: [creator income, youtuber income, how much youtubers make, content creator meaning, content creator income, creator earnings, creator salary, full time creator, creator business]
+keywords: [creator income, how much youtubers make, content creator meaning, content creator income, creator earnings, creator salary, full time creator, creator business]
 answer: "Treat creator income as a goal, not a hope. Write it as a three-month average from your bank statements, with a number and a deadline. Cross out methods such as views, uploads or going full time. Add a second row for the share your largest client holds, with a line where normal ends. Then rank income as the goal you defend last."
 ---
 

@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 15, The backward move: from the goal to today
 slug: product-launch-plan
-keywords: [product launch plan, new product launch, product launch, product launch template, product launch plan template, launch plan template, launch plan, launch checklist, kickstarter campaign, game launch, product launch failure, kickstarter success rate, new product failure rate]
+keywords: [product launch plan, product launch, product launch template, product launch plan template, launch plan template, launch plan, launch checklist, kickstarter campaign, game launch, product launch failure, kickstarter success rate, new product failure rate]
 answer: "A product launch plan works best written backwards. Write the end state first, months after launch day, with numbers. Tie the launch to a measurable condition, not a wished-for date. Then ask of each row what must be true right before it, until you reach this week. The top row is your first task."
 ---
 

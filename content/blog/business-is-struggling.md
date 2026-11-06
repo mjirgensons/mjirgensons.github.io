@@ -5,7 +5,7 @@ date: 2026-11-06
 updated: 2026-11-06
 chapter: Chapter 4, Error: the main signal that drives decisions
 slug: business-is-struggling
-keywords: [business is struggling, my business is struggling, business in trouble, business going under, business decline, business warning signs, business closure, business failure meaning, what is business decline]
+keywords: [business is struggling, my business is struggling, business in trouble, business going under, business decline, business warning signs, business failure meaning, what is business decline]
 answer: "When a business is struggling, the signs are rarely loud. They are gaps: a reserve below its goal, a margin under target, regulars thinning out. Make them visible. For each goal, subtract the goal from the measured value, then set three zones in advance: normal, acceptable, emergency. A gap that crosses the red line is your signal to act."
 ---
 
