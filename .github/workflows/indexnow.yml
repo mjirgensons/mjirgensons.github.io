@@ -1,6 +1,8 @@
 name: IndexNow ping
-# After each push to main, wait for GitHub Pages to deploy, then send every sitemap URL
-# to IndexNow (Bing, Yandex, Seznam, Naver). Free; the key file lives in docs/.
+# After each push to main, wait for GitHub Pages to deploy, then send ONLY the pages that
+# changed in this push to IndexNow (Bing, Yandex, Seznam, Naver). Bing asks for new or
+# changed URLs only: resending the whole sitemap on every deploy lowers trust.
+# A manual run (workflow_dispatch) still sends the whole sitemap once. The key file lives in docs/.
 on:
   push:
     branches: [main]
@@ -11,19 +13,45 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Wait for Pages deploy
         run: sleep 120
-      - name: Send sitemap URLs to IndexNow
+      - name: Send changed URLs to IndexNow
+        env:
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
         run: |
           python3 - <<'PY'
-          import json, re, urllib.request
+          import json, os, re, subprocess, urllib.request
           key = "3f5573082a047d7fd044b24d1fd40f67"
-          urls = re.findall(r"<loc>([^<]+)</loc>", open("docs/sitemap.xml").read())
+          site = "https://mjirgensons.github.io/"
+          sitemap = set(re.findall(r"<loc>([^<]+)</loc>", open("docs/sitemap.xml").read()))
+          before = os.environ.get("BEFORE", "")
+          if os.environ.get("EVENT") == "workflow_dispatch" or not before or set(before) == {"0"}:
+              urls = sorted(sitemap)
+          else:
+              diff = subprocess.run(["git", "diff", "--name-only", before, os.environ["AFTER"], "--", "docs/"],
+                                    capture_output=True, text=True)
+              if diff.returncode != 0:
+                  print("git diff failed, nothing sent:", diff.stderr.strip())
+                  raise SystemExit(0)
+              urls = set()
+              for f in diff.stdout.split():
+                  if f.endswith("/index.html") or f == "docs/index.html":
+                      u = site + f[len("docs/"):-len("index.html")]
+                      if u in sitemap:
+                          urls.add(u)
+              urls = sorted(urls)
+          if not urls:
+              print("IndexNow: no changed pages, nothing sent")
+              raise SystemExit(0)
           body = json.dumps({"host": "mjirgensons.github.io", "key": key,
                              "keyLocation": f"https://mjirgensons.github.io/{key}.txt",
                              "urlList": urls}).encode()
           req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
                                        headers={"Content-Type": "application/json; charset=utf-8"})
           with urllib.request.urlopen(req) as r:
-              print("IndexNow", r.status, len(urls), "URLs")
+              print("IndexNow", r.status, len(urls), "URLs:", " ".join(urls[:20]))
           PY
