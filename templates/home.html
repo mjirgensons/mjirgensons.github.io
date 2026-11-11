@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ book.full_title }} · by {{ site.author }}{% endblock %}
+{% block title %}Steer, Don't Guess by Martin Jirgenson: Setting Priorities in Business{% endblock %}
 {% block jsonld %}{% include "_bookjsonld.html" %}{% include "_datasetjsonld.html" %}
 <script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"FAQPage","mainEntity":page.faq_jsonld} | tojson }}</script>
 {% endblock %}
