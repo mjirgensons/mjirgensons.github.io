@@ -1,8 +1,8 @@
 ---
-title: "How to prevent AI hallucinations: from 7 in 10 answers to 1 in 120"
-description: "How to prevent AI hallucinations in business advice: five rules that cut answers with an invented fact from 7 in 10 to 1 in 120 in a blind test."
+title: "How to Prevent AI Hallucinations: 5 Rules, Blind-Tested"
+description: "Five rules that stop AI inventing facts in business advice. Blind test: the judge flagged 102 invented facts without them, 1 with them. Free prompt."
 date: 2026-10-30
-updated: 2026-11-05
+updated: 2026-11-14
 chapter: Chapter 16, The electricity we have already switched on; Appendices H, I and J
 slug: how-to-prevent-ai-hallucinations
 keywords: [how to prevent ai hallucinations, ai hallucinations, what is ai hallucinations, ai hallucinations example, stop chatgpt making things up, chatgpt for small business]

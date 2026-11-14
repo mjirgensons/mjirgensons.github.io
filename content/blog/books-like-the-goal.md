@@ -1,8 +1,8 @@
 ---
-title: "Books Like The Goal: What to Read After Goldratt's Classic"
-description: "Books like The Goal, matched to the five steps of the Theory of Constraints: what each one adds, which question it answers, and a ten-minute bottleneck test."
+title: "Books Like The Goal: 5 Reads After Goldratt, One per Step"
+description: "Finished The Goal? Five books that pick up where Goldratt stops, each matched to one Theory of Constraints step, plus a ten-minute bottleneck test."
 date: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-14
 chapter: Chapter 14, One model for every field (How the model differs from familiar approaches)
 slug: books-like-the-goal
 keywords: [books like the goal, books like measure what matters, business books for small business owners, books on goal setting, okr book alternatives, management books for entrepreneurs, what to read after the goal, theory of constraints books, books like the goal goldratt, business novels like the goal]

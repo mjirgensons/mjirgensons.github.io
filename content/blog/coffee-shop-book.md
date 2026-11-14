@@ -1,8 +1,8 @@
 ---
-title: "A Coffee Shop Book That Runs the Shop by the Numbers"
-description: "A coffee shop book built on one owner's year: five numbers at month zero, the bin that ate the margin, a bad month, and the table that changed his Sundays."
+title: "Coffee Shop Book: Run Your Cafe by Five Numbers for a Year"
+description: "One owner, one coffee shop, five numbers: cash, margin, regulars, complaints and his own hours. Copy his month-zero table tonight, free."
 date: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-14
 chapter: Prologue and Appendix F, Andrew's running numbers
 slug: coffee-shop-book
 keywords: [coffee shop book, coffee shop numbers, running a coffee shop by the numbers, coffee shop owner book, practical business books, control theory book, books like rework]
