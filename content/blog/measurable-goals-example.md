@@ -17,7 +17,7 @@ Here is the irony. You can tell to the cent what went through the till yesterday
 
 Below are four lists from four lives: a coffee shop, a freelance designer, a family in deficit and a thirteen-year-old saving for a bike. Each one exposes a different way a goal breaks.
 
-A goal you can't check with one number is a goal you can't steer by. The Jirgenson Model gives you the answer: goals in order, each with a real number, a deadline and a zone where normal ends. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A goal you can't check with one number is a goal you can't steer by. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer: goals in order, each with a real number, a deadline and a zone where normal ends. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What turns a wish into a measurable goal
 
@@ -51,7 +51,7 @@ Alex is thirteen. On 1 May he wants a €300 bicycle by 1 September. He is sure 
 
 The lesson sits in field four. Memory said €55. The count said €40. In September those €15 are the gap between the bike and the shop window.
 
-The usual version, "save up for a bike", has no source and no starting point. The row above takes two minutes to check.
+The usual version, "[save up for a bike](/blog/save-for-a-goal/)", has no source and no starting point. The row above takes two minutes to check.
 
 ## Example 2: the complaint nobody wrote down
 
@@ -80,12 +80,12 @@ Emma and Paul earn €4,000 a month. Last quarter their spending rose by 10%, to
 
 "How long can we last?" sounds like one question. It hides two parameters:
 
-- Expense coverage: savings against one month of spending. About 0.45 months.
-- Runway: savings against the monthly shortfall. 5 months.
+- [Expense coverage](/blog/cash-reserve-months-of-expenses/): savings against one month of spending. About 0.45 months.
+- [Runway](/blog/months-of-runway/): savings against the monthly shortfall. 5 months.
 
 Watch only one and you either panic early or relax too late. Track both.
 
-They took the state from three months of bank statements and priced three scenarios. Change nothing: the savings are gone in 5 months. Cut subscriptions and eating out by €180: about 9 months. Add a €300 side job on top: an €80 surplus each month. They chose the third.
+They took the state from three months of bank statements and [priced three scenarios](/blog/scenario-planning/). Change nothing: the savings are gone in 5 months. Cut subscriptions and eating out by €180: about 9 months. Add a €300 side job on top: an €80 surplus each month. They chose the third.
 
 As a goal row, their main line could read: monthly balance, from the bank statements; now minus €400; target, the €80 surplus.
 
@@ -93,7 +93,7 @@ The lesson sits in field one. Name the exact parameter before you put a target o
 
 ## Example 4: Elena and a permission written in advance
 
-Elena is a freelance designer. Her bank statements show income swinging between €800 and €2,200 a month, averaging €1,300. One client brings 70% of it. She works 50 hours a week.
+Elena is a freelance designer. Her bank statements show income swinging between €800 and €2,200 a month, averaging €1,300. [One client brings 70% of it](/blog/client-concentration-freelancer/). She works 50 hours a week.
 
 | No. | Goal | Now |
 |---|---|---|
@@ -112,8 +112,8 @@ The four examples share one procedure.
 1. Write every goal you have, as it stands today. Nine at most.
 2. Give each a number, a unit and a deadline.
 3. Fill fields four to six for every row. Take today's value from a record.
-4. Strike out five defects. Two goals that cannot both be met. A legal duty written as a goal: taxes on time is a constraint, not a rank. A list that changes every Monday. A lower goal saved at the cost of a higher one. One goal written twice under two names.
-5. Number the rows with the refusal test. If things went badly, which goal would you give up first? The last one standing is number one.
+4. Strike out five defects. [Two goals that cannot both be met](/blog/mutually-exclusive-goals/). A legal duty written as a goal: taxes on time is a constraint, not a rank. A list that changes every Monday. A lower goal saved at the cost of a higher one. One goal written twice under two names.
+5. Number the rows with [the refusal test](/blog/set-priorities-refusal-order/). If things went badly, which goal would you give up first? The last one standing is number one.
 
 "My situation is different." Look again: a shop, a freelancer, a family and a child. Same six fields, different contents.
 
@@ -129,12 +129,12 @@ Each of those months ends at a kitchen table, unsure which bill goes first.
 
 Measurable goals treat the symptom: you stop chasing wishes. The cause of most bad decisions is still there.
 
-Your rows say where normal ends. They do not say where trouble begins, or which row to rescue when three go wrong in one week. And field four is only as honest as its source. Goals are the first part of one loop: goal, state, error, levers, plan, forecast. Two more parts close the gap.
+Your rows say where normal ends. They do not say where trouble begins, or which row to rescue when three go wrong in one week. And field four is only as honest as its source. Goals are the first part of [one loop](https://github.com/mjirgensons/jirgenson-canon): goal, state, error, levers, plan, forecast. Two more parts close the gap.
 
 - **Measuring the state.** One parameter, one source, and a test of whether the figure is precise enough for its goal. Chapter 2.
 - **Zones and the red protocol.** Where yellow turns red for each row, and the order of action when several turn red at once. Chapter 4.
 
-Without them you know your port. You still cannot read the gauge.
+Without them you know your port. You still cannot read the gauge. Both chapters sit in the Kindle edition and the [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

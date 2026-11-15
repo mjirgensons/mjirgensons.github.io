@@ -15,13 +15,13 @@ Emma and Paul did. One sum said their €2,000 covered less than half a month. T
 
 Picture your own version. The bank app shows the balance to the cent. It never shows the one number you need: the month it reaches zero.
 
-Cash that feels safe today can run dry long before you notice. The Jirgenson Model gives you the answer: real numbers, a forecast for more than one scenario and a red line where you act. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Cash that feels safe today can run dry long before you notice. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer: real numbers, a forecast for more than one scenario and a red line where you act. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Months of runway: two numbers, not one
 
 When people ask how many months of runway they have, they mix two questions. Split them.
 
-- **Coverage.** Reserve divided by monthly expenses. How many months of costs you hold if income stopped tomorrow.
+- **Coverage.** [Reserve divided by monthly expenses](/blog/cash-reserve-months-of-expenses/). How many months of costs you hold if income stopped tomorrow.
 - **Time until the money runs out.** Reserve divided by the net monthly outflow, that is, spending minus income. How long the cash lasts at today's pace.
 
 Coverage tells you how thick the cushion is. Runway tells you how fast you are falling onto it.
@@ -49,7 +49,7 @@ Step six turns a number into a statement you can test. "Five months, sooner if s
 
 ## Then run the scenarios
 
-One runway figure tells you where today's habits lead. Two or three tell you what your choices are worth.
+One runway figure tells you where today's habits lead. Two or three tell you [what your choices are worth](/blog/scenario-planning/).
 
 | Scenario | Monthly flow | Runway |
 |---|---|---|
@@ -57,21 +57,21 @@ One runway figure tells you where today's habits lead. Two or three tell you wha
 | Cut subscriptions and eating out by €180 | €220 out | about 9 months |
 | The same cut, plus a €300 side job | €80 in | none: savings grow |
 
-They chose the third. But they started with one lever, the spending cut, so they could see its effect. The side job came a month later.
+They chose the third. But they started with [one lever](/blog/levers-of-control/), the spending cut, so they could see its effect. The side job came a month later.
 
 That is the whole tool. A reserve, a flow, two divisions and a short list of scenarios.
 
 ## Profit is not a runway
 
-Now look at a business that makes money every month. Andrew's coffee shop earns about €30,000 a month at a 9% margin. It adds €2,700 to the reserve each month. By the runway formula, it never runs out.
+Now look at a business that makes money every month. Andrew's coffee shop earns about €30,000 a month at [a 9% margin](/blog/how-to-calculate-profit-margin/). It adds €2,700 to the reserve each month. By the runway formula, it never runs out.
 
-Its coverage tells another story. The reserve is 0.5 months of expenses: €13,650 against monthly costs of €27,300. Andrew's goal is two months, and his red line sits at one.
+Its coverage tells another story. The reserve is 0.5 months of expenses: €13,650 against monthly costs of €27,300. Andrew's goal is two months, and [his red line](/blog/kpi-zones/) sits at one.
 
 Why one month? A month gives him time to negotiate a deferral, find money and make a decision. Below that, there is no time left for any of it.
 
 The same broken coffee machine is a nuisance for a shop with two months of reserve. It is an emergency for a shop with two weeks.
 
-So a profitable business can still stand one bad week from trouble. The habit of reading only the profit line hides that. It is the brake lights of finance: you see the problem when the car in front has already stopped.
+So a profitable business can still stand one bad week from trouble. The habit of reading only the profit line hides that. It is [the brake lights of finance](/blog/lagging-vs-leading-indicators/): you see the problem when the car in front has already stopped.
 
 ## What staying here costs
 
@@ -81,13 +81,13 @@ For Emma and Paul, changing nothing means the savings are gone in five months. S
 
 For Andrew, a 9% margin means the reserve reaches two months only at month 16. With his margin plan working, at month 10. That is six more months of thin cover. During those months, every breakdown worth a tenth of a month of costs pushes his goal back a full month. At a 15% margin, it would cost him about half a month.
 
-And before they ran the numbers, Emma and Paul quarrelled.
+And before they ran the numbers, [Emma and Paul quarrelled](/blog/couples-budget/).
 
 ## "My business is too different for this"
 
 It is not. The formula does not care what you sell. Alex, aged thirteen, used it for a €300 bicycle. On 1 June he had €90. He saved €50 a month and expected €60 from selling his scooter. Three hundred, minus 90, minus 60, divided by 50: three months. That lands exactly on his 1 September deadline.
 
-A family, a coffee shop, a teenager. Three tasks, one formula, different units.
+A family, a coffee shop, a teenager. Three tasks, one formula, different units. The author posts short lessons from the model on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## Where the runway number stops
 
@@ -99,6 +99,8 @@ Two steps close that gap.
 
 - **Two forecasts and control by forecast.** "If nothing changes" against "if the plan works", each with dates. You steer by the future instead of yesterday. Chapters 8 and 9.
 - **Zones and the red protocol.** Where your green, yellow and red lines sit, and what to drop when cash turns red. Chapter 4.
+
+The [paperback](https://www.amazon.com/dp/B0HPCJCWKF) holds the same chapters as the Kindle edition.
 
 Forecasting for small business starts with the two divisions above, then moves to those two lines. For a cash flow forecast example built on the coffee shop's numbers, see [how to forecast cash flow](/blog/forecast-cash-flow/).
 

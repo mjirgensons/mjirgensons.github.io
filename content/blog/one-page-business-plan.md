@@ -11,15 +11,15 @@ answer: "A one page business plan for a goal answers five questions: which lever
 
 "We need to increase profit."
 
-Most business plans start and end with a sentence like that, dressed up in more words. A coffee shop owner named Andrew lived inside that sentence for months. He knew his levers (prices, menu, suppliers, portions), yet he could raise the price of coffee on Monday and find the room empty by Wednesday, or drop a menu item without noticing it was the one his regulars came in for. Pulling the right levers without a plan is roulette with your own business.
+Most business plans start and end with a sentence like that, dressed up in more words. A coffee shop owner named Andrew lived inside that sentence for months. He knew [his levers](/blog/business-levers/) (prices, menu, suppliers, portions), yet he could raise the price of coffee on Monday and find the room empty by Wednesday, or drop a menu item without noticing it was the one his regulars came in for. Pulling the right levers without a plan is roulette with your own business.
 
 What finally changed things was not a thicker plan. It was a thinner one: one page, five questions, for one goal.
 
-A goal without a plan turns every lever into a gamble. The Jirgenson Model fixes that as a control system: goals in order, real numbers, and a one page plan per goal. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A goal without a plan turns every lever into a gamble. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) fixes that as a control system: goals in order, real numbers, and a one page plan per goal. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What a one page business plan is (and is not)
 
-If you came here for a one-page pitch for investors, this is a different tool. This is a one page plan for reaching one specific goal: raise the margin, build a reserve, cut your hours. Every goal gets its own page; together the pages make your overall plan.
+If you came here for a one-page pitch for investors, this is a different tool. This is a one page plan for reaching one specific goal: raise the margin, [build a reserve](/blog/cash-reserve-months-of-expenses/), cut your hours. Every goal gets its own page; together the pages make your overall plan.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the plan for a single goal is called the control concept, and all the plans together form the general concept. Control is defined by two things: a clear order of goals, and clear permissible and impermissible means. If either is undefined, control becomes haphazard.</div>
 
@@ -36,7 +36,7 @@ Here is the template with Andrew's actual answers for his goal: raise the margin
 | 5. Deadline and owner | Who, when is the first check, what result triggers a revision? | Andrew. First check in month two: below 10%, the plan is revised. Final result in month six |
 | Backup lever | What if the first check falls short? | Track and reduce write-offs |
 
-If a question has no answer, what you have is not a plan but a wish, and finding the answer is your next task. Copy the first two columns, write your own goal at the top, and fill in the third.
+If a question has no answer, what you have is [not a plan but a wish](/blog/why-business-plans-fail/), and finding the answer is your next task. Copy the first two columns, write your own goal at the top, and fill in the third. For quick lessons on the same model, see the [YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ## Before and after: the same goal, planned twice
 
@@ -50,15 +50,15 @@ The fairest way to see what the page does is to put it next to the plan most own
 | When to change course | When it feels bad enough | Month two, if margin is under 10% |
 | Plan B | Improvised | Write-offs, decided in advance |
 
-When Andrew reread his page, he saw what had escaped him: before, he had been "trying to increase profit". Now he was doing four concrete things, knew what was off limits and could check whether it was helping.
+When Andrew reread his page, he saw what had escaped him: before, he had been "trying to increase profit". Now he was doing four concrete things, knew what was off limits and could [check whether it was helping](/blog/what-is-a-leading-indicator/).
 
 ## Constraints: the row that protects you from yourself
 
-The third question matters most, and it is the one most plans leave out. A constraint answers: what will I not do, even if it would save the goal? It must be written in advance and in earnest, because in a crisis any means looks acceptable, and whoever has not decided what they will never do ends up doing anything at all.
+The third question matters most, and it is the one most plans leave out. A constraint answers: what will I not do, even if it would save the goal? It must be written in advance and in earnest, because [in a crisis any means looks acceptable](/blog/business-crisis-plan/), and whoever has not decided what they will never do ends up doing anything at all.
 
 What Andrew valued most were his constraints. Cheap beans would have delivered margin within a month and cost him customers within six. And the 5% step limit made the experiment readable: had he raised prices by fifteen per cent on the first Monday "just to be sure", some customers would have left, others would have been confused, and he would never know how much of the drop came from the price.
 
-Constraints from other lives in the book: a freelancer will not email people who have not subscribed; a thirteen-year-old saving for a bicycle will not borrow money or skip school to earn it.
+Constraints from other lives in [the book](https://www.amazon.com/dp/B0HPCJCWKF): a freelancer will not email people who have not subscribed; a thirteen-year-old saving for a bicycle will not borrow money or skip school to earn it.
 
 ## Check that the plan is big enough
 
@@ -78,7 +78,7 @@ The plan passes, with almost no buffer. That is exactly why the first checkpoint
 
 A week later the senior barista spotted a problem: "You write that you'll raise prices. And that you'll launch discount cards. Don't those two contradict each other?" They did. Andrew added a rule: card discounts start only once the margin is at least 14%.
 
-When you have several one-page plans, check them in pairs for contradictions, then put all their resources in one table. Plans that are compatible pair by pair can still claim the same hours and the same money.
+When you have several one-page plans, [check them in pairs for contradictions](/blog/mutually-exclusive-goals/), then put all their resources in one table. Plans that are compatible pair by pair can still claim the same hours and the same money.
 
 ## Where this does not reach
 

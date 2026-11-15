@@ -17,13 +17,13 @@ Picture your own Monday. Coffee, a long table, everyone's view of last week. An 
 
 Here is the irony. The meeting about the numbers is the one place where nobody looks at the numbers. The loudest voice sets the agenda, and opinion fills the hour.
 
-The answer to that comes from the Jirgenson Model: four meetings, each with one question and one sheet to read. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+The answer to that comes from the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model): four meetings, each with one question and one sheet to read. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What a meeting cadence is
 
 A meeting cadence, or operating rhythm, is the fixed schedule of recurring meetings in a business. It says which meeting happens how often, who comes and what it decides.
 
-The idea is not new. EOS, the Entrepreneurial Operating System that Gino Wickman describes in *Traction*, is known for its meeting rhythm for small businesses. The Jirgenson Model keeps the rhythm and adds the reason behind each meeting: which part of the control loop it watches.
+The idea is not new. EOS, the Entrepreneurial Operating System that Gino Wickman describes in *Traction*, is known for its meeting rhythm for small businesses. The Jirgenson Model keeps the rhythm and adds the reason behind each meeting: which part of [the control loop](/blog/control-cycle-management/) it watches.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> meetings are stage six of the full control cycle: observe and coordinate. Each meeting looks at one layer of the system, at that layer's own speed, and answers one question. A meeting with no question is a conversation.</div>
 
@@ -54,21 +54,21 @@ The Monday meeting is where the hour goes, so fix it first. Andrew's first Monda
 
 That is the weekly review template. Three questions, three sources, one short list.
 
-The till answered the first question, the colours the second, the list the third. Everything they used to argue over now sat on the screen.
+The till answered the first question, [the colours](/blog/traffic-light-dashboard/) the second, the list the third. Everything they used to argue over now sat on the screen.
 
 A month in, the Monday briefing took fifteen minutes. It used to take an hour.
 
 Three rules keep it that short:
 
 1. **Open the sheet before anyone speaks.** The first voice in the room belongs to the till.
-2. **Talk about red and yellow rows only.** Green rows get no airtime.
+2. **Talk about red and yellow rows only.** [Green rows get no airtime](/blog/kpi-zones/).
 3. **End with names.** Every action on the list has an owner and a day.
 
 ## The monthly business review template
 
-Slow numbers move too little in a week to read. The cash reserve in months and the margin get their look once a month.
+Slow numbers move too little in a week to read. [The cash reserve in months](/blog/cash-reserve-months-of-expenses/) and the margin get their look once a month.
 
-The monthly review puts two lines next to the real figure. One line shows where the plan says you should be. The other shows where you would be if nothing changed.
+The monthly review puts two lines next to the real figure. One line shows where the plan says you should be. The other shows [where you would be if nothing changed](/blog/forecast-cash-flow/).
 
 | Month | Plan line, reserve in months | "Change nothing" line |
 |---|---|---|
@@ -92,7 +92,7 @@ A plan review also runs when the forecast breaks. Andrew's hardest one came afte
 | Prices +5% | 15% | 2.27 months |
 | Prices +5% and a part-time barista | 13.5% | 2.18 months |
 
-All three reach the two-month goal. The review is where you see the difference in room for error, and choose with numbers instead of mood.
+All three reach the two-month goal. The review is where you see the difference in room for error, and [choose with numbers instead of mood](/blog/gut-feeling-vs-numbers-business/).
 
 ## The goal review, and when the cadence changes
 
@@ -100,7 +100,7 @@ Once or twice a year, the question turns to the goals themselves. Are they still
 
 Andrew's reserve passed 2.0 months at month 11 and stayed there at month 12: 2.09, then 2.27. Once it holds for three months in a row, that goal moves into maintenance mode. Its meeting slows down: a monthly check instead of a weekly one. The hours it used to take go to the next goal.
 
-The rhythm speeds up too. In a cash crisis, the bank balance gets a daily look. A cadence is a starting frame, not a law. The speed of the number sets it.
+The rhythm speeds up too. [In a cash crisis](/blog/business-crisis-what-to-do-first/), the bank balance gets a daily look. A cadence is a starting frame, not a law. The speed of the number sets it.
 
 ## One on one meetings: the same sheet, two people
 
@@ -121,7 +121,7 @@ Then the hours. An hour every Monday against fifteen minutes is 45 minutes a wee
 
 Then the human cost. The owner without a cadence learns about the problem from the bank.
 
-"We're too small for meetings." Andrew's meeting was two people and a shared sheet. The till sent a weekly export. No software, no consultants.
+"We're too small for meetings." Andrew's meeting was two people and a shared sheet. The till sent a weekly export. No software, no consultants. The full model text is free to read on GitHub, in [the Jirgenson canon](https://github.com/mjirgensons/jirgenson-canon).
 
 ## Where the cadence stops
 
@@ -134,7 +134,7 @@ Two steps close that gap:
 - **Zone thresholds and the red protocol.** Where each number turns yellow and red. And the order of action when several rows go red in one week. Chapter 4.
 - **Control by forecast.** The three ways to steer, by plan, by deviation and by forecast, and how the Monday meeting acts before the damage. Chapter 9.
 
-Without them, the cadence tells you when to meet. It does not yet tell you what each colour means, or what is coming next month.
+Without them, the cadence tells you when to meet. It does not yet tell you what each colour means, or what is coming next month. You will find both chapters in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well as on Kindle.
 
 The calendar is the heartbeat of the whole loop: goal, state, gap, levers, plan, forecast, each reviewed at its own speed. How often each single number needs a look is its own small calculation, set out in [how often to review KPIs](/blog/how-often-to-review-kpis/).
 

@@ -11,25 +11,25 @@ answer: "Before you sign a personal guarantee business loan, write down what you
 
 <strong>When a young business hits trouble, two out of three owners pour in their own money.</strong>
 
-It starts small. The account is short for the third month, so you move money from the family savings. Only until next month. Then the bank sends a form, and one line asks for your personal guarantee.
+It starts small. The account is short for the third month, so you move money from the family savings. Only until next month. Then the bank sends a form, and one line asks for [your personal guarantee](/blog/personal-guarantee/).
 
 Here is the irony. You compared three quotes before you bought a coffee machine. The signature that puts your own money behind the business debt gets four minutes and a borrowed pen.
 
 The problem isn't the loan. It's that nobody decided, in a calm week, what the business is never allowed to take.
 
-The risk isn't the form, it's signing before you've named what's off limits. The Jirgenson Model answers that as a control system: constraints first, then goals in order. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+The risk isn't the form, it's signing before you've named what's off limits. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) answers that as a control system: constraints first, then goals in order. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Owner loan to business: write four layers before the transfer
 
-Don't move another euro until one sheet exists. It answers one question: what will I defend, and in what order? Here is the whole tool, filled in with Andrew's coffee shop. A queue forms there every morning, and the money vanishes by the end of each month.
+Don't move another euro until one sheet exists. It answers one question: what will I defend, and in what order? Here is the whole tool, filled in with Andrew's coffee shop. A queue forms there every morning, and [the money vanishes by the end of each month](/blog/busy-but-not-profitable/).
 
 **1. Write the constraints first.** A constraint answers one question. What will I not do, even if it would save the goal? The law, safety, contracts and the most load a person can bear all sit here. They are never given up in turn. They decide which actions are allowed at all.
 Andrew: never lower the quality of the beans; never delay wages. Paying taxes on time sits here too.
 
 **2. Write the minimum levels.** Below them, the result is no longer viable.
-Andrew drew his red line for the reserve at one month of expenses. Below a month he has no time left to negotiate, find money and decide.
+Andrew drew [his red line](/blog/kpi-zones/) for the reserve at one month of expenses. Below a month he has no time left to negotiate, find money and decide.
 
-**3. Write the goals, with numbers and deadlines.** Work through six areas: finance, clients, sales, processes and quality, people, and development and owner. The last area covers your own time, health and money. It is the one most often forgotten. Keep no more than nine rows.
+**3. Write the goals, with numbers and deadlines.** Work through [six areas](https://github.com/mjirgensons/jirgenson-canon): finance, clients, sales, processes and quality, people, and development and owner. The last area covers your own time, health and money. It is the one most often forgotten. Keep no more than nine rows.
 
 | No. | Goal | Value | Deadline |
 |---|---|---|---|
@@ -41,7 +41,7 @@ Andrew drew his red line for the reserve at one month of expenses. Below a month
 
 M0 is today; M6 is six months from now.
 
-**4. Run the refusal test.** Suppose circumstances force you to give up your goals one at a time. Which goes first? Which is the last one left? The last one gets number one.
+**4. Run the refusal test.** Suppose circumstances force you to [give up your goals one at a time](/blog/set-priorities-refusal-order/). Which goes first? Which is the last one left? The last one gets number one.
 Andrew stared at his own hours for a long time, then put them last. He would defend the reserve to the end: without it the shop closes, and nothing else matters.
 
 **5. Write the rule for whatever is left.** Spare money and hours go by urgency, risk and cost. Not by who asks loudest.
@@ -64,9 +64,9 @@ Ask three things before the meeting:
 
 1. Is the family home on my constraint list? If yes, a plan that needs the house behind it breaks a constraint. The constraint wins.
 2. Which goal does this loan serve? Write its row number. A loan with no row is a method looking for a reason.
-3. Which levers can I pull myself, today, before I borrow?
+3. Which [levers can I pull myself](/blog/levers-of-control/), today, before I borrow?
 
-Andrew's answer to the third question was a margin plan, not a loan. He dropped the two most loss-making items and reworked three low-margin recipes. He signed a new milk contract and planned a 5% price rise in month 2. At the first check, the margin stood at 10.5%, up from 9%. Money came from inside the shop.
+Andrew's answer to the third question was [a margin plan](/blog/one-page-business-plan/), not a loan. He dropped the two most loss-making items and reworked three low-margin recipes. He signed a new milk contract and planned a 5% price rise in month 2. At the first check, the margin stood at 10.5%, up from 9%. Money came from inside the shop.
 
 That is no promise the same levers exist in your business. It is a reason to list yours first.
 
@@ -101,7 +101,7 @@ The usual way decides under pressure. The layers decide in a calm week, and the 
 
 Run the "change nothing" numbers before the next transfer.
 
-Emma and Paul's family budget was €400 short every month. Their savings stood at €2,000. If nothing changed, the savings would run out in five months. With a €180 cut in subscriptions and eating out, about nine months. With a €300 side job added, the savings grew again.
+Emma and Paul's [family budget was €400 short every month](/blog/household-budget-deficit/). Their savings stood at €2,000. If nothing changed, the savings would run out in five months. With a €180 cut in subscriptions and eating out, about nine months. With a €300 side job added, the savings grew again.
 
 Andrew's shop shows the business side. At a 9% margin instead of 15%, on €30,000 of monthly revenue, he loses €1,800 of profit a month. If nothing changes, his reserve reaches two months of expenses at month 16. With the margin plan working, at month 10. That is six extra months where one breakdown pushes the goal back by about a month.
 
@@ -124,7 +124,7 @@ Two further steps deal with it:
 - **Two forecasts.** "If nothing changes" set against "if the plan works". They show whether the loan buys a recovery or only time. Chapter 8.
 - **The backward move.** From the goal back to today, step by step, so each loan, partner or profit has a place and a date. Chapter 15.
 
-Without them, the layers protect the house. They don't yet tell you how to get the business out of the hole.
+Without them, the layers protect the house. They don't yet tell you how to get the business out of the hole. Chapters 8 and 15 sit in the Kindle edition, and in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) for readers who want print.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

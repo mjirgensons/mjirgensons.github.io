@@ -11,7 +11,7 @@ answer: "A new product launch can break in three places before any work starts. 
 
 <strong>Nearly six out of ten Kickstarter campaigns miss their goal. One in eleven doesn't get a single backer.</strong>
 
-It didn't have to be that way for all of them. Some of those campaigns might have reached their goal, or waited for a better day, if their makers had steered with a control system. With the Jirgenson Model in hand, that number could look different.
+It didn't have to be that way for all of them. Some of those campaigns might have reached their goal, or waited for a better day, if their makers had steered with a control system. With the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) in hand, that number could look different.
 
 Picture the week before your new product launch. The page is ready. The video is cut. Friends have promised to share it. And somewhere in the plan sits one number you never checked against anything but hope.
 
@@ -19,7 +19,7 @@ The absurd part: a maker can spend a week choosing the colour of a button. The q
 
 ## Kickstarter campaign: is your starting point real?
 
-Every plan can break in three places before work begins. The model calls them the three offsets: the goal, the starting point and the environment. A campaign that opens to an empty room may have broken at the second.
+Every plan can break in three places before work begins. The model calls them [the three offsets](https://github.com/mjirgensons/jirgenson-canon): the goal, the starting point and the environment. A campaign that opens to an empty room may have broken at the second.
 
 A man lost in a large building sees an open window and decides it's the way out. The window is on the tenth floor. His strategy was fine. His sense of where he stood was wrong.
 
@@ -29,7 +29,7 @@ Elena, a freelance designer, believed she earned about €2,000 a month, because
 
 What to do: write each starting number of your launch next to its source. Sign-ups, not likes. Money in the account, not money promised.
 
-How to avoid an empty launch day: ask of every starting figure whether it matches the data in the systems. If it is only an impression, measure first. Set the goal after.
+How to avoid an empty launch day: ask of every starting figure whether it matches the data in the systems. If it is only an impression, [measure first](/blog/gut-feeling-vs-numbers-business/). Set the goal after.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> an offset is a shift of one of the plan's anchor points away from reality. The anchor points are the goal, the starting point and the environment. Each offset breaks a plan before work starts, and each one can be spotted in advance.</div>
 
@@ -41,7 +41,7 @@ The entries come from Andrew and his coffee shop on the corner. In his seventh m
 
 ### 1. The goal: can every target hold at once?
 
-Ask: does my list hold goals that cannot be met at the same time?
+Ask: does my list hold [goals that cannot be met at the same time](/blog/mutually-exclusive-goals/)?
 
 Andrew had two goals in his head: "no more than 40 hours a week" and "open a second location". He was working 48 hours a week. The launch would add about 15 more for the first three months. 48 + 15 = 63, and 63 is not 40.
 
@@ -51,11 +51,11 @@ Effort can't close that gap. Sequence can. The second location would become a go
 
 Ask: do my starting figures come from the data, or from my impression?
 
-Andrew had once believed his margin was twenty per cent. The accounts said 9%.
+Andrew had once believed his margin was twenty per cent. [The accounts said 9%](/blog/how-to-calculate-profit-margin/).
 
 ### 3. The environment: is the world around the launch growing or fading?
 
-Ask: is the larger system the launch lives in growing or declining?
+Ask: is [the larger system](/blog/external-factors-business/) the launch lives in growing or declining?
 
 Andrew looked at his neighbourhood. A university building was going up nearby. No guarantee, but the current ran his way.
 
@@ -83,7 +83,7 @@ That is offset (a): two goals that pull apart. Each one is reachable alone. Toge
 
 Andrew tested one such pair. Cut prices by 10% to be the cheapest on the street, and still hold a 15% margin. The arithmetic said customer numbers would have to rise by 31%. If his room could take no more than 10% more, one goal had to go before work began.
 
-What to do: put your launch goals side by side and test each pair. Price against margin. Launch date against quality. Launch hours against the day job. Where two clash, set the order: first one, then the other.
+What to do: put your launch goals side by side and test each pair. Price against margin. Launch date against quality. Launch hours against the day job. Where two clash, [set the order](/blog/set-priorities-refusal-order/): first one, then the other.
 
 How to avoid a launch that can't pay its own fee: find the contradiction on paper, where it costs a pencil.
 
@@ -103,7 +103,7 @@ Footfall had fallen for the third year running. The anchor tenant had left. Andr
 
 What to do: before you pick a shelf, a platform or a channel, ask four questions. Has the decline lasted several periods in a row? Are the strongest players leaving? Do the economics add up in at least one niche? What would it cost to leave by mistake?
 
-How to avoid the lost shelf spot: run the Titanic test on the place, not only on the product. A fading system needs a different place, format or goal.
+How to avoid the lost shelf spot: run the Titanic test on the place, not only on the product. A fading system needs [a different place, format or goal](/blog/when-to-pivot-small-business/).
 
 ## New product launch: two Mondays
 
@@ -115,11 +115,11 @@ The checked Monday asks: can our goals hold together? Do our numbers come from t
 
 The first Monday checks the work. The second checks the ground under the work.
 
-This is one piece of a loop: goal, state, error, levers, plan, forecast. The three offsets test the anchor points of that loop before money goes in.
+This is one piece of [a loop](/blog/control-cycle-management/): goal, state, error, levers, plan, forecast. The three offsets test the anchor points of that loop before money goes in.
 
 "I'm launching a game, not opening a café." The check doesn't care what you sell. Alex, thirteen, ran offset (a) on his summer. Unlimited gaming and odd jobs for the neighbours couldn't both fit into June's two free evenings a week. He capped gaming at ten hours a week, and his bicycle fund kept its place.
 
-One plain fact about the method. The Jirgenson Model is scientifically proven to work ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). It is new, so it came too late for the makers behind these numbers. It isn't too late for your launch.
+One plain fact about the method. The Jirgenson Model is scientifically proven to work ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). It is new, so it came too late for the makers behind these numbers. It isn't too late for your launch. The blind test data sit openly on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test).
 
 ## What a skipped check costs
 
@@ -142,7 +142,7 @@ Two steps close that gap:
 - <strong>The tolerance corridor.</strong> How far a launch may stray from its planned path, in value and in time, before you return or stop. Chapter 10.
 - <strong>The seven steps of entering control.</strong> What to do when the supplier, the machine and the team fail in the same week. Chapter 12.
 
-Without them, the check tells you the ship is sound. It doesn't steer it through the storm.
+Without them, the check tells you the ship is sound. It doesn't steer it through the storm. Both chapters are printed in the [paperback edition](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

@@ -13,11 +13,11 @@ Andrew's two goals fitted on one line of paper. They did not fit into one week.
 
 "No more than 40 hours a week." "Open a second location." He already worked 48 hours. The launch would add 15 more, every week, for three months. That makes 63 hours against a ceiling of 40.
 
-Now look at your own list for next quarter. Every line is sensible. Grow sales. Cut your hours. Keep the cash. Hire nobody. Each Monday one of them slips, and you blame your discipline.
+Now look at your own list for next quarter. Every line is sensible. Grow sales. Cut your hours. Keep the cash. Hire nobody. [Each Monday one of them slips](/blog/too-many-goals/), and you blame your discipline.
 
 You bought the planner, the habit app and the course on focus. The fault sat in a sum nobody did.
 
-Goals that clash on paper will clash every Monday, and no amount of discipline fixes the sum. The Jirgenson Model gives you the answer: goals in an order you set in advance, tested with real numbers before any plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Goals that clash on paper will clash every Monday, and no amount of discipline fixes the sum. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer: goals in an order you set in advance, tested with real numbers before any plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What mutually exclusive goals are
 
@@ -37,7 +37,7 @@ Take a sheet of paper. There are four steps. Each one sits next to a real case f
 
 ### 1. Put a number on every goal
 
-A goal needs a number, a unit and a deadline. "Fewer hours" cannot clash with anything, because nobody can check it. "No more than 40 hours a week by month 12" can.
+[A goal needs a number, a unit and a deadline](/blog/how-to-set-measurable-goals/). "Fewer hours" cannot clash with anything, because nobody can check it. "No more than 40 hours a week by month 12" can.
 
 Andrew's entries: owner's time, at most 40 hours a week. Second location: 15 extra hours a week for the three launch months.
 
@@ -57,7 +57,7 @@ Take two goals that draw on the same hours, money or capacity. Add their demands
 | Sales up 50% and no new capital | Raw materials for half as much again | Credit fully drawn | Exclusive |
 | Alex's bicycle fund and unlimited games | His odd jobs need evenings | Two free evenings a week from June | Exclusive |
 
-If the total fits under the limit, the goals only compete, and the refusal order settles them. If it breaks the limit, you have found a pair that cannot both exist.
+If the total fits under the limit, the goals only compete, and [the refusal order](/blog/set-priorities-refusal-order/) settles them. If it breaks the limit, you have found a pair that cannot both exist.
 
 ### 4. Pick one of four exits
 
@@ -65,10 +65,10 @@ Choose before any work begins. The goal you would give up first is the one that 
 
 - **Drop**. Remove one goal. The warehouse company cannot have "sales up 50%" and "no new capital" together, so one of the two goes.
 - **Cap**. Shrink one goal until the sum fits. Alex, thirteen, kept football and the bicycle and capped games at ten hours a week.
-- **Sequence**. One goal first, the other after. Andrew made the second location wait until his reserve held at two months for three months in a row. Then he would revisit his hours on purpose, not by default.
+- **Sequence**. One goal first, the other after. Andrew made the second location wait until [his reserve](/blog/cash-reserve-months-of-expenses/) held at two months for three months in a row. Then he would revisit his hours on purpose, not by default.
 - **Condition**. Tie one action to a number. The same trap hides one level down, in plans. Sara noticed that one plan raised prices while another launched discount cards. Andrew added a line: card discounts start once the margin reaches at least 14%.
 
-That is the whole test. Numbers, limits, one sum per pair, one exit.
+That is the whole test. Numbers, limits, one sum per pair, one exit. The same five goal defects are listed in the open [Jirgenson canon](https://github.com/mjirgensons/jirgenson-canon).
 
 ## Usual way, arithmetic way
 
@@ -91,7 +91,7 @@ Start with money. Andrew's margin plan needs four hours of his week and Sara's h
 
 The margin feeds the cash reserve. At 9%, the reserve climbs from half a month to two months by month 16. With the plan working, it gets there by month 10. A clash that eats those four hours puts the plan at risk and the shop back on the slow line. At 9% margin, one breakdown also costs a full month of progress. At 15% it costs about half.
 
-Then the human cost. In his first months Andrew worked sixty-five hours a week. His worst mistakes came late at night: mixed-up figures, a delayed supplier call, wrong deadlines.
+Then the human cost. In his first months Andrew worked sixty-five hours a week. [His worst mistakes came late at night](/blog/decision-fatigue-small-business/): mixed-up figures, a delayed supplier call, wrong deadlines.
 
 The enemy here is the advice to try harder. It sounds noble. It turns a sum into a guilt trip and sends a tired owner back into the same impossible week.
 
@@ -101,12 +101,12 @@ Be clear about what the test does. It treats a symptom: a goal list that cannot 
 
 Plans are never checked against one shared budget of hours and money. And the starting numbers the sums rest on may be wrong.
 
-This is one step of a system. The loop runs goal, state, error, levers, plan, forecast, and this test cleans only the first link. Two further steps close the gap.
+This is one step of a system. [The loop](/blog/control-cycle-management/) runs goal, state, error, levers, plan, forecast, and this test cleans only the first link. Two further steps close the gap.
 
 - **One resource table for every plan**. Plans that pass pair by pair can still claim the same hours and the same money together. The pair test cannot see that. Chapter 6 holds the method.
-- **The other two offsets**. A starting point you have measured wrong, and an environment that is going under. Either one breaks a plan before work begins, even with a clean goal list. Chapter 11 holds the checks.
+- **The other two offsets**. A starting point you have measured wrong, and [an environment that is going under](/blog/external-factors-business/). Either one breaks a plan before work begins, even with a clean goal list. Chapter 11 holds the checks.
 
-Without them, you stop chasing an impossible pair. You do not yet know whether the possible plan can be paid for.
+Without them, you stop chasing an impossible pair. You do not yet know whether the possible plan can be paid for. Chapters 6 and 11 also come in [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

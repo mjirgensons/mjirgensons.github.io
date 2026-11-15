@@ -13,19 +13,19 @@ answer: "Before you sign a personal guarantee, find out what is pushing the busi
 
 It didn't have to be two out of three. Those owners cared enough to bet their savings. Some might have kept them by first asking what was pushing the business. A control system steers against exactly that.
 
-Picture a slow month. Sales are down. First you ask yourself what you did wrong. Then you ask how much you can move from the family account. Neither question asks what is acting on the business.
+Picture a slow month. Sales are down. First you ask yourself what you did wrong. Then you ask how much you can move from the family account. Neither question asks [what is acting on the business](/blog/external-factors-business/).
 
 The irony: you spend a weekend comparing prices for a new oven. The cause of a bad quarter gets one guess, and then a transfer.
 
 Your money isn't the problem. Pouring it in blind is.
 
-The control system here is the Jirgenson Model. It is scientifically proven to work ([Zenodo record](https://doi.org/10.5281/zenodo.23964934)). It is new, so it could not help the owners behind these numbers. Now it can help yours.
+The control system here is the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model). It is scientifically proven to work ([Zenodo record](https://doi.org/10.5281/zenodo.23964934)). It is new, so it could not help the owners behind these numbers. Now it can help yours.
 
 ## Owner loan to business: money refills the tank, not the wind
 
 Picture a yacht that has to sail due north. A crosswind pushes it ten degrees east. Hold a heading of zero, and the yacht lands off to one side.
 
-A good helmsman notices the drift and steers 350 degrees. The wind pushes ten degrees off, the correction cancels it, and the yacht sails north. He doesn't flail at the oars. He picks the right lever and sets it against what pushes him.
+A good helmsman notices the drift and steers 350 degrees. The wind pushes ten degrees off, the correction cancels it, and the yacht sails north. He doesn't flail at the oars. He picks [the right lever](/blog/levers-of-control/) and sets it against what pushes him.
 
 A transfer from your savings is more rowing. It doesn't touch the wind.
 
@@ -56,9 +56,9 @@ Elena, a freelance designer, ran this list for her first online book. Here are h
 
 Her levers sit in her plan: what her sales page says, her mailing list, letters to former clients. Her constraint covers the third row: do not undercut on price. A lack of knowledge is a factor; training is a lever.
 
-Alex, thirteen, is saving for a €300 bicycle. In July the neighbours go away, so odd jobs dry up. He allowed for it in advance, with a spare lever: selling his scooter.
+Alex, thirteen, is [saving for a €300 bicycle](/blog/save-for-a-goal/). In July the neighbours go away, so odd jobs dry up. He allowed for it in advance, with a spare lever: selling his scooter.
 
-Now strength. Measure it in money, the way it hits a coffee shop. Andrew's supplier raised prices by 8%. On €9,000 of ingredients a month, that is €720 more in costs, or 2.4 points of margin on €30,000 of revenue. A price rise of 2.4% makes up the lost profit. That sits inside Andrew's own limit of 5% in a single step. The lever is stronger than the factor.
+Now strength. Measure it in money, the way it hits a coffee shop. Andrew's supplier raised prices by 8%. On €9,000 of ingredients a month, that is €720 more in costs, or [2.4 points of margin](/blog/margin-vs-markup/) on €30,000 of revenue. A price rise of 2.4% makes up the lost profit. That sits inside Andrew's own limit of 5% in a single step. The lever is stronger than the factor.
 
 Had the supplier raised prices by 30%, the factor would have come to €2,700 a month. Making up the profit would take 9% on prices, and some customers would leave. The lever is weaker than the factor.
 
@@ -95,11 +95,11 @@ How to avoid signing blind: finish the list before the bank meeting, while you c
 
 Some of those lost years might have been spared. A factor that is too strong is easier to escape while there is still money to turn with.
 
-Sometimes a single factor outweighs everything you can bring to bear. The whole industry is in decline, and your business is one part of it. Then no process inside the business will help. You are rowing a heavy raft against the current, and the current carries you downstream all the same. The model calls this offset (c).
+Sometimes a single factor outweighs everything you can bring to bear. The whole industry is in decline, and your business is one part of it. Then no process inside the business will help. You are rowing a heavy raft against the current, and the current carries you downstream all the same. The model calls this [offset (c)](https://github.com/mjirgensons/jirgenson-canon).
 
-There is no point fighting such a factor. Go with the current, or change rivers.
+There is no point fighting such a factor. Go with the current, or [change rivers](/blog/when-to-pivot-small-business/).
 
-Spot it early. A factor stronger than you, seen in month two, is a turn. Seen in month twenty, it is a court date.
+Spot it early. A factor stronger than you, seen in month two, is a turn. Seen in month twenty, it is [a court date](/blog/business-closure/).
 
 How to avoid the floor: once a month, reread your factor list. Ask of the strongest row one question: is my best lever still bigger?
 
@@ -136,7 +136,7 @@ If you need a line around what you will never risk, start there: [draw that line
 
 ## Where the factor list stops
 
-The list is one link of the loop that runs from goal to state, error, levers, plan and forecast. On its own, it treats a symptom. You stop throwing money at causes you haven't named.
+The list is one link of [the loop](/blog/control-cycle-management/) that runs from goal to state, error, levers, plan and forecast. On its own, it treats a symptom. You stop throwing money at causes you haven't named.
 
 The cause behind the cause remains. The list shows factors you can already see. It doesn't spot the pothole before you hit it. And it can't prove whether a factor is too strong for your whole plan.
 
@@ -145,7 +145,7 @@ Two further steps deal with that.
 - **Recognizing factors before they strike.** How to foresee a factor, and who in the business does the foreseeing. Chapter 8.
 - **The Titanic test.** The check for a factor stronger than any plan you could write, so you know when to change rivers. Chapter 11.
 
-Without them, the list explains last month. It doesn't yet warn you about the next one.
+Without them, the list explains last month. It doesn't yet warn you about the next one. Both chapters also come in print, as a [paperback on Amazon](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

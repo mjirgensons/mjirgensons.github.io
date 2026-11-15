@@ -13,9 +13,11 @@ OKRs are a brilliant invention. Andy Grove built them at Intel, John Doerr carri
 
 So why do so many small businesses try OKRs, love the first quarterly workshop and quietly drop them by the second? Not because the idea is wrong. Because a ten-person company, or a one-person one, hits the questions OKRs were never designed to answer. Which key result wins when two of them pull against each other? At what point is a number bad enough to drop everything? And on a tired Thursday, what exactly do I *do*?
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## OKR for small business: the same goals, written twice
 
-The fairest way to compare is to take one real set of goals and write it both ways. Elena is a freelance designer. Her income swings between €800 and €2,200 a month, one client brings in 70% of it, and she works fifty hours a week. She is also preparing her first online book.
+The fairest way to compare is to take one real set of goals and write it both ways. Elena is a freelance designer. Her income swings between €800 and €2,200 a month, [one client brings in 70% of it](/blog/client-concentration-freelancer/), and she works fifty hours a week. She is also preparing her first online book.
 
 Here are her goals as a standard OKR (an illustration of the format, built from her real numbers):
 
@@ -43,15 +45,15 @@ Look at the fourth row. The OKR says "in progress". The goal vector says the mos
 
 Elena's third key result says 35 hours. Writing the book needs more. In an OKR, that is a silent conflict: either she breaks KR3 and feels she is failing, or she protects it and the book never gets written.
 
-The goal vector settles it in advance. Hours sit at the bottom of the order, the first thing she would give up. So the overtime is not a lapse; it is a decision made in a calm hour, with a limit (55) and an end date (month three). When the long weeks come, there is nothing to argue about. This is the refusal order, and it is the single biggest addition. If the idea is new to you, the difference between goals that merely compete and goals that genuinely cannot coexist is worked through in [competing priorities vs conflicting goals](/blog/competing-priorities-conflicting-goals/).
+The goal vector settles it in advance. Hours sit at the bottom of the order, the first thing she would give up. So the overtime is not a lapse; it is a decision made in a calm hour, with a limit (55) and an end date (month three). When the long weeks come, there is nothing to argue about. This is [the refusal order](/blog/set-priorities-refusal-order/), and it is the single biggest addition. If the idea is new to you, the difference between goals that merely compete and goals that genuinely cannot coexist is worked through in [competing priorities vs conflicting goals](/blog/competing-priorities-conflicting-goals/).
 
 ### 2. Zones that tell you when to move
 
-An OKR is graded at the end of the quarter. A small business cannot wait a quarter to learn that its biggest client has become 70% of revenue. Three zones per number (normal, acceptable, emergency) turn every key result into an early warning. Green means leave it alone, which matters more than it sounds: fixing what works is management's most common sin. Red triggers a protocol: freeze secondary work, put time and money on the red number and the levers that act on it, and if several numbers are red, deal first with the one that threatens the most imminent irreversible damage.
+An OKR is graded at the end of the quarter. A small business cannot wait a quarter to learn that its biggest client has become 70% of revenue. [Three zones per number](/blog/kpi-zones/) (normal, acceptable, emergency) turn every key result into an early warning. Green means leave it alone, which matters more than it sounds: fixing what works is management's most common sin. Red triggers a protocol: freeze secondary work, put time and money on the red number and the levers that act on it, and if several numbers are red, deal first with the one that threatens the most imminent irreversible damage.
 
 ### 3. Levers, not just results
 
-"Largest client no more than 30%" is a result. You cannot pull a result. You can raise package prices, write to former clients, open two new channels and publish a book. Naming the levers is what turns a key result into a Monday task, and it is where most OKR initiatives stay vague.
+"Largest client no more than 30%" is a result. You cannot pull a result. You can raise package prices, write to former clients, open two new channels and publish a book. [Naming the levers](/blog/business-levers/) is what turns a key result into a Monday task, and it is where most OKR initiatives stay vague.
 
 ## How it turned out
 
@@ -61,9 +63,9 @@ Every key result met. But notice what got her there: a weekly look at the number
 
 ## OKR vs balanced scorecard, and where each fits
 
-Since this question usually comes next: the Balanced Scorecard (Kaplan and Norton) asks you to look at a business from several sides, finance, customers, internal processes, learning and growth. OKRs focus you on a few goals for the period with measurable results. They answer different questions, and both are strong.
+Since this question usually comes next: the Balanced Scorecard (Kaplan and Norton) asks you to look at a business from several sides, finance, customers, internal processes, learning and growth. OKRs focus you on a few goals for the period with measurable results. They answer different questions, and both are strong. The two are set side by side in [OKR vs balanced scorecard](/blog/okr-vs-balanced-scorecard/).
 
-The Jirgenson Model does not replace either. It gives each a place:
+The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) does not replace either. It gives each a place:
 
 | Method | What it contributes | What the model adds |
 |---|---|---|
@@ -78,7 +80,7 @@ OKRs and MBO supply the wording of goals. The Balanced Scorecard suggests which 
 
 ## Where this does not reach
 
-If OKRs are working for your team, keep them; nothing here asks you to throw them out. The goal vector is designed for a person or a small team working mostly on paper, which is why it caps the list at nine. Large organisations with many teams need alignment mechanisms that this model does not try to provide. And neither OKRs nor a goal vector makes your goals the right ones: that still takes judgement.
+If OKRs are working for your team, keep them; nothing here asks you to throw them out. The goal vector is designed for a person or a small team working mostly on paper, which is why it [caps the list at nine](https://github.com/mjirgensons/jirgenson-canon). Large organisations with many teams need alignment mechanisms that this model does not try to provide. And neither OKRs nor a goal vector makes your goals the right ones: that still takes judgement.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -91,7 +93,7 @@ If OKRs are working for your team, keep them; nothing here asks you to throw the
 
 ## Keep the focus, add the steering
 
-What I like most about this approach is its modesty: it does not ask you to abandon a method that works, only to add the three things a small business feels most sharply. Elena's story is the proof in miniature. Same goals as a good OKR. What made the difference was knowing, on any Monday, which number was red, which goal came first and which lever to pull.
+What I like most about this approach is its modesty: it does not ask you to abandon a method that works, only to add the three things a small business feels most sharply. Elena's story is the proof in miniature. Same goals as a good OKR. What made the difference was knowing, on any Monday, which number was red, which goal came first and which lever to pull. I also write about the method on [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/).
 
 The goal vector and the refusal test are in Chapter 1, free in [the free sample](/blog/free-sample/). The full comparison with OKR, BSC, MBO, TOC, PDCA and EOS, plus Elena's whole year, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

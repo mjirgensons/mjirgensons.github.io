@@ -17,7 +17,7 @@ Two respected tools, a quarter of workshops, and neither one tells you whether t
 
 The trouble is not the tools. It is the question you ask.
 
-Neither tool tells you which goal gives way when two pull against each other. The Jirgenson Model gives you the answer: goals in order, real numbers and zones that turn a bad Monday into a clear decision. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Neither tool tells you which goal gives way when two pull against each other. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer: goals in order, real numbers and zones that turn a bad Monday into a clear decision. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## OKR vs balanced scorecard: two answers to two questions
 
@@ -31,7 +31,7 @@ Both methods are strong, built for different jobs.
 | Its strength | Focus | Breadth |
 | What it leaves open | Which key result wins in a collision | Which side comes first when several look bad |
 
-So the honest answer to "OKR or scorecard?" is both, for different parts of your sheet. OKR writes the goals. The scorecard checks that you are not staring at money alone. For PDCA, TOC and EOS on the same kind of problem, read [management frameworks explained](/blog/management-frameworks-explained/).
+So the honest answer to "OKR or scorecard?" is both, for different parts of your sheet. OKR writes the goals. [The scorecard](/blog/balanced-scorecard-explained/) checks that you are not staring at money alone. For PDCA, TOC and EOS on the same kind of problem, read [management frameworks explained](/blog/management-frameworks-explained/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> OKR-style wording feeds the goal vector: an ordered list of at most nine measurable goals. The balanced scorecard's sides feed the state vector: the measured value of each goal, row by row. The refusal order sits on top and settles every collision before it happens.</div>
 
@@ -58,7 +58,7 @@ As a balanced scorecard:
 
 Neither version has a row for Andrew's 65 hours. The OKR had no reason to list them. The scorecard has no side named for the owner; his hours would have to squeeze into learning and growth.
 
-The model sweeps six areas instead of four: finance, clients, sales, processes and quality, people, and development and owner. The last one holds the owner's own time, health and money. It is the area forgotten most often. Yet it is often goal number one.
+The model sweeps [six areas](https://github.com/mjirgensons/jirgenson-canon) instead of four: finance, clients, sales, processes and quality, people, and development and owner. The last one holds the owner's own time, health and money. It is the area forgotten most often. Yet it is often goal number one.
 
 ## OKR problems start where two goals collide
 
@@ -90,13 +90,13 @@ Andrew's sweep: reserve and margin from finance, regulars from clients, complain
 
 ### 2. Word each goal like a good key result
 
-Every goal needs a number, a unit and a deadline. "A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by month 6" is a goal.
+[Every goal needs a number, a unit and a deadline](/blog/how-to-set-measurable-goals/). "A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by month 6" is a goal.
 
 Then cross out methods dressed as goals. Andrew's first list held "launch loyalty cards" and "hire a second barista": two ways of reaching goals already on the list.
 
 ### 3. Rank the rows with the refusal test
 
-Imagine circumstances force you to drop your goals one at a time. Which goes first? Which stays to the end? The last survivor gets number one.
+Imagine circumstances force you to [drop your goals one at a time](/blog/set-priorities-refusal-order/). Which goes first? Which stays to the end? The last survivor gets number one.
 
 | No. | Goal | Target |
 |---|---|---|
@@ -116,11 +116,11 @@ That is the sheet: OKR wording, the scorecard's breadth, the owner's row, and an
 
 ## What guessing costs while the sheet stays blank
 
-Without the order, Andrew's first impulse was loyalty cards. A sensible idea. But cards cost money: printing, discounts, setting up the till. That money would come out of a reserve of 0.5 months: about €13,650 against monthly expenses of €27,300.
+Without the order, Andrew's first impulse was loyalty cards. A sensible idea. But cards cost money: printing, discounts, setting up the till. That money would come out of [a reserve of 0.5 months](/blog/cash-reserve-months-of-expenses/): about €13,650 against monthly expenses of €27,300.
 
 The numbers behind that choice are blunt. At a 9% margin, the reserve reaches two months at M16. With the margin plan working, at M10. Six extra months, one broken coffee machine away from trouble.
 
-The human cost: a tired owner says yes to every sensible request, until the money runs out before the energy does.
+The human cost: [a tired owner says yes to every sensible request](/blog/decision-fatigue-small-business/), until the money runs out before the energy does.
 
 Here is the irony. A business can run two respected frameworks, colour every perspective, and still settle its hardest choice by whoever asked last.
 
@@ -132,10 +132,10 @@ The cause of most bad Mondays is still in place. You can see the reserve is shor
 
 Two steps close that gap.
 
-- **Zone thresholds and the red protocol** (Chapter 4). They mark where green ends and red begins on each row. They also set the order of action when several rows turn red at once.
+- **Zone thresholds and the red protocol** (Chapter 4). They mark [where green ends and red begins](/blog/kpi-zones/) on each row. They also set the order of action when several rows turn red at once.
 - **Levers** (Chapter 5). What you can change today, what you can only watch, and the three questions a lever must pass before you pull it.
 
-Without them, the sheet gives you priorities. It does not yet tell you when to act, or with what.
+Without them, the sheet gives you priorities. It does not yet tell you when to act, or with what. Readers who like print can get both chapters in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 ## Is this one more framework to learn?
 

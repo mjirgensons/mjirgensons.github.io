@@ -19,7 +19,7 @@ Here is the irony. The deal team valued the other company to the last decimal. N
 
 The villain is not either team. It is the fight over whose method wins, while the business waits.
 
-There is a calmer road. The Jirgenson Model is a control system for goals, numbers and plans. It is scientifically proven to work ([the record on Zenodo](https://doi.org/10.5281/zenodo.23964934)). It is new, so it could not help the companies behind these numbers. Now it can help yours.
+There is a calmer road. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) is a control system for goals, numbers and plans. It is scientifically proven to work ([the record on Zenodo](https://doi.org/10.5281/zenodo.23964934)). It is new, so it could not help the companies behind these numbers. Now it can help yours.
 
 ## Merger integration needs one frame, not one winner
 
@@ -33,7 +33,7 @@ Now the model's move. Keep both methods. Give each one its place in a single fra
 
 <div class="def"><strong>In the Jirgenson Model,</strong> any task with a measurable goal, an observable state and a lever fits one frame. It holds what you want, what you have, and the gap between the two. The frame stays the same across fields. Only the units and the sources change.</div>
 
-Every familiar method already fits a slot in that frame:
+Every familiar method already fits a slot in [that frame](https://github.com/mjirgensons/jirgenson-canon):
 
 | Method | Its place in the frame |
 |---|---|
@@ -43,7 +43,7 @@ Every familiar method already fits a slot in that frame:
 | PDCA | A small cycle of checking and improving |
 | EOS | The meeting rhythm |
 
-Read the table as a peace treaty. Neither half has to give up its method. Both halves agree on the frame those methods serve.
+Read the table as a peace treaty. Neither half has to give up its method. Both halves agree on the frame those methods serve. Five of them meet one coffee shop problem in [management frameworks explained](/blog/management-frameworks-explained/).
 
 How to avoid the value loss: before any reorganisation, agree on one goal list, one state and one way to read the gap. Then let each method do the job it is best at.
 
@@ -51,7 +51,7 @@ How to avoid the value loss: before any reorganisation, agree on one goal list, 
 
 A household is the smallest merger there is: two people, two habits, one account. Emma and Paul show the tool from start to finish.
 
-Their income is €4,000 a month. Six months ago they spent the same. Over the last quarter their spending rose by 10%, to €4,400. Their savings stand at €2,000. At first they quarrelled. Then they sat down with one sheet.
+Their income is €4,000 a month. Six months ago they spent the same. Over the last quarter their spending rose by 10%, to €4,400. Their savings stand at €2,000. [At first they quarrelled](/blog/couples-budget/). Then they sat down with one sheet.
 
 1. **Write one goal in one unit.** Emma and Paul: a reserve of at least 3 months of expenses.
 2. **Take the state from records, not memory.** They used three months of bank statements. The trajectory: spending rising, income flat.
@@ -60,7 +60,7 @@ Their income is €4,000 a month. Six months ago they spent the same. Over the l
 5. **Build three scenarios before you touch a lever.** Change nothing: the savings run out in 5 months, sooner if spending keeps rising. Cut subscriptions and eating out by €180: the outflow drops to 220, and the savings last about 9 months. Do that and add a side job worth €300 a month: a surplus of 80 every month, and the savings grow.
 6. **Start with one lever, so you can see its effect.** They chose the third scenario. They began with the cuts and added the side job a month later.
 
-Two of those numbers are easy to confuse. Coverage is 0.45 months. Time until the money runs out is 5 months. They measure different things, and you need to watch both.
+Two of those numbers are easy to confuse. [Coverage is 0.45 months](/blog/cash-reserve-months-of-expenses/). [Time until the money runs out](/blog/months-of-runway/) is 5 months. They measure different things, and you need to watch both.
 
 For a merger, run the same sheet on each half's cash, then on the joined company. Same formulas, same units, one result on the table. The argument moves from "whose number" to "which lever first".
 
@@ -84,9 +84,9 @@ How to avoid the trap: never let each half invent its own definition of "months 
 
 It didn't have to reach that multiple. The people inside that project deserved a better instrument. A budget read every month as goal, state and error might have raised the alarm far sooner. With a control system, the curve could have looked different.
 
-Use the same frame on any large rollout. The goal is the approved budget and the delivery date. The state is what has been spent and delivered, taken from records. The error is the gap.
+Use the same frame on [any large rollout](/blog/why-projects-fail/). The goal is the approved budget and the delivery date. The state is what has been spent and delivered, taken from records. The error is the gap.
 
-Then apply the depletion formula to the budget. Divide the money left by the monthly spend. That gives the months until the budget runs out. Put it next to the months of work still ahead. When the first number is smaller, you have found the overrun while it is still a forecast.
+Then apply the depletion formula to the budget. Divide the money left by the monthly spend. That gives the months until the budget runs out. Put it next to the months of work still ahead. When the first number is smaller, you have [found the overrun](/blog/cost-overrun/) while it is still a forecast.
 
 How to avoid it: no new phase starts until the budget's time to depletion is on the same page as the work left.
 
@@ -108,7 +108,7 @@ They are different in content. They are the same in structure. A family budget, 
 
 Elena, a freelance designer, runs her business alone. Her goal list holds three rows: income, the share of her largest client, her hours. The frame that fits her fits a joined company of any size. Only the units and the number of rows change.
 
-The model does not replace OKR, EOS, BSC, PDCA, TOC or MBO. It sits above them and answers the question they leave open: what matters more when everything is on fire.
+The model does not replace OKR, EOS, BSC, PDCA, TOC or MBO. It sits above them and answers the question they leave open: [what matters more when everything is on fire](/blog/competing-priorities-conflicting-goals/).
 
 ## Where the one-frame sheet stops
 
@@ -121,7 +121,7 @@ Two steps close that gap.
 - **The backward move.** The route from the goal back to this week, with resources checked at every step. Chapter 15.
 - **Zone thresholds and the red protocol.** Where yellow turns red, and the order of rescue when several numbers are red at once. Chapter 4.
 
-The frame is the base of one loop: goal, state, error, levers, plan, forecast. Without the next two steps, it shows you the gap. It does not yet tell you which route closes it. For the eight stages every change passes through, read [business transformation](/blog/business-transformation/).
+The frame is the base of one loop: goal, state, error, levers, plan, forecast. Without the next two steps, it shows you the gap. It does not yet tell you which route closes it. For the eight stages every change passes through, read [business transformation](/blog/business-transformation/). Chapters 4 and 15 are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) and on Kindle.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

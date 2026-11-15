@@ -19,13 +19,13 @@ Here is the irony. A one person business has the shortest chain of command in th
 
 Fix the order once, on paper, with a clear head.
 
-When you work alone, the loudest request wins the day. The Jirgenson Model answers that as a control system: goals in a fixed order, each with a real number. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+When you work alone, the loudest request wins the day. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) answers that as a control system: goals in a fixed order, each with a real number. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## A one person business runs on an order, not on effort
 
 Think of a captain who loves two ports. A ship can't sail both ways at once. He dashes back and forth, burns fuel and arrives nowhere. You choose the port before you put to sea, not in the storm.
 
-Do it tonight. It takes 10 to 20 minutes. Here is the whole tool, filled in with Elena, a freelance designer who is writing her first online book.
+Do it tonight. It takes 10 to 20 minutes. Here is the whole tool, filled in with Elena, [a freelance designer](/blog/freelance-business-plan/) who is writing her first online book.
 
 **1. Write what you want for the next year.** Up to five items, in plain words.
 Elena: a steady income; no single client holding most of her money; fewer working hours.
@@ -36,7 +36,7 @@ Andrew's first draft for his coffee shop had eight items. Three were methods: lo
 **3. Give each goal a number, a unit and a deadline.** "A good income" has no number. "3,000" has no unit. "€3,000 a month" has no deadline.
 Elena: €3,000 a month as a three-month average, reached by month 14. Her biggest client at 30% of income or less, by the same month. A week of 35 hours at most.
 
-**4. Run the refusal test.** Suppose you had half the time and money. Strike the goals off one by one. The easiest sacrifice goes first.
+**4. Run the refusal test.** Suppose you had half the time and money. [Strike the goals off one by one](/blog/set-priorities-refusal-order/). The easiest sacrifice goes first.
 Elena crossed out her hours first. Then the client share. Income stayed to the end.
 
 **5. Number the list in reverse.** What you crossed out last is number one.
@@ -51,7 +51,7 @@ Elena crossed out her hours first. Then the client share. Income stayed to the e
 
 That is the tool. Look at row 3. Hours come first to go, so Elena may work up to 55 while she writes the book. Not a lapse. A decision made in advance, with an end date.
 
-How to avoid the Thursday pile-up: when a request lands, ask which goal it serves and what number that goal holds. Then the list answers, not your fatigue.
+How to avoid the Thursday pile-up: when a request lands, ask which goal it serves and what number that goal holds. Then the list answers, not [your fatigue](/blog/decision-fatigue-small-business/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a goal vector is an ordered list of measurable goals, no more than nine for a person working without software. The refusal test sets the order: the goal you would defend to the end gets number one.</div>
 
@@ -61,7 +61,7 @@ How to avoid the Thursday pile-up: when a request lands, ask which goal it serve
 
 Your savings are your stability margin. A broken coffee machine is a nuisance for a shop with two months of reserve. For one with two weeks, it's an emergency. For a solo owner, the laptop is the coffee machine.
 
-So write the reserve as a goal, in months of expenses. Andrew, who runs a coffee shop, ranked his reserve number one. His reason was plain. Without a reserve the shop closes, and then nothing else on the list matters.
+So write the reserve as a goal, [in months of expenses](/blog/cash-reserve-months-of-expenses/). Andrew, who runs a coffee shop, ranked his reserve number one. His reason was plain. Without a reserve the shop closes, and then nothing else on the list matters.
 
 But number one doesn't override common sense. A small saving on equipment maintenance brings money today. It raises the risk of a breakdown tomorrow. Constraints and minimums sit above the ranking. Only the improvement goals get ranked.
 
@@ -101,7 +101,7 @@ A solo owner faces that choice every week. Without an order, the plan with more 
 
 Now take the other path. Elena keeps all three goals "equally important".
 
-Her main client brings €910 of her €1,300 average: 70%. Her own red line for that share sits above 50%. She is past it today.
+[Her main client](/blog/client-concentration-freelancer/) brings €910 of her €1,300 average: 70%. [Her own red line](/blog/kpi-zones/) for that share sits above 50%. She is past it today.
 
 Her income goal is €3,000 a month. The gap is €1,700 a month. Six more months at the old average leave her €10,200 short of that line.
 
@@ -111,9 +111,9 @@ The human cost is plain. Fifty hours a week, and the evenings still go to whoeve
 
 ## "I'm one person. I don't need a system."
 
-A person working without software keeps at most nine goals. Elena has three. The test takes one sheet of paper and up to twenty minutes.
+A person working without software keeps [at most nine goals](https://github.com/mjirgensons/jirgenson-canon). Elena has three. The test takes one sheet of paper and up to twenty minutes.
 
-That is the point of being alone. There is no meeting to hold. There is only a list to read.
+That is the point of [being alone](/blog/solopreneur/). There is no meeting to hold. There is only a list to read.
 
 ## Where the list stops
 
@@ -126,7 +126,7 @@ Two more steps finish the job.
 - **Three zones and the red protocol.** The line between a thin month and an emergency. Which row to save first when two cross it together. Chapter 4.
 - **One page per goal.** Levers, resources, constraints, a leading indicator and a deadline, so each goal has a plan you can check every week. Chapter 6.
 
-Without them, the list gives you direction. It doesn't yet tell you when to turn or how hard.
+Without them, the list gives you direction. It doesn't yet tell you when to turn or how hard. The [paperback](https://www.amazon.com/dp/B0HPCJCWKF) has both chapters, if you prefer pages to a screen.
 
 For a closer look at the owner's own row, see [goal setting for entrepreneurs](/blog/goal-setting-for-entrepreneurs/).
 

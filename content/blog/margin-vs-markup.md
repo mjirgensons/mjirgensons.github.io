@@ -17,7 +17,7 @@ Picture your own desk. The accountant's report speaks in margin. Your price list
 
 The till records every coffee to the cent. The most important number in the shop lives in the owner's head as "about twenty".
 
-Mixing up margin and markup lets a false figure sit in your head and drive big decisions. The Jirgenson Model gives you the answer: real numbers from a named source, a target you can price by and zones that flag a gap. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Mixing up margin and markup lets a false figure sit in your head and drive big decisions. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer: real numbers from a named source, a target you can price by and zones that flag a gap. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Margin vs markup: one profit, two divisors
 
@@ -49,7 +49,7 @@ Same month, same till. A spread from 9 to 233.
 
 The 233% reads like a gold mine. The 9% reads like a warning. Both are correct. Only one of them tells you how much the shop can save.
 
-Gross margin subtracts only the direct cost of what you sell. Operating margin also takes off rent, wages and the rest of the running costs. Net margin takes off everything, interest and taxes included. For steering a small business week by week, operating margin is the one to watch.
+Gross margin subtracts only the direct cost of what you sell. Operating margin also takes off rent, wages and the rest of the running costs. Net margin takes off everything, interest and taxes included. For steering a small business week by week, operating margin is the one to watch. It earns a row among your [small business KPIs](/blog/small-business-kpis/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> every number on the panel has one definition, one primary source and one person who calculates it. Andrew's reads: margin, operating profit as a percentage of revenue, from the accounting system fed by the till export, checked by Andrew every week.</div>
 
@@ -71,7 +71,7 @@ Andrew: 0.09 ÷ 0.91 = 9.9% markup on total cost.
 
 **5. Translate the target.** Andrew's goal is a 15% margin by month six. On the cost side that is 0.15 ÷ 0.85 = 17.6%. Check it against his numbers at 15%: costs €25,500, profit €4,500. And €4,500 ÷ €25,500 = 17.6%.
 
-**6. Question the figure.** Who counted it? How, exactly? Over what period? A number with no answer to all three is an impression.
+**6. Question the figure.** Who counted it? How, exactly? Over what period? A number with no answer to all three is [an impression](/blog/gut-feeling-vs-numbers-business/).
 
 Pin this markup vs margin chart next to the price list. The conversions are plain arithmetic:
 
@@ -84,7 +84,7 @@ Pin this markup vs margin chart next to the price list. The conversions are plai
 | 50% | 100% |
 | 70% | 233% |
 
-That is the whole tool. One definition, one division, one conversion.
+That is the whole tool. One definition, one division, one conversion. The [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess) has short videos on the same model.
 
 ## The cost plus trap
 
@@ -98,7 +98,7 @@ The trap also runs the other way. Quote the 233% markup on ingredients, and the 
 
 Here is the use of markup that no price list shows you.
 
-Andrew measures his cash reserve in months of expenses. Each month all profit goes into it. So each month the reserve grows by the month's profit divided by the month's costs. That ratio is the markup on total cost.
+Andrew measures his [cash reserve in months of expenses](/blog/cash-reserve-months-of-expenses/). Each month all profit goes into it. So each month the reserve grows by the month's profit divided by the month's costs. That ratio is the markup on total cost.
 
 | Margin | Markup on total cost | Reserve added each month |
 |---|---|---|
@@ -113,7 +113,7 @@ Margin is what the report shows you. Markup on total cost is how fast you can sa
 
 The goal margin of 15% yields €4,500 a month. The real 9% yields €2,700. That is €1,800 short every month, or €10,800 over six months. And the safe reserve slides six months further away.
 
-Now add the false 20%. A second barista and an advertising campaign, planned on a margin that did not exist. Within a few months the money would have run out, and no one would have understood why.
+Now add the false 20%. A second barista and an advertising campaign, planned on a margin that did not exist. Within a few months [the money would have run out](/blog/months-of-runway/), and no one would have understood why.
 
 An eleven-point error is bigger than the whole distance between Andrew's goal and his red line. A gauge that wrong cannot tell a calm month from an emergency.
 
@@ -129,10 +129,10 @@ The cause is still in place. A number with no zones and no levers is a reading, 
 
 Two steps close that gap.
 
-- **Zone thresholds.** Where normal ends, where an emergency begins, and the order of action when several rows turn red at once. Chapter 4.
-- **The list of levers.** Which levers you can pull yourself, which only look like levers, and how to test one before you pull it. Chapter 5.
+- **Zone thresholds.** Where normal ends, where [an emergency begins](/blog/kpi-zones/), and the order of action when several rows turn red at once. Chapter 4.
+- **The list of levers.** Which [levers you can pull yourself](/blog/business-levers/), which only look like levers, and how to test one before you pull it. Chapter 5.
 
-Without them, the correct margin is a correct needle on a dial with no red line.
+Without them, the correct margin is a correct needle on a dial with no red line. The [paperback](https://www.amazon.com/dp/B0HPCJCWKF) carries both chapters in full.
 
 The margin is one row of the panel. Around it sit the goal, the gap, the levers, the plan and the forecast. Each one needs its own tool.
 

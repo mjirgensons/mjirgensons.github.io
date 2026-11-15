@@ -19,7 +19,7 @@ The till counts every coffee. The bank counts every cent. And you still steer by
 
 That is not a data problem. It is a missing system.
 
-When the till and the bank disagree, memory and mood make the call. The Jirgenson Model gives you the answer as a control system: goals in order, real numbers, zones, levers and a forecast in one sheet. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+When the till and the bank disagree, memory and mood make the call. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer as a control system: goals in order, real numbers, zones, levers and a forecast in one sheet. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What a management system is
 
@@ -37,7 +37,7 @@ It is not a program you buy. It is a short set of tools. Each tool turns one que
 | Forecast | Rolling forecast, 3 to 6 months | What happens next if nothing changes? |
 | Rhythm | Meeting calendar | Who looks at what, and how often? |
 
-One rule holds the seven together: every number has one source of truth. Count revenue one way in the accounts and another at the till. The fight over which figure is right will then eat more energy than the business.
+One rule holds the seven together: every number has [one source of truth](https://github.com/mjirgensons/jirgenson-canon). Count revenue one way in the accounts and another at the till. The fight over which figure is right will then eat more energy than the business.
 
 ## Build a management system in one week
 
@@ -58,7 +58,7 @@ Andrew's margin row reads like this:
 | Permissible deviation | Once reached, never below 14% |
 | Owner and rhythm | Andrew, every week |
 
-Then put the goals in order. Ask: if things got bad, which goal would I give up first? Andrew put cash reserve first and his own hours last. Writing all five goals took him fifteen minutes.
+Then [put the goals in order](/blog/set-priorities-refusal-order/). Ask: if things got bad, which goal would I give up first? Andrew put cash reserve first and his own hours last. Writing all five goals took him fifteen minutes.
 
 ### 2. Give every number one source
 
@@ -66,7 +66,7 @@ For each row, name where the number comes from: the accounts, the till, the orde
 
 ### 3. Fill in today and colour the rows
 
-Write today's value honestly. Then mark each row green, yellow or red. Andrew's first panel had five rows and one red: a cash reserve of 0.5 months against a goal of 2.0. How to read that panel in a minute is in [small business KPIs](/blog/small-business-kpis/).
+Write today's value honestly. Then mark each row [green, yellow or red](/blog/traffic-light-dashboard/). Andrew's first panel had five rows and one red: a cash reserve of 0.5 months against a goal of 2.0. How to read that panel in a minute is in [small business KPIs](/blog/small-business-kpis/).
 
 ### 4. Write one page for the most urgent row
 
@@ -80,11 +80,11 @@ Pick the reddest or the yellowest row. Answer five questions on one page. The ma
 | Leading indicator | Average margin per receipt, every week |
 | Deadline and owner | Andrew. First check at month 2: below 10% means revise |
 
-Every lever on that page passed one test first: can I pull it myself, today? Rent, weather and foot traffic failed. Prices, menu, purchasing and portion size stayed on the list.
+Every lever on that page passed one test first: can I pull it myself, today? [Rent, weather and foot traffic](/blog/external-factors-business/) failed. Prices, menu, purchasing and portion size stayed on the list.
 
 ### 5. Hold the first Monday meeting
 
-Look at nothing but the colours. Then fix the rhythm for good:
+Look at nothing but the colours. Then [fix the rhythm](/blog/meeting-cadence/) for good:
 
 | What | How often | The question |
 |---|---|---|
@@ -101,7 +101,7 @@ Andrew built it as one spreadsheet that he and Sara could both see. The till sen
 
 A month later the Monday briefing took fifteen minutes instead of an hour. Nobody argued. The figures showed everything.
 
-At the first check, in month 2, the margin stood at 10.5%. Above the revision line. Not proof yet, but a signal the plan was working.
+At the first check, in month 2, the margin stood at 10.5%. Above the revision line. Not proof yet, but [a signal](/blog/what-is-a-leading-indicator/) the plan was working.
 
 ## The cost of skipping it
 
@@ -115,14 +115,14 @@ Six more months of hoping the coffee machine holds. That is the price of no syst
 
 Be clear about what you built. The week gives you the instrument panel. It treats the symptom: you stop steering blind.
 
-The cause of most bad decisions is still in place. You can see a yellow row, but you do not know the exact point where yellow becomes red. When three rows turn red in the same week, you do not know which to save first. And your panel shows today, not the next six months.
+The cause of most bad decisions is still in place. You can see a yellow row, but you do not know the exact point where yellow becomes red. When three rows turn red in the same week, you do not know which to save first. And your panel shows today, not [the next six months](/blog/forecast-cash-flow/).
 
 Two steps close that gap:
 
 - **Zone thresholds and the red protocol.** Where each line sits, and the order of action when several numbers are red at once. Chapter 4.
 - **Two forecasts and control by forecast.** "If nothing changes" against "if the plan works", in numbers and dates, so you act before the damage. Chapters 8 and 9.
 
-Without them, the panel tells you where you are. It does not yet tell you what to do on the worst Monday.
+Without them, the panel tells you where you are. It does not yet tell you what to do on the worst Monday. All three chapters are also in the [paperback edition](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
