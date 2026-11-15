@@ -13,7 +13,7 @@ answer: "YouTube growth depends on how you steer the channel. There are three sc
 
 It didn't have to be eight. Behind that number sit people who bought a microphone, picked a name and meant it. Some of those channels might still be running if their owners had steered with a control system, the Jirgenson Model, instead of guessing. With one, the number could look different.
 
-Now look at your own channel page. The last upload is older than you'd like. You had a schedule. Then one busy week came, then a second, and the schedule stopped.
+Now look at your own channel page. The last upload is older than you'd like. You had a schedule. Then one busy week came, then a second, and [the schedule stopped](/blog/consistency-is-key/).
 
 Here is the irony. The platform logs every view to the last click. And you still pick the next video from the mood that one number put you in on Sunday night.
 
@@ -25,7 +25,7 @@ That isn't a talent problem. It's a scheme of control, and the cheapest one.
 
 Nine is not a law of nature. Some of those channels might have crossed the line with a way to look ahead. With one, the odds could have been kinder. So name your scheme before you film the next video. There are only three.
 
-Picture three drivers on the same road. The first locks the accelerator and watches nothing. The second brakes only when the brake lights ahead come on. The third watches three cars ahead and eases off before anyone touches the brakes.
+Picture three drivers on the same road. The first locks the accelerator and watches nothing. The second brakes only when the brake lights ahead come on. The third [watches three cars ahead](/blog/reactive-vs-proactive-management/) and eases off before anyone touches the brakes.
 
 | Scheme | On a channel | Weak point |
 |---|---|---|
@@ -41,7 +41,7 @@ The Jirgenson Model is new, and it is scientifically proven to work (the record:
 
 Here is the whole tool: six steps, about 15 minutes, each with a worked entry.
 
-The entries come from Andrew, who runs a coffee shop. Every morning he took a hundred croissants from a local bakery, because that was how it had always been done. On Tuesday almost a third went in the bin. On Saturday the display case was empty by ten. He called it bad luck. It was a control system, a primitive one.
+The entries come from Andrew, who runs a coffee shop. Every morning he took a hundred croissants from a local bakery, because that was how it had always been done. On Tuesday almost a third went in the bin. On Saturday the display case was empty by ten. He called it bad luck. It was [a control system](/blog/control-theory-for-business/), a primitive one.
 
 **1. Pick one recurring task.** Write it at the top of the sheet.
 Andrew: the morning croissant order. Yours: the weekly upload, or the next three topics.
@@ -72,7 +72,7 @@ Then he tested four ordering rules on two weeks of sales. Here is the total miss
 
 Read that table twice. The fastest rule did worse than the fixed plan, because it chased random jumps. The rule that knew the pattern won.
 
-For a channel, step 4 is a short sheet: upload date, topic, views after seven days. After a few weeks it shows what repeats, and the forecast sets the schedule.
+For a channel, step 4 is a short sheet: upload date, topic, views after seven days. After a few weeks it shows what repeats, and the forecast sets the schedule. Our own channel, [Steer, Don't Guess on YouTube](https://www.youtube.com/@SteerDontGuess), posts short videos on the model.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> there are three schemes of control. By plan follows a plan without checking it against reality. By deviation measures the miss and corrects it after the event. By forecast predicts the next state, acts on that prediction and lets new facts correct it. Only the third carries all eight stages of the full control cycle.</div>
 
@@ -104,7 +104,7 @@ Follow this order:
 2. Decide which miss deserves a response. Inside the tolerance, the levers stay put.
 3. Only then speed up the response.
 
-How to avoid the whiplash: write tonight how many weak weeks in a row you'll accept before you touch the format. Hold to it in the bad week.
+How to avoid the whiplash: write tonight how many weak weeks in a row you'll accept before you [touch the format](/blog/youtube-strategy/). Hold to it in the bad week.
 
 ## Grow a YouTube channel past the first year
 
@@ -114,7 +114,7 @@ A year is a long road to drive blind. Some channels that quit short of the line 
 
 Make your forecast add up to the goal. Then look at what is left to spare.
 
-Alex is saving €300 for a bicycle. On 1 June he finds €90 in his piggy bank. The plan said €105. He puts aside €50 a month, so ninety plus three months of fifty makes 240. Another €60 for his old scooter brings it to exactly 300.
+Alex is [saving €300 for a bicycle](/blog/save-for-a-goal/). On 1 June he finds €90 in his piggy bank. The plan said €105. He puts aside €50 a month, so ninety plus three months of fifty makes 240. Another €60 for his old scooter brings it to exactly 300.
 
 The forecast adds up. But there is nothing to spare, and that in itself is a signal to act.
 
@@ -124,7 +124,7 @@ How to avoid the long fade: put a month 12 forecast on the sheet now. Update it 
 
 ## What six more months of the first scheme cost
 
-Run Andrew's numbers. By plan, thirty croissants go in the bin every Tuesday. Six months hold 26 Tuesdays, so that is 780 croissants thrown away.
+Run Andrew's numbers. By plan, thirty croissants [go in the bin](/blog/waste-in-small-business/) every Tuesday. Six months hold 26 Tuesdays, so that is 780 croissants thrown away.
 
 The Saturday side costs more. Thirty guests leave without a croissant every Saturday. Over the same six months, 780 guests walk away from the counter empty-handed.
 
@@ -132,7 +132,7 @@ Neither shows on a weekly report as a mistake. Both show as "bad luck".
 
 A channel pays in hours. Weeks of filming go out with no forecast to check them against. Then the second scheme takes over and throws out the format that was working.
 
-And every Sunday night opens with the same tired question: what went wrong this time?
+And [every Sunday night](/blog/sunday-scaries/) opens with the same tired question: what went wrong this time?
 
 ## "I don't have the data for a forecast"
 
@@ -150,8 +150,8 @@ The cause sits one level deeper. Your sheet says what is likely next. It doesn't
 
 The forecast is one link in a loop: goal, state, error, levers, plan, forecast. Two more steps close the gap.
 
-- **Error zones and thresholds.** Green, yellow and red, set in a calm moment, so you know which miss deserves an answer. Chapter 4.
-- **Two forecasts.** "If nothing changes" set against "if the plan works", so you see where the channel lands on its current speed. Chapter 8.
+- **Error zones and thresholds.** [Green, yellow and red](/blog/kpi-zones/), set in a calm moment, so you know which miss deserves an answer. Chapter 4.
+- **Two forecasts.** ["If nothing changes" set against "if the plan works"](/blog/forecast-cash-flow/), so you see where the channel lands on its current speed. Chapter 8.
 
 Without them, the sheet tells you what is coming. It doesn't tell you when to move.
 
@@ -169,7 +169,7 @@ Without them, the sheet tells you what is coming. It doesn't tell you when to mo
 
 You have two choices tonight. Close this tab, open the dashboard and let last week's views pick the next video. Or start the forecast sheet and steer the channel a few weeks ahead.
 
-The sheet gets you looking ahead. The error zones and the two forecasts tell you when a miss matters and where the channel lands if nothing changes.
+The sheet gets you looking ahead. The error zones and the two forecasts tell you when a miss matters and where the channel lands if nothing changes. Chapters 4 and 8 cover both, in Kindle and [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 Picture next Sunday: one sheet, one line to compare, and a clear answer about what to film.
 
@@ -187,7 +187,7 @@ Pick a rhythm you can hold, such as weekly, and change it slowly. Don't rebuild 
 
 ### Why do my YouTube views jump around so much?
 
-One video's views carry noise. Reacting to each one is the "as yesterday" rule, and it can do worse than a fixed plan. The book shows the three schemes side by side, with two weeks of worked numbers.
+One video's views carry noise. Reacting to each one is the "as yesterday" rule, and it can do worse than a fixed plan. The book shows the three schemes side by side, with two weeks of worked numbers. You can read the model's source text [on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Published research
 

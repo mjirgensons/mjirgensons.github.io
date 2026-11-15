@@ -26,7 +26,7 @@ You control exactly as much as you can foresee. So give yourself something to fo
 Here is the whole tool, with Andrew's coffee shop, "The Corner", beside each step (illustrative numbers).
 
 **1. Pick the goal you would defend to the end.**
-Andrew picked his cash reserve, counted in months of expenses. Goal: 2.0 months by month 12. Today: 0.5.
+Andrew picked his cash reserve, [counted in months of expenses](/blog/cash-reserve-months-of-expenses/). Goal: 2.0 months by month 12. Today: 0.5.
 
 **2. Write your assumptions in one line.**
 Andrew's: all operating profit goes into the reserve, and monthly expenses stay flat. An assumption on paper can be checked. One in your head only surprises you.
@@ -35,7 +35,7 @@ Andrew's: all operating profit goes into the reserve, and monthly expenses stay 
 At a 9% margin, each month puts roughly 0.1 months into the reserve. He needs 1.5 more. So the goal lands at month 16. The deadline was month 12. By month 3 the reserve sits near 0.8, below his red line of one month.
 
 **4. Draw line two: if my plan works.**
-Andrew's plan lifts the margin from 9 to 15%. Then each month adds roughly 0.18. The goal lands at month 10, two months early.
+Andrew's plan lifts [the margin](/blog/how-to-calculate-profit-margin/) from 9 to 15%. Then each month adds roughly 0.18. The goal lands at month 10, two months early.
 
 **5. Put both lines in one table.**
 
@@ -56,7 +56,7 @@ A forecast as one number is almost always wrong. Andrew's honest version: "The r
 **8. Check the forecast against the facts once a month.**
 The gap between line and fact is your teacher. Correct the line, never the facts.
 
-That is the tool. Two lines, one table, one sentence with a condition.
+That is the tool. Two lines, one table, one sentence with a condition. The same two lines for cash are in [how to forecast cash flow](/blog/forecast-cash-flow/).
 
 How to stay out of the number: never decide on spending from one line alone. Ask which line your next decision pushes you towards.
 
@@ -68,7 +68,7 @@ How to stay out of the number: never decide on spending from one line alone. Ask
 
 That isn't fate. Plenty of warning fits inside five years. Some of those owners might have made it with an honest forecast, said early.
 
-A bad forecast can go two ways. The first is a loud prophecy: "We're done for." That is panic, not a forecast, and it spoils every decision after it. The second is to name the risk while there is time, and attach an action in the same breath.
+A bad forecast can go two ways. The first is a loud prophecy: "We're done for." That is panic, not a forecast, and it spoils every decision after it. The second is to [name the risk](/blog/risk-register/) while there is time, and attach an action in the same breath.
 
 Andrew did the second. He said line one out loud to Sara and chose line two at once: a revised menu and a talk with the supplier.
 
@@ -84,7 +84,7 @@ How to avoid it: a risk named early and backed by action buys you time. A risk n
 
 <strong>Of every ten businesses that opened in 2000, fewer than two are still open today.</strong>
 
-Those numbers didn't have to be that steep. A decade tests something no business plan mentions: who can see ahead. With a control system, some of those owners might have handed that sight to the right people. The odds could look different.
+Those numbers didn't have to be that steep. A decade tests something no business plan mentions: [who can see ahead](/blog/predictability-in-business/). With a control system, some of those owners might have handed that sight to the right people. The odds could look different.
 
 Think of one car. To a nervous passenger it's a lump of metal out of control. A professional drives it calmly. Same physics, different person at the wheel.
 
@@ -94,7 +94,7 @@ Then she made that knowledge portable. She and the trainee drew a map of Friday 
 
 Do this for your hardest day:
 
-1. Ask who sees it coming. Find the person who foresees that area best.
+1. Ask who sees it coming. Find [the person who foresees that area best](/blog/delegating-to-the-right-person/).
 2. Put that person at the wheel of it. Andrew gave Sara the Friday shifts.
 3. Turn their knowledge into a map: the time, the event, the step five minutes before.
 
@@ -108,11 +108,11 @@ The second year doesn't have to break you. By then the opening energy has gone a
 
 In his early months Andrew worked sixty-five hours a week. He made decisions late at night. Those were the hours of his worst mistakes. He mixed up figures, put off the call to the supplier and gave wrong deadlines.
 
-Fatigue corrupts a forecast like a faulty instrument. So put your own hours on the goal list, with a number. It protects every forecast you make.
+Fatigue corrupts a forecast like a faulty instrument. So [put your own hours on the goal list](/blog/business-owner-burnout/), with a number. It protects every forecast you make.
 
 Do this: write your hours per week beside your other goals. Andrew's goal: 40 or fewer. His reading: 65.
 
-How to avoid it: draw your lines with a clear head, never at midnight. And switch on the headlights: watch a number that moves before the result, such as enquiries or the flow of guests. Andrew spotted his supplier's prices rising before the statement came, in the weekly margin per receipt.
+How to avoid it: draw your lines with a clear head, never at midnight. And switch on the headlights: watch [a number that moves before the result](/blog/what-is-a-leading-indicator/), such as enquiries or the flow of guests. Andrew spotted his supplier's prices rising before the statement came, in the weekly margin per receipt.
 
 ## What six more months on line one cost
 
@@ -141,16 +141,16 @@ Here is the same quarter steered two ways. Illustration.
 
 ## Where two forecasts stop
 
-In the full loop (goal, state, error, levers, plan, forecast), the forecast is the last link. On its own it treats a symptom. You stop driving with your eyes on the mirror.
+In the full loop (goal, state, error, levers, plan, forecast), the forecast is the last link. On its own it treats a symptom. You stop driving with your eyes on the mirror. Anyone can read the model itself [on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 The cause can still win. Line two is only as good as the plan behind it. If that plan leans on things you can't move, line two is a wish with a chart.
 
 Two steps close that gap.
 
-- **The list of levers.** What you can change with your own hands, and what only looks like a lever. Chapter 5.
+- **The list of levers.** [What you can change with your own hands](/blog/business-levers/), and what only looks like a lever. Chapter 5.
 - **One page per goal.** The levers, resources, constraints and deadline that make line two real. Chapter 6.
 
-Without them, the forecast shows you the cliff. It doesn't yet build the road around it.
+Without them, the forecast shows you the cliff. It doesn't yet build the road around it. Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) too.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -184,7 +184,7 @@ No forecast can promise survival. Draw two lines for your cash reserve: change n
 
 ### How far ahead should a small business forecast?
 
-Start with the next three months, in numbers and dates, and update the line every month. The complete control system keeps a rolling forecast of three to six months.
+Start with the next three months, in numbers and dates, and update the line every month. The complete control system keeps a rolling forecast of three to six months. You can follow the author on his [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ).
 
 ## Published research
 

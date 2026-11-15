@@ -25,13 +25,13 @@ A green slide that turns red overnight belongs to a plan that never checked wher
 
 The first number says budgets slip. This one says budget and deadline rarely hold together. Both point to the same gap: nobody set the limit in advance.
 
-Fix it on day one. Write the budget and the deadline as goals. Give each one six fields: parameter, definition and source, target and deadline, current value, permissible deviation, owner and check rhythm.
+Fix it on day one. Write the budget and the deadline as goals. Give each one [six fields](/blog/how-to-set-measurable-goals/): parameter, definition and source, target and deadline, current value, permissible deviation, owner and check rhythm.
 
-Then give each one three zones. Green: within tolerance, leave it alone. Yellow: worse than normal, find the cause while it is cheap. Red: past the limit, everything else waits.
+Then give each one [three zones](/blog/kpi-zones/). Green: within tolerance, leave it alone. Yellow: worse than normal, find the cause while it is cheap. Red: past the limit, everything else waits.
 
 Andrew, who runs a coffee shop called "The Corner", set his red line for the cash reserve at one month. One month gives him time to negotiate, find money and decide. Below that, there is no time for any of it.
 
-Add one leading indicator: a figure that moves before the result. A budget report tells you what already burned. A leading indicator rings before the fire.
+Add one [leading indicator](/blog/what-is-a-leading-indicator/): a figure that moves before the result. A budget report tells you what already burned. A leading indicator rings before the fire.
 
 How to avoid it: set the zones in a calm hour and do not move them mid-crisis. Moving the line in a storm bends the yardstick to fit the result.
 
@@ -39,7 +39,7 @@ How to avoid it: set the zones in a calm hour and do not move them mid-crisis. M
 
 <strong>One project in two hundred delivers on budget, on time and with what it promised. One.</strong>
 
-Budget, time and scope together, in full, is the rarest outcome there is. So decide now which of the three gives way first. That is the refusal test. If you had to give up your goals one by one, which would go first? Which would be the last one left?
+Budget, time and scope together, in full, is the rarest outcome there is. So decide now which of the three gives way first. That is [the refusal test](/blog/set-priorities-refusal-order/). If you had to give up your goals one by one, which would go first? Which would be the last one left?
 
 Then run the check that catches the deepest errors. Every plan has three anchor points: the goal, the starting point and the environment. Shift any one of them, and no amount of effort saves the plan.
 
@@ -61,17 +61,17 @@ Now the same check, filled in. In month seven, with business rising, Andrew ran 
 | (b) | He had once believed his margin was twenty per cent. It was nine. He had found and closed that gap earlier. |
 | (c) | Is the neighbourhood growing? A university building was going up nearby. The environment was on his side. |
 
-For offset (c), ask four more questions before you call an environment doomed. Has the decline lasted several periods in a row? Are the strongest players leaving? Do the numbers add up in at least one niche within your horizon? What would it cost to leave by mistake?
+For offset (c), ask four more questions before you [call an environment doomed](/blog/when-to-give-up-on-a-business-idea/). Has the decline lasted several periods in a row? Are the strongest players leaving? Do the numbers add up in at least one niche within your horizon? What would it cost to leave by mistake?
 
 That same month, an agent offered Andrew a renovated unit in a shopping centre at an attractive price. Andrew asked about the ship, not the deckchair. Footfall had fallen for three years. The anchor tenant had left. He said no.
 
-Any row where you write "I don't know" is a risk you have found. The whole check takes fifteen minutes.
+Any row where you write "I don't know" is a risk you have found. The whole check takes fifteen minutes. The model itself is public, [on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Cost overrun starts with a wrong starting number
 
 <strong>Big IT projects run almost half over budget and deliver less than half the value they promised.</strong>
 
-What is cost overrun? Spending more than the budget the project started with. The budget sat on the starting numbers. When the starting numbers are wrong, the overrun was written in on the first day.
+What is cost overrun? [Spending more than the budget](/blog/cost-overrun/) the project started with. The budget sat on the starting numbers. When the starting numbers are wrong, the overrun was written in on the first day.
 
 Audit the start before you plan. Compare every number in the plan with the data in the systems, not with your impression.
 
@@ -89,7 +89,7 @@ A project should never be able to sink the business that pays for it. So write t
 
 Constraints come first. A constraint answers one question: what will I not do, even if it would save the goal? Andrew wrote two: never cheaper beans, never late wages. Write yours for the project. "The project never takes the cash reserve below one month" is a good start.
 
-When a number crosses its red line, follow the red protocol. Check for any direct threat to people, payments or the law. Freeze secondary work. Put time, money and attention on the red number. If several numbers turn red, save first the one that threatens the most imminent irreversible damage.
+When a number crosses its red line, follow [the red protocol](/blog/business-crisis-what-to-do-first/). Check for any direct threat to people, payments or the law. Freeze secondary work. Put time, money and attention on the red number. If several numbers turn red, save first the one that threatens the most imminent irreversible damage.
 
 How to avoid it: the project row never outranks the cash row. Your order says so before the crisis, so fatigue cannot say otherwise later.
 
@@ -105,7 +105,7 @@ And the human cost: another quarter of status meetings where everyone knows, and
 
 ## "My project is far bigger than a coffee shop"
 
-The scale changes. The anchor points do not. A medium-sized company books €100,000 of stock in its warehouse. A physical stocktake finds half of it out of date or spoiled. The real state is €50,000. Same offset (b), with more zeros.
+The scale changes. The anchor points do not. A medium-sized company books €100,000 of stock in its warehouse. A physical stocktake finds half of it [out of date or spoiled](/blog/dead-stock/). The real state is €50,000. Same offset (b), with more zeros.
 
 The same company plans sales up 50% with its credit lines fully drawn and no money for raw materials. That is offset (a): one of the two goals has to go. The check works for a workshop, a software rollout or a family budget.
 
@@ -118,7 +118,7 @@ The deeper cause is still in place. A plan checked at the start can still drift 
 Two steps close that gap.
 
 - **The tolerance corridor and launch conditions.** How far you may stray at each checkpoint, and the written condition for starting, stopping or revising. Chapter 10.
-- **The backward move.** The route from the finish line to this week, with resources checked at every step. Chapter 15.
+- **The backward move.** [The route from the finish line to this week](/blog/backward-planning/), with resources checked at every step. Chapter 15.
 
 The three checks sit at the start of one loop: goal, state, error, levers, plan, forecast. Without the next two steps, the check tells you the plan can work. It does not yet keep it working. For the same check on a business plan, read [why business plans fail](/blog/why-business-plans-fail/).
 
@@ -136,7 +136,7 @@ The three checks sit at the start of one loop: goal, state, error, levers, plan,
 
 You have two choices. Start the next project the usual way, trust the green slide, and learn about the overrun on a Thursday. Or spend fifteen minutes on three questions before the first invoice.
 
-The check tells you the plan can start. The corridor, the launch conditions and the backward move keep it on course after day one.
+The check tells you the plan can start. The corridor, the launch conditions and the backward move keep it on course after day one. All three are in the book, in Kindle or [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 Next Monday you open the project page and see one line in red, three months before anyone else would.
 
@@ -154,7 +154,7 @@ Cost overrun means spending more than the original budget. It often starts with 
 
 ### How do you manage project risk on a small team?
 
-Write constraints first: what you will not do, even to save the project. Put the business's cash above the project in your goal order. The full method adds the tolerance corridor and launch conditions for the months after the start.
+Write constraints first: what you will not do, even to save the project. Put the business's cash above the project in your goal order. The full method adds the tolerance corridor and launch conditions for the months after the start. Readers in Canada can find the book [on Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## Published research
 

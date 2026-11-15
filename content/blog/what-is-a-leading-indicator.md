@@ -25,11 +25,11 @@ Steering by a report that lands after the month is over means you always react l
 
 A leading indicator is a figure that moves before your result moves. The result answers "did it work?" The leading figure answers "is it working?", weeks earlier.
 
-Revenue, profit and margin for the month are lagging indicators. They report what is already done. Enquiries, bookings for next month and sign-ups for tomorrow are leading. They point to what is likely to come.
+Revenue, profit and [margin for the month](/blog/how-to-calculate-profit-margin/) are lagging indicators. They report what is already done. Enquiries, bookings for next month and sign-ups for tomorrow are leading. They point to what is likely to come.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> every plan must answer five questions. One of them is the leading indicator: which figure will tell us the plan is working before the deadline arrives? A plan with no answer is a wish. The link between that figure and the result is a hypothesis, and it gets tested against the facts.</div>
 
-The rule is short. Every financial goal gets at least one leading indicator. A lagging number is the post-mortem. A leading number is the pulse.
+The rule is short. Every [financial goal](/blog/how-to-set-measurable-goals/) gets at least one leading indicator. A lagging number is the post-mortem. A leading number is the pulse.
 
 ## A leading indicators example from four plans
 
@@ -44,7 +44,7 @@ The pattern shows best across different lives. Here are four plans, each with it
 
 Look at what the four have in common. Each is counted often. Each moves before the result. Each responds to something the person can do: Alex can knock on another door, Andrew can rework a recipe, Elena can rewrite her page.
 
-The objection "my business is different" fails here. A piggy bank, a coffee shop and a book launch use the same line.
+The objection "my business is different" fails here. A piggy bank, a coffee shop and [a book launch](/blog/book-launch-plan/) use the same line.
 
 ## Write your leading indicator line in 15 minutes
 
@@ -65,7 +65,7 @@ Then fill it in this order:
 1. **Write the goal.** A number, a unit and a deadline. "A better margin" fails. "15% by month 6" passes.
 2. **Ask what moves first.** For margin to rise, each sale must carry more profit. That points to margin per receipt.
 3. **Fix one definition and one source.** Two people with two formulas turn a number into an argument.
-4. **Set the rhythm.** Weekly for money. A figure you see once a month is lagging, whatever you call it.
+4. **Set the rhythm.** [Weekly for money](/blog/how-often-to-review-kpis/). A figure you see once a month is lagging, whatever you call it.
 5. **Name the checkpoint.** Decide now which result means "revise". Andrew chose below 10% at month 2.
 6. **List the other causes.** A rising number is a signal. Write down what else could explain it.
 
@@ -75,7 +75,7 @@ At Andrew's first check the margin stood at 10.5%. That was above his revision l
 
 Three confusions break the tool. Watch for them.
 
-**It is not a lever.** Elena wanted more page visitors to buy. That share is a result. Her lever is what the page says and the order of its blocks. She changes the headline and watches the share respond.
+**It is not a lever.** Elena wanted more page visitors to buy. That share is a result. Her [lever](/blog/levers-of-control/) is what the page says and the order of its blocks. She changes the headline and watches the share respond.
 
 **It is not proof.** Andrew's 10.5% agreed with his plan. Agreeing is not the same as causing.
 
@@ -85,7 +85,7 @@ Three confusions break the tool. Watch for them.
 
 Andrew's own numbers put a price on waiting for the month to close.
 
-At a 9% margin his cash reserve grows by about 0.1 months of expenses each month. It starts at 0.5 months. If nothing changes, it reaches the two-month goal at month 16, four months after his deadline. By the end of month 3 it sits near 0.8 months: still red.
+At a 9% margin his [cash reserve](/blog/cash-reserve-months-of-expenses/) grows by about 0.1 months of expenses each month. It starts at 0.5 months. If nothing changes, it reaches the two-month goal at month 16, four months after his deadline. By the end of month 3 it sits near 0.8 months: still red.
 
 With the plan working and the margin at 15%, the goal arrives at month 10.
 
@@ -101,12 +101,12 @@ The cause of late decisions is still in place. A pulse tells you a number moved.
 
 Two steps close that gap.
 
-- **Zone thresholds and the red protocol**. The exact lines between green, yellow and red, and the order of action when several rows are red at once. Chapter 4.
+- **Zone thresholds and the red protocol**. The exact lines between [green, yellow and red](/blog/kpi-zones/), and the order of action when several rows are red at once. Chapter 4.
 - **Two forecasts and control by forecast**. "If nothing changes" against "if the plan works", in numbers and dates. You act before the result lands. Chapters 8 and 9.
 
 They are named here, not taught. Without them, the indicator warns you but cannot tell you what the warning means.
 
-The line also has a fixed home. It sits inside the plan, in a loop of goal, state, error, levers, plan and forecast.
+The line also has a fixed home. It sits inside the plan, in [a loop of goal, state, error, levers, plan and forecast](/blog/control-cycle-management/). The model behind that loop is public on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 The wider comparison of both kinds of number, with a ranking of how much each signal is worth, is in [lagging vs leading indicators](/blog/lagging-vs-leading-indicators/).
 
@@ -124,7 +124,7 @@ The wider comparison of both kinds of number, with a ranking of how much each si
 
 You have two choices. Wait for the next report and learn in three weeks what this month already did to you. Or write one line tonight: the figure that moves first, its source and its revision line.
 
-You need one line and a glance every Monday. Next Monday you open the till export, read one number, and know whether the plan is still alive.
+You need one line and a glance every Monday. Next Monday you open the till export, read one number, and know whether the plan is still alive. For short videos on the model, see the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 The line gives you a pulse. The zone thresholds and the two forecasts tell you what the pulse means and when to move.
 
@@ -142,7 +142,7 @@ A lagging KPI reports a result that has already happened, such as monthly profit
 
 ### How many leading indicators does a small business need?
 
-At least one per financial goal, checked weekly. In Steer, Don't Guess each goal gets a one-page plan, and the leading indicator sits there beside the levers, the constraints and the deadline.
+At least one per financial goal, checked weekly. In [Steer, Don't Guess](https://www.amazon.com/dp/B0HPCJCWKF) each goal gets a one-page plan, and the leading indicator sits there beside the levers, the constraints and the deadline. More about the author, Martin Jirgenson, is on his [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ).
 
 ## Published research
 

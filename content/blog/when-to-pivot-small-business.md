@@ -15,7 +15,7 @@ His margin had reached 15%. He had six points for a second location already sket
 
 You know the feeling. One bad week and you want to tear up the whole plan. One good month and you want to double everything.
 
-So you change the plan after a bad Tuesday. And you keep a dead goal alive for two years.
+So you change the plan after a bad Tuesday. And you [keep a dead goal alive](/blog/when-to-give-up-on-a-business-idea/) for two years.
 
 Knowing when to pivot is not a question of courage. It is a question of which thing you are allowed to change.
 
@@ -30,7 +30,7 @@ The rule fits in two lines:
 - **A miss is a reason to change the plan.** The goal stays.
 - **The goal changes** when conditions or priorities change. Or when the data show it cannot be reached, or costs more than it brings.
 
-Alex, thirteen, shows the first line clearly. On 1 July he has €140 against a planned €170. He does not switch to a cheaper bicycle. A €30 gap is a reason to change the plan. He puts his scooter up for sale at once. By 1 August he has €250, €15 above the line.
+Alex, thirteen, shows the first line clearly. On 1 July he has €140 against a planned €170. He does not switch to a cheaper bicycle. A €30 gap is a reason to change the plan. He puts his scooter up for sale at once. By 1 August he has €250, €15 above the line. His full savings plan is in [how to save for a goal](/blog/save-for-a-goal/).
 
 Same goal. New plan. Back on course in a month.
 
@@ -42,7 +42,7 @@ Picture a ship on a straight course. Waves push it to port, then to starboard. T
 
 That is steady mode. The deviations are small. You pull levers, not the destination.
 
-Most weeks in a small business run in steady mode. Margin slips a point, complaints rise, a supplier is late. None of that calls for a new goal. It calls for a lever and a check date.
+Most weeks in a small business run in steady mode. Margin slips a point, complaints rise, a supplier is late. None of that calls for a new goal. It calls for [a lever](/blog/levers-of-control/) and a check date.
 
 The mistake is to treat every wave as a reason to turn the ship. Steady mode is the answer to when to pivot most weeks: you don't.
 
@@ -58,7 +58,7 @@ A second location, a move from client work to your own product, a way out of a c
 
 And each runs on its own clock, not yours. If a new shop takes eight months to pay for itself, a verdict after one month is noise.
 
-Elena, a freelance designer, ran her first book as a manoeuvre:
+Elena, a freelance designer, ran [her first book](/blog/book-launch-plan/) as a manoeuvre:
 
 | Period | Months | What happened |
 |---|---|---|
@@ -72,7 +72,7 @@ Had she judged it after a single month, she would have decided it did not work. 
 
 In steady mode you stay inside an area around a fixed goal. In a manoeuvre that area stretches into a corridor along the route. For every checkpoint the corridor says two things: how far you may stray in value, and how late you may pass.
 
-Inside the corridor, you are steering. Outside it, you either return in a controlled way or stop the manoeuvre. One rule holds along the whole route: no number may enter the red zone. For Andrew's cash reserve, red means below 1.0 month of expenses.
+Inside the corridor, you are steering. Outside it, you either return in a controlled way or stop the manoeuvre. One rule holds along the whole route: no number may enter the red zone. For Andrew's [cash reserve](/blog/cash-reserve-months-of-expenses/), red means below 1.0 month of expenses.
 
 Here is why the starting point decides everything. The second location costs about €45,000. At Andrew's expenses of €25,500 a month, that is 1.8 months of reserve.
 
@@ -88,7 +88,7 @@ Same shop. Same plan. Three different outcomes, set by one number on the day of 
 
 Before any big move, write down the conditions under which it starts. Not a date. A measurable event.
 
-Andrew sat down with his dashboard and asked: what is red? Nothing. Margin at 15%: done. Reserve at 1.35 months: yellow, not green. A second location now would drag it back into the red.
+Andrew sat down with [his dashboard](/blog/traffic-light-dashboard/) and asked: what is red? Nothing. Margin at 15%: done. Reserve at 1.35 months: yellow, not green. A second location now would drag it back into the red.
 
 So he wrote one line:
 
@@ -101,15 +101,15 @@ So he wrote one line:
 
 He did not cancel the goal. He tied it to an event. When Sara asked, "So we just wait?", he answered: "No. We do whatever brings the condition closer."
 
-Write stop conditions the same way: when you will halt, sell or revise. A growth move never starts while any number is red. A recovery move is the opposite: it starts in the red, because the emergency is its launch condition.
+Write [stop conditions](/blog/contingency-plan-template/) the same way: when you will halt, sell or revise. A growth move never starts while any number is red. A recovery move is the opposite: it starts in the red, because the emergency is its launch condition.
 
 ## The cost of starting on a mood
 
 Run the other version. Andrew signs the lease the week he sees the premises. Within a month the new rent eats a reserve that has not reached two months. The reserve falls back into the red. Six months of building, gone in four weeks.
 
-Impatience is the enemy here, not ambition. "I want it now" feels like drive. On a dashboard it reads as a reserve heading for zero, and an owner lying awake doing sums at 3 a.m.
+Impatience is the enemy here, not ambition. "I want it now" feels like drive. On a dashboard it reads as a reserve heading for zero, and an owner [lying awake doing sums at 3 a.m.](/blog/racing-thoughts-at-night/)
 
-"When the conditions are met" feels slow. It is the only version where the second shop does not eat the first.
+"When the conditions are met" feels slow. It is the only version where the second shop does not eat the first. The [Steer, Don't Guess channel on YouTube](https://www.youtube.com/@SteerDontGuess) shows the model in short videos.
 
 ## What this test does not settle
 
@@ -120,7 +120,7 @@ The cause runs deeper. A launch condition tells you when you may start. It does 
 Two steps close that gap:
 
 - **The backward move.** Work from the goal back to this week, checking resources at every step, so the start date comes out of the numbers. Chapter 15; the idea is outlined in [backward planning](/blog/backward-planning/).
-- **Zone thresholds.** Where green ends and red begins for each number, set in a calm hour. Chapter 4.
+- **Zone thresholds.** [Where green ends and red begins](/blog/kpi-zones/) for each number, set in a calm hour. Chapter 4.
 
 Without them, you know the rule. You do not yet know the route.
 
@@ -138,7 +138,7 @@ Without them, you know the rule. You do not yet know the route.
 
 You have two choices. Sign on enthusiasm and hope the reserve holds. Or write one line tonight: the condition under which your big move starts, and the red line it must never cross.
 
-The line protects you from the wrong start. The backward move and the zone thresholds tell you the right one.
+The line protects you from the wrong start. The backward move and the zone thresholds tell you the right one. You will find both in the [paperback edition](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
@@ -150,7 +150,7 @@ Change the plan when your numbers miss the target. Change the goal only when con
 
 ### What does pivot or persevere mean?
 
-It means choosing between a new strategy and the current one after a test. A sharper version asks two questions: is the miss inside my corridor, and has anything changed that makes the goal itself wrong?
+It means choosing between a new strategy and the current one after a test. A sharper version asks two questions: is the miss inside my corridor, and has anything changed that makes the goal itself wrong? The model this version comes from is open [on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ### When should I open a second location?
 

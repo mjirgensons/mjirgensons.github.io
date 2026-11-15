@@ -17,7 +17,7 @@ Picture the first of the month. Every category has its figure. The total reads z
 
 Three fair requests. One budget. Which line gives way?
 
-The spreadsheet balances to the cent. The cut still happens at midnight, decided by fatigue, the last phone call and whoever asks the loudest.
+The spreadsheet balances to the cent. The cut still happens at midnight, [decided by fatigue](/blog/decision-fatigue-small-business/), the last phone call and whoever asks the loudest.
 
 A budget without an order hands every hard choice to the tired version of you. The Jirgenson Model answers that pain with a control system, and its first step is a list of goals with an order. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -35,14 +35,14 @@ Zero says the sum is complete. The order says what survives a bad month.
 
 ## The four layers of a zero based budget
 
-The refusal order tells you what matters more. It doesn't yet tell you what you may never cut. So sort every category into four layers before you assign a single euro.
+[The refusal order](/blog/set-priorities-refusal-order/) tells you what matters more. It doesn't yet tell you what you may never cut. So sort every category into four layers before you assign a single euro.
 
 1. **Constraints.** The law, safety, contracts, wages, taxes. You never "give them up in turn". They define which choices are allowed at all.
 2. **Minimum acceptable levels.** The floor below which the result no longer works.
 3. **Improvement goals.** These are the ones you rank with the refusal test.
 4. **A rule for what remains.** Urgency, risk and cost decide where the rest goes.
 
-If saving the main goal would break a constraint, the constraint wins. A small saving on equipment upkeep brings money today and raises the risk of a breakdown tomorrow. Putting the reserve first doesn't overrule common sense.
+If saving the main goal would break a constraint, [the constraint wins](/blog/goal-hierarchy/). A small saving on equipment upkeep brings money today and raises the risk of a breakdown tomorrow. Putting the reserve first doesn't overrule common sense.
 
 ## Budget categories template, filled in
 
@@ -78,9 +78,9 @@ Andrew wrote his five goals in fifteen minutes. The budget takes one more evenin
 
 **1. List what you want, then test each item.** Ask of every line: what for? Andrew's rough list had eight items. Three were methods, not goals: loyalty cards, a second barista, a new coffee machine. The cards serve regular customers. The barista and the machine both serve quality. Three methods collapsed into two goals already on the list.
 
-**2. Give every goal a number, a unit and a deadline.** "A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by month six" is a goal.
+**2. Give every goal a number, a unit and a deadline.** "A good profit" has no number. "15" has no unit. "15%" has no deadline. ["15% by month six" is a goal](/blog/how-to-set-measurable-goals/).
 
-**3. Keep it short.** At most nine goals, from six areas: finance, clients, sales, processes and quality, people, and the owner. Ten priorities aren't priorities. They're a list.
+**3. Keep it short.** At most nine goals, from six areas: finance, clients, sales, processes and quality, people, and the owner. [Ten priorities aren't priorities](/blog/too-many-goals/). They're a list.
 
 **4. Write the constraints above the list.** What you will never do, even to save the main goal. Andrew: never cheaper beans, never late wages.
 
@@ -94,7 +94,7 @@ Then copy the template above and fill it with your own rows.
 
 A budget can balance to zero and still be built badly. The same five defects spoil a goal list.
 
-- **Categories that can't live together.** The lowest prices on the street, the best coffee in town and a 30% margin. Each is possible alone. Together they're most likely not. Test them against your own costs.
+- **Categories that can't live together.** The lowest prices on the street, the best coffee in town and a 30% margin. Each is possible alone. [Together they're most likely not](/blog/mutually-exclusive-goals/). Test them against your own costs.
 - **A missing requirement.** Growth and advertising make the list. "Pay taxes on time" doesn't. That's not a goal to rank. It's a constraint, and it goes above the list.
 - **Priorities that change every Monday.** The money never stays in one row long enough to do anything.
 - **A broken order.** Andrew buys expensive beans for "quality" while the reserve sits below the safe minimum. A lower goal gets rescued at the cost of the top one.
@@ -110,7 +110,7 @@ The model's way: the same five goals, in order. The reserve comes first, so the 
 
 The order did the deciding, not the fatigue.
 
-A household works the same way. Alex is thirteen and wants a €300 bicycle by 1 September. He ranked his wishes: the bicycle last to give up, football second, games first to go. Pocket money of €20 a month and about €30 from odd jobs all go to one row. If your own household runs short every month, the order of cuts is in [household budget in deficit](/blog/household-budget-deficit/).
+A household works the same way. Alex is thirteen and [wants a €300 bicycle](/blog/save-for-a-goal/) by 1 September. He ranked his wishes: the bicycle last to give up, football second, games first to go. Pocket money of €20 a month and about €30 from odd jobs all go to one row. If your own household runs short every month, the order of cuts is in [household budget in deficit](/blog/household-budget-deficit/).
 
 ## What six months without an order cost
 
@@ -126,14 +126,14 @@ The human cost is plainer. Every evening, a man tired enough to say yes to whoev
 
 Know what you have now. You know where every euro goes, and which goal wins a fight. That treats the symptom: fatigue stops making the choice.
 
-The cause of the next surprise is still there. Your budget rests on an income figure, and nobody has checked it yet. Andrew believed his margin held at around twenty per cent. A budget built on that number would have handed out money that didn't exist. And you still can't tell when a row has drifted far enough to move money out of another.
+The cause of the next surprise is still there. Your budget rests on an income figure, and nobody has checked it yet. Andrew believed [his margin](/blog/how-to-calculate-profit-margin/) held at around twenty per cent. A budget built on that number would have handed out money that didn't exist. And you still can't tell when a row has drifted far enough to move money out of another.
 
 Two steps close that gap:
 
 - **The measured state, one source per number.** What each row holds today, from the bank statement and the accounts. Never from memory. Chapter 2.
-- **Zone thresholds and the red protocol.** Where normal ends, where an emergency begins, and the order of action when several rows slip at once. Chapter 4.
+- **Zone thresholds and the red protocol.** [Where normal ends, where an emergency begins](/blog/kpi-zones/), and the order of action when several rows slip at once. Chapter 4.
 
-The ordered budget is the first stage of a closed loop: goal, state, gap, levers, plan, forecast. Each stage has its own tool.
+The ordered budget is the first stage of a closed loop: goal, state, gap, levers, plan, forecast. Each stage has its own tool. The model's canon is open to anyone [on GitHub](https://github.com/mjirgensons/jirgenson-canon).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -149,7 +149,7 @@ The ordered budget is the first stage of a closed loop: goal, state, gap, levers
 
 You have two choices. Keep the budget that balances to zero and let the next tired evening pick which row to cut. Or spend fifteen minutes tonight and put your categories in order.
 
-The order tells you what wins. The measured state and the zones tell you when the numbers have moved enough to act.
+The order tells you what wins. The measured state and the zones tell you when the numbers have moved enough to act. For quick visuals, follow [Steer, Don't Guess on Instagram](https://www.instagram.com/steerdontguess/).
 
 The refusal test is free to try: [Chapter 1](/blog/free-sample/) holds it in full. Or set up the whole loop with the complete control system, a Kindle book [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). One method, from a coffee shop's till to a teenager's piggy bank.
 
@@ -165,7 +165,7 @@ Start with four layers. Constraints such as wages, taxes and contracts. Minimum 
 
 ### Is there a budget categories template?
 
-Use four columns: layer, category, the goal it serves, amount. Fill them in order, constraints first, and check that the total reaches zero. The full system that adds measured numbers, zones and forecasts is in *Steer, Don't Guess*.
+Use four columns: layer, category, the goal it serves, amount. Fill them in order, constraints first, and check that the total reaches zero. The full system that adds measured numbers, zones and forecasts is in [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPCJCWKF).
 
 ## Published research
 

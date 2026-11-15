@@ -15,9 +15,9 @@ Every process in that shop is right. The shop is still finished.
 
 Now picture your own version. The third slow month. You sit in the empty premises after closing and run the sums again. Is the idea dead, or are you tired?
 
-That is the real question behind when to give up on a business idea. And the usual way to answer it is the worst one: by mood, at the end of a bad week.
+That is the real question behind when to give up on a business idea. And the usual way to answer it is the worst one: [by mood](/blog/gut-feeling-vs-numbers-business/), at the end of a bad week.
 
-Quit on a bad Tuesday and you may walk away from a business that was one fix from working. Hold on out of pride and you may spend two years polishing the deckchairs.
+Quit on a bad Tuesday and you may walk away from a business that was one fix from working. Hold on out of pride and you may spend two years polishing the deckchairs. That second trap has a name: the [sunk cost fallacy](/blog/sunk-cost-fallacy/).
 
 There is a better order. Rule out two fixable causes first. Then test the ship.
 
@@ -37,7 +37,7 @@ Take your main goal and a sheet of paper. This takes about fifteen minutes. Any 
 
 ### 1. Is the goal possible at all?
 
-Look for two goals that cannot both be met. They make the destination impossible, and the idea looks dead when it is not.
+Look for [two goals that cannot both be met](/blog/mutually-exclusive-goals/). They make the destination impossible, and the idea looks dead when it is not.
 
 Andrew, the coffee shop owner, had "no more than 40 hours a week" next to "open a second location". In month 7 he worked 48 hours. The launch would add 15 a week for three months. That makes 63 hours, with 40 allowed.
 
@@ -49,11 +49,11 @@ An idea judged on false numbers dies for the wrong reason.
 
 Elena, a freelance designer, thought she earned about €2,000 a month, because one month brought €2,200. Six months of bank statements said €1,300. Andrew believed his margin was twenty per cent. Waste was never counted, and the real figure was nine.
 
-Pull the statements and recount before you decide anything. **Verdict: audit first, then judge.**
+Pull the statements and [recount before you decide anything](/blog/financial-health-check/). **Verdict: audit first, then judge.**
 
 ### 3. Is the ship sinking? Four questions
 
-Now the hard one. Ask about the system around you, not about your own work:
+Now the hard one. Ask about [the system around you](/blog/external-factors-business/), not about your own work:
 
 1. Has the fall continued for several periods, one after another?
 2. Are the strongest players leaving?
@@ -68,7 +68,7 @@ The same test said yes to his own street. A university building was going up nea
 
 ### 4. Compare the strongest factor with your strongest lever
 
-The fourth step puts numbers on the current. Find the biggest outside force acting on you. Then find the strongest move you are allowed to make. Put them side by side.
+The fourth step puts numbers on the current. Find the biggest outside force acting on you. Then find [the strongest move](/blog/business-levers/) you are allowed to make. Put them side by side.
 
 Here is a coffee shop on a fading street. A nearby office centre closes, and footfall drops 3% a month:
 
@@ -91,7 +91,7 @@ The four steps point to one of three answers:
 | Numbers that were wrong | The starting point, then the plan |
 | A sinking environment | The environment: a different place, format or goal |
 
-There are honest exceptions to leaving a fading market. A narrow niche. Buying up weaker competitors. An orderly exit with your money intact. Each one must be proved by a calculation and a deadline, not by hope.
+There are honest exceptions to leaving a fading market. A narrow niche. Buying up weaker competitors. [An orderly exit](/blog/business-closure/) with your money intact. Each one must be proved by a calculation and a deadline, not by hope.
 
 ## Plan vs goal: a miss is not a verdict
 
@@ -111,7 +111,7 @@ He would hunt for the cause in the staff, the menu, the prices. The cause would 
 
 And the human cost: a year of blaming good people for a building's decline.
 
-The opposite error costs too. Leave a difficult season by mistake, and you lose what the hard months were building. That is why question four exists.
+The opposite error costs too. Leave a difficult season by mistake, and you lose what the hard months were building. That is why question four exists. If a change of format looks better than leaving, read [when to pivot](/blog/when-to-pivot-small-business/).
 
 ## Where the test does not reach
 
@@ -140,9 +140,9 @@ For the three pictures behind the offsets, with every check side by side, read [
 
 You have two choices tonight. Decide by how the week felt, and either walk away from a fixable plan or keep bailing a sinking ship. Or take fifteen minutes and run the five steps on paper.
 
-The test tells you where you stand. The launch and stop conditions and the early-warning forecast keep you from standing there again, unprepared.
+The test tells you where you stand. The launch and stop conditions and the early-warning forecast keep you from standing there again, unprepared. Both sit in the book, which also comes in [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
-Picture the next slow month: you open one sheet, read three answers, and sleep on a decision instead of a fear.
+Picture the next slow month: you open one sheet, read three answers, and sleep on a decision instead of a fear. The author, Martin Jirgenson, keeps his book list on [Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson).
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
 
@@ -158,7 +158,7 @@ If results miss, rewrite the plan. If conditions or priorities have shifted, or 
 
 ### What is the Titanic test in business?
 
-A check of the system your business lives in: is the industry, street or market itself going under? If the strongest outside factor beats all your levers combined, better tactics cannot win.
+A check of the system your business lives in: is the industry, street or market itself going under? If the strongest outside factor beats all your levers combined, better tactics cannot win. The model it comes from is public [on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Published research
 

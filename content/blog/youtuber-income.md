@@ -17,13 +17,13 @@ Picture a family dinner. Someone asks what the channel brings in. You say "it's 
 
 Here is the irony. The dashboard knows your watch time to the second. Nobody in the house knows your pay to the euro.
 
-Alex, a boy saving for a bicycle, had the same problem on a smaller scale. He was sure he had about €55. He tipped the coins and notes onto the table and counted €40. Fifteen euros vanished in one minute of counting. Better on the kitchen table than at the shop counter.
+Alex, [a boy saving for a bicycle](/blog/save-for-a-goal/), had the same problem on a smaller scale. He was sure he had about €55. He tipped the coins and notes onto the table and counted €40. Fifteen euros vanished in one minute of counting. Better on the kitchen table than at the shop counter.
 
 ## Youtuber income starts with one source per number
 
 Pick one place where each number comes from. Then never take it from anywhere else.
 
-Every figure you steer by needs three things: one definition, one primary source and one person who calculates it. Other sources can serve as a cross-check. But if two places disagree and you have no rule, the argument over which one is right eats more energy than the channel itself.
+[Every figure you steer by](/blog/how-to-measure-business-performance/) needs three things: one definition, one primary source and one person who calculates it. Other sources can serve as a cross-check. But if two places disagree and you have no rule, the argument over which one is right eats more energy than the channel itself.
 
 For a creator business, the platform is the source for views and watch time. Money is different. Money counts when it reaches your account. So your bank statement is the source for income, and the analytics page is a cross-check.
 
@@ -49,7 +49,7 @@ How to avoid a year of thin months: count your own figures, from your own source
 
 ## The one-evening panel, filled in
 
-This is the tool. One sheet, five rows, about two hours the first time. Andrew, who runs a coffee shop called "The Corner", built his in exactly two hours. Here is how, step by step, with his entries.
+This is the tool. [One sheet, five rows](/blog/small-business-kpis/), about two hours the first time. Andrew, who runs a coffee shop called "The Corner", built his in exactly two hours. Here is how, step by step, with his entries.
 
 **1. Write one row for each goal you already have.** Andrew had five: cash reserve, margin, regular customers, complaints, his own hours.
 
@@ -71,11 +71,11 @@ Andrew's panel at month zero:
 
 Look at the complaints row. Sara's notebook first held five entries for the week. "Those are the ones I remembered," she said. A customer had told her the coffee was cold, and she hadn't written it down. So they agreed on the definition you see above. Without it, the number depends on who is doing the counting.
 
-**5. Read the panel as a reading, not a verdict.** The figure that hit Andrew hardest was the 9. He had been sure his margin held at about twenty. He had never counted waste: sour milk, pastries written off at the end of the shift.
+**5. Read the panel as a reading, not a verdict.** The figure that hit Andrew hardest was the 9. He had been sure his margin held at about twenty. [He had never counted waste](/blog/waste-in-small-business/): sour milk, pastries written off at the end of the shift.
 
 His first impulse was to close the spreadsheet and go and make coffee. He stayed. For the first time in two years, he saw his coffee shop as a whole.
 
-Your rows will differ. To track youtuber income, a creator might write income, the share from the largest sponsor, hours, and money in reserve. The columns stay the same.
+Your rows will differ. To track youtuber income, a creator might write income, [the share from the largest sponsor](/blog/client-concentration-freelancer/), hours, and money in reserve. The columns stay the same.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the state vector is the measured value of each goal, row by row, in the order of the goal list. Each value has one definition, one source and one person who counts it. It turns feelings into facts.</div>
 
@@ -83,7 +83,7 @@ The Jirgenson Model is new. It is scientifically proven to work ([doi.org/10.528
 
 ## Creator earnings: panic, bravado and the reading
 
-Two enemies meet you at this table, and they look like opposites. Panic says all is lost. Bravado says never mind, we'll pull through. Both put a feeling where a fact should be.
+Two enemies meet you at this table, and they look like opposites. Panic says all is lost. Bravado says never mind, we'll pull through. Both put [a feeling where a fact should be](/blog/gut-feeling-vs-numbers-business/).
 
 Here is the same margin row read three ways. Illustration from Andrew's story.
 
@@ -113,7 +113,7 @@ Andrew's numbers show it plainly. That same week, he had planned to hire a secon
 
 Stay at 9% instead of 15%, and the month leaves €2,700 of profit instead of €4,500. That is €1,800 short every month, or €10,800 over six months.
 
-The reserve pays too. At 9%, each month adds about a tenth of a month of expenses. If nothing changes, the reserve reaches its goal at month 16. With the plan working, at month 10.
+[The reserve](/blog/cash-reserve-months-of-expenses/) pays too. At 9%, each month adds about a tenth of a month of expenses. If nothing changes, the reserve reaches its goal at month 16. With the plan working, at month 10.
 
 And the owner pays with his life. Sixty-five hours a week, and still no answer at the dinner table.
 
@@ -125,10 +125,10 @@ The cause of the bad decisions is still in place. You know the margin is 9%. You
 
 Two steps close that gap.
 
-- **Three zones and the red protocol.** Lines for normal, acceptable and emergency, set in advance. And an order for the day several rows turn red. Chapter 4.
-- **Levers.** What you can change by your own decision, separated from what you can only hope for. Chapter 5.
+- **Three zones and the red protocol.** [Lines for normal, acceptable and emergency](/blog/kpi-zones/), set in advance. And an order for the day several rows turn red. Chapter 4.
+- **Levers.** [What you can change by your own decision](/blog/business-levers/), separated from what you can only hope for. Chapter 5.
 
-The panel is the second step of one loop: goal, state, error, levers, plan, forecast. Without the next two, it tells you where you are, but not which way to turn.
+The panel is the second step of one loop: goal, state, error, levers, plan, forecast. Without the next two, it tells you where you are, but not which way to turn. The model's public repository is [on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 If your income row has no target yet, start one step earlier with [creator income as a goal](/blog/creator-income/).
 
@@ -146,7 +146,7 @@ If your income row has no target yet, start one step earlier with [creator incom
 
 You can close this tab and answer "it's growing" at the next family dinner. Or you can spend this evening on five rows and know your number by midnight.
 
-Next Monday you open the panel before the dashboard. You know what the channel pays you, and where that figure came from.
+Next Monday you open the panel before the dashboard. You know what the channel pays you, and where that figure came from. The book's own channel is [Steer, Don't Guess on YouTube](https://www.youtube.com/@SteerDontGuess).
 
 The panel shows where you stand. The zones tell you when to act, and the levers tell you what to move.
 
@@ -164,7 +164,7 @@ Money that reached your account in the period you chose. Write that definition d
 
 ### Is my content creator income enough to go full time?
 
-A panel can't promise that. It can show your position. Fill in income, reserve and hours from one source each. The complete method, with zones, levers and forecasts, is in the full control system on Kindle.
+A panel can't promise that. It can show your position. Fill in income, reserve and hours from one source each. The complete method, with zones, levers and forecasts, is in the full control system on Kindle. In Canada, it is on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## Published research
 
