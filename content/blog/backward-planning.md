@@ -9,9 +9,9 @@ keywords: [backward planning, reverse planning, back planning, backplanning, bac
 answer: "Backward planning means starting from the finished result and asking, step by step, what must be true just before it, until you reach this week. The output is a two-column table, time before the goal and what must be true, whose first row tells you what to do now. It works best when the end state and your starting point are both written down precisely."
 ---
 
-When you type an address into a navigation app, it does not guess where you are going. It knows where you are, it knows the destination, and it draws a route. Miss a turn and it does not lecture you about the past; it takes the spot where you are standing now and calculates a fresh route from there. Chapter 15 of *Steer, Don't Guess* opens with that image, and it is the clearest explanation of the idea I have read.
+When you type an address into a navigation app, it does not guess where you are going. It knows where you are, it knows the destination, and it draws a route. Miss a turn and it does not lecture you about the past; it takes the spot where you are standing now and calculates a fresh route from there. Chapter 15 of [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPCJCWKF) opens with that image, and it is the clearest explanation of the idea I have read.
 
-Most of us plan the other way round. We start from today and push forward, and the options multiply like an avalanche. This method flips the direction: you start from the end and ask one question, again and again, until the answer lands on your calendar.
+Most of us plan the other way round. We start from today and push forward, and the options multiply like an avalanche. This method flips the direction: you start from the end and ask one question, again and again, until the answer lands on your calendar. For a three-month version, see the [90 day plan](/blog/90-day-plan/).
 
 Planning forward from today buries you in options. The Jirgenson Model answers that as a control system: a precise goal, an honest start, and a plan back to now. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -20,6 +20,8 @@ Planning forward from today buries you in options. The Jirgenson Model answers t
 Backward planning (also called reverse planning) is the practice of defining the final result first and then working back, step by step, through the conditions that must already be true before it. Each step asks the same question: *what must be true immediately before this?* The chain stops when it reaches today, and its last link is your first action.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the backward move is planning from the goal back to today. Its output is a table with two columns, "time before the goal" and "what must be true", and the first row answers the only question that matters on a Monday morning: what do I do this week?</div>
+
+The model behind the table is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 What the chapter does brilliantly is keep three ideas apart that most writers blur together. The first is a practical technique. Dynamic programming is a mathematical theory of multi-step decisions, created by Richard Bellman in the 1950s, which often computes from the end backwards but is broader and more demanding. Bellman's principle of optimality is a specific property of the best strategy. Related, not identical, and the book is honest about which one you are actually using.
 
@@ -39,7 +41,7 @@ Then he walks backwards:
 | 1 month | Month 29 | Test week |
 | 0 | Month 30 | Opening |
 
-Read the top row again. A dream about a second shop has turned into one instruction for this month: hold the reserve at two months. That is the quiet magic of the method. It refuses to let a big goal stay vague, because every row has to be true before the row below it can be.
+Read the top row again. A dream about a second shop has turned into one instruction for this month: hold the reserve at two months. That is the quiet magic of the method. It refuses to let a big goal stay vague, because every row has to be true before the row below it can be. How to count that reserve is in [cash reserve months of expenses](/blog/cash-reserve-months-of-expenses/).
 
 ## When the goal feels too big: plan backwards from ten
 
@@ -53,13 +55,13 @@ The book pushes the idea further with a five-year goal: ten coffee shops. Planne
 | Month 30 | 2nd location open, processes documented |
 | Today | Andrew no longer stands behind the counter: senior barista hired, operating procedures being written |
 
-The backward move reveals the main thing: if Andrew does not free his hands for writing procedures today, ten coffee shops in five years are almost out of reach. The mistake shows up today, not in year five. That is the difference between a plan and a wish.
+The backward move reveals the main thing: if Andrew does not free his hands for writing procedures today, ten coffee shops in five years are almost out of reach. The mistake shows up today, not in year five. That is the difference between a plan and a wish. For a first opening, see [first business](/blog/first-business/), planned back from opening day.
 
 ## A backward planning template you can copy
 
 You do not need software. A sheet of paper and twenty minutes will do. Here is the template the chapter implies:
 
-1. **Write the end state precisely.** Numbers, a date, and the conditions that must hold on that date (not "be successful", but "reserve of two months, margin 14%, 45 hours a week").
+1. **Write the end state precisely.** Numbers, a date, and the conditions that must hold on that date (not "be successful", but "reserve of two months, margin 14%, 45 hours a week"). The fields are in [how to set measurable goals](/blog/how-to-set-measurable-goals/).
 2. **Write your starting point just as precisely.** Today's numbers, from one source each.
 3. **Ask what must be true 3, 6 and 9 months before the goal.** Then one month before. Then this week.
 4. **Check resources at every row.** Money, people and time must exist for each step, or the chain is a story.
@@ -89,7 +91,7 @@ A "yes" to all five is rare, and the book says so. But if you cannot answer the 
 
 ## Where planning backwards breaks
 
-Two failures sink a backward plan, and the book names both. If the starting point is wrong, a flawless algorithm still takes you to the wrong place. As the book warns, recalling the man lost in a building who heads for the only opening he can see: "never mistake an open window on a high floor for an exit." And if the goal belongs to a dying environment, even the best route ends in a dead end. The model's working hypothesis is that the better a goal is aligned with the direction of its surroundings, the less resistance you meet; in Andrew's case, the university building next door works for the second location, not against it.
+Two failures sink a backward plan, and the book names both. If the starting point is wrong, a flawless algorithm still takes you to the wrong place. As the book warns, recalling the man lost in a building who heads for the only opening he can see: "never mistake an open window on a high floor for an exit." And if the goal belongs to a dying environment, even the best route ends in a dead end. How to read that environment is in [external factors in business](/blog/external-factors-business/). The model's working hypothesis is that the better a goal is aligned with the direction of its surroundings, the less resistance you meet; in Andrew's case, the university building next door works for the second location, not against it.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -102,11 +104,11 @@ Two failures sink a backward plan, and the book names both. If the starting poin
 
 ## The chapter that turns ambition into an assignment
 
-In Chapter 15 a five-year dream becomes a hiring decision for next week. The method does not ask you to dream smaller. It asks you to dream precisely, and then it hands you the first task.
+In Chapter 15 a five-year dream becomes a hiring decision for next week. The method does not ask you to dream smaller. It asks you to dream precisely, and then it hands you the first task. The author's page is on [Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson).
 
 You have two choices. Keep the goal on the vision board and hope the years add up. Or write the two columns tonight and do row one this week.
 
-The table is one step. It assumes the goals do not contradict each other; check that first with [competing priorities vs conflicting goals](/blog/competing-priorities-conflicting-goals/). It also needs each row turned into a plan with levers, an indicator and a deadline; that is the control concept, Chapter 6.
+The table is one step. It assumes the goals do not contradict each other; check that first with [competing priorities vs conflicting goals](/blog/competing-priorities-conflicting-goals/). It also needs each row turned into a plan with levers, an indicator and a deadline; that is [the control concept](/blog/one-page-business-plan/), Chapter 6.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

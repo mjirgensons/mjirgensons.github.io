@@ -23,6 +23,8 @@ Backward planning, also called reverse planning, starts from the finished result
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the backward move is a chain of conditions from the goal back to today. Each row must hold before the row below it can. The top row is the only one you act on now.</div>
 
+The model behind the sheet is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
+
 Here is the blank sheet. Five columns, no software.
 
 | When | What must be true | The number that proves it | Resources it needs | Check date |
@@ -36,7 +38,7 @@ Here is the blank sheet. Five columns, no software.
 
 Fill it in this order:
 
-1. **Write the goal in the bottom row.** A number, a unit and a date. "Successful" is not a row.
+1. **Write the goal in the bottom row.** A number, a unit and a date. "Successful" is not a row. The fields are in [how to set measurable goals](/blog/how-to-set-measurable-goals/).
 2. **Write where you are today.** Also as a number, from one source. The word "roughly" is banned here.
 3. **Climb one row at a time.** For each row, ask what must already be true. Add the number that proves it.
 4. **Fill the resources column.** Money, hours, people. If a row has no resources, the chain is a story.
@@ -46,9 +48,9 @@ That is how to plan backwards from a goal in about twenty minutes.
 
 ## A backward planning example: Elena's first book
 
-Elena is a freelance designer. Her income swings between €800 and €2,200 a month, about €1,300 on average. One client brings in 70% of it. She works fifty hours a week.
+Elena is a freelance designer. Her income swings between €800 and €2,200 a month, about €1,300 on average. One client brings in 70% of it. How she cut that share is told in [client concentration risk](/blog/client-concentration-freelancer/). She works fifty hours a week.
 
-Her goal: an average income of at least €3,000 a month by month 14. Part of it should come from her first online book, priced at €29.
+Her goal: an average income of at least €3,000 a month by month 14. Part of it should come from her first online book, priced at €29. The launch itself is planned in the [book launch plan](/blog/book-launch-plan/).
 
 She did not start with "write a book". She started at month 14 and walked back.
 
@@ -84,17 +86,17 @@ Andrew, the coffee shop owner, ran this check for his second location. His numbe
 
 A thousand euros of slack on a €45,000 project. The chain closes, but with almost nothing to spare.
 
-And it is a rough estimate. A full one adds cash flow after taxes and debt payments, the owner's drawings, a month-by-month payment schedule, and a reserve for overruns. The manager also eats about 6.7 points of the first shop's margin. So the resources column does not prove the plan. It shows how thin the ice is.
+And it is a rough estimate. A full one adds cash flow after taxes and debt payments, the owner's drawings, a month-by-month payment schedule, and a [reserve for overruns](/blog/cost-overrun/). The manager also eats about 6.7 points of the first shop's margin. So the resources column does not prove the plan. It shows how thin the ice is.
 
 ## The check date column catches the slip early
 
 A backward chain gives you a number for every checkpoint. So a slip shows up in weeks, not at the deadline.
 
-Alex, thirteen, is saving €300 for a bicycle by 1 September. His backward line says €105 on 1 June. On 1 June he has €90. The fifteen-euro gap jumps out the day it opens, and he can add a lever while it is cheap.
+Alex, thirteen, is saving €300 for a bicycle by 1 September. His backward line says €105 on 1 June. On 1 June he has €90. The fifteen-euro gap jumps out the day it opens, and he can add a lever while it is cheap. His full plan is in [how to save for a goal](/blog/save-for-a-goal/).
 
 The same logic scales up. Andrew needs a reserve of 2.0 months at M12. His chain says the reserve must be at least 1.29 months at M8. After a bad month at M8 he has 1.56: headroom of 0.27.
 
-Now run the "change nothing" case at a 12% margin. The M8 requirement rises to 1.45. Headroom shrinks to 0.11, and one breakdown eats almost all of it.
+Now run the "change nothing" case at a 12% margin. The M8 requirement rises to 1.45. Headroom shrinks to 0.11, and one breakdown eats almost all of it. The same headroom check runs through the [90 day plan](/blog/90-day-plan/).
 
 A plan without a check date is a wish with a deadline.
 
@@ -117,9 +119,9 @@ But it treats the symptom, not the cause. The chain tells you what must be true.
 Two steps close that gap. Both sit outside this sheet.
 
 - **Launch conditions and the tolerance corridor.** When a big move may begin, and how far you may drift from the chain before you stop. Chapter 10.
-- **The three offsets.** Does the goal contradict itself? Is the starting point real? Is the market around the goal alive? Chapter 11.
+- **The three offsets.** Does the [goal contradict itself](/blog/mutually-exclusive-goals/)? Is the starting point real? Is the market around the goal alive? Chapter 11.
 
-Without them, the template gives you a route. It does not yet tell you whether to set off today.
+Without them, the template gives you a route. It does not yet tell you whether to set off today. Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well. Readers in Canada can find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 The backward move closes a longer loop: goals in order, the real state, the gap, levers, plan, forecast, and the path back to this week.
 

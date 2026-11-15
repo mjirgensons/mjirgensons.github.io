@@ -23,7 +23,7 @@ Cash tracked by mood is the quiet danger here. The Jirgenson Model answers with 
 
 ## Amazon seller tips for the first sale: count your cash in months
 
-Write your reserve in months of expenses before you spend on another ad. Then turn the months into money, so the gap has a size.
+Write your reserve in months of expenses before you spend on another ad. Then turn the months into money, so the gap has a size. The method is laid out in [cash reserve months of expenses](/blog/cash-reserve-months-of-expenses/).
 
 This is the tool. Five lines, about ten minutes. Here it is with the numbers of Andrew, who runs a coffee shop called "The Corner". His bank statement showed a reserve of 0.5 months against a goal of 2.0.
 
@@ -37,21 +37,23 @@ This is the tool. Five lines, about ten minutes. Here it is with the numbers of 
 
 Read line 5 twice. At a 9% margin, each month adds about a tenth of a month to the cushion. To close a gap of one and a half months, that pace runs until month 16.
 
-Now do your own five lines. If you have no sales yet, line 5 is zero. The reserve only shrinks, and line 2 tells you how fast it runs out.
+Now do your own five lines. If you have no sales yet, line 5 is zero. The reserve only shrinks, and line 2 tells you how fast it runs out. That count is your [months of runway](/blog/months-of-runway/).
 
 How to avoid spending blind: set every new cost against the months, not against the hope of the first sale.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the state vector is the measured value of each of your goals, in the same order as the goal list. It mirrors the goals row for row. It turns feelings into facts.</div>
 
+The full model is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
+
 ## Amazon seller statistics a year later: the margin you can't see
 
 **A year later, fewer than one in ten new Amazon sellers is still selling.**
 
-Count every write-off in your cost of goods this week. The margin you feel is not the margin you have.
+[Count every write-off](/blog/how-to-track-write-offs/) in your cost of goods this week. The margin you feel is not the margin you have.
 
-Andrew was sure his margin held at about twenty per cent. The table said 9%. He had never included waste. Milk that had gone sour. Pastries written off at the end of the shift. Every write-off ate the margin and never showed up in a report, because nobody counted it.
+Andrew was sure his margin held at about twenty per cent. The table said 9%. He had never included waste. Milk that had gone sour. Pastries written off at the end of the shift. Every write-off ate the margin and never showed up in a report, because nobody counted it. More such costs are in [waste in small business](/blog/waste-in-small-business/).
 
-Numbers let you down in three ways. Check your figures against each one.
+Numbers let you down in three ways. Check your figures against each one. More on that in [how to measure business performance](/blog/how-to-measure-business-performance/).
 
 1. **Memory.** People remember the loud days and forget the quiet ones. "Good on the whole" looks better than it was.
 2. **Rounding and good intentions.** "About twenty" is easier to say than "nine and a half".
@@ -73,7 +75,7 @@ Here is the same week, both ways. Illustration from his story.
 | Reserve | "The bank looks fine" | 0.5 months, €13,650 |
 | The decision | Hire and advertise | Freeze both, fix the margin |
 
-Within a few months, the first column would have emptied the account. And nobody would have understood why.
+Within a few months, the first column would have emptied the account. And nobody would have understood why. The same contrast runs through [gut feeling vs numbers](/blog/gut-feeling-vs-numbers-business/).
 
 ## New Amazon seller? One good month is not an average
 
@@ -97,7 +99,7 @@ Setting up a source is the first act of management. A perfect system in six mont
 
 The numbers are blunt. At a 9% margin, Andrew's reserve reaches its goal of 2.0 months at month 16. With his plan working at 15%, it gets there at month 10.
 
-If nothing changes, the reserve stands at about 0.8 months by the end of month 3. That is below the one-month line he drew as his red line.
+If nothing changes, the reserve stands at about 0.8 months by the end of month 3. That is below the one-month line he drew as his [red line](/blog/kpi-zones/).
 
 At 9% a single breakdown costs him a full month of progress. At 15% it costs about half.
 
@@ -111,10 +113,10 @@ The cause of the bad decisions is still in place. You know you have 0.5 months. 
 
 Two steps close that gap.
 
-- **Levers.** What you can change by your own decision, sorted from what you can only hope for, with three questions asked before you pull. Chapter 5.
+- **Levers.** What you can change by your own decision, sorted from what you can only hope for, with [three questions asked before you pull](/blog/levers-of-control/). Chapter 5.
 - **Two forecasts.** "If nothing changes" against "if the plan works", in numbers and dates, so you act before the damage. Chapter 8.
 
-Without them, the table tells you where you are. It doesn't yet tell you which way to turn.
+Without them, the table tells you where you are. It doesn't yet tell you which way to turn. Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -148,7 +150,7 @@ The one you measured, with every cost and write-off inside it. Set your own targ
 
 ### What should a new Amazon seller track first?
 
-Five numbers against five goals: cash in months, margin, repeat buyers, complaints and your own hours. Each needs one source. The complete method, with zones, levers and forecasts, is in the full control system.
+Five numbers against five goals: cash in months, margin, repeat buyers, complaints and your own hours. Each needs one source. The complete method, with zones, levers and forecasts, is in the full control system. In Canada, it is on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## Published research
 

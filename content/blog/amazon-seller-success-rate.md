@@ -17,11 +17,11 @@ Picture the order form for your first batch of stock. Quantity, price, ad budget
 
 Here is the irony. The supplier sends you every term in writing. Your own plan for the money lives in your head, and it changes every night.
 
-Knowing your levers is not enough. A coffee shop owner can raise the price of coffee on Monday and find the room empty by Wednesday. Pulling the right levers without a plan is roulette with your own business.
+Knowing [your levers](/blog/business-levers/) is not enough. A coffee shop owner can raise the price of coffee on Monday and find the room empty by Wednesday. Pulling the right levers without a plan is roulette with your own business.
 
 ## Amazon seller success rate starts with a page, not a launch
 
-Write the plan before you spend the money. One goal, one page.
+Write the plan before you spend the money. One goal, one page. The general version is the [one page business plan](/blog/one-page-business-plan/).
 
 Levers are bricks. You can't build a house from bricks without a blueprint: the order of work, the resources and the boundaries. The plan is the blueprint. It answers one question: what am I doing, in what order, with what, and what will I not do?
 
@@ -40,7 +40,7 @@ This is the tool. About 15 minutes for one goal. Here it is with the plan of And
 | 5. Deadline and owner | Who checks, when, and what result means revise? | Andrew. First check at month 2: below 10% means revise. Final result at month 6 |
 | Backup lever | What if the first check falls short? | Track and cut write-offs |
 
-Fill it in for your own goal, row by row.
+Fill it in for your own goal, row by row. The five questions come from the Jirgenson Model, open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 **1. Put the levers in order.** Fast and reversible first, slow ones after. Andrew's price rise waits until month 2. The other three levers start first.
 
@@ -56,7 +56,7 @@ If a row stays empty, you don't have a plan yet. You have a wish, and filling th
 
 Now test the page against the gap. The margin needs 6 points. Andrew's estimates: removing two items, plus 1.5 points. New recipes, plus 1.0. The milk contract, plus 0.5. The 5% price rise, if 2% of customers leave, plus about 3.1. The total is 6.1 points against a gap of 6.0.
 
-The plan passes, with almost no buffer. That is exactly why the month 2 check is mandatory, and why the backup lever sits on the page in advance.
+The plan passes, with almost no buffer. That is exactly why the month 2 check is mandatory, and why the backup lever sits on the page in advance. That lever is covered in [how to track write-offs](/blog/how-to-track-write-offs/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the plan for one goal is the control concept: levers, resources, constraints, a leading indicator, and a deadline with an owner. The plans for all your goals together form the general concept. They must not contradict each other.</div>
 
@@ -88,7 +88,7 @@ A written "no" stops a midnight decision faster than any argument.
 
 ## Amazon first sale and the number you read every week
 
-The monthly result tells you what happened. The leading indicator tells you what is coming.
+The monthly result tells you what happened. The [leading indicator](/blog/what-is-a-leading-indicator/) tells you what is coming.
 
 Andrew reads one figure every week: the average margin per receipt. That is the receipt's revenue minus its direct costs. He sees the trend weeks before the monthly accounts close.
 
@@ -106,7 +106,7 @@ A week after Andrew wrote his plans, Sara found him at the table.
 
 "They do," said Andrew. He added one line: card discounts start once the margin is at least 14%.
 
-Check your own pages the same way. If one plan raises the price and another cuts it with promotions, the business lurches. And pairs that look fine can still claim the same hours and the same money. Put the resources of all plans into one table and you will see it.
+Check your own pages the same way. If one plan raises the price and another cuts it with promotions, the business lurches. And pairs that look fine can still claim the same hours and the same money. Put the resources of all plans into one table and you will see it. The arithmetic test is in [mutually exclusive goals](/blog/mutually-exclusive-goals/).
 
 Keep each plan to a page. If it doesn't fit, the goal is too big: split it in two. A page forces you to choose, and what you choose is what you will do.
 
@@ -134,10 +134,10 @@ The cause is still in place. The page tells you what to do. It doesn't tell you,
 
 Two steps close that gap.
 
-- **Control by forecast.** A weekly look at where the month will end, so you correct course before it closes. Chapter 9.
-- **Steady mode and manoeuvre.** Written conditions for switching the plan or the goal. Chapter 10.
+- **Control by forecast.** A weekly look at where the month will end, so you [correct course before it closes](/blog/reactive-vs-proactive-management/). Chapter 9.
+- **Steady mode and manoeuvre.** Written conditions for [switching the plan or the goal](/blog/when-to-pivot-small-business/). Chapter 10.
 
-The plan is the fifth step of one loop: goal, state, error, levers, plan, forecast. The Amazon seller success rate describes thousands of launches. The page describes yours. Without the last step, you still steer by the rear-view mirror.
+The plan is the fifth step of one loop: goal, state, error, levers, plan, forecast. The Amazon seller success rate describes thousands of launches. The page describes yours. Without the last step, you still steer by the rear-view mirror. Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) too.
 
 If you don't yet know your cash in months of costs, start one step earlier with [amazon seller tips](/blog/amazon-seller-tips/).
 
@@ -173,7 +173,7 @@ Write a check date and a revision line before you launch. At the check, read you
 
 ### What should a new Amazon seller never do?
 
-Write your own list before the first bad month. Andrew's said: no cheaper beans, no price jump above 5% at a time. The complete method, from the goal list to the forecast, is in the full control system.
+Write your own list before the first bad month. Andrew's said: no cheaper beans, no price jump above 5% at a time. The complete method, from the goal list to the forecast, is in the full control system. Readers in Canada can find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). More about the author is on his [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ).
 
 ## Published research
 

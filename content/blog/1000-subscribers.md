@@ -25,9 +25,9 @@ The pain isn't the camera or the niche. It's a round number with no plan under i
 
 Don't argue with the first line of this post. Answer it with paper.
 
-Write the plan for your goal tonight, on one page. A plan for a single goal answers five questions. If one has no answer, you hold a wish, and that answer is your next task.
+Write the plan for your goal tonight, on one page. A [plan for a single goal](/blog/one-page-business-plan/) answers five questions. If one has no answer, you hold a wish, and that answer is your next task.
 
-The subscriber count is a result. You can't upload a result. You upload videos, titles and hours, and the result follows or it doesn't. The page names those inputs, so you know which one to fix.
+The subscriber count is a result. You can't upload a result. You upload videos, titles and hours, and the result follows or it doesn't. The page names those inputs, so you know which one to fix. The [levers of control](/blog/levers-of-control/) post shows how to test each input before you pull it.
 
 How to avoid the wish trap: write the page before the next video, not after the tenth.
 
@@ -66,6 +66,8 @@ That is the full page. If it doesn't fit on one sheet, the goal is too big. Spli
 
 Write constraints while you're calm. In a bad week any shortcut looks fine, and a written "never" stops it faster than willpower.
 
+The five questions come from the Jirgenson Model, which is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
+
 <div class="def"><strong>In the Jirgenson Model,</strong> the control concept is the plan for one goal. It answers five questions: levers, resources, constraints, leading indicator, deadline and owner. The plans for all your goals together form the general concept, and they must not contradict each other.</div>
 
 ## YouTube upload schedule: book the hours first
@@ -88,7 +90,7 @@ How to avoid an empty year: put the filming slot in the calendar before you pick
 
 Make the weekly upload your first leading indicator. Check it every Monday, from one source, on one fixed day.
 
-Your subscriber count lags. It reports last month. A leading indicator moves before the result, while you can still change course.
+Your subscriber count lags. It reports last month. The difference is spelled out in [lagging vs leading indicators](/blog/lagging-vs-leading-indicators/). A leading indicator moves before the result, while you can still change course.
 
 Alex, who saves for a bicycle, works the same way. He counts the piggy bank on Sunday. He also counts the odd jobs lined up for next week, because those tell him about next month.
 
@@ -108,7 +110,7 @@ Andrew, who runs a coffee shop, wrote the same kind of line for his margin. Firs
 
 An error at the checkpoint is a reason to change the plan, not the goal. Keep the 1000 subscribers. Change the titles, the topics or the hours.
 
-A long goal with no checkpoint is a year of guessing. A long goal with a checkpoint is a year of small corrections.
+A long goal with no checkpoint is a year of guessing. A long goal with a checkpoint is a year of small corrections. To place the milestones in between, use [backward planning](/blog/backward-planning/).
 
 How to avoid the year of guessing: write the date and the line now. In a slow month, any line looks negotiable.
 
@@ -128,7 +130,7 @@ And the Sunday evening goes on staring at a counter that didn't move.
 
 Fair objection. The page doesn't care.
 
-The same plan runs a coffee shop's margin, a freelancer's book launch and a boy's bicycle fund. A channel is one more goal with levers, hours and limits.
+The same plan runs a coffee shop's margin, a freelancer's book launch and a boy's bicycle fund. A channel is one more goal with levers, hours and limits. If money is the aim, treat [creator income](/blog/creator-income/) the same way.
 
 You don't need software. You need one page and a fixed Monday check.
 
@@ -136,7 +138,7 @@ You don't need software. You need one page and a fixed Monday check.
 
 The page you wrote is complete. It gives your channel levers, hours, limits, a weekly figure and a check date. It treats the symptom: uploading on a wish.
 
-The cause sits one level deeper. Your page shows this week. It doesn't show where the channel lands in six months if nothing changes. It doesn't show which milestone must stand at which month for the goal to arrive on time.
+The cause sits one level deeper. Your page shows this week. It doesn't show where the channel lands in six months if nothing changes. It doesn't show which milestone must stand at which month for the goal to arrive on time. For the channel version of that view, read [YouTube growth by forecast](/blog/youtube-growth/).
 
 The plan is one link in a loop: goal, state, error, levers, plan, forecast. Two more links close the gap.
 
@@ -144,6 +146,8 @@ The plan is one link in a loop: goal, state, error, levers, plan, forecast. Two 
 - **The backward move.** From the goal back to this week's first action, milestone by milestone. Chapter 15.
 
 Without them, the page tells you what to do this week. It doesn't tell you if this week is enough.
+
+Both chapters are in the [paperback edition](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -173,7 +177,7 @@ Plan for more than a year, and set checkpoints well before that. Write the first
 
 ### How do I grow a YouTube channel from zero?
 
-Start with one page: the videos you'll make, the hours you give them, what you won't do, one weekly figure and a check date. Then upload on the schedule those hours allow. Check the figure every Monday.
+Start with one page: the videos you'll make, the hours you give them, what you won't do, one weekly figure and a check date. Then upload on the schedule those hours allow. Check the figure every Monday. Short examples of the method run on the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ### What is a good YouTube upload schedule?
 

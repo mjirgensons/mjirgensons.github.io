@@ -15,6 +15,8 @@ It is late, and you type your situation into an assistant: the print shop shows 
 
 The answer is laid out better than your bank statement. It rests on a number nobody gave it.
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What AI hallucinations look like in a business answer
 
 In a business conversation, the invented fact is quiet. It is any figure, rule, deadline, cause or priority about your situation that you did not supply, presented as fact instead of as an assumption.
@@ -27,15 +29,15 @@ The mechanism is plain. An assistant with nothing to anchor it has to say someth
 
 The situations below come from a blind test of ten small-business crises. The sentences in quotes are illustrations of each shape, written for this post.
 
-**1. The typical value.** The print shop with a profit and falling cash. "Print shops are usually paid within 60 days." A statement about what is usually true has replaced your own debtor list.
+**1. The typical value.** The print shop with a profit and falling cash. "Print shops are usually paid within 60 days." A statement about what is usually true has replaced your own debtor list. Why profit and cash part ways is in [cash flow management](/blog/cash-flow-management/).
 
 **2. The borrowed rule.** The food truck with 72 hours left before its permit is suspended. "Cities normally allow a short grace period." If that rule does not apply, the owner learns it on day three.
 
-**3. The invented cause.** The translation agency losing clients to automatic translation. "Your clients left because your prices are too high." A cause is a hypothesis. Stated as fact, it sends the owner after the wrong lever.
+**3. The invented cause.** The translation agency losing clients to automatic translation. "Your clients left because your prices are too high." A cause is a hypothesis. Stated as fact, it sends the owner after [the wrong lever](/blog/levers-of-control/).
 
-**4. The chosen priority.** The freelancer whose client has stopped paying, with rent due in six days. The answer decides that keeping the client matters more than the rent, without asking. A machine that sets your order of goals has invented the most important fact of all.
+**4. The chosen priority.** The freelancer whose client has stopped paying, with rent due in six days. The answer decides that keeping the client matters more than the rent, without asking. A machine that sets your [order of goals](/blog/set-priorities-refusal-order/) has invented the most important fact of all.
 
-**5. The promise.** The second nail salon whose owner asks for a guaranteed payback. "With this plan, you will break even in eight months." No honest answer guarantees a result.
+**5. The promise.** The second nail salon whose owner asks for a guaranteed payback. "With this plan, you will break even in eight months." No honest answer guarantees a result. Your own [break even point](/blog/break-even-point/) is a sum you can check.
 
 Each one swaps your situation for an average one.
 
@@ -68,7 +70,7 @@ What did the 102 look like? Not wild lies. Quiet ones, the kind you would nod al
 
 Each one sounds reasonable. That is the danger. The one left with the method was a rule of thumb about goals, "with your hours, three to five can get real work", in an answer where the owner's hours were never given. Every flagged item is listed in a [public file](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10/derived), so you can read all 102.
 
-Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
+Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934). The same data sits on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test). A copy is also on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt).
 
 ## How to spot AI hallucinations: a 15-minute audit
 
@@ -86,9 +88,9 @@ Andrew gives five goals and five readings. Reserve: 2.0 months wanted, 0.5 now. 
 | L | A labelled assumption, with what changes if it is wrong | "I am assuming revenue stays at €30,000; if it falls, the gap grows." |
 | ? | Everything else | "Coffee shops usually run on 10% margins." |
 
-**3. Turn every ? into a check.** Name who checks it, where and by when. "Coffee shops usually run on 10%" becomes: pull your own margin from the accounts, this week.
+**3. Turn every ? into a check.** Name who checks it, where and by when. "Coffee shops usually run on 10%" becomes: pull your own margin from the accounts, this week. The steps are in [how to calculate profit margin](/blog/how-to-calculate-profit-margin/).
 
-**4. Decide which checks to do by hand.** Multiply the chance of a wrong answer by the cost of the decision. If the result beats the cost of the check, check by hand.
+**4. Decide which checks to do by hand.** Multiply the chance of a wrong answer by the cost of the decision. If the result beats the cost of the check, check by hand. The rule is worked out in [AI for business decisions](/blog/ai-for-business-decisions/).
 Say the assistant is wrong in one case out of ten. A €2,000 equipment decision carries €200 of expected damage. A fifteen-minute check at €40 an hour costs €10. Check it. A €20 pastry order carries €2. Check a sample of one in ten instead.
 
 **5. Restart when the numbers drift.** If the answers turn vague or stop matching your figures, treat it as an error. Find the cause, then open a clean conversation and give the goals and the state again.
@@ -103,7 +105,7 @@ Each of those sits inside a decision. On one €2,000 decision, even a one-in-te
 
 The human cost: the owner acts at midnight on a grace period that does not exist.
 
-The villain is not the assistant. It is the habit of asking with nothing on the table: no order of goals, no measured numbers, no rules. A fluent answer is not a measured one.
+The villain is not the assistant. It is the habit of asking with nothing on the table: no order of goals, no measured numbers, no rules. A fluent answer is not a measured one. A related trap is [AI sycophancy](/blog/ai-sycophancy/), the assistant that only agrees.
 
 ## What the audit does not fix
 
@@ -114,7 +116,7 @@ The cause stays in place. The assistant still has no anchor. No ranked goals, no
 Two steps remove the cause.
 
 - **Your goal order and your measured state, on paper before you ask.** Then it has no priorities to invent and no gaps to fill. The refusal test and the state table are the first two steps of the model.
-- **The canon and the operating prompt.** A fixed order of analysis, rules for questions and a restart rule. Appendices H and I.
+- **The canon and the operating prompt.** A fixed order of analysis, rules for questions and a restart rule. Appendices H and I. The canon is also public on [GitHub](https://github.com/mjirgensons/jirgenson-canon).
 
 Without them, you are proofreading a confident stranger.
 

@@ -21,7 +21,7 @@ The fix is to plan in the other direction. The answer comes from the Jirgenson M
 
 ## What a 90 day plan is, and why direction matters
 
-A 90 day plan is a plan for the next three months, split into checkpoints at day 30, day 60 and day 90. You meet it in new jobs, product launches and quarterly business goals.
+A 90 day plan is a plan for the next three months, split into checkpoints at day 30, day 60 and day 90. You meet it in new jobs, product launches and quarterly business goals. For the full year, see [annual planning](/blog/annual-planning/).
 
 The usual version runs forward. What first? What next? Every step adds options, and by week three the plan is a wish list.
 
@@ -29,11 +29,11 @@ A navigation app works the other way. It knows where you are and where you are g
 
 <div class="def"><strong>In the Jirgenson Model,</strong> this is the backward move. You define the end result first. Then, at every step, you ask one question: what must be true immediately before this? The answers form a chain of conditions, and the first link tells you what to do now.</div>
 
-Forward planning asks what you can do. Backward planning asks what must already be true. The second question has fewer answers, and each one has a date.
+Forward planning asks what you can do. [Backward planning](/blog/backward-planning/) asks what must already be true. The second question has fewer answers, and each one has a date.
 
 ## The 90 day plan template, filled in
 
-Here is Andrew, who runs a coffee shop, at the end of month 9. His goal number one is a cash reserve of at least 2.0 months of expenses by the end of month 12. That deadline sits exactly 90 days away.
+Here is Andrew, who runs a coffee shop, at the end of month 9. His goal number one is a cash reserve of at least 2.0 months of expenses by the end of month 12. That deadline sits exactly 90 days away. How to count that figure is in [cash reserve months of expenses](/blog/cash-reserve-months-of-expenses/).
 
 Month 8 was bad. A supplier raised prices by 8%, a repair ate part of the reserve, and a barista left. The margin fell from 15% to 12%. In month 9 Andrew raised his prices by 5%, and the margin came back to 15%.
 
@@ -74,7 +74,7 @@ Subtract the minimum: 1.74 minus 1.47 leaves 0.27. That is his headroom.
 
 Headroom is the size of the mistake the plan can survive. The repair in month 8 cost about 0.10 months of reserve. So Andrew's plan can take two more repairs like it and still close on time.
 
-The first row answers "what do I do this week?" For Andrew: keep the new prices, and watch the average margin per receipt every week. If any checkpoint lands below its minimum, he adds a lever before the next one.
+The first row answers "what do I do this week?" For Andrew: keep the new prices, and watch the average margin per receipt every week. If any checkpoint lands below its minimum, he adds a lever before the next one. That weekly margin is his [leading indicator](/blog/what-is-a-leading-indicator/).
 
 Here is the whole sheet after the quarter:
 
@@ -85,7 +85,7 @@ Here is the whole sheet after the quarter:
 | Day 60 (M11) | 1.82 | 2.09 | +0.27 | Add a lever this week |
 | Day 90 (M12) | 2.00 | 2.27 | +0.27 | Goal met |
 
-One sheet, four rows, five columns. It takes about twenty minutes to draw.
+One sheet, four rows, five columns. It takes about twenty minutes to draw. The full model behind the sheet is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## A 90 day plan example: the same quarter at two margins
 
@@ -120,7 +120,7 @@ Andrew's second coffee shop shows it. He walked back from the opening at month 3
 
 If the fit-out is unfinished at month 27, the opening is already late. You know it on day 0, with three months left to act.
 
-The same walk works for a new role or a launch: day 90 first, then day 60, day 30 and this week.
+The same walk works for a new role or a [launch](/blog/product-launch-plan/): day 90 first, then day 60, day 30 and this week.
 
 The chain also exposes goals that look too big. Andrew once pictured ten coffee shops in five years. Walked back, that goal landed on one task for this week: hire a senior barista and start writing procedures. If he cannot free his hands today, the tenth shop is a daydream. The mistake shows up now, not in year five.
 
@@ -146,10 +146,10 @@ The cause sits one level deeper. The chain trusts two things it cannot check. It
 
 Two steps close that gap:
 
-- **The three offsets.** A day 90 that fights another goal. A day 0 measured wrong. A market fading under the plan. How to test all three before you commit: Chapter 11.
+- **The three offsets.** A day 90 that [fights another goal](/blog/mutually-exclusive-goals/). A day 0 measured wrong. A market fading under the plan. How to test all three before you commit: Chapter 11.
 - **The tolerance corridor and launch conditions.** How far you may stray from the line, in value and in time. And the measurable event that lets a big move begin. Chapter 10.
 
-Without them, the chain tells you where you must be. It does not yet tell you whether the route is real.
+Without them, the chain tells you where you must be. It does not yet tell you whether the route is real. Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well as on Kindle.
 
 The chain is one link in a loop: goal, state, gap, levers, plan, forecast. It turns the goal and the forecast into dates you can check. Each checkpoint still needs a plan behind it: which levers, what is off limits, who owns it. That page is the [one page business plan](/blog/one-page-business-plan/).
 
@@ -165,7 +165,7 @@ The chain is one link in a loop: goal, state, gap, levers, plan, forecast. It tu
 
 ## Day 0 or day 90
 
-You have two choices this quarter. Write a forward list, look at it on day 89, and blame the season. Or write day 90 tonight and walk back to this week.
+You have two choices this quarter. Write a forward list, look at it on day 89, and blame the season. Or write day 90 tonight and walk back to this week. A filled-in [backward planning template](/blog/backward-planning-template/) helps on the first try.
 
 The chain gives you the line. The three offsets and the corridor tell you if the line is real, and how far you may drift from it before you act.
 
@@ -185,7 +185,7 @@ Five columns: the checkpoint, its minimum, today's measured figure, the headroom
 
 ### What is a good 90 day plan example?
 
-A coffee shop needs a cash reserve of 2.0 months of expenses in 90 days. Walking back gives minimums of 1.82, 1.65 and 1.47. Today's 1.74 leaves 0.27 of headroom. *Steer, Don't Guess* works through the full chain, including the scenario with less room.
+A coffee shop needs a cash reserve of 2.0 months of expenses in 90 days. Walking back gives minimums of 1.82, 1.65 and 1.47. Today's 1.74 leaves 0.27 of headroom. *Steer, Don't Guess* by [Martin Jirgenson](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson) works through the full chain, including the scenario with less room.
 
 ## Published research
 

@@ -62,25 +62,25 @@ The danger is not the long answer. You can skip a long answer. The danger is the
 
 Picture the next six months. You ask, the assistant agrees, you act. It agrees with the hire, the discount and the new van. Each answer feels like a second opinion. None of them is one, because none was checked against what you would give up last.
 
-Then a Monday comes when three things break at once. You spend the day on the loudest fire, not the most dangerous one. The assistant helps you write a fine email about the wrong problem.
+Then a Monday comes when three things break at once. You spend the day on the loudest fire, not the most dangerous one. The assistant helps you write a fine email about the wrong problem. What to fix first on such a day is in [business triage](/blog/business-triage/).
 
-A second opinion that always agrees is not a second opinion. It is an echo.
+A second opinion that always agrees is not a second opinion. It is an echo. That habit has a name: [AI sycophancy](/blog/ai-sycophancy/).
 
 ## Better wording will not fix it
 
 The usual advice is "write better prompts". Better wording gets you a better essay.
 
-It does not give the assistant a model of management: what a goal is, where a red line sits, what you can change yourself. So it still fills the gaps in your data with something plausible. That is how ChatGPT makes things up: not out of malice, but because a smooth answer needs no gaps.
+It does not give the assistant a model of management: what a goal is, where a red line sits, what you can change yourself. So it still fills the gaps in your data with something plausible. That is how ChatGPT makes things up: not out of malice, but because a smooth answer needs no gaps. An [AI hallucinations example](/blog/ai-hallucinations-example/) shows how it looks.
 
-The fix is a rulebook, not a cleverer question.
+The fix is a rulebook, not a cleverer question. One tested rulebook is the [ChatGPT prompt for business](/blog/chatgpt-prompt-for-business/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> an AI assistant is an analyst that works inside fixed rules. The canon says what management is: goals in order, the real state, the gap, the levers, the forecast. The operating prompt says how to work with you. No canon, no work.</div>
 
 ## The system that turns a talker into a colleague
 
-Two plain-text files do the job, and both are free on GitHub. You find them, with the steps, on the [AI assistant page](/ai-assistant/).
+Two plain-text files do the job, and both are [free on GitHub](https://github.com/mjirgensons). You find them, with the steps, on the [AI assistant page](/ai-assistant/).
 
-- **The canon** is the rulebook of the model.
+- **The canon** is the [rulebook of the model](https://github.com/mjirgensons/jirgenson-canon).
 - **The operating prompt** tells the assistant how to use it with you.
 
 Load both, and the assistant starts to pass the colleague test by design:
@@ -92,9 +92,9 @@ Load both, and the assistant starts to pass the colleague test by design:
 - It names the most dangerous thing.
 - It gives two forecasts, each with a range.
 
-It has three modes. Emergency gives you one action for today. Quick tells you where you are and what to do this week. Full works in rounds and asks up to five questions before the complete analysis. It works in ChatGPT, Claude and Gemini.
+It has three modes. Emergency gives you one action for today. Quick tells you where you are and what to do this week. Full works in rounds and asks up to five questions before the complete analysis. It works in ChatGPT, Claude and Gemini. For Claude, the setup is in [Claude prompts for business](/blog/claude-prompts/).
 
-We tested it blind against a good generic consultant prompt; the details are on the AI assistant page.
+We tested it blind against a good generic consultant prompt; the details are on the AI assistant page. The raw data is on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test).
 
 Next Monday looks different. You open one chat, paste your numbers, and the first lines tell you what to do today.
 
@@ -108,8 +108,8 @@ The assistant proposes answers to both. It will not choose them for you, and it 
 
 Two steps close that gap.
 
-- **The refusal order.** How to rank your goals by what you would defend to the end. Chapter 1.
-- **Red lines and the red protocol.** Where each number turns red, and what comes first when several turn red in the same week. Chapter 4.
+- **The refusal order.** How to [rank your goals](/blog/set-priorities-refusal-order/) by what you would defend to the end. Chapter 1.
+- **Red lines and the red protocol.** Where each [number turns red](/blog/kpi-zones/), and what comes first when several turn red in the same week. Chapter 4.
 
 Without them, a good colleague gets a vague brief.
 

@@ -29,7 +29,7 @@ Here is the irony. You can quote your view count to the last digit. You can't na
 
 That number didn't have to be so small. Some of those videos might have found more viewers if their makers had pushed on levers instead of on the count. With levers named, the typical number could look different.
 
-Split everything around your goal into two groups. What you change directly is a lever. What you can only hope for is an environmental factor. Work on the levers first, and take the factors into account.
+Split everything around your goal into two groups. What you change directly is a lever. What you can only hope for is an environmental factor. Work on the levers first, and take the factors into account. How to steer with the factors is in [external factors in business](/blog/external-factors-business/).
 
 A helmsman doesn't turn the ship with his bare hands. He turns the wheel, and the heading follows. Your views are the heading. You need the wheel.
 
@@ -67,7 +67,7 @@ Andrew's list:
 - purchasing: talk to the milk supplier;
 - portion size.
 
-**6. Put three questions to every lever.** Can I move it myself, today? How long before the effect shows? Can I undo it if it fails?
+**6. Put three questions to every lever.** Can I move it myself, today? How long before the effect shows? Can I undo it if it fails? The test is explained in [levers of control](/blog/levers-of-control/).
 
 | Lever | Myself, today? | When the effect comes | Rollback |
 |---|---|---|---|
@@ -78,12 +78,14 @@ Andrew's list:
 
 Start with what is fast and reversible. Leave the slow and the irreversible for later.
 
-**7. Add one leading indicator.** It points to the result before the result arrives.
+**7. Add one leading indicator.** It points to the result before the result arrives. More in [what is a leading indicator](/blog/what-is-a-leading-indicator/).
 Andrew, for the price lever: the number of receipts in the first two weeks after the change. For a channel: a figure you see within days, such as clicks on the new thumbnail.
 
 Andrew reread his short list and felt calmer. He had spent his nerves on everything at once: the rent, the weather, the customers' mood. Now he had four things he could tackle tomorrow morning.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the control vector is the set of levers: the parameters you can reach and change by your own decision. Environmental factors act on the goal but don't obey you. You work on the levers first and take the factors into account.</div>
+
+The full model is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Winner takes all? Test one lever with numbers
 
@@ -99,7 +101,7 @@ One lever delivered about 3 points of the six he needed. Then he asked the sharp
 
 That is how "raise the margin" turns into a question you can check: how many customers will leave? Your channel gets the same treatment. "More views" becomes "after this title change, does the click rate hold for two weeks?"
 
-Pull one lever at a time, with a small step. Then you know which lever did the work.
+Pull one lever at a time, with a small step. Then you know which lever did the work. Other levers for a margin are in [business levers](/blog/business-levers/).
 
 How to avoid the crumbs trap: stop measuring the giants. Measure your own lever against your own last month.
 
@@ -119,7 +121,7 @@ If the honest answer is "nobody", no effort will solve the task. Revisit the goa
 
 How a strong factor compares with your strongest lever, and when to change rivers, is in [creator economy for small creators](/blog/creator-economy/).
 
-How to avoid the empty sofa: write each goal so it has at least one lever you can pull this week.
+How to avoid the empty sofa: write each goal so it has at least one lever you can pull this week. For a channel plan on one page, see [1000 subscribers](/blog/1000-subscribers/).
 
 ## What six more months of "we need views" cost
 
@@ -139,7 +141,7 @@ It decides a lot. It is still a factor, not a lever.
 
 A driver on ice can't melt the ice or scold it. He has three levers: the steering wheel, the accelerator and the brake. The driver who gets angry at the road crew loses time. The one who eases off and steers into the skid regains control.
 
-The same list serves a coffee shop, a freelancer and a boy with a piggy bank. Alex's levers for €300 are as plain. He sets aside €20 a month of pocket money. Jobs for the neighbours bring about €30 a month. His old scooter brings about €60, once.
+The same list serves a coffee shop, a freelancer and a boy with a piggy bank. Alex's levers for €300 are as plain. He sets aside €20 a month of pocket money. Jobs for the neighbours bring about €30 a month. His old scooter brings about €60, once. His full plan is in [how to save for a goal](/blog/save-for-a-goal/).
 
 ## Where the lever list does not reach
 
@@ -149,10 +151,10 @@ The cause sits one level deeper. The list doesn't tell you which goal is in real
 
 Levers are one link in the loop: goal, state, error, levers, plan, forecast. Two more steps close the gap.
 
-- **Error zones and the red protocol.** Which number is in trouble, and which levers move first when several turn red. Chapter 4.
-- **The control concept.** One plan per goal, with resources, constraints, a leading indicator and an owner. Chapter 6.
+- **Error zones and the red protocol.** Which [number is in trouble](/blog/kpi-zones/), and which levers move first when several turn red. Chapter 4.
+- **The control concept.** [One plan per goal](/blog/one-page-business-plan/), with resources, constraints, a leading indicator and an owner. Chapter 6.
 
-Without them, you know what you can move. You don't yet know what to move first.
+Without them, you know what you can move. You don't yet know what to move first. Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -182,7 +184,7 @@ It is the market where creators, platforms and brands compete for people's time 
 
 ### How do small YouTubers get more views?
 
-Stop pushing on the view count and name your levers: topic, title, thumbnail, publishing day. Test one at a time with a small step. Watch a figure that moves within days, such as clicks on the new thumbnail.
+Stop pushing on the view count and name your levers: topic, title, thumbnail, publishing day. Test one at a time with a small step. Watch a figure that moves within days, such as clicks on the new thumbnail. Short videos on the method run on the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ### Why do my YouTube views stay low after every change?
 

@@ -21,17 +21,17 @@ A ticked list can leave the goal where it was. The Jirgenson Model fixes that as
 
 ## Why a task list is not an action plan
 
-Levers are bricks: prices, offers, channels, hours. A plan is the blueprint that says which bricks, in what order, with what resources, and inside which boundaries. Without the blueprint, a busy week looks like progress.
+[Levers](/blog/business-levers/) are bricks: prices, offers, channels, hours. A plan is the blueprint that says which bricks, in what order, with what resources, and inside which boundaries. Without the blueprint, a busy week looks like progress.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the plan for one goal is the control concept. It answers five questions: levers, resources, constraints, a leading indicator, and a deadline with an owner. If any answer is missing, you hold a wish, not a plan. The plans for all your goals together form the general concept.</div>
 
-A task list answers one question: what shall I do? The template below answers five. The four missing answers are where goals stall.
+A task list answers one question: what shall I do? The template below answers five. The model behind it is open on [GitHub](https://github.com/mjirgensons/jirgenson-model). The four missing answers are where goals stall.
 
 ## The action plan template, filled in
 
-Here is the whole template on one page. The example is Elena, a freelance designer. Her income swings between €800 and €2,200 a month and averages €1,300. One client pays 70% of it. She works fifty hours a week. Her goal: a three-month average income of at least €3,000 by month 14, with no client above 30%.
+Here is the whole template on one page. The example is Elena, a freelance designer. Her income swings between €800 and €2,200 a month and averages €1,300. One client pays 70% of it. How she cut that share is told in [client concentration risk](/blog/client-concentration-freelancer/). She works fifty hours a week. Her goal: a three-month average income of at least €3,000 by month 14, with no client above 30%.
 
-One lever for that goal is her first online book. This is her launch plan.
+One lever for that goal is her first online book. This is her [launch plan](/blog/book-launch-plan/).
 
 | Row | The question | Elena's entry |
 |---|---|---|
@@ -53,7 +53,7 @@ A lever is something you change with your own hands this week. "Sell more books"
 
 Hours do not appear from nowhere, so name where each one comes from. Elena's 120 hours over three months come to about ten a week. Five sit on top of her usual fifty, inside a cap of 55 she set in advance for the book months. The other five come from turning down small orders.
 
-That last line is the honest one. A plan that adds hours without saying what gets dropped is a plan to burn out.
+That last line is the honest one. A plan that adds hours without saying what gets dropped is a plan to [burn out](/blog/business-owner-burnout/).
 
 ### Row 3: constraints, written while you are calm
 
@@ -63,7 +63,7 @@ Elena's two constraints protect her name and her price. Andrew, the coffee shop 
 
 ### Row 4: a leading indicator you check weekly
 
-The result arrives late. Income at month 14 tells you nothing in month 5. So pick a number that moves first.
+The result arrives late. Income at month 14 tells you nothing in month 5. So [pick a number that moves first](/blog/what-is-a-leading-indicator/).
 
 Elena tested a trial stream of visitors to her page: 1.5 buyers per 100 visitors. At 1,400 visitors a month, that is 21 sales and about €609 before fees. So 350 visitors a week is the number to watch. If it holds, the income follows.
 
@@ -85,7 +85,7 @@ Alex wants €300 for a bicycle by 1 September. On 1 May he has €40. His lever
 | Already in the piggy bank | €40 |
 | **Total** | **€300** |
 
-The plan covers the gap with nothing to spare. So he drew a line to check against every Sunday: €105 on 1 June, €170 on 1 July, €235 on 1 August. On 1 June he had €90. Behind the line. His rule was simple: when he falls behind, he adds a lever.
+The plan covers the gap with nothing to spare. So he drew a line to check against every Sunday: €105 on 1 June, €170 on 1 July, €235 on 1 August. On 1 June he had €90. Behind the line. His rule was simple: when he falls behind, he adds a lever. His whole plan is in [how to save for a goal](/blog/save-for-a-goal/).
 
 A thirteen-year-old with a piggy bank runs a tighter plan than a business with a forty-item task list.
 
@@ -110,7 +110,9 @@ Two steps of the system handle that.
 - **Control by forecast** (Chapter 9). Two forecasts, "if nothing changes" and "if the plan works", so you act before the miss shows up.
 - **Steady mode and manoeuvre** (Chapter 10). When a miss means change the plan, and when it means change the goal.
 
-Without them, the page tells you what to do. It does not tell you what to do when the page turns out wrong.
+Without them, the page tells you what to do. It does not tell you what to do when the page turns out wrong. The [control cycle](/blog/control-cycle-management/) post explains why reactive management runs late.
+
+Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) and the Kindle edition.
 
 ## "I have no time to plan"
 
@@ -150,7 +152,7 @@ Five rows. What you will change, and what it costs in time and money. What you w
 
 ### How do I know if my action plan is working before the deadline?
 
-Watch the leading indicator every week and compare it with a planned line. *Steer, Don't Guess* shows how to build that line as a forecast, so a shortfall shows up months before the deadline.
+Watch the leading indicator every week and compare it with a planned line. *Steer, Don't Guess* by [Martin Jirgenson](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson) shows how to build that line as a forecast, so a shortfall shows up months before the deadline.
 
 ## Published research
 

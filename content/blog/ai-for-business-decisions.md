@@ -23,7 +23,7 @@ The risk isn't the speed of the answer. It's a confident number you never gave t
 
 An assistant asked about your business has to say something. So it does.
 
-If a number is missing, it fills the hole with something plausible. If you did not say what matters most, it chooses for you. Then it hands you the result in perfect sentences, and there is nothing to check it against.
+If a number is missing, it fills the hole with something plausible. Here is an [AI hallucinations example](/blog/ai-hallucinations-example/) of that. If you did not say what matters most, it chooses for you. Then it hands you the result in perfect sentences, and there is nothing to check it against.
 
 That is the trouble with most AI business advice. The grammar is flawless. The source of each number is unknown.
 
@@ -40,9 +40,11 @@ Any tool, from a spreadsheet to a chatbot, can sit in your control loop in one o
 | 3. Prepare the decision | Gathers options, consequences, questions | The first option to hand gets quietly accepted | A person approves the order of goals | It proposes "reserve first"; Andrew confirms it |
 | 4. Execute | Reminds, orders, sends | A mistake repeated at speed; actions you cannot undo | Limited rights, a log, a person confirms | It drafts the supplier email; Andrew presses send |
 
-Read the table from top to bottom. The further down, the more a mistake costs. So the access you give the assistant should shrink as you go down.
+Read the table from top to bottom. The further down, the more a mistake costs. So the access you give the assistant should shrink as you go down. The two forecasts in row 2 are drawn in [how to forecast cash flow](/blog/forecast-cash-flow/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a tool is not a lever. With a lever you move the process. With a tool you see and calculate. An assistant is a tool: it can see, calculate and prepare, while the choice and the responsibility stay with you.</div>
+
+The same split runs through [AI in management](/blog/ai-in-management/): the tool computes, the owner decides.
 
 ## The check-it rule, filled in
 
@@ -63,7 +65,7 @@ Here is the rule at work, with p = 0.1 (one wrong answer in ten):
 
 Then add one test that takes two minutes. Give the assistant your goal rows and your state rows, and ask for the gaps. Andrew's five rows must come back as −1.5, −6, −15, +3 and +25. Any other number means the assistant did not calculate from your data.
 
-Treat that as a red light. Find the cause: the data, the calculation or the version of the rules. Then start a fresh conversation and enter your goals and your state again.
+Treat that as a red light. Find the cause: the data, the calculation or the version of the rules. Then start a fresh conversation and enter your goals and your state again. Five rules against invented facts are in [how to prevent AI hallucinations](/blog/how-to-prevent-ai-hallucinations/).
 
 That is the whole tool: four jobs with their safeguards, one line for when to check, and one two-minute test.
 
@@ -81,11 +83,11 @@ Across all ten, the same AI scored 58% higher with the rulebook than with nothin
 
 That is 31% above a good generic prompt. A blind judge preferred the answer with the rules 30 times out of 30. Rule violations fell to zero in 120 blind reviews. Control quality doubled, from 4.2 to 8.3 out of 10. And the answers got shorter, from 501 to 454 words.
 
-One detail is almost funny. The only invented fact in 120 reviews was copied from the prompt's own example sentence. The assistant did not make it up. It borrowed it.
+One detail is almost funny. The only invented fact in 120 reviews was copied from the prompt's own example sentence. The assistant did not make it up. It borrowed it. The test files are also in the [experiment folder on GitHub](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10).
 
 ## What six months of trusting the guess cost
 
-Andrew's own story shows the cost without any AI in it. He believed his margin was about twenty per cent. It was 9%. That week he had planned a second barista and an advertising campaign, both resting on a margin that did not exist.
+Andrew's own story shows the cost without any AI in it. He believed his margin was about twenty per cent. It was 9%. That week he had planned a second barista and an advertising campaign, both resting on a margin that did not exist. How to find the true figure is in [how to calculate profit margin](/blog/how-to-calculate-profit-margin/).
 
 Feed that twenty per cent to an assistant, and it will build a handsome plan on it. Fast, tidy and wrong. Within a few months the money runs out, and no one understands why.
 
@@ -93,7 +95,7 @@ With a plan built on the honest 9%, the café reaches two months of reserve at m
 
 ## "Can I trust a test run by AI?"
 
-Ask that question. The answer is in the limits. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934). Results with other assistants may differ.
+Ask that question. The answer is in the limits. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934). Results with other assistants may differ. The same data sits on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test). A copy is also on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt).
 
 The rule above does not ask you to trust the test. It asks you to keep your own log and to check the expensive answers by hand.
 
@@ -101,14 +103,14 @@ The rule above does not ask you to trust the test. It asks you to keep your own 
 
 Be clear about what the check-it rule does. It treats a symptom: bad answers no longer slip through on expensive decisions.
 
-The cause is still in place. The assistant invents and chooses because you have not given it two things. It has no order of goals, so it picks your priorities. It has no thresholds, so it cannot tell a yellow number from a red one.
+The cause is still in place. The assistant invents and chooses because you have not given it two things. It has no [order of goals](/blog/set-priorities-refusal-order/), so it picks your priorities. It has no [thresholds](/blog/kpi-zones/), so it cannot tell a yellow number from a red one.
 
 Two steps close that gap.
 
 - **The goal list in refusal order.** What you would give up first and what you defend last. Chapter 1.
 - **The zone thresholds and the red protocol.** Where each number turns yellow or red, and what goes first when several are red. Chapter 4.
 
-The free rulebook files, and how to load them step by step, are in [the ChatGPT prompt for business](/blog/chatgpt-prompt-for-business/). Without your goals and thresholds, even the best ChatGPT prompt for business is guessing about the two things only you know.
+The free rulebook files, and how to load them step by step, are in [the ChatGPT prompt for business](/blog/chatgpt-prompt-for-business/). The canon itself is public in the [Jirgenson canon repository](https://github.com/mjirgensons/jirgenson-canon). Without your goals and thresholds, even the best ChatGPT prompt for business is guessing about the two things only you know.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

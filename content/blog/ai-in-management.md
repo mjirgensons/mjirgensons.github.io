@@ -19,11 +19,13 @@ Nobody planned it that way. The assistant answered the question it was given, as
 
 That minute is where businesses drift.
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## AI in management: what a tool means on a Thursday
 
 A drill does not decide where the shelf goes. A calculator does not decide what to sell. Nobody needs reminding of that.
 
-With AI, people forget. The tool writes in full sentences. It sounds calm. It answers faster than any adviser you could hire. So its proposals start to feel like decisions.
+With AI, people forget. The tool writes in full sentences. It sounds calm. It answers faster than any adviser you could hire. So its proposals start to feel like decisions. If late decisions wear you down, read [decision fatigue in a small business](/blog/decision-fatigue-small-business/).
 
 AI is a tool. So the useful question is not how smart it is. The useful question is who decides what. Get that split right, and the assistant becomes the best instrument on your desk. Get it wrong, and it quietly steers the business by its own enthusiasm.
 
@@ -51,17 +53,17 @@ Read the table once more and look at the pattern. The AI owns the arithmetic. Yo
 
 Run these on any reply before you move money, people or stock.
 
-1. **Is every number mine or shown arithmetic?** If a figure appears that you never gave and cannot trace, stop. Ask where it came from.
-2. **Is the order of goals mine?** Say the plan puts growth first, and you put cash first. Then the plan is for someone else's business.
+1. **Is every number mine or shown arithmetic?** If a figure appears that you never gave and cannot trace, stop. Ask where it came from. An [AI hallucinations example](/blog/ai-hallucinations-example/) shows what to look for.
+2. **Is the order of goals mine?** Say the plan puts growth first, and you put cash first. Then the plan is for someone else's business. How to set that order is in the [refusal test](/blog/set-priorities-refusal-order/).
 3. **Can I undo this step?** If yes, try it and measure. If no, decide it yourself, with your own numbers, after a night's sleep.
 
-Three checks. Two minutes. They keep the instrument an instrument. Call it the smallest decision making framework for AI.
+Three checks. Two minutes. They keep the instrument an instrument. Call it the smallest decision making framework for AI. For a rule on when to check by hand, see [AI for business decisions](/blog/ai-for-business-decisions/).
 
 ## What a tool at the wheel costs
 
 Hand the wheel to the tool for six months and nothing explodes. That is the trouble.
 
-You raise prices because the reply said so. You drop a product because the reply called it weak. Each step feels checked, because a confident voice agreed. None was checked against what you would give up last.
+You raise prices because the reply said so. You drop a product because the reply called it weak. Each step feels checked, because a confident voice agreed. That is [AI sycophancy](/blog/ai-sycophancy/) at work. None was checked against what you would give up last.
 
 Then a Monday comes when the stock order and the tax bill land in the same week. You find out the order of your goals was never yours. It was the order of the last reply.
 
@@ -73,13 +75,13 @@ It knows more facts. It does not know your business.
 
 It does not know that the shop pays your daughter's tuition, or that you promised your one employee a stable winter. It does not know what you would defend to the end. That knowledge is the steering. The facts are the engine.
 
-A good AI knows this about itself, but only if you give it rules that say so.
+A good AI knows this about itself, but only if you give it rules that say so. Those rules are set out in the [ChatGPT prompt for business](/blog/chatgpt-prompt-for-business/).
 
 ## A system that keeps the split
 
 The split in the table is not something you must remember every time. You can hand it to the assistant as rules.
 
-The Jirgenson Model has two plain-text files for this, free on GitHub, with setup steps on the [AI assistant page](/ai-assistant/). The canon is the rulebook of the model. The operating prompt tells the assistant how to work with you.
+The Jirgenson Model has two plain-text files for this, [free on GitHub](https://github.com/mjirgensons), with setup steps on the [AI assistant page](/ai-assistant/). The canon is the [rulebook of the model](https://github.com/mjirgensons/jirgenson-canon). The operating prompt tells the assistant how to work with you.
 
 With both loaded, the assistant keeps to its side of the table:
 
@@ -92,7 +94,7 @@ With both loaded, the assistant keeps to its side of the table:
 
 Three modes match the moment: emergency for one action today, quick for this week, full for a complete analysis in rounds. It works in ChatGPT, Claude and Gemini.
 
-We tested it blind against a good generic consultant prompt; the details are on the AI assistant page.
+We tested it blind against a good generic consultant prompt; the details are on the AI assistant page. The full record is on [Zenodo](https://doi.org/10.5281/zenodo.23964934). The data is also open on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt).
 
 Next Thursday, the supplier email arrives again. You paste it in. The reply opens with your new margin, asks one question about your goals, and leaves the decision on your side of the desk.
 
@@ -103,7 +105,7 @@ The table fixes a symptom: the tool drifting into the owner's chair. The rules g
 The deeper cause sits in your own column. Two rows there decide how good the split can be, and the assistant cannot fill them for you.
 
 - **An honest state, one source per number.** If your figures disagree with each other, the best instrument measures noise. Chapter 2.
-- **When to change the plan and when to change the goal.** A bad month is a reason to change the plan. It is rarely a reason to change the goal. Chapter 10 holds the exact rule.
+- **When to change the plan and when to change the goal.** A bad month is a reason to [change the plan](/blog/when-to-pivot-small-business/). It is rarely a reason to change the goal. Chapter 10 holds the exact rule.
 
 Without them, you keep the wheel but drive on a foggy map.
 

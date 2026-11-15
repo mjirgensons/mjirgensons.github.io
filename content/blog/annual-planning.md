@@ -23,9 +23,11 @@ The answer to that comes from the Jirgenson Model: a goal list with an order, fr
 
 Annual planning is the yearly job of choosing what a business should achieve in the next twelve months, and how.
 
-It breaks in two places. Methods sneak in where goals belong. And the surviving goals stay "equally important" until the first bad week, when fatigue sorts them for you.
+It breaks in two places. Methods sneak in where goals belong. And the surviving goals stay "equally important" until the first bad week, when fatigue sorts them for you. A list that has grown too long is cut in [too many goals](/blog/too-many-goals/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the annual plan is a goal vector inside a frame. The vector holds at most nine measurable goals, ranked by the order in which you would give them up. Below it sit the constraints and minimum levels you never trade. Above it sits a rule for spending what is left. The vector may change over the year, but at any moment it is fixed and written down.</div>
+
+The model behind the page is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 Four steps build that page, each with Andrew's coffee shop entry.
 
@@ -43,7 +45,7 @@ Take each line and ask "what for?" until a measurable result appears.
 
 Three methods collapsed into two goals already on the list. That freed a place for the line that sat last on the draft: money in reserve. It became number one.
 
-Then test each survivor for a number, a unit and a deadline. "A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by month 6" is a goal.
+Then test each survivor for a number, a unit and a deadline. "A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by month 6" is a goal. The full test is in [how to set measurable goals](/blog/how-to-set-measurable-goals/).
 
 ## Step 2: Rank what is left
 
@@ -57,7 +59,7 @@ Andrew ended with five goals. Months count from the night he wrote them: M0 is t
 | 4 | Quality | No more than 2 complaints a week | M3 |
 | 5 | Owner's time | No more than 40 hours a week | M12 |
 
-The rank comes from one question: if you had to drop these goals one by one, which would go first? Andrew put his own hours last, and it surprised him. The reserve went first, because without it nothing else survives.
+The rank comes from one question: if you had to drop these goals one by one, which would go first? Andrew put his own hours last, and it surprised him. The reserve went first, because without it nothing else survives. That question is the [refusal test](/blog/set-priorities-refusal-order/).
 
 Sara, his senior barista, would have put quality first. Neither of them was wrong. Someone else's order fits you no better than someone else's shoes.
 
@@ -88,7 +90,7 @@ A plan can have every field filled and still be built wrong. Check for five defe
 | A broken order | Expensive beans for "quality" while the reserve is below its minimum |
 | Duplicates | "Satisfied customers" and "few complaints" as two lines |
 
-The first check is the one with teeth. Test "10% cheaper than today and a 15% margin" against Andrew's costs. At those costs, customer numbers would need to rise by 31%. His room and his baristas could handle 10% more at most. One goal had to go before any work began.
+The first check is the one with teeth. Test "10% cheaper than today and a 15% margin" against Andrew's costs. At those costs, customer numbers would need to rise by 31%. His room and his baristas could handle 10% more at most. One goal had to go before any work began. The arithmetic is shown in [mutually exclusive goals](/blog/mutually-exclusive-goals/).
 
 ## Quarterly planning inside the annual plan
 
@@ -101,15 +103,15 @@ A good annual planning template spreads the deadlines. Andrew's do that on their
 | Q3 (M9) | None: check the year-end goals |
 | Q4 (M12) | Reserve, regular customers, owner's hours |
 
-Each quarter asks two questions. Is the plan working? Did the forecast match the facts? That is the whole quarterly planning template. The goals themselves, and their order, get a review every six months or once a year.
+Each quarter asks two questions. Is the plan working? Did the forecast match the facts? That is the whole quarterly planning template. The goals themselves, and their order, get a review every six months or once a year. How often to read each number is in [how often to review KPIs](/blog/how-often-to-review-kpis/).
 
 Between reviews, a goal changes only by a written decision. Andrew later raised his hours limit to 45 for six months, while opening a second shop. He wrote it down with an end date.
 
 ## Personal goal setting: the same page for a life goals list
 
-The four layers work for a person too. Alex is thirteen. He wants a €300 bicycle by 1 September, football twice a week, and unlimited time on his games console. Football camp leaves him two free evenings a week, so the order becomes easy. Games go first, capped at 10 hours a week. The bicycle stays to the end. His constraints: no borrowing, no skipping school to earn money.
+The four layers work for a person too. Alex is thirteen. He wants a €300 bicycle by 1 September, football twice a week, and unlimited time on his games console. Football camp leaves him two free evenings a week, so the order becomes easy. Games go first, capped at 10 hours a week. The bicycle stays to the end. His constraints: no borrowing, no skipping school to earn money. His savings plan is in [how to save for a goal](/blog/save-for-a-goal/).
 
-A life goals list fails the way a business plan does: too many lines, no order, methods dressed as dreams. The same four steps fix it.
+A life goals list fails the way a business plan does: too many lines, no order, methods dressed as dreams. The same four steps fix it. For the personal side, see [how to prioritize your life](/blog/how-to-prioritize-your-life/).
 
 ## What a year without the frame costs
 
@@ -132,7 +134,7 @@ Two steps close that gap:
 - **The measured starting state.** One source for every number, and the whole state measured in one evening. Chapter 2.
 - **Zone thresholds and the red protocol.** Where each goal turns yellow and red, and the order of action when several turn red at once. Chapter 4.
 
-Without them, the page tells you what matters most. It does not yet tell you where you stand, or when to act.
+Without them, the page tells you what matters most. It does not yet tell you where you stand, or when to act. Both chapters are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 The page is the first link in a loop: goal, state, gap, levers, plan, forecast. To turn it into a working year in three passes (tonight, this week, this month), see [how to set goals for next year](/blog/goals-for-next-year/).
 
@@ -164,7 +166,7 @@ The yearly job of choosing what a business should achieve over the next twelve m
 
 ### What should an annual planning template include?
 
-Four layers. Constraints you never break. Minimum levels below which the business stops being viable. Up to nine ranked goals, each with a number, unit and deadline. And a rule for spending what is left. *Steer, Don't Guess* adds the fields, zones and review rhythm for each goal.
+Four layers. Constraints you never break. Minimum levels below which the business stops being viable. Up to nine ranked goals, each with a number, unit and deadline. And a rule for spending what is left. *Steer, Don't Guess* by [Martin Jirgenson](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson) adds the fields, zones and review rhythm for each goal.
 
 ### How does quarterly planning fit into an annual plan?
 
