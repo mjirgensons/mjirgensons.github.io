@@ -15,13 +15,13 @@ He owns a coffee shop on a corner. He wrote the list the way you write yours: ev
 
 Open your own list. The notebook from January, the strategy document, the sticky note on the monitor. Count the items.
 
-Twelve goals, three dashboards, and nobody can say which one wins on Friday. That is not ambition. It is a queue, and the next phone call decides who goes first.
+Twelve goals, three dashboards, and nobody can say which one wins on Friday. That is not ambition. It is a queue, and [the next phone call decides](/blog/reactive-vs-proactive-management/) who goes first.
 
-A list without an order lets the loudest call win. The Jirgenson Model starts with goals in order, each with a number, a unit and a deadline, so Friday's choice is made before Friday. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). That's what turns a queue into a plan.
+A list without an order lets the loudest call win. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-canon) starts with goals in order, each with a number, a unit and a deadline, so Friday's choice is made before Friday. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). That's what turns a queue into a plan.
 
 ## Why too many goals means no goals
 
-A ship cannot sail to two ports at once. A captain who loves both will dash back and forth, burn fuel and arrive nowhere. You pick the port before you leave the harbour, not in the middle of a storm.
+A ship cannot sail to [two ports at once](/blog/competing-priorities-conflicting-goals/). A captain who loves both will dash back and forth, burn fuel and arrive nowhere. You pick the port before you leave the harbour, not in the middle of a storm.
 
 Too many goals work the same way. Cash wants you to cut costs. Quality wants you to spend. When the list has no order, the choice falls to whoever asks loudest. An [Eisenhower matrix alternative](/blog/eisenhower-matrix-alternative/) fixes that: rank the goals first, then let each task in.
 
@@ -35,7 +35,7 @@ Run every item through five filters, in this order. Andrew's entries sit next to
 
 ### 1. Is it a goal or a method?
 
-Ask of each item: what for? Andrew had three methods on his list.
+Ask of each item: [what for?](/blog/goal-hierarchy/) Andrew had three methods on his list.
 
 | Item on the list | What for? | The real goal |
 |---|---|---|
@@ -57,7 +57,7 @@ Write a method into your goals and you commit to one road before you have seen t
 
 ### 4. Does it have a number, a unit and a deadline?
 
-"A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by the sixth month" is a goal. Anything that fails this test is a wish. Give it a number or let it go.
+"A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by the sixth month" is a goal. Anything that fails this test is a wish. [Give it a number](/blog/how-to-set-measurable-goals/) or let it go.
 
 ### 5. Does the list fit in six areas and nine rows?
 
@@ -104,9 +104,9 @@ A tie on paper becomes a clear choice once the list has an order.
 
 Picture Andrew with five goals and no order. The supplier raises the price of milk. Sara asks for another barista on Friday shifts. Andrew agrees, because he is tired and does not want to argue. A month later he runs out of money before he runs out of time.
 
-The numbers behind that month are blunt. His reserve stood at 0.5 months against a goal of 2.0. In money, that gap is about €40,950. At a 9% margin with nothing changed, the reserve reaches its goal at month 16. With the plan working, month 10. By the end of month 3 it would sit near 0.8 months, below his red line.
+The numbers behind that month are blunt. His [reserve stood at 0.5 months](/blog/cash-reserve-months-of-expenses/) against a goal of 2.0. In money, that gap is about €40,950. At a 9% margin with nothing changed, the reserve reaches its goal at month 16. With the plan working, month 10. By the end of month 3 it would sit near 0.8 months, below his red line.
 
-And the human cost: the owner works another Sunday he had promised himself, and still cannot say if payroll is safe.
+And the human cost: the owner works [another Sunday he had promised himself](/blog/business-owner-burnout/), and still cannot say if payroll is safe.
 
 The enemy is not the size of your ambition. It is the habit of letting problems queue up in the order they arrive.
 
@@ -131,7 +131,7 @@ Two steps close that gap.
 
 Without them, the list tells you what matters. It does not tell you when to move.
 
-The ranked list is the first step of a loop: goal, state, gap, levers, plan, forecast.
+The ranked list is the first step of a loop: goal, state, gap, levers, plan, forecast. The model behind that loop went through a blind test, recorded on [Wikidata](https://www.wikidata.org/wiki/Q142022866).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -149,7 +149,7 @@ You have two choices. Keep the long list, and let the next email decide what com
 
 The short list gives you an order. The sources and the zones tell you when the order needs action.
 
-Next Monday, a new problem lands on your desk. You check which goal it touches, and you know at once if it waits.
+Next Monday, a new problem lands on your desk. You check which goal it touches, and you know at once if it waits. For short notes on priorities, follow [Steer, Don't Guess on X](https://x.com/SteerDontGuess).
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters.
 

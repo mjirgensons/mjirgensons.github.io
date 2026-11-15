@@ -13,13 +13,13 @@ answer: "The small business failure rate gives the odds for everyone. It does no
 
 You know that line. You still open the laptop on Sunday night with a different question. Is mine one of them?
 
-The till says the week was busy. The bank says something else. You can't say if your margin is twenty per cent or nine.
+The till says the week was busy. The bank says something else. You can't say if [your margin](/blog/how-to-calculate-profit-margin/) is twenty per cent or nine.
 
 Here is the irony. The till counts every coffee to the cent. The owner's own position gets counted by feel.
 
-That gap between feeling and fact is where the failure rate lives. Close it first.
+That [gap between feeling and fact](/blog/gut-feeling-vs-numbers-business/) is where the failure rate lives. Close it first.
 
-Odds for everyone can't tell you where your own business stands. The Jirgenson Model answers that as a control system: goals in order, a real number beside each, zones. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Odds for everyone can't tell you where your own business stands. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-canon) answers that as a control system: goals in order, a real number beside each, zones. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Small business failure rate, year one: measure where you stand tonight
 
@@ -47,7 +47,7 @@ Andrew's snapshot at month zero:
 **4. Ask three questions of every figure.** Who counted it? How, exactly? Over what period? No answer means no number.
 Andrew asked Sara how many regulars they had. "Lots," she said. Neither of them knew.
 
-**5. Where there is no number, write the source and a date.** A row that says "source undefined" is already a result. You have found a hole in your management.
+**5. Where there is no number, write the source and a date.** A row that says "source undefined" is already a result. You have found [a hole in your management](/blog/management-self-check/).
 
 That is the whole tool. Goals on the left, the measured state on the right, line by line.
 
@@ -81,7 +81,7 @@ The panicker sees a catastrophe where there is only one bad row. The brave face 
 
 Refuse both. Read the table the way you read a fuel gauge. An instrument shows; it doesn't scold.
 
-Then give the readings an order. Rank your goals with the refusal test: which goal would you give up first, and which last? Andrew defended the cash reserve to the end and gave up his own hours first. With an order, the bad rows stop looking equal.
+Then give the readings an order. Rank your goals with [the refusal test](/blog/set-priorities-refusal-order/): which goal would you give up first, and which last? Andrew defended the cash reserve to the end and gave up his own hours first. With an order, the bad rows stop looking equal.
 
 How to avoid the slow slide: compare the two columns every week, not once a year. You can't answer "which side?" with a mood.
 
@@ -91,11 +91,11 @@ How to avoid the slow slide: compare the two columns every week, not once a year
 
 Andrew's coffee shop had been open two years. Every morning a queue formed at the door. By the end of each month the money had vanished. He sat at the kitchen table at two in the morning, going over the same numbers for the third time.
 
-He was sure his margin held at about twenty per cent. The table said 9%. He had never put waste into his cost of goods. Sour milk. Pastries written off at the end of the shift. Every write-off ate the margin and never showed up in a report.
+He was sure his margin held at about twenty per cent. The table said 9%. He had never [put waste into his cost of goods](/blog/how-to-track-write-offs/). Sour milk. Pastries written off at the end of the shift. Every write-off ate the margin and never showed up in a report.
 
 That week he planned to hire a second barista and launch an advertising campaign. Both rested on a margin that did not exist.
 
-What to do: count your write-offs this week and put them in the cost of goods. Then list only the levers you can pull yourself. Andrew crossed out rent, weather and foot traffic. Prices, menu, purchasing and portion size stayed.
+What to do: count your write-offs this week and put them in the cost of goods. Then list only [the levers you can pull yourself](/blog/levers-of-control/). Andrew crossed out rent, weather and foot traffic. Prices, menu, purchasing and portion size stayed.
 
 How to avoid it: no new spending until the margin in the table is the measured one.
 
@@ -125,11 +125,11 @@ Don't ask if the figure is precise. Ask if its error is small enough for this go
 
 Manage margin to one point while your records are off by three, and you manage noise. But to know if more or fewer than half your customers come back, a rough count of marks on the receipts will do.
 
-Andrew's old margin was off by eleven points. Once write-offs went into the count, it moved by about one point a month. The instrument worked.
+Andrew's old margin was off by eleven points. Once write-offs went into the count, it moved by about one point a month. The instrument worked. The test of the model itself is public, with its data on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test).
 
 ## Where the evening table stops
 
-Be clear about what you built. The table is the second link of one loop: goal, state, error, levers, plan, forecast. It treats the symptom. You stop driving at night without headlights.
+Be clear about what you built. The table is the second link of [one loop](/blog/jirgenson-model-management-method/): goal, state, error, levers, plan, forecast. It treats the symptom. You stop driving at night without headlights.
 
 The cause of bad decisions is still in place. You see 0.5 months, but you don't know where "worrying" ends and "act now" begins. You don't know which bad row to save first when three go bad in one week. And the table shows today, not month 16.
 
@@ -138,7 +138,7 @@ Two steps close that gap.
 - **Zone thresholds and the red protocol.** Where each line sits, and the order of action when several rows cross it at once. Chapter 4.
 - **Two forecasts.** "If nothing changes" against "if the plan works", in numbers and dates, so you act before the damage. Chapter 8.
 
-Without them, the table tells you where you are. It doesn't yet tell you what to do on the worst Monday.
+Without them, the table tells you where you are. It doesn't yet tell you what to do on the worst Monday. Both chapters sit in the book, also [in paperback on Amazon](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -154,7 +154,7 @@ Without them, the table tells you where you are. It doesn't yet tell you what to
 
 You have two choices tonight. Close this tab, trust the busy week, and wait to find out which side of the rate you're on. Or put five real numbers on one sheet before you sleep.
 
-Next Monday you open one page, not the bank app and a hope.
+Next Monday you open one page, not the bank app and a hope. Owners in Canada can order the book from [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 The sheet tells you where you stand. The zone thresholds, the red protocol and the two forecasts tell you when to act and what to save first. For the full numbers behind the reserve, see [cash reserve in months of expenses](/blog/cash-reserve-months-of-expenses/).
 

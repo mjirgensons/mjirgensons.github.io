@@ -9,11 +9,11 @@ keywords: [small business kpis, key business metrics for startups, ways to measu
 answer: "Good small business KPIs are the numbers tied to your goals, each with one data source and colour zones. Build the dashboard in six steps: choose the parameters, name a source for each, set up minimal measurement, fill in today's values honestly, set the zones, set the meeting rhythm. Measure fast numbers weekly and slow ones monthly."
 ---
 
-For a long time Andrew believed a "management system" was something you bought from a big consultancy: servers, licences, people in ties. When he finally built one for his coffee shop, it was a shared spreadsheet, a weekly export from the till, and a fifteen-minute Monday meeting. He already had half of the parts.
+For a long time Andrew believed a ["management system"](/blog/management-system-small-business/) was something you bought from a big consultancy: servers, licences, people in ties. When he finally built one for his coffee shop, it was a shared spreadsheet, a weekly export from the till, and a [fifteen-minute Monday meeting](/blog/meeting-cadence/). He already had half of the parts.
 
 That is the good news about small business KPIs. You do not need a platform. You need a short list of the right numbers, one source for each, and a rhythm for looking at them.
 
-A pile of numbers nobody reads won't steer a business. The Jirgenson Model answers it as a control system: goals in order, real numbers, colour zones and a steady rhythm. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A pile of numbers nobody reads won't steer a business. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) answers it as a control system: goals in order, real numbers, colour zones and a steady rhythm. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Small business KPIs: start from goals, not from a list
 
@@ -35,7 +35,9 @@ Here is the coffee shop's first dashboard, at month zero. Five rows, one screen:
 
 It reads in a minute, and you see at once where the fire is. Once two or three measurements have built up, add a trend column (up, down, flat): a single point shows no direction.
 
-A freelance designer's version has six rows: three goals (average income over three months, the share of her largest client, hours per week) and three leading indicators (visitors to her book page, the share who buy, newsletter subscribers). Her simple funnel, 1,400 visitors a month times 1.5% times €29, gives about €609 in book revenue. Each figure has a single source: the payment system for sales, the site counter for visits.
+Steer, Don't Guess posts short notes on reading numbers like these on [X](https://x.com/SteerDontGuess).
+
+A freelance designer's version has six rows: three goals (average income over three months, the share of her largest client, hours per week) and three [leading indicators](/blog/what-is-a-leading-indicator/) (visitors to her book page, the share who buy, newsletter subscribers). Her simple funnel, 1,400 visitors a month times 1.5% times €29, gives about €609 in book revenue. Each figure has a single source: the payment system for sales, the site counter for visits.
 
 ## Build the dashboard in six steps
 
@@ -63,7 +65,7 @@ Measure often enough that a number cannot slip across its whole yellow band unno
 | Account balance during a cash crisis | Days matter | Daily |
 | Effect of a price change | Shows only after about six weeks | Judge it monthly; next step no earlier than month two |
 
-And the overall rhythm: levers weekly; fast numbers weekly and slow ones monthly; the plans quarterly; the goals themselves every six months. A dashboard nobody looks at on schedule is wallpaper.
+And [the overall rhythm](/blog/how-often-to-review-kpis/): levers weekly; fast numbers weekly and slow ones monthly; the plans quarterly; the goals themselves every six months. A dashboard nobody looks at on schedule is wallpaper.
 
 ## Nine questions before you launch
 
@@ -85,7 +87,7 @@ If even one is empty, you do not yet have stable control. A rough version is eno
 
 ## Where this does not reach
 
-More KPIs do not mean more control; past nine numbers a person working on paper stops seeing priorities and starts seeing a list. Indicators also change behaviour: if complaints stop being recorded, there will be "fewer" of them, so add a protective check wherever that can happen. And a dashboard shows deviation, not cause; finding the cause is the work it points you to.
+More KPIs do not mean more control; [past nine numbers](/blog/too-many-goals/) a person working on paper stops seeing priorities and starts seeing a list. Indicators also change behaviour: if complaints stop being recorded, there will be "fewer" of them, so add a protective check wherever that can happen. And a dashboard shows deviation, not cause; finding the cause is the work it points you to.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -98,7 +100,7 @@ More KPIs do not mean more control; past nine numbers a person working on paper 
 
 ## Twenty minutes and five rows
 
-Draw your own dashboard tonight: five rows with parameter, goal, now, gap and zone. Find a source for each row; where there is none, write down what needs to be created. It takes about twenty minutes. Andrew's Monday meeting shrank from an hour to fifteen minutes once his was running, because the figures showed everything and there was nothing left to argue about.
+Draw your own dashboard tonight: five rows with parameter, goal, now, gap and zone. Find a source for each row; where there is none, write down what needs to be created. It takes about twenty minutes. Andrew's Monday meeting shrank from an hour to fifteen minutes once his was running, because the figures showed everything and there was nothing left to argue about. You can follow the author, Martin Jirgenson, on [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/).
 
 The goals that fill the first column are in Chapter 1, free in [the free sample](/blog/free-sample/). The full toolset, including the formal measurement rules, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

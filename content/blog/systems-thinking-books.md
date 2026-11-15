@@ -37,11 +37,11 @@ Each book below is well known and worth your time. The last column says what to 
 
 If you want one cybernetics book, start with the one that fits your patience.
 
-**Wiener's *Cybernetics*** named the field. It treats a living body and a machine with one idea: act, measure the result, correct. It is dense and mathematical. Read it for the origin, not for a Monday plan.
+**Wiener's *Cybernetics*** named the field. It treats a living body and a machine with one idea: [act, measure the result, correct](/blog/control-theory-for-business/). It is dense and mathematical. Read it for the origin, not for a Monday plan.
 
 **Ashby's *An Introduction to Cybernetics*** is the gentler door. It was written as a textbook. Its best-known idea is the law of requisite variety. To control something, you need as many ways to respond as it has ways to go wrong.
 
-**Beer's *Brain of the Firm*** carries the same ideas into a company. His Viable System Model reads an organisation as a set of linked control loops. It is the closest of the three to management.
+**Beer's *Brain of the Firm*** carries the same ideas into a company. His Viable System Model reads an organisation as a set of [linked control loops](/blog/control-cycle-management/). It is the closest of the three to management.
 
 ## The systems books: loops you can draw
 
@@ -53,17 +53,17 @@ If you want one cybernetics book, start with the one that fits your patience.
 
 The next three are not about systems by name. They are among the best management books for the moment the theory meets a real week.
 
-**Decision making books** start with Kahneman. *Thinking, Fast and Slow* shows how the fast, intuitive mind jumps to answers and how the slow mind checks them. It explains why a late-night decision feels certain and turns out wrong.
+**Decision making books** start with Kahneman. *Thinking, Fast and Slow* shows how the fast, intuitive mind jumps to answers and how the slow mind checks them. It explains why [a late-night decision feels certain](/blog/gut-feeling-vs-numbers-business/) and turns out wrong.
 
-**Books for new managers** start with Grove. *High Output Management* comes from the man who ran Intel. It treats a manager's job as raising the output of the whole team, with meetings and one-on-ones as working tools.
+**Books for new managers** start with Grove. *High Output Management* comes from the man who ran Intel. It treats a manager's job as raising the output of the whole team, with [meetings and one-on-ones](/blog/meeting-cadence/) as working tools.
 
-**Small business books** have their own classic in Michael Gerber's *The E-Myth Revisited*. It argues that owners get trapped doing the work instead of building the business that does it. Among business books for entrepreneurs, read it if you are your firm's best worker and its only manager.
+**Small business books** have their own classic in Michael Gerber's *The E-Myth Revisited*. It argues that owners get trapped doing the work instead of building the business that does it. Among business books for entrepreneurs, read it if you are [your firm's best worker and its only manager](/blog/solopreneur/).
 
 ## Where Steer, Don't Guess fits
 
 Every book above explains a part of control: feedback, stocks and flows, judgment, rhythm, the owner's trap.
 
-None of them hands you a single page that turns those ideas into this week's decision. That is the job *Steer, Don't Guess* does. It does not replace any of these books. It is the one on the list built to run, not only to understand.
+None of them hands you a single page that turns those ideas into this week's decision. That is the job [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPCJCWKF) does. It does not replace any of these books. It is the one on the list built to run, not only to understand.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> any task with a measurable goal, a visible state and a way to act fits one frame. That frame is goal, state and error. A coffee shop, a family budget and a boy saving for a bicycle are built the same way. Only the units and the sources change.</div>
 
@@ -77,7 +77,7 @@ Here is the step between a systems book and a working loop. Take a field you hav
 4. **If the task has a reserve and a flow, add two numbers.** Coverage: reserve divided by expenses per period. Time to empty: reserve divided by the net outflow.
 5. **List your levers.** What can you change yourself, starting this week?
 
-Here are Emma and Paul, a couple with a family budget in deficit. Their income is €4,000 a month. Their spending rose 10% in a quarter, to €4,400. Their savings are €2,000.
+Here are Emma and Paul, a couple with [a family budget in deficit](/blog/household-budget-deficit/). Their income is €4,000 a month. Their spending rose 10% in a quarter, to €4,400. Their savings are €2,000.
 
 | Row | Emma and Paul |
 |---|---|
@@ -94,7 +94,7 @@ They chose the third. But they started with one lever, the cuts, so they could s
 
 Keep coverage and time to empty apart. They measure different things, so watch both.
 
-The same rows work anywhere. Alex wants €300 for a bicycle by 1 September. On 1 June he has €90, his levers bring €50 a month plus a one-off €60. Time to goal: (300 minus 90 minus 60) / 50 = 3 months, exactly 1 September.
+The same rows work anywhere. Alex wants [€300 for a bicycle](/blog/save-for-a-goal/) by 1 September. On 1 June he has €90, his levers bring €50 a month plus a one-off €60. Time to goal: (300 minus 90 minus 60) / 50 = 3 months, exactly 1 September.
 
 Three tasks, one formula, different units. That is the stock and flow from Meadows, written so a family can use it at the kitchen table.
 
@@ -106,7 +106,7 @@ For a business the numbers are bigger. Andrew's shop at a 9% margin reaches a tw
 
 The human cost needs no maths. Before the three rows, Emma and Paul quarrelled.
 
-"It's too abstract for a small shop" is a fair objection. The rows are not. Three lines and one data source are enough to start. The maths in the book is optional: every chapter works at a basic, a practical and an advanced level.
+"It's too abstract for a small shop" is a fair objection. The rows are not. Three lines and one data source are enough to start. The maths in the book is optional: every chapter works at a basic, a practical and an advanced level. The formal model is public on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Where the list stops
 
@@ -120,6 +120,8 @@ Two steps of the system close that gap. They are not taught here.
 - **Control by forecast.** Steer by where the numbers are heading, not by where they were last month. Chapter 9 explains the three ways to control and why only the third looks ahead.
 
 Without them, you know the system you are in. You do not yet know the road out.
+
+On Goodreads, the book sits on [Martin Jirgenson's author page](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson).
 
 If you came here from *The Goal*, there is a separate list sorted by Goldratt's five steps: [books like The Goal](/blog/books-like-the-goal/).
 

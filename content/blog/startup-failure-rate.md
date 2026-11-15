@@ -11,19 +11,19 @@ answer: "The startup failure rate describes the crowd, not your company. What yo
 
 **Three out of four venture-backed startups never give investors their money back.**
 
-Picture the monthly investor update. Twelve slides. Revenue against plan, burn against plan, a chart that bends upward from next quarter. Every number on it describes last month.
+Picture the monthly investor update. Twelve slides. Revenue against plan, burn against plan, a chart that bends upward from next quarter. Every number on it [describes last month](/blog/phase-lag-management/).
 
 You spend two days polishing the deck, and it still cannot tell you where the cash will be in July.
 
 That is the gap to close. Not a lack of effort. A way of steering that only ever looks in the mirror.
 
-A deck that only reads last month can't steer next quarter. The Jirgenson Model adds the missing view: real numbers, a rolling forecast and levers you pull before the runway ends. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You stop reporting the past and start steering the next move.
+A deck that only reads last month can't steer next quarter. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) adds the missing view: real numbers, a rolling forecast and levers you pull before the runway ends. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You stop reporting the past and start steering the next move.
 
 ## Venture capital returns and the goal you defend last
 
 That first number belongs to investors. Startup statistics and startup survival rate tables describe the crowd. Your job is narrower and harder: know what you defend to the last.
 
-Write a goal table before the term sheet, not after. No more than nine rows, each with a number and a deadline. Then run the refusal test: if things got bad, which goal goes first? Which is the last one left?
+Write a goal table before the term sheet, not after. No more than nine rows, each with a number and a deadline. Then run [the refusal test](/blog/set-priorities-refusal-order/): if things got bad, which goal goes first? Which is the last one left?
 
 Do the same, quietly, for the people across the table. Compare what they say with what they measure and move. Whatever someone defends to the last is their goal number one, announced or not.
 
@@ -33,17 +33,17 @@ Do the same, quietly, for the people across the table. Compare what they say wit
 
 **Two out of three seed-funded startups end up dead or barely alive. One in a hundred becomes a unicorn.**
 
-Do not build the plan on the unicorn startup, the one in a hundred. Build two forecasts instead: "if nothing changes" and "if the plan works", each with figures and dates.
+Do not build the plan on the unicorn startup, the one in a hundred. Build [two forecasts](/blog/forecast-cash-flow/) instead: "if nothing changes" and "if the plan works", each with figures and dates.
 
 Then write each one as a range with a condition. A single number is almost always wrong. "The reserve reaches two months between month 10 and month 12, provided the margin holds above 14%." That is a forecast you can test. "We hit the target by Q3" is a hope.
 
-The lower the odds that the result you want comes on its own, the stronger the control you need. So compare scenarios: the chance of reaching the goal under each action, its cost and its risk.
+The lower the odds that the result you want comes on its own, the stronger the control you need. So [compare scenarios](/blog/scenario-planning/): the chance of reaching the goal under each action, its cost and its risk.
 
 **How to avoid it:** let the unicorn stay a scenario, never the base case.
 
 ## Startup failure rate vs your steering: plan, deviation, forecast
 
-This is the tool. Every startup steers in one of three ways, and the way you choose sets how fast you can respond to the unexpected.
+This is the tool. Every startup [steers in one of three ways](/blog/control-cycle-management/), and the way you choose sets how fast you can respond to the unexpected.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> there are three schemes of control. By plan: follow a plan without checking it against reality. By deviation: measure the miss and correct it, after the event. By forecast: forecast the future state, act on the forecast, and let new facts correct it.</div>
 
@@ -75,7 +75,7 @@ Now build yours. It takes fifteen minutes.
 1. **Name your scheme.** For cash, which do you use today: plan, deviation or forecast? Write it down honestly.
 2. **Find the pattern.** Record your key number by week, by month, by season. Andrew needed a few weeks of sales by day and weather.
 3. **Draw a rolling forecast.** Cash, enquiries and workload for the next three months. Update it every week or every month.
-4. **Pick a leading indicator.** Elena, the freelancer in the book, checks it every Monday. 280 visitors at a 1.5% conversion rate is 4.2 sales a week, about 17 in four weeks. Her goal is 21. She sees the gap of four before the month ends, so she can rewrite the page headline now.
+4. **Pick a leading indicator.** Elena, the freelancer in [the book](https://www.amazon.com/dp/B0HPCJCWKF), checks it every Monday. 280 visitors at a 1.5% conversion rate is 4.2 sales a week, about 17 in four weeks. Her goal is 21. She sees the gap of four before the month ends, so she can rewrite the page headline now.
 5. **Respond in the right order.** First build the pattern into the forecast. Then decide which deviation deserves a response. Only then speed up.
 
 Here is the contrast. The usual way waits for the month-end report and learns about the shortfall when it is too late to fix. The forecast way sees the same shortfall in week one.
@@ -88,7 +88,7 @@ Do not wait for that wave to show up in your own accounts. Respond to the measur
 
 A yacht in a crosswind that pushes it ten degrees east can hold due north and correct all the way. Or it can measure the drift and set 350 degrees from the start. The heater that switches on when the outside temperature drops works the same way. It does not wait for the room to cool.
 
-So list the outside factors you can measure early: the funding climate in your sector, your customers' budgets, your suppliers' prices. Put each one into the forecast as an assumption you check.
+So list [the outside factors](/blog/external-factors-business/) you can measure early: the funding climate in your sector, your customers' budgets, your suppliers' prices. Put each one into the forecast as an assumption you check.
 
 **How to avoid it:** read the climate as an input to the forecast, never as a surprise in the report.
 
@@ -98,7 +98,7 @@ So list the outside factors you can measure early: the funding climate in your s
 
 Start the runway calculation the day the money lands, not the day it runs low. Two numbers, not one: how many months of costs you hold, and when the money runs out at today's pace. The full method is in [months of runway](/blog/months-of-runway/).
 
-Then draw a red line and say it out loud early. Andrew drew his at one month of reserve. That is how long he needs to ask for a deferral, find money and decide. Under a month, none of the three fits.
+Then [draw a red line](/blog/kpi-zones/) and say it out loud early. Andrew drew his at one month of reserve. That is how long he needs to ask for a deferral, find money and decide. Under a month, none of the three fits.
 
 Name the risk responsibly, and back it with an action the same day. "We will go bust in three months", said to the team with no plan, makes people leave and the reserve fall faster. The same forecast with an action attached moves the levers sooner.
 
@@ -129,7 +129,7 @@ Two steps close that gap.
 - **Zones and the red protocol.** The exact lines between green, yellow and red, and the order of action once cash goes red. Chapter 4.
 - **Steady mode and manoeuvre.** When to change the plan and when to change the goal, and the launch conditions for a growth push. Chapter 10.
 
-The forecast is one stage of a single loop: goal, state, gap, levers, plan, forecast.
+The forecast is one stage of a single loop: goal, state, gap, levers, plan, forecast. The model's blind test and its data are open on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -145,7 +145,7 @@ The forecast is one stage of a single loop: goal, state, gap, levers, plan, fore
 
 You have two choices this month. Polish the deck again, report last month, and hope the next quarter bends the way the chart says. Or draw a three-month rolling forecast tonight and steer by it on Monday.
 
-The forecast lets you see the miss coming. The zones and the manoeuvre rules tell you what to do when it arrives.
+The forecast lets you see the miss coming. The zones and the manoeuvre rules tell you what to do when it arrives. For quick clips between board meetings, see the [Steer, Don't Guess channel on YouTube](https://www.youtube.com/@SteerDontGuess).
 
 Test the logic for free: [read the Introduction and Chapter 1](/blog/free-sample/), refusal test included. Or set up the whole loop with the full control system, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). The system comes as a Kindle book, and each chapter ends with a task you can try the same week.
 

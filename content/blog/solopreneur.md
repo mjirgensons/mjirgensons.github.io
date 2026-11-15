@@ -17,16 +17,16 @@ Picture Monday at eight. You are the director, the accountant and the whole sale
 
 Here is the irony. A solo business has no meetings, no reports and nobody to argue with about the figures. And still nobody can tell you if this month is fine.
 
-There is a control system that works for one person as well as for a company: the Jirgenson Model. It is scientifically proven to work ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). It is new, so it arrived too late for the owners behind that number. It can work for you.
+There is a control system that works for one person as well as for a company: [the Jirgenson Model](https://github.com/mjirgensons/jirgenson-model). It is scientifically proven to work ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). It is new, so it arrived too late for the owners behind that number. It can work for you.
 
 ## The solopreneur dashboard: build it in six steps
 
-A management system isn't software. It is a few plain parts you can hold: a table, a source, a dashboard, a list. Until the part exists, the idea doesn't work. Running a business alone, you remember your priorities. In a hard week, memory is the first thing to go.
+[A management system](/blog/management-system-small-business/) isn't software. It is a few plain parts you can hold: a table, a source, a dashboard, a list. Until the part exists, the idea doesn't work. Running a business alone, you remember your priorities. In a hard week, memory is the first thing to go.
 
 So build the first part this week. Here are the six steps, with Elena's entries. She is a freelance designer, and she is writing her first online book.
 
-**1. Choose the rows.** Three goals and three leading numbers.
-Elena's goals: income as a three-month average, the share of her largest client, her hours per week. Her leading numbers: visitors to her book's page, the share of them who buy, newsletter subscribers.
+**1. Choose the rows.** Three goals and [three leading numbers](/blog/what-is-a-leading-indicator/).
+Elena's goals: income as a three-month average, [the share of her largest client](/blog/client-concentration-freelancer/), her hours per week. Her leading numbers: visitors to her book's page, the share of them who buy, newsletter subscribers.
 
 **2. Give every row one source.** One place the number comes from.
 Elena: bank statements for income and the client share. Her time records for hours. The payment system for sales. The website counter for visits. Two sources for one number start an argument. Alone, that argument is with yourself at midnight.
@@ -37,7 +37,7 @@ Andrew, who runs a coffee shop, used one shared spreadsheet and a weekly export 
 **4. Fill in "now" honestly.** Use records, not your proudest month.
 Elena's bank statements for six months swung from €800 to €2,200. The average: €1,300. Her best client brings €910 of it, which is 70%. Her time records show 50 hours a week. Her book isn't out yet, so its three rows start with targets and a source, and no reading.
 
-**5. Set a zone for each row.** Draw the lines in a calm moment.
+**5. Set a zone for each row.** [Draw the lines](/blog/kpi-zones/) in a calm moment.
 Elena's client share: normal up to 33%, acceptable above 33 and up to 50, emergency above 50. At 70%, that row is red.
 
 **6. Set the rhythm.** A short weekly look, a monthly one, a quarterly one.
@@ -66,7 +66,7 @@ How to stay out of that number: keep the rows on the page, not in your head. Whe
 
 Savings don't have to drain away unseen. With a control system, some of those owners might have watched the money as a number with a red line. Not as a balance they were afraid to open.
 
-So put the reserve on the dashboard. Count it in months of expenses, and take it from the bank statement. Andrew's goal was 2.0 months. His reading was 0.5.
+So put the reserve on the dashboard. Count it in [months of expenses](/blog/cash-reserve-months-of-expenses/), and take it from the bank statement. Andrew's goal was 2.0 months. His reading was 0.5.
 
 Then pick how often to read it. The rule: read a row often enough that it can't cross its yellow band unseen between two readings. Andrew's yellow band for the reserve runs from 1.0 to 2.0 months. In a bad month the reserve moves about 0.2. So a reading every two and a half months would still catch it. Monthly is plenty.
 
@@ -86,7 +86,7 @@ Put the largest client's share right under it. At 70%, Elena's pay hangs on one 
 
 Now look at where her row ends up later in the story. By month 14 it reads €3,000: €900 from the main client, €1,200 from service packages, €300 from repeat orders and about €600 from her book. The main client's share is down to 30%. Her week is back to 35 hours.
 
-Do this: write your pay as row one, with a number, a unit, a three-month average and a deadline. Then the client share. Then your hours.
+Do this: write your pay as row one, with [a number, a unit](/blog/how-to-set-measurable-goals/), a three-month average and a deadline. Then the client share. Then your hours.
 
 How to avoid the unpaid months: read your pay row first, every week. An empty month shows up that month, not at year end.
 
@@ -121,7 +121,7 @@ Here is the same Monday two ways. Illustration.
 
 Be clear about what you built. The dashboard holds the first links of the loop: goal, state and error. Levers, plan and forecast come after. It treats a symptom: you stop guessing where you stand.
 
-Run the completeness test before you trust it. Nine categories, from the goal list to the control mode, each with at least one line. If one is empty, you don't yet have stable control.
+Run [the completeness test](/blog/management-self-check/) before you trust it. Nine categories, from the goal list to the control mode, each with at least one line. If one is empty, you don't yet have stable control.
 
 The cause can still win. Row two is red, and the page doesn't say what to do about it.
 
@@ -130,7 +130,7 @@ Two steps close that gap.
 - **The list of levers.** What you can change with your own hands when a row turns red, and what only looks like a lever. Chapter 5.
 - **Two forecasts.** Where each row goes if nothing changes, and where it goes if the plan works. Chapter 8.
 
-Without them, the dashboard shows the fire. It doesn't yet hand you the hose.
+Without them, the dashboard shows the fire. It doesn't yet hand you the hose. Readers in Canada can find both chapters in the book on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -146,7 +146,7 @@ Without them, the dashboard shows the fire. It doesn't yet hand you the hose.
 
 You have two choices. Keep the business in your head, answer "busy", and hope the hard week never comes. Or draw six rows tonight, with one source each, and read them every Monday.
 
-Next Monday you open one page and know where you stand within a minute.
+Next Monday you open one page and know where you stand within a minute. For short notes between Mondays, follow [Steer, Don't Guess on Threads](https://www.threads.com/@steerdontguess).
 
 The dashboard shows you the state. The list of levers and the two forecasts tell you what to change and where it leads. To rank your rows before you build them, see [how a one person business decides what to give up first](/blog/one-person-business/).
 

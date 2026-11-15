@@ -17,7 +17,7 @@ That missing €15 is the first money lesson your child needs, and no lecture ca
 
 You know the usual script. The parent says "save more". The child nods. Two weeks later the coins are gone and nobody can say where. You can do the same with a banking app full of charts. A plan never enters the room.
 
-A wish with no count and no plan is how the coins disappear. The Jirgenson Model turns it into a system your child runs: a dated goal, a true count, their own levers and a Sunday forecast. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). The lesson sticks because the child does the steering.
+A wish with no count and no plan is how the coins disappear. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) turns it into a system your child runs: a dated goal, a true count, their own levers and a Sunday forecast. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). The lesson sticks because the child does the steering.
 
 ## Your job is to ask, not to decide
 
@@ -27,8 +27,8 @@ Turn it around. Your child runs the plan. You ask four questions and let the ans
 
 1. **"How much, and by when?"** Not "a bike soon". €300 by 1 September.
 2. **"How much do you have? Count it."** Not "about €55". €40 on 1 May.
-3. **"What will you give up for it?"** Wishes compete for the same evenings.
-4. **"Does that depend on you?"** The question that turns hope into a plan.
+3. **"What will you give up for it?"** Wishes [compete for the same evenings](/blog/competing-priorities-conflicting-goals/).
+4. **"Does that depend on you?"** The question that [turns hope into a plan](/blog/levers-of-control/).
 
 The fourth question did the most work in Alex's house. His first list of ways to get money included "money for my birthday". His mother pointed out, gently, that this depended on his uncle. Alex crossed it out himself.
 
@@ -54,7 +54,7 @@ Check the arithmetic with your child. €20 × 4 months is €80. €30 × 4 mon
 
 Line 3 is where you will want to step in. Resist. Alex first wanted to keep all his console time. Then he saw that the football camp in June would leave him only two free evenings a week. He chose to cut the games, not football. An order a child can keep beats a tidier order an adult picked for him.
 
-Line 4 has one more detail worth copying. Alex watched a leading number each week: how many odd jobs he had lined up for the coming week. The piggy bank tells you where you are. The job count tells you where you are heading.
+Line 4 has one more detail worth copying. Alex watched [a leading number](/blog/what-is-a-leading-indicator/) each week: how many odd jobs he had lined up for the coming week. The piggy bank tells you where you are. The job count tells you where you are heading.
 
 ## Two forecasts replace the lecture
 
@@ -75,15 +75,15 @@ The cost of no plan is easy to measure, because it shows up as a number.
 
 For Alex, four months of pocket money alone end at €120. He would stand €180 short on 1 September, with the summer gone.
 
-Scale it up to a household and the stakes grow. Emma and Paul earn €4,000 a month and spend €4,400. Their savings are €2,000. If nothing changes, the savings run out in about five months. Sooner, if costs keep rising.
+Scale it up to a household and the stakes grow. Emma and Paul [earn €4,000 a month and spend €4,400](/blog/household-budget-deficit/). Their savings are €2,000. If nothing changes, the savings run out in about five months. Sooner, if costs keep rising.
 
-At first they quarrelled. The quarrel came back every month, at the same kitchen table.
+At first they quarrelled. [The quarrel came back every month](/blog/couples-budget/), at the same kitchen table.
 
 The villain here is not the child and not the parent. It is the habit of saving by hope: hope the coins last, hope the uncle remembers, hope next month is cheaper.
 
 ## What happened in July
 
-Plans meet real life, and Alex's did too. He had spotted a risk early: in July the neighbours go on holiday, so odd jobs would dry up. He kept the scooter in reserve as a spare lever.
+Plans meet real life, and Alex's did too. He had spotted a risk early: in July the neighbours go on holiday, so odd jobs would dry up. He kept the scooter in reserve as [a spare lever](/blog/contingency-plan-template/).
 
 On 1 June he had €90 against a mark of €105. On 1 July he had €140 against €170. He was €30 behind.
 
@@ -99,14 +99,14 @@ That is the cause under the symptom. A child who sees €30 missing either panic
 
 Two steps close the gap:
 
-- **Zones.** Alex wrote down in advance how many euros behind counts as normal, and when it becomes an emergency. The thresholds and how to set them are in Chapter 4.
+- **Zones.** Alex wrote down in advance [how many euros behind counts as normal](/blog/kpi-zones/), and when it becomes an emergency. The thresholds and how to set them are in Chapter 4.
 - **The backward move.** Working back from the date to the exact monthly amount needed, from wherever you stand today. Chapter 15 has the full chain and the arithmetic.
 
 For Alex's backward chain worked through step by step, read [how to save for a goal](/blog/save-for-a-goal/).
 
 The sheet is one step of a loop: goal, state, gap, levers, plan, forecast. A thirteen-year-old ran all six without the vocabulary.
 
-"Is this too much structure for a child?" It fits on one sheet of paper. Every chapter of the method has a basic level, and Alex lives at that level. If your child can count coins, your child can run it.
+"Is this too much structure for a child?" It fits on one sheet of paper. Every chapter of the method has a basic level, and Alex lives at that level. If your child can count coins, your child can run it. The book also comes in [paperback](https://www.amazon.com/dp/B0HPCJCWKF), if you prefer pages to a screen.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -124,7 +124,7 @@ You have two choices. Say "save more" one more time and watch the coins disappea
 
 The sheet starts the habit. The zones and the backward move keep it on track when a month goes wrong.
 
-Next Sunday your child tips out the piggy bank, counts, and tells you the colour before you ask.
+Next Sunday your child tips out the piggy bank, counts, and tells you the colour before you ask. For short posts between Sundays, follow [Steer, Don't Guess on Instagram](https://www.instagram.com/steerdontguess/).
 
 Test the logic for free: [Chapter 1, where Alex first appears](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with Alex, a freelancer, a coffee shop and a family budget side by side.
 

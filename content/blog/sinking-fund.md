@@ -11,17 +11,17 @@ answer: "A sinking fund is money you set aside in regular amounts for a known fu
 
 You know the bill is coming. You even know the month. And it still lands like a surprise.
 
-The insurance renewal. The new van. The deposit on a lease. You saw each one months away. Then it arrives, and the money went into last month's groceries.
+The insurance renewal. The new van. The deposit on a lease. You saw each one months away. Then it arrives, and the money [went into last month's groceries](/blog/where-does-money-go/).
 
 Here is the irony. You plan a two-week holiday down to the airport transfer. The one bill that could sink the year gets a sticky note and a hope.
 
 A known bill is not a risk. It's a missed plan.
 
-The answer to this pain comes from the Jirgenson Model: work backwards from the bill to a number you can check today. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+The answer to this pain comes from the Jirgenson Model: [work backwards](/blog/backward-planning/) from the bill to a number you can check today. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What is a sinking fund?
 
-A sinking fund is money you put aside in regular amounts for one known future cost. When the bill comes, the cash is already there. Nothing is borrowed, and the emergency savings stay untouched.
+A sinking fund is money you put aside in regular amounts for one known future cost. When the bill comes, the cash is already there. Nothing is borrowed, and [the emergency savings](/blog/cash-reserve-months-of-expenses/) stay untouched.
 
 One note on the sinking fund meaning. In corporate finance, the same name means money a company sets aside over time to repay a bond or a loan. This post is about the household and small business sense: a pot for a bill you can see coming.
 
@@ -31,7 +31,7 @@ The usual advice stops at one division. Take the amount, divide by the months, s
 
 ## The backward method, step by step
 
-Here is the tool. Five steps, each filled in with a real case: Andrew, the coffee shop owner in Steer, Don't Guess, saving for a second location.
+Here is the tool. Five steps, each filled in with a real case: Andrew, the coffee shop owner in [Steer, Don't Guess](https://www.amazon.com/dp/B0HPCJCWKF), saving for a second location.
 
 The numbers below are the rough, simplified estimate he made at month 12 (M12). Revenue €30,000 a month. Margin 15%.
 
@@ -75,7 +75,7 @@ At every checkpoint, compare the real balance with the minimum. Above it, carry 
 
 That is the whole tool. Amount and date, start, monthly rule, backward checkpoints, a monthly check.
 
-Too much maths for a family pot? It is subtraction. A sheet of paper and twenty minutes. A car repair, a school trip or a tax bill fits the same five steps.
+Too much maths for [a family pot](/blog/couples-budget/)? It is subtraction. A sheet of paper and twenty minutes. A car repair, a school trip or a tax bill fits the same five steps.
 
 ## Why the simple division fails
 
@@ -90,7 +90,7 @@ Run Andrew's case the usual way, as an illustration.
 
 €3,750 a month looks safe against €4,500 of profit. But the transfer depends on the margin. At a 9% margin, the shop makes €2,700 a month. The neat monthly figure fails from the first month, and the spreadsheet still shows it as planned.
 
-The habit is the villain here. We plan forwards, from today, with an average. The options branch like an avalanche, and the average hides the one month that breaks the chain. Walk backwards, and each step asks the same question. What must be true right before this?
+The habit is the villain here. We plan forwards, from today, with an average. The options branch like an avalanche, and the average hides the one month that breaks the chain. [Walk backwards](/blog/backward-planning-template/), and each step asks the same question. What must be true right before this?
 
 ## What a checkpoint tells you that a balance doesn't
 
@@ -98,7 +98,7 @@ The same chain works on any pot, not only cash for a project. Andrew ran it on h
 
 At M8 he had a bad month: the supplier raised prices by 8%, a repair hit, a barista left. The reserve stood at 1.56. That is 0.27 above the line. Bad month, still on course.
 
-Now the same check with the margin stuck at 12%, the "change nothing" case. The requirement at M8 rises to 1.45. The room shrinks to 0.11. One more breakdown would eat almost all of it.
+Now the same check with the margin stuck at 12%, [the "change nothing" case](/blog/forecast-cash-flow/). The requirement at M8 rises to 1.45. The room shrinks to 0.11. One more breakdown would eat almost all of it.
 
 A balance tells you how much you have. A checkpoint tells you how much room is left. Only the second one lets you sleep.
 
@@ -114,7 +114,7 @@ The human cost is quieter. It is the owner who signs a lease on hope, then lies 
 
 ## What the chain does not fix
 
-Be clear about what you built. In the full loop of goal, state, gap, levers, plan and forecast, the chain is the plan. It tells you whether the money will be there. It treats the symptom: the surprise bill.
+Be clear about what you built. In [the full loop](/blog/control-cycle-management/) of goal, state, gap, levers, plan and forecast, the chain is the plan. It tells you whether the money will be there. It treats the symptom: the surprise bill.
 
 The cause is still in place. You have a date, but no rule for when you may start spending the fund. And your checkpoints rest on one forecast, one number, with no range and no condition. A real plan needs both.
 
@@ -123,7 +123,7 @@ Two steps close that gap:
 - **Launch conditions.** The measurable event that must happen before you touch the fund, and the conditions to stop or revise. Andrew tied his to the reserve holding at two months, three readings in a row. Chapter 10.
 - **Two forecasts, as a range.** "If nothing changes" against "if the plan works", each with a range and a condition, so the checkpoints have honest edges. Chapter 8.
 
-The backward move also has limits. It shows what must be true. It does not promise the goal is reachable. You still check the resources at every step.
+The backward move also has limits. It shows what must be true. It does not promise the goal is reachable. You still check the resources at every step. The model itself is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 For the €300 version a teenager runs on Sundays, see [how to save for a goal](/blog/save-for-a-goal/).
 
@@ -141,7 +141,7 @@ For the €300 version a teenager runs on Sundays, see [how to save for a goal](
 
 You have two choices. Keep the sticky note and the monthly transfer, and find out on the due date. Or spend twenty minutes tonight walking back from the bill to this month's minimum.
 
-The chain shows if the money will be there. The launch conditions and the forecast range tell you when to spend it and how sure to be.
+The chain shows if the money will be there. The launch conditions and the forecast range tell you when to spend it and how sure to be. For shorter takes between chapters, follow [Steer, Don't Guess on TikTok](https://www.tiktok.com/@steerdontguess).
 
 Start free: [read Chapter 1 and the refusal test](/blog/free-sample/). Or get the full control system now, [on Kindle at Amazon](https://www.amazon.com/dp/B0HPBR6BNX). The method comes as a book, with Andrew's second location worked through step by step.
 

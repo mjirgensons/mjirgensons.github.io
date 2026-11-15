@@ -11,7 +11,7 @@ answer: "Small business owner stress grows when every worry gets the same weight
 
 <strong>Three out of four small business owners live with medium or high stress.</strong>
 
-It's two in the morning. You're at the kitchen table, going over the same numbers for the third time. Payroll is due on Friday. The supplier sent a new price list. A regular hasn't been in for two weeks.
+It's two in the morning. You're at the kitchen table, [going over the same numbers for the third time](/blog/racing-thoughts-at-night/). Payroll is due on Friday. The supplier sent a new price list. A regular hasn't been in for two weeks.
 
 Somewhere in that pile sits the one thing that matters tonight. You can't tell which one.
 
@@ -19,7 +19,7 @@ Here is the irony. You can recite every worry by heart, and you still can't say 
 
 The fix is not fewer worries. It is an order, decided before the night comes.
 
-A pile of worries with no order is the real weight. The Jirgenson Model gives it one: goals in order, each in its zone, so the red row speaks first and green stays quiet. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You set the order in daylight, and the night stops choosing for you.
+A pile of worries with no order is the real weight. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-canon) gives it one: goals in order, each in its zone, so the red row speaks first and green stays quiet. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). You set the order in daylight, and the night stops choosing for you.
 
 ## Lying awake? Sort your business worries in fifteen minutes
 
@@ -29,9 +29,9 @@ Stop counting the worries. Sort them. Take one sheet of paper and give every wor
 
 Andrew runs a coffee shop with a queue at the door every morning and an empty till at the end of each month. He did this with his own list. Here is the whole tool, with his entries beside each step.
 
-**1. Write every worry on one line, as a fact.** "The reserve is low" becomes "the reserve is 0.5 months of expenses". A feeling can't be sorted. A number can.
+**1. Write every worry on one line, as a fact.** "The reserve is low" becomes "the reserve is [0.5 months of expenses](/blog/cash-reserve-months-of-expenses/)". A feeling can't be sorted. A number can.
 
-**2. Ask: which goal does it belong to?** Some worries are methods in disguise. Andrew's "launch loyalty cards" was one. He asked "what for?" The answer was the share of regular customers, a goal already on his list. Trace every method back to its goal the same way.
+**2. Ask: which goal does it belong to?** Some worries are [methods in disguise](/blog/goal-hierarchy/). Andrew's "launch loyalty cards" was one. He asked "what for?" The answer was the share of regular customers, a goal already on his list. Trace every method back to its goal the same way.
 
 **3. Ask: which zone is that goal in now?** Each goal needs three zones, drawn in advance: normal, acceptable, emergency. Andrew drew his on one calm evening. His red line for the reserve is one month of expenses. Below that, he has no time left to negotiate, find money and decide. How to set the lines is in [the traffic light dashboard](/blog/traffic-light-dashboard/).
 
@@ -57,7 +57,7 @@ Sara, his senior barista, pushed back. "And what if the customers leave?" Andrew
 
 The usual night runs on volume: the loudest worry wins. The sorted night runs on colour: the reddest row wins.
 
-That is the tool. It takes about fifteen minutes once your goals have numbers.
+That is the tool. It takes about fifteen minutes once your goals have numbers. For more short examples, see [Steer, Don't Guess on Instagram](https://www.instagram.com/steerdontguess/).
 
 How to avoid the night loop: run the sort on Monday, in daylight, every week. A worry with a zone and a date doesn't need the night.
 
@@ -67,7 +67,7 @@ How to avoid the night loop: run the sort on Monday, in daylight, every week. A 
 
 <strong>Four out of ten owners have thought about giving it all up.</strong>
 
-"Giving it all up" treats every goal as one block. Split the block. Run the refusal test: if circumstances forced you to drop your goals one at a time, which would go first? Which would be the last one left?
+"Giving it all up" treats every goal as one block. Split the block. Run [the refusal test](/blog/set-priorities-refusal-order/): if circumstances forced you to drop your goals one at a time, which would go first? Which would be the last one left?
 
 Andrew put his own hours last and the reserve first. Writing it took fifteen minutes. From then on, a bad week meant giving up one row for a while, not the whole shop.
 
@@ -79,7 +79,7 @@ How to avoid the all-or-nothing night: write the order in a calm week. Leave it 
 
 <strong>Two out of three Canadian owners say they're close to burnout.</strong>
 
-Treat your hours as a number, not a mood. Put "owner's time" in your goal list with a target, a source and three zones. Andrew's goal was no more than 40 hours a week. He worked 65. His zones: normal up to 42, acceptable over 42 and up to 70, emergency above 70.
+[Treat your hours as a number](/blog/business-owner-burnout/), not a mood. Put "owner's time" in your goal list with a target, a source and three zones. Andrew's goal was no more than 40 hours a week. He worked 65. His zones: normal up to 42, acceptable over 42 and up to 70, emergency above 70.
 
 This row is not about comfort. In those 65-hour months Andrew made decisions late at night. Those were the hours of his worst mistakes. He mixed up figures, put off calling the supplier and gave wrong deadlines. Fatigue corrupts a forecast like a faulty instrument.
 
@@ -93,7 +93,7 @@ How to avoid the slow slide: check your hours every week, beside the cash. A row
 
 Don't bring the worry home as a mood. Bring it as a reading. Tell one person close to you two things: the fact, and the one action you've chosen. A risk named and backed at once by an action gets the levers pulled sooner.
 
-Emma and Paul learned this at their own table. Their family budget came up €400 short every month. At first they quarrelled. Then they took their numbers from three months of bank statements and drew three lines.
+Emma and Paul learned this at their own table. Their [family budget came up €400 short](/blog/household-budget-deficit/) every month. At first they quarrelled. Then they took their numbers from three months of bank statements and drew three lines.
 
 - Change nothing: their €2,000 of savings run out in five months.
 - Cut subscriptions and eating out by €180: the savings last about nine months.
@@ -117,7 +117,7 @@ The human bill arrives with the money one. Andrew could not remember the last ti
 
 You already spend the time. You spend it at two in the morning, on the same list, in random order.
 
-The sort takes fifteen minutes on a Monday. A person working without software keeps at most nine goal rows. Nine rows fit on one sheet. The owner with a calm head on the worst day isn't braver than you. They have a sheet.
+The sort takes fifteen minutes on a Monday. A person working without software keeps [at most nine goal rows](/blog/too-many-goals/). Nine rows fit on one sheet. The owner with a calm head on the worst day isn't braver than you. They have a sheet.
 
 ## Where the sort stops
 
@@ -130,7 +130,7 @@ Two steps close that gap:
 - **Levers and the one-page plan.** What you can change yourself today, and how one page per goal turns it into action. Chapters 5 and 6.
 - **Two forecasts.** "If nothing changes" against "if the plan works", in numbers and dates, so you see trouble months before it lands. Chapter 8.
 
-Without them, the sort quiets the night. It doesn't yet move the numbers.
+Without them, the sort quiets the night. It doesn't yet move the numbers. Chapters 5, 6 and 8 are in the [paperback edition](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -146,7 +146,7 @@ Without them, the sort quiets the night. It doesn't yet move the numbers.
 
 You have two choices. Close this tab and take the same list to bed, where it runs in whatever order it likes. Or spend fifteen minutes now, and give every worry a goal, a zone and a date.
 
-Next Monday you look at one red row and four verdicts, not a pile of worries.
+Next Monday you look at one red row and four verdicts, not a pile of worries. More about the author, Martin Jirgenson, is on his [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ).
 
 The sort tells you where to act. The levers, the one-page plan and the two forecasts tell you what to pull and when it gets better.
 

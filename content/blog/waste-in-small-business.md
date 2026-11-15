@@ -15,15 +15,15 @@ It is closing time. Someone tips a tray of pastries and a jug of milk into the b
 
 Here is the irony. You count every coffee sold to the cent. The coffee poured down the sink has no column anywhere.
 
-Andrew, who runs a busy coffee shop, was sure his margin sat around twenty per cent. Once he counted the waste, it read nine. That gap did not show up as a loss. It showed up as a decision he nearly made.
+Andrew, who runs a busy coffee shop, was sure [his margin](/blog/how-to-calculate-profit-margin/) sat around twenty per cent. Once he counted the waste, it read nine. That gap did not show up as a loss. It showed up as a decision he nearly made.
 
-A margin that leaves out the bin is a number nobody checks, and it steers you wrong. The Jirgenson Model starts from real numbers: test the gauge, read the zone, then decide. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). Fix the count first, and your decisions stand on what's there.
+A margin that leaves out the bin is a number nobody checks, and it steers you wrong. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-canon) starts from real numbers: test the gauge, read the zone, then decide. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). Fix the count first, and your decisions stand on what's there.
 
 ## Why waste in small business is a measurement problem first
 
 Waste is usually treated as a kitchen problem: be more careful, throw less away. It is first a problem of the instrument.
 
-Whatever no one writes down does not exist for the report. It still exists for the bank. So a margin that leaves out waste is not a rough version of the true margin. It is a different number, and it is always too kind.
+Whatever no one writes down does not exist for the report. It still [exists for the bank](/blog/where-does-money-go/). So a margin that leaves out waste is not a rough version of the true margin. It is a different number, and it is always too kind.
 
 Andrew's goal for margin was 15%. Below 5% he would be in an emergency. That gave him ten points of room between the goal and the [red line](/blog/kpi-zones/). His uncounted waste bent the reading by eleven points. The error was bigger than the whole road to the red line. His gauge could not tell normal from emergency.
 
@@ -44,7 +44,7 @@ This takes one evening to set up and two weeks to run. Each step sits next to An
 
 Step 6 is the one that matters. A fail does not mean the business is lost. It means no decision built on the old number can be trusted. Repair the count first.
 
-Then run step 6 once more on the repaired figure. With waste counted, Andrew's margin moved by about one point from month to month. One point against ten of room is a tenth. The gauge passed. Now he could steer by it.
+Then run step 6 once more on the repaired figure. With waste counted, Andrew's margin moved by about one point from month to month. One point against ten of room is a tenth. The gauge passed. Now he could steer by it. The gauge rule comes from the model, published openly on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 For a ready five-column logging sheet and what goes in each column, see [how to track write-offs](/blog/how-to-track-write-offs/).
 
@@ -56,7 +56,7 @@ A waste number can lie as easily as a margin. Before you trust one, ask three qu
 2. How, exactly?
 3. Over what period?
 
-If any answer is missing, you hold an impression, not a number. The fewer people and steps between the bin and the record, the better the figure. A line written as the tray is emptied beats a total remembered on Friday.
+If any answer is missing, you hold [an impression, not a number](/blog/gut-feeling-vs-numbers-business/). The fewer people and steps between the bin and the record, the better the figure. A line written as the tray is emptied beats a total remembered on Friday.
 
 Then write the definition beside the figure, so next month is counted the same way as this one. Does a staff meal count? A drink remade after a complaint? Decide once, in writing.
 
@@ -66,9 +66,9 @@ One more trap. Every indicator changes the behaviour of the people it measures. 
 
 The cost of a broken gauge is never the waste alone. It is the decisions stacked on top of it.
 
-In the same week Andrew found his real margin, he had planned to hire a second barista and launch an advertising campaign. Both rested on a margin that did not exist.
+In the same week Andrew found his real margin, he had planned to [hire a second barista](/blog/first-employee/) and launch an advertising campaign. Both rested on a margin that did not exist.
 
-The real numbers were blunt. Revenue €30,000 a month. At 9%, profit of €2,700. At his 15% goal it would be €4,500, so every month at the old margin cost €1,800 of progress. His cash reserve held half a month of expenses, €13,650, against a goal of two months.
+The real numbers were blunt. Revenue €30,000 a month. At 9%, profit of €2,700. At his 15% goal it would be €4,500, so every month at the old margin cost €1,800 of progress. His [cash reserve held half a month of expenses](/blog/cash-reserve-months-of-expenses/), €13,650, against a goal of two months.
 
 Change nothing, and the reserve reaches two months at month 16 instead of month 10. By month 3 it has crawled only to 0.8 months, still below his red line of one. Six extra months with no cushion, then a new hire on top.
 
@@ -76,7 +76,7 @@ Within a few months the money would have run out, and nobody would have known wh
 
 ## Cutting the waste: three questions for each lever
 
-Once the gauge works, waste becomes something you can move. Not every move is equal. Before you pull a lever, ask: can I move it myself, today? How soon does the effect show? Can I undo it if it fails?
+Once the gauge works, waste becomes something you can move. Not every move is equal. Before you [pull a lever](/blog/levers-of-control/), ask: can I move it myself, today? How soon does the effect show? Can I undo it if it fails?
 
 | Lever | Myself, today? | Effect shows | Undo |
 |---|---|---|---|
@@ -84,7 +84,7 @@ Once the gauge works, waste becomes something you can move. Not every move is eq
 | Portion size | Yes | At once | Easy, up to the point where quality suffers |
 | Purchasing: new terms with the milk supplier | Through negotiation | In a month | Hard: the contract is signed |
 
-Start with what is fast and reversible. Leave the slow and binding moves for later.
+Start with [what is fast and reversible](/blog/decision-paralysis/). Leave the slow and binding moves for later.
 
 Write one constraint before any of it. Andrew's was simple: never lower the quality of the coffee beans. Cheap beans would have lifted the margin within a month and emptied the queue within six. Waste cut at the cost of the product is not a saving. It is a delay.
 
@@ -117,7 +117,7 @@ Without them, an honest margin tells you where you stand. It does not tell you w
 
 You have two choices tonight. Keep trusting the margin in your head, and hire, spend and plan on top of it. Or put a sheet next to the bin and learn the real number in two weeks.
 
-The sheet fixes the reading. The zones and the one-page plan turn that reading into a decision you can defend.
+The sheet fixes the reading. The zones and the one-page plan turn that reading into a decision you can defend. For short clips between closing times, see [Steer, Don't Guess on TikTok](https://www.tiktok.com/@steerdontguess).
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and the coffee shop's numbers run through every chapter.
 

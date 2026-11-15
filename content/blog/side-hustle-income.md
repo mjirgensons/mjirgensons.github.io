@@ -17,15 +17,15 @@ Then the fuel bill arrives. The car needs tyres. And the bank shows a figure the
 
 Here is the irony. The app counts every order to the cent. The cost of earning it gets counted by feel, or not at all.
 
-A busy app screen can hide a side hustle that costs you money. The Jirgenson Model answers it as a control system: one real number per goal, from a source you trust. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A busy app screen can hide a side hustle that costs you money. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) answers it as a control system: one real number per goal, from a source you trust. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Delivery driver pay after costs: measure what you keep
 
 The line at the top is about the gap between what a screen says you earned and what you kept. Close that gap tonight.
 
-Take the bank statement as your source, not the app. The app shows revenue. The bank shows what is left after fuel, repairs, phone and fees.
+Take the bank statement as your source, not the app. The app shows revenue. The bank shows [what is left after fuel, repairs, phone and fees](/blog/uber-driver-earnings/).
 
-Andrew, who runs a coffee shop, found the same gap in his own books. He was sure his margin held at around twenty per cent. When he measured it, it was 9%. He had never counted waste: sour milk, pastries written off at the end of the shift. The costs were real. They never showed up in any report.
+Andrew, who runs a coffee shop, found the same gap in his own books. He was sure his margin held at around twenty per cent. When he measured it, it was 9%. He had never counted [waste](/blog/waste-in-small-business/): sour milk, pastries written off at the end of the shift. The costs were real. They never showed up in any report.
 
 Your fuel, tyres and phone bill are those pastries. Count them, or your pay is a story.
 
@@ -43,7 +43,7 @@ The entries come from Elena, a freelance designer. Her income came in uneven mon
 
 Three columns: parameter, where to get it, value. One row for each thing you want from the work.
 
-Elena's rows: average monthly income, the share of her biggest client, and her hours a week.
+Elena's rows: average monthly income, [the share of her biggest client](/blog/client-concentration-freelancer/), and her hours a week.
 
 ### 2. Give every row one source
 
@@ -100,9 +100,9 @@ How to avoid working for nothing: put "money in minus money out" on the sheet ev
 
 <strong>Your typical side hustle makes just enough a month to take the family out for dinner.</strong>
 
-Decide what the work is for before you judge it. Then the number on your sheet has something to stand against.
+[Decide what the work is for](/blog/extra-income/) before you judge it. Then the number on your sheet has something to stand against.
 
-A goal needs a number, a unit and a deadline. "More income" has no number. "€3,000" has no period and no deadline. "€3,000 a month, as a three-month average, by month 14" is Elena's goal.
+A goal needs [a number, a unit and a deadline](/blog/how-to-set-measurable-goals/). "More income" has no number. "€3,000" has no period and no deadline. "€3,000 a month, as a three-month average, by month 14" is Elena's goal.
 
 Then put the goal and the state side by side, row by row. Andrew's first sheet looked like this:
 
@@ -128,6 +128,8 @@ This is one piece of a loop: goal, state, gap, levers, plan, forecast. The sheet
 
 "I don't have time for spreadsheets." You don't need one. Andrew's first version took two hours. Elena's took an evening. Paper works.
 
+More short worked examples sit on the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
+
 ## The cost of six more months of guessing
 
 Andrew nearly paid for his guess in full. The same week he measured, he had planned to hire a second barista and start an advertising campaign. The whole plan rested on a twenty per cent margin that didn't exist. Within a few months the shop would have run out of money, and no one would have known why.
@@ -144,10 +146,10 @@ The cause of bad decisions stays. You see €6 an hour, but you don't know if th
 
 Two steps close that gap:
 
-- <strong>Error and the three zones.</strong> Where each number turns from green to yellow to red, and the red protocol for the day two rows go red at once. Chapter 4.
-- <strong>Levers you can pull today.</strong> The short list of things you control yourself, each with a leading indicator, so you stop pulling the wrong one. Chapter 5.
+- <strong>Error and the three zones.</strong> Where each number [turns from green to yellow to red](/blog/kpi-zones/), and the red protocol for the day two rows go red at once. Chapter 4.
+- <strong>Levers you can pull today.</strong> The short list of [things you control yourself](/blog/business-levers/), each with a leading indicator, so you stop pulling the wrong one. Chapter 5.
 
-Without them, the sheet tells you where you are. It doesn't tell you when to act or what to move.
+Without them, the sheet tells you where you are. It doesn't tell you when to act or what to move. Both chapters are in the paperback of [Steer, Don't Guess](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -163,7 +165,7 @@ Without them, the sheet tells you where you are. It doesn't tell you when to act
 
 You have two choices tonight. Close the tab, open the app, and keep trusting the green arrow. Or take one evening and put your real pay on paper.
 
-The sheet tells you where you stand. The zones and the levers tell you when to act and what to move.
+The sheet tells you where you stand. The zones and the levers tell you when to act and what to move. [Martin Jirgenson](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson) built the book around that loop.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a task to try in every chapter.
 

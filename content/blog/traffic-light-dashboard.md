@@ -11,13 +11,13 @@ answer: "A traffic light dashboard shows each key number against three zones you
 
 Look at an engine temperature gauge. Its dial has three coloured sectors. Needle in the green: drive on. In the yellow: pay attention. In the red: stop. Nobody strips the engine down part by part to decide what to do. You look at which sector the needle is in.
 
-Now look at most small business reports. Rows of numbers, no colours, and a manager who has to decide every week, from scratch and usually tired, whether minus six points of margin is a lot or not. That is the problem three colours solve, and they solve it before the week begins.
+Now look at [most small business reports](/blog/small-business-kpis/). Rows of numbers, no colours, and a manager who has to decide every week, from scratch and usually tired, whether minus six points of margin is a lot or not. That is the problem three colours solve, and they solve it before the week begins.
 
-Judging every number from scratch each week wears you down and invites guesses. The Jirgenson Model fixes that with zones set in advance on real numbers, so each colour already carries its action. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). The gauge does the judging, and you do the steering.
+Judging every number from scratch each week wears you down and invites guesses. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) fixes that with zones set in advance on real numbers, so each colour already carries its action. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). The gauge does the judging, and you do the steering.
 
 ## What a traffic light dashboard really is
 
-A business dashboard is not a pile of charts. It is a short list of the numbers tied to your goals, each shown against limits you drew in a calm moment. The colour is the decision already half made.
+A business dashboard is not a pile of charts. It is a short list of [the numbers tied to your goals](/blog/how-to-measure-business-performance/), each shown against limits you drew in a calm moment. The colour is the decision already half made.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> every parameter has three zones set in advance: normal (the deviation is within tolerance), acceptable (worse than normal, without damage to the structure) and emergency (the limit is crossed, but nothing irreversible has happened yet). A fourth state, undefined, means the data are missing, stale or contradictory.</div>
 
@@ -46,11 +46,11 @@ One red, four yellow. Copy the columns, replace the rows with your own goals, an
 
 ## Where to draw the red line in a business
 
-Thresholds are not plucked out of the air. Three rules govern them.
+[Thresholds](/blog/kpi-zones/) are not plucked out of the air. Three rules govern them.
 
-**1. The red line sits where damage becomes hard to reverse.** Andrew put the red threshold for his reserve at one month of expenses. A month gives him time to negotiate a deferral, find money and make a decision. Below a month, there is no time left for any of that. That is the test for every red line: below this point, can I still fix it calmly?
+**1. The red line sits where damage becomes hard to reverse.** Andrew put the red threshold for his reserve at [one month of expenses](/blog/cash-reserve-months-of-expenses/). A month gives him time to negotiate a deferral, find money and make a decision. Below a month, there is no time left for any of that. That is the test for every red line: below this point, can I still fix it calmly?
 
-**2. A tolerance cannot be narrower than your measurement error.** If your margin accounting is off by one percentage point, a green zone half a point wide is meaningless; the colour will change because of noise. Improve the measurement rather than widen the tolerance.
+**2. A tolerance cannot be narrower than your measurement error.** If your margin accounting is off by one percentage point, a green zone half a point wide is meaningless; the colour will change because of noise. [Improve the measurement](/blog/waste-in-small-business/) rather than widen the tolerance.
 
 **3. Thresholds are set in a calm moment and changed rarely.** Moving them in the middle of a crisis is bending the yardstick to fit the result. If a number hovers near a boundary, use separate entry and exit thresholds, or require two or three readings in a row before the colour changes, so it does not flicker back and forth.
 
@@ -58,17 +58,17 @@ Thresholds are not plucked out of the air. Three rules govern them.
 
 **Red: drop everything else.** Andrew's first instinct on seeing the table was to launch loyalty cards and win back customers. A sensible idea. But the cards cost money (printing, discounts, setting up the till), and that money would come out of a reserve already under a month. Regular customers were yellow; they drift away slowly. The reserve was red; there, everything can end quickly. The cards and the reserve were [competing priorities](/blog/competing-priorities-conflicting-goals/): both pulled on the same money. He put the cards aside and, for the first time, felt no guilt about it. The order of first moves when something is red is covered in detail in [what to do first in a business crisis](/blog/business-crisis-what-to-do-first/).
 
-**Yellow: find the cause while it is cheap.** Nothing is on fire, which is exactly why yellow is the most treacherous zone. Doing nothing is wrong. Ask three questions: what has changed since last time, since when, and which lever affects it? For margin, Andrew wrote down a working explanation (waste and unprofitable menu items). For regular customers he did not know yet, and wrote "find out" on his task list. That counts as a result.
+**Yellow: find the cause while it is cheap.** Nothing is on fire, which is exactly why yellow is the most treacherous zone. Doing nothing is wrong. Ask three questions: what has changed since last time, since when, and [which lever affects it](/blog/levers-of-control/)? For margin, Andrew wrote down a working explanation (waste and unprofitable menu items). For regular customers he did not know yet, and wrote "find out" on his task list. That counts as a result.
 
 **Green: leave it alone.** This is the rule that surprises people. If a number is within tolerance, there is no need to correct it on the strength of today's deviation. Fine-tuning a green number is cost without a goal, and fixing what works is one of management's most common sins. Prevention (maintenance, training, a backup supplier) is a separate decision, judged against future risks, not today's colour.
 
 ## The same dashboard for a thirteen-year-old
 
-The idea scales down beautifully. Alex is saving €300 for a bicycle. By his plan he should have €170 on 1 July; he has €140. His zones: up to €10 behind is normal, €11 to €40 is acceptable, more than €40 is an emergency. Minus €30 is yellow. No panic, the cause is clear (the scooter has not been sold yet), but he keeps a close eye on it. That is the whole system, and it fits on the back of an envelope.
+The idea scales down beautifully. Alex is [saving €300 for a bicycle](/blog/save-for-a-goal/). By his plan he should have €170 on 1 July; he has €140. His zones: up to €10 behind is normal, €11 to €40 is acceptable, more than €40 is an emergency. Minus €30 is yellow. No panic, the cause is clear (the scooter has not been sold yet), but he keeps a close eye on it. That is the whole system, and it fits on the back of an envelope.
 
 ## Where this does not reach
 
-Colours compress information, and compression loses detail: two yellows are not equally urgent, and one red can amplify another. When several rows are red, the order of attention comes from what threatens the most imminent irreversible damage, then from your goal order, not from the colours alone. And a dashboard shows deviation from the goal; it does not show the factors pushing you there or what the next month will bring. Those need their own look.
+Colours compress information, and compression loses detail: two yellows are not equally urgent, and one red can amplify another. When several rows are red, the order of attention comes from what threatens the most imminent irreversible damage, then from your goal order, not from the colours alone. And a dashboard shows deviation from the goal; it does not show the factors pushing you there or what the next month will bring. Those need their own look. The model's public text sits in its [canon on GitHub](https://github.com/mjirgensons/jirgenson-canon).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -81,7 +81,7 @@ Colours compress information, and compression loses detail: two yellows are not 
 
 ## The evening the colours were set
 
-What strikes me about Andrew's evening is how little it took. Five rows, three boundaries each, written while his head was clear. From then on, "What do I do?" had an answer that fatigue could not overrule. The colours did not make the decisions for him. They stopped the wrong ones from being made by default.
+What strikes me about Andrew's evening is how little it took. Five rows, three boundaries each, written while his head was clear. From then on, "What do I do?" had an answer that fatigue could not overrule. The colours did not make the decisions for him. They stopped the wrong ones from being made by default. You can find me, Martin Jirgenson, on [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/).
 
 Your dashboard needs goals in its first column, and those come from Chapter 1, free in [the free sample](/blog/free-sample/). The full method, with the formal version of the zones and what to do when several rows are red, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

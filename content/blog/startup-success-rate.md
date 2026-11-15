@@ -11,7 +11,7 @@ answer: "The startup success rate describes the crowd; your goals are yours to f
 
 **Three out of four venture-backed startups never give investors their money back.**
 
-That number was not carved in stone. Behind each of those startups stood a team that worked hard and meant well. Some of them might have made it if they had steered with a control system, the Jirgenson Model, instead of a slide full of hopes. With it, the figure could look different.
+That number was not carved in stone. Behind each of those startups stood a team that worked hard and meant well. Some of them might have made it if they had steered with a control system, [the Jirgenson Model](https://github.com/mjirgensons/jirgenson-canon), instead of a slide full of hopes. With it, the figure could look different.
 
 Now look at your own pitch deck. Slide four says "Goals". Under it: grow fast, stay lean, delight customers, lead the category. Four wishes, no numbers, no order.
 
@@ -23,15 +23,15 @@ The Jirgenson Model is scientifically proven to work ([Zenodo record](https://do
 
 That first number is about venture capital returns. It belongs to the investors' list of goals. Yours is a different list, and the two only meet if both are written down.
 
-So write yours first. A ship cannot sail to two ports at once. A captain who loves both burns fuel, dashes back and forth, and arrives nowhere. Choose the port before you leave the harbour, not in the middle of the storm.
+So write yours first. A ship cannot sail to [two ports at once](/blog/competing-priorities-conflicting-goals/). A captain who loves both burns fuel, dashes back and forth, and arrives nowhere. Choose the port before you leave the harbour, not in the middle of the storm.
 
-The way to choose is the refusal question. Imagine circumstances force you to drop your goals one at a time. Which goes first? Which is the last one left? The last one becomes number one.
+The way to choose is [the refusal question](/blog/set-priorities-refusal-order/). Imagine circumstances force you to drop your goals one at a time. Which goes first? Which is the last one left? The last one becomes number one.
 
 **How to avoid it:** put your ranked list next to your investors' list before the money lands. Where they clash, settle it on a calm day.
 
 ## Startup success rate: the part you control, six fields per goal
 
-This is the tool. A goal becomes real only once six fields are filled in. It takes about a minute per goal.
+This is the tool. A goal becomes real only once [six fields](/blog/how-to-set-measurable-goals/) are filled in. It takes about a minute per goal.
 
 Andrew, a coffee shop owner from the model's examples, filled them in for his margin.
 
@@ -49,7 +49,7 @@ Without field four, today's value, the goal stays a wish.
 Now fill in your own.
 
 1. **Pick six areas and cover them.** Finance, clients, sales, processes and quality, people, and the founder's own time and health. Take zero to three goals from each.
-2. **Stop at nine goals.** For a person working without software, ten priorities are no longer priorities. They are a list.
+2. **Stop at nine goals.** For a person working without software, [ten priorities are no longer priorities](/blog/too-many-goals/). They are a list.
 3. **Fill all six fields for every goal.** One row per goal, one minute per row.
 4. **Run the one-minute check.** "A good profit" has no number. "15" has no unit. "15%" has no deadline. "15% by month six" is a goal.
 5. **Rank the rows by the refusal question.** The last goal you would give up gets number one.
@@ -65,7 +65,7 @@ Here is the contrast, as an illustration. The usual slide says "grow fast". The 
 
 "Barely alive" is what happens when nobody wrote down a floor. Some of those seed stage startups might have looked different if every goal had a minimum line below it. The odds could have shifted.
 
-The model sees four layers. First, constraints: the law, safety, contracts, the load a person can carry. They are never given up. Second, minimum levels: below them, the result is no longer viable. Third, improvement goals, ranked by refusal. Fourth, a rule for what is left over.
+The model sees [four layers](/blog/goal-hierarchy/). First, constraints: the law, safety, contracts, the load a person can carry. They are never given up. Second, minimum levels: below them, the result is no longer viable. Third, improvement goals, ranked by refusal. Fourth, a rule for what is left over.
 
 Then check the unicorn startup line. "Become a unicorn" is a dream. "Raise the next round" is a method. Ask of every method on your slide: what for? Andrew's rough list had eight items, and three were methods: loyalty cards, a second barista, a new coffee machine. Asked "what for?", they collapsed into two goals already listed. That freed a place for money in reserve.
 
@@ -73,7 +73,7 @@ Then check the unicorn startup line. "Become a unicorn" is a dream. "Raise the n
 
 ## What two goals that cannot coexist cost
 
-Some goal lists have no solution at all. You find out by arithmetic, or by running out of money.
+Some goal lists have no solution at all. You find out [by arithmetic](/blog/mutually-exclusive-goals/), or by running out of money.
 
 Andrew's shop takes €30,000 a month. Fixed costs are €18,300 and variable costs €9,000, so profit today is €2,700. Suppose he wants "the lowest price on the street", 10% below today, and a 15% margin as well.
 
@@ -108,7 +108,7 @@ Andrew put his reserve first: at least two months of costs by month twelve. His 
 
 Now watch how the order decides. Take two of his year-end plans. Plan X meets the reserve and the margin and misses regular customers. Plan Y misses the reserve, beats the margin and beats regular customers. Each meets four goals out of five. By count, a tie. By order, X wins, because the first difference is in row one.
 
-Counting goals and ranking goals give different answers. The model goes with the ranking. For the runway calculation itself, use the reserve row: cash divided by monthly costs, checked on a fixed day.
+Counting goals and ranking goals give different answers. The model goes with the ranking. For [the runway calculation](/blog/months-of-runway/) itself, use the reserve row: cash divided by monthly costs, checked on a fixed day.
 
 **How to avoid it:** give cash row one, fill in all six fields, and name the person who reads it every week.
 
@@ -118,7 +118,7 @@ That is the reason to write them. Without an order, every crisis decides for you
 
 Andrew saw it plainly. Leave all five goals "equally important", and a week later a supplier raises the milk price while Sara asks for another barista. He agrees because he is tired. A month later he finds he ran out of money before he ran out of time.
 
-It works outside coffee shops too. Elena, a freelance designer, ranked income first and let her hours go first: up to 55 a week, from month one to month three only.
+It works outside coffee shops too. Elena, a freelance designer, ranked income first and let her hours go first: up to 55 a week, from month one to month three only. Both cases are worked through in [Steer, Don't Guess](https://www.amazon.com/dp/B0HPCJCWKF).
 
 ## Where the goal list stops
 
@@ -147,7 +147,7 @@ The list is the first stage of one loop: goal, state, error, levers, plan, forec
 
 You have two choices. Keep slide four as it is, four wishes with no order, and let the first bad quarter rank them for you. Or spend twenty minutes tonight filling in six fields per goal and putting cash in row one.
 
-The list tells you what to protect. Zones and levers tell you when to act and what to pull.
+The list tells you what to protect. Zones and levers tell you when to act and what to pull. Connect with the author, Martin Jirgenson, on [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/).
 
 Test the logic for free: [the Introduction and Chapter 1](/blog/free-sample/) carry this whole tool. Or get the full control system now. It comes as a Kindle book, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
