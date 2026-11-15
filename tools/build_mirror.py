@@ -4,7 +4,8 @@ Layout:
   /                     author page (Martin Jirgenson, list of books)
   /steer-dont-guess/    the full book site (docs/ with every root-relative link prefixed)
 
-Canonical, og:url and JSON-LD stay absolute on https://mjirgensons.github.io while that is the main site.
+Since 2026-11-15 this is the MAIN site: canonical, og:url, sitemap and JSON-LD are absolute on
+https://sundeco.ca/steer-dont-guess/ (site.json url). mjirgensons.github.io is the mirror (same pages, canonical here).
 A future book is one more entry in BOOKS and one more folder.
 
 Usage: python3 tools/build_mirror.py <out_dir>
@@ -147,7 +148,12 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     copy_book(out)
     (out / "index.html").write_text(hub_page())
-    (out / "robots.txt").write_text("User-agent: *\nAllow: /\n")
+    # root robots.txt: same rules as the book site, sitemap of the book site
+    (out / "robots.txt").write_text((DOCS / "robots.txt").read_text())
+    # root verification files (Google Search Console, Bing) and IndexNow key, so sundeco.ca/ can be verified
+    for name in ("googlee2e8a318213db3cc.html", "BingSiteAuth.xml", "3f5573082a047d7fd044b24d1fd40f67.txt", "llms.txt"):
+        if (DOCS / name).exists():
+            shutil.copy2(DOCS / name, out / name)
     shutil.copy2(DOCS / "404.html", out / "404.html")
     (out / "404.html").write_text(prefix_html((DOCS / "404.html").read_text()))
     print(f"mirror built -> {out}")

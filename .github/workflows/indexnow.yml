@@ -3,10 +3,9 @@ name: IndexNow ping
 # changed in this push to IndexNow (Bing, Yandex, Seznam, Naver). Bing asks for new or
 # changed URLs only: resending the whole sitemap on every deploy lowers trust.
 # A manual run (workflow_dispatch) still sends the whole sitemap once. The key file lives in docs/.
+# 2026-11-15: the main site moved to https://sundeco.ca/steer-dont-guess/ ; IndexNow now runs in
+# mjirgensons/sundeco-site sync.yml after each mirror sync. This copy runs only by hand.
 on:
-  push:
-    branches: [main]
-    paths: ["docs/**"]
   workflow_dispatch:
 jobs:
   ping:

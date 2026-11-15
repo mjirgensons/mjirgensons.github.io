@@ -24,4 +24,4 @@ User-agent: cohere-ai
 User-agent: YouBot
 Allow: /
 
-Sitemap: https://mjirgensons.github.io/sitemap.xml
+Sitemap: https://sundeco.ca/steer-dont-guess/sitemap.xml
