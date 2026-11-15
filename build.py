@@ -85,6 +85,42 @@ def straight_apostrophes(html_text):
     # one apostrophe style across the site: straight ' (Martin, 2026-10-30)
     return html_text.replace("\u2019", "'").replace("\u2018", "'")
 
+
+STOP = set("a an the and or of to in for on with your you is are how what why when it its be by from at as do does this that vs not no".split())
+def _tokens(m):
+    kw = m.get("keywords") or []
+    if isinstance(kw, str): kw = [kw]
+    text = " ".join([m.get("title", ""), " ".join(kw), str(m.get("chapter", ""))]).lower()
+    return {w for w in re.findall(r"[a-z]+", text) if len(w) > 2 and w not in STOP}
+
+def pick_related(posts, n=3):
+    """Read next: the most similar posts by title, keywords and chapter.
+    Ties go to posts that have received the fewest links so far, so every post gets inbound links
+    (2026-11-14: before this, every post linked to the same 3 newest posts)."""
+    toks = {m["slug"]: _tokens(m) for m in posts}
+    inbound = {m["slug"]: 0 for m in posts}
+    out = {}
+    order = sorted(posts, key=lambda m: m["slug"])
+    for m in order:
+        a = toks[m["slug"]]
+        cands = []
+        for o in posts:
+            if o["slug"] == m["slug"]:
+                continue
+            b = toks[o["slug"]]
+            sim = len(a & b) / (len(a | b) or 1)
+            cands.append((-round(sim, 2), inbound[o["slug"]], o["slug"], o))
+        cands.sort(key=lambda c: c[:3])
+        chosen = [c[3] for c in cands[:n - 1]]
+        # last slot: the least linked post among the 10 most similar
+        rest = sorted(cands[n - 1:n + 9], key=lambda c: (c[1], c[0], c[2]))
+        if rest:
+            chosen.append(rest[0][3])
+        for o in chosen:
+            inbound[o["slug"]] += 1
+        out[m["slug"]] = chosen
+    return out
+
 def write(url_path: str, html_text: str):
     html_text = straight_apostrophes(external_new_tab(wrap_tables(html_text)))
     p = OUT / url_path.strip("/") / "index.html" if url_path not in ("", "/") else OUT / "index.html"
@@ -125,8 +161,9 @@ def main():
                     sections=[(i, re.sub(r"<[^>]+>", "", t)) for i, t in h2s])
         posts.append(meta)
     posts.sort(key=lambda m: (bool(m.get("pinned")), m.get("date", "")), reverse=True)
+    related_map = pick_related(posts)
     for m in posts:
-        related = [s for s in posts if s["slug"] != m["slug"]][:3]
+        related = related_map[m["slug"]]
         write(m["url"], render("post.html", page=m, related=related))
         pages.append((m["url"], m.get("updated", m.get("date")), "0.9" if m.get("pinned") else "0.8"))
     write("/blog/", render("blog_index.html", page={"url": "/blog/", "title": "Blog: the Jirgenson Model in practice", "description": "Free chapters of Steer, Don't Guess and articles on business situations: crisis, priorities, cash, levers, plans that fail, AI for business decisions. Each post names the chapter that covers it."}, posts=posts))
