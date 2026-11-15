@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F7F8F6">
+<title>Pre Mortem: Find Out Why Your Plan Fails Before It Starts</title>
+<meta name="description" content="A pre mortem imagines the plan already failed and asks why. Sort each reason into one of three offsets and turn it into one line of the plan. Worked example.">
+<link rel="canonical" href="https://sundeco.ca/steer-dont-guess/blog/pre-mortem/">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta name="author" content="Martin Jirgenson">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Steer, Don&#39;t Guess">
+<meta property="og:title" content="Pre Mortem: Find Out Why Your Plan Fails Before It Starts">
+<meta property="og:description" content="A pre mortem imagines the plan already failed and asks why. Sort each reason into one of three offsets and turn it into one line of the plan. Worked example.">
+<meta property="og:url" content="https://sundeco.ca/steer-dont-guess/blog/pre-mortem/">
+<meta property="og:image" content="https://sundeco.ca/steer-dont-guess/img/cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="Steer, Don&#39;t Guess: Blog" href="https://sundeco.ca/steer-dont-guess/rss.xml">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css?v=3">
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebSite", "alternateName": "The Jirgenson Model", "author": {"@type": "Person", "name": "Martin Jirgenson"}, "name": "Steer, Don\u0027t Guess", "url": "https://sundeco.ca/steer-dont-guess"}
+</script>
+
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "about": ["pre mortem", "what is pre mortem", "pre mortem definition", "pre mortem meaning", "stress test business"], "author": {"@id": "https://sundeco.ca/steer-dont-guess/author/#person", "@type": "Person", "image": "https://sundeco.ca/steer-dont-guess/img/martin-jirgenson.jpg", "jobTitle": "Business Development Executive, Systems Architect and Author", "name": "Martin Jirgenson", "url": "https://sundeco.ca/steer-dont-guess/author/"}, "dateModified": "2026-11-15", "datePublished": "2026-11-15", "description": "A pre mortem imagines the plan already failed and asks why. Sort each reason into one of three offsets and turn it into one line of the plan. Worked example.", "headline": "Pre Mortem: Find Out Why Your Plan Fails Before It Starts", "image": "https://sundeco.ca/steer-dont-guess/img/cover.jpg", "inLanguage": "en", "isPartOf": {"@id": "https://sundeco.ca/steer-dont-guess/#book", "@type": "Book", "name": "Steer, Don\u0027t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life"}, "mainEntityOfPage": "https://sundeco.ca/steer-dont-guess/blog/pre-mortem/", "publisher": {"@type": "Person", "name": "Martin Jirgenson"}, "url": "https://sundeco.ca/steer-dont-guess/blog/pre-mortem/", "wordCount": 1796}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "A planning exercise in which you imagine the plan has already failed and write down every reason why. You run it before the work starts, so the reasons can still change the plan."}, "name": "What is a pre mortem?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "It means testing a business plan against its own failure before you spend money. Sort each reason into a bad goal, a wrong starting number or a failing environment. Then add one line to the plan for each."}, "name": "What does pre mortem mean in business?"}, {"@type": "Question", "acceptedAnswer": {"@type": "Answer", "text": "Take the biggest cost in the plan and subtract it from your cash reserve at the moment you would pay it. If the reserve falls below one month of expenses, the plan is not ready to start. Check your starting numbers against real statements first."}, "name": "How do you stress test a business plan?"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "item": "https://sundeco.ca/steer-dont-guess/", "name": "Home", "position": 1}, {"@type": "ListItem", "item": "https://sundeco.ca/steer-dont-guess/blog/", "name": "Blog", "position": 2}, {"@type": "ListItem", "item": "https://sundeco.ca/steer-dont-guess/blog/pre-mortem/", "name": "Pre Mortem: Find Out Why Your Plan Fails Before It Starts", "position": 3}]}</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@id": "https://doi.org/10.5281/zenodo.23964934", "@type": "Dataset", "creator": {"@id": "https://sundeco.ca/steer-dont-guess/author/#person", "@type": "Person", "name": "Martin Jirgenson", "sameAs": ["https://orcid.org/0009-0001-3034-3552"], "url": "https://sundeco.ca/steer-dont-guess/author/"}, "datePublished": "2026-11-04", "description": "Blind, pre-registered test of whether a language model answers small-business crisis messages better with the Jirgenson Model canon and operating prompt: ten scenarios, conditions without a prompt, with a generic adviser prompt and with the canon and prompt; generator Claude Sonnet 5.5, blind pairwise judge Claude Opus 5.5. Final version: 88.8 out of 100 against 56.2 without a prompt; answers with an invented fact 7 in 10 without a prompt, 1 in 120 with the method. In the same 60 blind reviews: 102 invented facts without a prompt, 1 with the method. Full record: scenarios, answer key, all answers, all judge records, scripts and limits.", "distribution": [{"@type": "DataDownload", "contentUrl": "https://zenodo.org/records/23964935/files/E5_record_v1.0.zip", "encodingFormat": "application/zip"}, {"@type": "DataDownload", "contentUrl": "https://zenodo.org/records/23964935/files/E5_inputs_v1.0.zip", "encodingFormat": "application/zip"}], "identifier": "https://doi.org/10.5281/zenodo.23964934", "inLanguage": "en", "isAccessibleForFree": true, "isBasedOn": {"@id": "https://sundeco.ca/steer-dont-guess/#book", "@type": "Book", "name": "Steer, Don\u0027t Guess"}, "keywords": ["large language models", "hallucination", "prompt engineering", "LLM-as-a-judge", "small business", "decision making", "management"], "license": ["https://creativecommons.org/licenses/by/4.0/", "https://creativecommons.org/licenses/by-nd/4.0/", "https://opensource.org/licenses/MIT"], "name": "E5: a blind test and stepwise optimisation of the Jirgenson Model operating prompt on ten small-business crisis scenarios", "publisher": {"@type": "Organization", "name": "Zenodo"}, "sameAs": ["https://zenodo.org/records/23964935", "https://www.wikidata.org/wiki/Q142022866", "https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test", "https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt"], "url": "https://doi.org/10.5281/zenodo.23964934", "version": "1.0"}
+</script>
+
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap nav">
+    <a class="logo" href="/">Steer, Don't Guess</a>
+    <nav class="nav-desk" aria-label="Main">
+      <a href="/#book">Book</a>
+      <a href="/blog/">Blog</a>
+      <a href="/reviews/">Reviews</a>
+      <a href="/author/">Author</a>
+      <a href="/ai-assistant/">AI prompt</a>
+      <a class="btn" href="/buy/">Get the book</a>
+    </nav>
+    <details class="menu">
+      <summary aria-label="Menu"><svg class="bars" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><svg class="x" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></summary>
+      <nav class="menu-panel" aria-label="Main">
+        <a href="/#book">Book</a>
+        <a href="/blog/">Blog</a>
+        <a href="/blog/free-sample/">Read Chapter 1 free</a>
+        <a href="/reviews/">Reviews</a>
+        <a href="/author/">Author</a>
+        <a href="/ai-assistant/">AI prompt</a>
+        <a class="btn btn-buy" href="/buy/">Get the book</a>
+      </nav>
+    </details>
+  </div>
+</header>
+<main id="main">
+
+<div class="wrap">
+<article class="col article">
+  <a class="crumb" href="/blog/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>Blog</a>
+  <span class="label">Chapter 11</span>
+  <h1>Pre Mortem: Find Out Why Your Plan Fails Before It Starts</h1>
+  <div class="byline"><a href="/author/"><img class="ava" src="/img/martin-jirgenson-avatar.jpg" width="40" height="40" alt="Martin Jirgenson"></a><div><b>Martin Jirgenson</b><span>15 Nov 2026 · 9 min read</span></div></div>
+  <div class="answer"><span class="label">Short answer</span><p>A pre mortem is a planning exercise: before work starts, you imagine the plan has already failed and write down why. To make it steer, sort each reason into a bad goal, a wrong starting number or a failing environment, run the check question for it, and turn every reason into one written line of the plan.</p></div>
+  
+  <details class="toc"><summary>In this article · 7 sections</summary><ol><li><a href="#what-is-a-pre-mortem">What is a pre mortem?</a></li><li><a href="#run-a-pre-mortem-in-five-steps">Run a pre mortem in five steps</a></li><li><a href="#the-usual-version-vs-one-that-steers">The usual version vs one that steers</a></li><li><a href="#stress-test-the-business-plan-what-skipping-the-check-costs">Stress test the business plan: what skipping the check costs</a></li><li><a href="#where-the-exercise-stops">Where the exercise stops</a></li><li><a href="#two-choices-before-you-start">Two choices before you start</a></li><li><a href="#published-research">Published research</a></li></ol></details>
+  <div class="prose bookbody"><p>Fewer than one project in ten lands on time and on budget.</p>
+<p>Now picture your plan as one of the nine. Where did it break: on the day it died, or on the day you wrote it?</p>
+<p>Picture a driver at night. The fuel gauge says full. The sensor is stuck, and the tank is empty. He pulls out to overtake, and the engine dies halfway past the truck. His driving was fine. His starting number was wrong.</p>
+<p>Now picture a second driver with a full tank and a burst coolant hose. Skill doesn't matter here. In two minutes the engine overheats, and the only right move is to stop.</p>
+<p>Both drivers could have found the problem before they turned the key. That is the job of a pre mortem.</p>
+<p>A plan that has never been tested against its own failure is a hope with a deadline. The answer to this pain comes from the Jirgenson Model. Imagine the failure, sort every reason by where the plan broke, and fix it in writing. It is scientifically proven that the Jirgenson Model works (<a href="https://doi.org/10.5281/zenodo.23964934" target="_blank" rel="noopener">doi.org/10.5281/zenodo.23964934</a>).</p>
+<h2 id="what-is-a-pre-mortem">What is a pre mortem?</h2>
+<p>A pre mortem is a planning exercise. Before the work starts, you imagine that the plan has already failed. Then you write down every reason why it failed.</p>
+<p>A post mortem asks why the patient died. A pre mortem asks the same question before the operation, while you can still change the plan. That is the whole pre mortem definition. It is a known method, older than this model.</p>
+<p>The usual output is a list of worries in the meeting notes. "Budget might run out." "Clients might be slow." The list feels useful. Then the plan goes ahead unchanged, because nothing on the list told anyone what to change.</p>
+<div class="def"><strong>In the Jirgenson Model,</strong> every plan rests on three anchor points: the goal, the starting state and the environment. An offset is a shift of one of them relative to reality. The exercise becomes a control step when each imagined reason lands on one anchor point. And each one ends in a written change to the plan.</div>
+
+<p>So the pre mortem meaning changes. It is no longer a session of worrying. It is a sorting job with a check question for every pile.</p>
+<h2 id="run-a-pre-mortem-in-five-steps">Run a pre mortem in five steps</h2>
+<p>You need one sheet, one plan and about fifteen minutes. Here is the method, with a worked example next to each step.</p>
+<p>The example is Elena, a freelance designer. Her income swings between €800 and €2,200 a month. One client brings in 70% of it. She works fifty hours a week. Her plan: write her first online book, launch it at month 4, and reach an average income of €3,000 by month 14.</p>
+<h3 id="1-name-the-date-of-death">1. Name the date of death</h3>
+<p>Pick the date on which the plan should have worked. Write one sentence as if it has already failed.</p>
+<p>Elena's sentence (an illustration): "It is month 14. My income still swings, my big client still pays most of it, and the book barely sells."</p>
+<h3 id="2-write-every-reason-fast">2. Write every reason, fast</h3>
+<p>Ten minutes, no editing, no defending. Write as a person who has watched it fail.</p>
+<p>Elena's list:</p>
+<ul>
+<li>I ran out of hours in the writing months.</li>
+<li>I planned with more income than I had.</li>
+<li>The platform changed its rules in the launch month.</li>
+<li>Visitors came to the page and did not buy.</li>
+<li>I judged the book after one month and gave up.</li>
+</ul>
+<h3 id="3-sort-each-reason-onto-an-anchor-point">3. Sort each reason onto an anchor point</h3>
+<p>This is the step the usual version skips. Every reason goes into one of four piles.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Pile</th>
+<th>The anchor that broke</th>
+<th>Check question</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(a) Bad goal</td>
+<td>The goal contradicts itself</td>
+<td>Does my list hold goals that cannot be met at the same time?</td>
+</tr>
+<tr>
+<td>(b) Wrong start</td>
+<td>The starting numbers are off</td>
+<td>Do my numbers match the data in the systems?</td>
+</tr>
+<tr>
+<td>(c) Failing environment</td>
+<td>The larger system is fading</td>
+<td>Is the market around me growing or declining?</td>
+</tr>
+<tr>
+<td>Other</td>
+<td>A cause outside the three</td>
+<td>Wrong cause and effect, short resources, poor execution, clashing incentives or unacceptable risk?</td>
+</tr>
+</tbody>
+</table></div>
+<p>The fourth pile matters. The three offsets do not explain every failure. A reason that fits none of them still needs an answer.</p>
+<h3 id="4-turn-every-reason-into-one-line-of-the-plan">4. Turn every reason into one line of the plan</h3>
+<p>A reason without a line in the plan is still a worry. Here is Elena's sheet after sorting:</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th>Reason</th>
+<th>Pile</th>
+<th>What the check showed</th>
+<th>Line added to the plan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ran out of hours</td>
+<td>(a)</td>
+<td>120 hours of writing in three months, on top of fifty-hour weeks, against a goal of 35 hours</td>
+<td>Time goes first in her refusal order: up to 55 hours a week from month 1 to month 3, then back down</td>
+</tr>
+<tr>
+<td>Planned with more income</td>
+<td>(b)</td>
+<td>One month brought €2,200, so she felt she earned about €2,000. Six months of bank statements said €1,300</td>
+<td>Plan from the statements, not from the best month</td>
+</tr>
+<tr>
+<td>Platform changed its rules</td>
+<td>(c)</td>
+<td>A factor she cannot control, not a dying market on its own</td>
+<td>Collect her own mailing list, and email only people who subscribed</td>
+</tr>
+<tr>
+<td>Visitors did not buy</td>
+<td>Other: cause and effect</td>
+<td>The page is a lever; the share of buyers is a result</td>
+<td>Leading indicator of 350 visitors a week. If fewer than 1.2% buy two weeks running, rewrite the headline</td>
+</tr>
+<tr>
+<td>Gave up after one month</td>
+<td>Other: execution</td>
+<td>A move from client work to a product takes months, not weeks</td>
+<td>First check at month 5, target at month 14. No verdict before then</td>
+</tr>
+</tbody>
+</table></div>
+<p>Look at the last column. Every line is something she can do, check or refuse. None of them says "be careful".</p>
+<h3 id="5-mark-the-i-dont-know-answers">5. Mark the "I don't know" answers</h3>
+<p>Go back through the check questions. Wherever your honest answer is "I don't know", you have found a risk. Write it down as a measurement to take before you start.</p>
+<p>That rule turns ignorance into a task. Elena's "I don't know" was her real income. One evening with her bank statements closed it.</p>
+<h2 id="the-usual-version-vs-one-that-steers">The usual version vs one that steers</h2>
+<p>Here is the same plan run both ways. It is an illustration.</p>
+<div class="tbl"><table>
+<thead>
+<tr>
+<th></th>
+<th>The usual way</th>
+<th>Through the model's rules</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Output</td>
+<td>A list of worries</td>
+<td>One line of the plan per reason</td>
+</tr>
+<tr>
+<td>"Not enough time"</td>
+<td>"Let's try to manage it"</td>
+<td>A time limit in the refusal order, with an end date</td>
+</tr>
+<tr>
+<td>"Income might be lower"</td>
+<td>Noted</td>
+<td>Income measured from six months of statements</td>
+</tr>
+<tr>
+<td>"Sales might be slow"</td>
+<td>"We'll push marketing"</td>
+<td>A leading indicator and a written trigger</td>
+</tr>
+<tr>
+<td>What happens next</td>
+<td>The plan starts unchanged</td>
+<td>The plan starts changed</td>
+</tr>
+</tbody>
+</table></div>
+<p>The usual version finds the cracks and leaves them. The second one fills each crack before the first brick goes on.</p>
+<h2 id="stress-test-the-business-plan-what-skipping-the-check-costs">Stress test the business plan: what skipping the check costs</h2>
+<p>The exercise finds the reasons. A stress test of the business puts a number on one of them. And the numbers are blunt.</p>
+<p>Take Elena's offset (b). Her felt income was about €2,000. Her real one was €1,300. Had she planned on the feeling, she would have counted on €700 a month that did not exist. Across the three writing months, that is €2,100, while she turned down small orders to free up hours.</p>
+<p>Now Andrew, who runs a coffee shop. Six months into his recovery plan, his margin hit 15% and he started to dream of a second location. Opening one costs about €45,000, or 1.8 months of expenses. His reserve stood at 1.35 months. He could not even have paid for the opening.</p>
+<p>Say he had waited for a reserve of 2.3 months and then signed. Right after opening he would have had 0.5 months left. That is the red zone in the first month. He would have lost what six months of work had built.</p>
+<p>And the human cost: the night before payroll, with a new lease signed and the old shop paying for both.</p>
+<p>The question "how does this fail?" costs fifteen minutes. Skipping it would have cost Elena €2,100 and Andrew his reserve.</p>
+<h2 id="where-the-exercise-stops">Where the exercise stops</h2>
+<p>It treats one symptom well: the surprise at launch. You start with a plan that has already met its own failure once.</p>
+<p>The deeper problem stays. The exercise checks the plan once, on the day before you start. It does not tell you when to start or how far you may stray. Nor does it build the route back from the goal.</p>
+<p>Two steps close that gap:</p>
+<ul>
+<li><strong>Launch conditions and the tolerance corridor</strong>. When a plan may start, written as a measurable event, not a date. And how far each number may drift on the way. Chapter 10.</li>
+<li><strong>The backward move</strong>. Walking from the goal back to today, so this week's first action falls out of the plan by itself. Chapter 15.</li>
+</ul>
+<p>Without them, the plan survives the start. It still drifts in month three without anyone noticing.</p>
+<p>Here is where it sits in the whole system. Goals, the state and the environment are the three anchors. This check covers all three before you pull a lever. Then the error, the plan and the forecast take over.</p>
+<p>The likely objection: "My plan is small. I don't need a ritual." Elena's plan was one freelancer and one book. One check of her starting number showed €700 a month of income that did not exist. The smaller the business, the less room there is for that kind of gap.</p>
+<p>For the three offsets themselves, with the Titanic test and the shopping-centre call, read <a href="/blog/why-business-plans-fail/">why business plans fail</a>.</p>
+<div class="takeaways">
+<h3 id="key-takeaways">Key takeaways</h3>
+<ul>
+<li>Imagine the plan already failed, then list why.</li>
+<li>Sort every reason onto an anchor: the goal, the starting numbers or the environment. Keep a fourth pile for other causes.</li>
+<li>Turn each reason into one written line of the plan, or it stays a worry.</li>
+<li>Every "I don't know" is a measurement to take before you start.</li>
+<li>A plan that never met its own failure is a hope with a deadline.</li>
+</ul>
+</div>
+<h2 id="two-choices-before-you-start">Two choices before you start</h2>
+<p>You have two choices. Start the plan tomorrow as it stands, and meet its failure in month six, when it costs real money. Or take fifteen minutes tonight, write the date of death, and sort the reasons.</p>
+<p>The check gets the plan through the start. The launch conditions, the corridor and the backward move keep it on course after that.</p>
+<p>The low-risk door: read <a href="/blog/free-sample/">the opening chapter free</a>, with the refusal test inside. The direct door: the whole control system, delivered as a Kindle book, <a href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">on Amazon</a>.</p>
+<h2 id="published-research">Published research</h2>
+<p>It is scientifically proven that the Jirgenson Model works. The published experiment, its record and its data:</p>
+<ul>
+<li>Zenodo (DOI): <a href="https://doi.org/10.5281/zenodo.23964934" target="_blank" rel="noopener">10.5281/zenodo.23964934</a></li>
+<li>Hugging Face: <a href="https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test" target="_blank" rel="noopener">E5 Jirgenson Model blind test</a></li>
+<li>Kaggle: <a href="https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt" target="_blank" rel="noopener">E5 blind test dataset</a></li>
+<li>GitHub: <a href="https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10" target="_blank" rel="noopener">experiment folder</a></li>
+<li>Wikidata: <a href="https://www.wikidata.org/wiki/Q142022866" target="_blank" rel="noopener">dataset Q142022866</a>, <a href="https://www.wikidata.org/wiki/Q141981336" target="_blank" rel="noopener">author Q141981336</a></li>
+<li>ORCID: <a href="https://orcid.org/0009-0001-3034-3552" target="_blank" rel="noopener">0009-0001-3034-3552</a></li>
+</ul></div>
+  <div class="inline-buy"><img src="/img/cover.jpg" width="64" height="98" alt="Steer, Don't Guess by Martin Jirgenson, book cover" loading="lazy"><div><p>The full chapter, with every calculation, is in the book.</p><a class="btn btn-buy btn-sm" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Buy on Amazon</a></div></div>
+  <h2>Questions people ask</h2><details><summary>What is a pre mortem?</summary><p>A planning exercise in which you imagine the plan has already failed and write down every reason why. You run it before the work starts, so the reasons can still change the plan.</p></details><details><summary>What does pre mortem mean in business?</summary><p>It means testing a business plan against its own failure before you spend money. Sort each reason into a bad goal, a wrong starting number or a failing environment. Then add one line to the plan for each.</p></details><details><summary>How do you stress test a business plan?</summary><p>Take the biggest cost in the plan and subtract it from your cash reserve at the moment you would pay it. If the reserve falls below one month of expenses, the plan is not ready to start. Check your starting numbers against real statements first.</p></details>
+  <p class="note">This topic is covered in <strong>Chapter 11, Three offsets: why even a good plan fails</strong> of <em>Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</em>. The numbers in the examples are illustrative; the book states its limits in Appendix G.</p>
+  <section class="cta-deep"><h2>Read Chapter 1 free</h2><p>The Introduction and Chapter 1, with the refusal test, about 9,500 words.</p><div class="btn-row"><a class="btn btn-white" href="/blog/free-sample/">Start reading</a></div></section>
+  
+  <h2>Read next</h2>
+  <div class="cards"><a class="card" href="/blog/why-business-plans-fail/"><span class="meta">Chapter 11</span><h3>Why business plans fail: three checks before you start</h3></a><a class="card" href="/blog/why-startups-fail/"><span class="meta">Chapter 11</span><h3>Why Startups Fail: Three Checks Before the Money Runs Out</h3></a><a class="card" href="/blog/when-to-give-up-on-a-business-idea/"><span class="meta">Chapter 11</span><h3>When to Give Up on a Business Idea: The Titanic Test</h3></a></div>
+</article>
+</div>
+
+</main>
+<footer class="floor">
+  <div class="wrap foot">
+    <div>
+      <p class="foot-title">Steer, Don&#39;t Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life</p>
+      <p>By Martin Jirgenson, Business Development Executive, Systems Architect and Author, Ontario, Canada. English edition 1.1, October 2026.</p>
+      <p class="small">Not financial, legal or investment advice. Characters in the book are composites; numbers are illustrative.</p>
+    </div>
+    <div class="foot-cols">
+      <div><p class="foot-h">Book</p><a href="/buy/">Where to buy</a><a href="/blog/free-sample/">Read Chapter 1 free</a><a href="/reviews/">Reviews</a><a href="/press/">Press kit</a></div>
+      <div><p class="foot-h">Model</p><a href="/blog/jirgenson-model-management-method/">The Jirgenson Model</a><a href="/blog/">Blog</a><a href="/ai-assistant/">Canon and prompt</a><a href="https://github.com/mjirgensons/jirgenson-model" target="_blank" rel="noopener">GitHub</a></div>
+      <div><p class="foot-h">Author</p><a href="/author/">Martin Jirgenson</a><a href="/contact/">Contact the author</a><a href="https://www.linkedin.com/in/martin-jirgenson-3098609a/" target="_blank" rel="noopener">LinkedIn</a><a href="/rss.xml">RSS</a></div>
+    </div>
+    <p class="copyright">© 2026 Martin Jirgenson. All rights reserved.</p>
+  </div>
+</footer>
+<div class="buybar is-hidden" id="buybar" role="region" aria-label="Buy the book">
+  <div><b>Steer, Don't Guess</b><span>Chapter 1 free</span></div>
+  <a class="btn btn-buy" href="https://www.amazon.com/dp/B0HPBR6BNX" target="_blank" rel="noopener">Buy on Amazon</a>
+</div>
+<script>
+(function(){var b=document.getElementById('buybar');if(!b)return;var h=document.querySelector('.hero');
+function upd(){var y=window.scrollY||0,lim=h?h.offsetTop+h.offsetHeight-80:320;b.classList.toggle('is-hidden',y<lim)}
+upd();window.addEventListener('scroll',upd,{passive:true});})();
+</script>
+<script>
+/* Canadian visitors: amazon.com does not sell the Kindle edition to Canadian accounts, so links go to amazon.ca; no prices are shown on the site (Martin, 2026-10-31) */
+(function(){try{var tz=(Intl.DateTimeFormat().resolvedOptions().timeZone||''),lg=(navigator.language||'');
+var ca=/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Glace_Bay|Goose_Bay|Whitehorse|Dawson|Dawson_Creek|Yellowknife|Iqaluit|Rankin_Inlet|Resolute|Cambridge_Bay|Inuvik|Fort_Nelson|Creston|Swift_Current|Atikokan|Nipigon|Thunder_Bay|Rainy_River|Pangnirtung|Blanc-Sablon|Coral_Harbour)$/.test(tz)||/-CA$/i.test(lg);
+if(!ca)return;document.documentElement.classList.add('ca');
+document.querySelectorAll('a[href*="www.amazon.com/dp/"]').forEach(function(a){a.href=a.href.replace('www.amazon.com','www.amazon.ca')});
+}catch(e){}})();
+document.querySelectorAll('.menu-panel a').forEach(function(a){a.addEventListener('click',function(){var d=a.closest('details');if(d)d.removeAttribute('open')})});
+</script>
+<!-- Cloudflare Web Analytics (no cookies) --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "ea984d6cb0c24454818c677d23a5f1d5"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
