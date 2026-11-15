@@ -35,11 +35,11 @@ How to avoid ending up in the dinner line: never let the work decide what the mo
 
 This is the tool: a sheet of paper and a quarter of an hour. Six steps, with Alex's answer under each one.
 
-The entries come from Alex. He is thirteen, and he earns extra money doing odd jobs for the neighbours. Today is 1 May.
+The entries come from Alex. He is thirteen, and he [earns extra money doing odd jobs](/blog/teach-kids-to-save-money/) for the neighbours. Today is 1 May.
 
 ### 1. Write the constraints first
 
-A constraint answers one question: what will I not do, even if it would save the goal? Ask it before you need it.
+A [constraint](/blog/goal-hierarchy/) answers one question: what will I not do, even if it would save the goal? Ask it before you need it.
 
 Alex's constraints: do not borrow money, and do not skip school to earn money. A written prohibition stops a foolish idea faster than any amount of persuasion.
 
@@ -53,7 +53,7 @@ Every evening on the console is an evening without paid work.
 
 ### 3. Run the refusal test
 
-Suppose you lose half your free time and must drop wishes one by one. Cross out the first to go, then the next. Number them in reverse: the survivor is number one.
+Suppose you lose half your free time and must [drop wishes one by one](/blog/set-priorities-refusal-order/). Cross out the first to go, then the next. Number them in reverse: the survivor is number one.
 
 At first Alex wanted to keep the games too. Then he worked it out. The football camp starts in June and leaves him two free evenings a week for everything. The choice became easy. Games go first, football second. The bicycle stays until last, so it gets number one.
 
@@ -106,7 +106,7 @@ Not everyone behind that line had to lose. With a list that named the goal and t
 
 Start by asking of each item on your list: what for? "Build a team", "sell to friends" and "reach the next rank" are methods. Each one answers "how". None answers "what do I want?" Andrew asked "what for?" of three methods on his draft. They collapsed into two goals already on his list.
 
-Then check the list for typical defects. Goals that cancel each other out. Priorities that change every Monday, so the work never moves towards any of them. A minor goal rescued at the cost of the main one.
+Then check the list for typical defects. [Goals that cancel each other out](/blog/mutually-exclusive-goals/). Priorities that change every Monday, so the work never moves towards any of them. A minor goal rescued at the cost of the main one.
 
 Elena, a freelance designer, shows what a sound list does with extra hours. Her normal limit is 35 hours a week. For the three months she spends writing her first online book, she allows herself up to 55. She chose that in advance, and she wrote down when it ends.
 
@@ -122,7 +122,7 @@ With an order. The same offer meets a list you wrote with a clear head. You see 
 
 Andrew pictured the first version in his own shop. With every goal "equally important", a dearer milk bill and a request for a Friday barista would each get a tired yes. Within a month the money would be gone before the time was. His fatigue would have chosen for him.
 
-The goal list opens a loop of six parts: goal, state, error, levers, plan, forecast. Without the first, the other five have nothing to aim at.
+The goal list opens [a loop of six parts](https://github.com/mjirgensons/jirgenson-model): goal, state, error, levers, plan, forecast. Without the first, the other five have nothing to aim at.
 
 "It's a few gigs, not a company." The test doesn't care about size. Alex runs it on a piggy bank. Emma and Paul run the same model on a family budget.
 
@@ -130,7 +130,7 @@ The Jirgenson Model is scientifically proven to work ([doi.org/10.5281/zenodo.23
 
 ## What extra income without a goal costs
 
-Emma and Paul earn €4,000 a month. Over one quarter their spending rose to €4,400. Their savings stand at €2,000. Change nothing, and the savings run out in five months. Six months of drifting is one month too many.
+Emma and Paul earn €4,000 a month. Over one quarter their spending rose to €4,400. Their savings stand at €2,000. Change nothing, and [the savings run out](/blog/household-budget-deficit/) in five months. Six months of drifting is one month too many.
 
 They looked at three roads. Cut subscriptions and eating out by €180, and the savings last about nine months. Add a side job bringing in €300 a month, and the €400 deficit becomes a surplus of €80. They chose that road, but began with the cuts alone, to see their effect. The side job came a month later, with its task already written: close the gap.
 
@@ -146,8 +146,8 @@ It doesn't show where each goal stands today, in figures you can trust. Nor does
 
 Two steps close that gap:
 
-- <strong>The state from measured data.</strong> Each number from one named source, counted, not felt. Chapter 2.
-- <strong>Error and the three zones.</strong> Thresholds that mark a shortfall as normal, a warning or an emergency, set in advance. Chapter 4.
+- <strong>The state from measured data.</strong> Each number from [one named source](/blog/gut-feeling-vs-numbers-business/), counted, not felt. Chapter 2.
+- <strong>Error and the three zones.</strong> [Thresholds](/blog/kpi-zones/) that mark a shortfall as normal, a warning or an emergency, set in advance. Chapter 4.
 
 Without them, the list tells you where you are going. It can't tell you how far off course you are.
 
@@ -167,6 +167,8 @@ You have two choices. Take the next gig because the money sounds good, and find 
 The list gives the destination. The measured state and the zones show how far off course you are.
 
 Start with the free part: [the Introduction and Chapter 1](/blog/free-sample/), where the refusal test is taught in full. If it works for you, get the full control system on Kindle: [Steer, Don't Guess on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with a short task in every chapter.
+
+Prefer paper? There is also a [paperback edition on Amazon](https://www.amazon.com/dp/B0HPCJCWKF). Short videos on the goal list are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

@@ -31,10 +31,10 @@ Those are the three schemes of control:
 | By deviation | Measure the miss, then correct it | Acts after the event |
 | By forecast | Forecast the next state, act on it, let new facts correct it | Needs a model and discipline |
 
-The Monday forecast moves one goal to the third scheme. It takes ten to fifteen minutes a week. Here it is, step by step, with two worked examples.
+[The Monday forecast](/blog/reactive-vs-proactive-management/) moves one goal to the third scheme. It takes ten to fifteen minutes a week. Here it is, step by step, with two worked examples.
 
 **1. Name the scheme you use today.**
-Elena, a freelance designer, sells her first online book. If she took stock only at month end, she would be the second driver. She would learn about a shortfall when it was too late to fix.
+Elena, a freelance designer, sells [her first online book](/blog/book-launch-plan/). If she took stock only at month end, she would be the second driver. She would learn about a shortfall when it was too late to fix.
 
 **2. Pick the goal and the number that feeds it.**
 Elena's goal: 21 sales a month. What feeds it: weekly visitors to her book's page, and her conversion rate of 1.5%.
@@ -57,17 +57,19 @@ How to stay off the quiet list: never wait for the statement to tell you how the
 
 <div class="def"><strong>In the Jirgenson Model,</strong> control by forecast closes the loop through the predicted future, not the recorded past. You forecast the next state, act on the forecast, and let new facts correct it. Feedback stays, because forecasts err.</div>
 
+The rules of the model are public in [the Jirgenson Model repository on GitHub](https://github.com/mjirgensons/jirgenson-model).
+
 ## Business going under without a courtroom: brake lights come too late
 
 <strong>For every business that dies in a courtroom, thirty to fifty just turn off the lights.</strong>
 
 Those lights didn't have to go out. A courtroom needs a creditor. A quiet closure only needs an owner who keeps reacting a month late. With a forecast, some of those owners could have reacted in time.
 
-Reacting to deviations lags for a plain reason. The miss has to be noticed, measured and reported. Then someone decides and acts. Meanwhile the business keeps moving. The correction lands after the situation has changed, often too strong or too weak. Control theory calls this delay phase lag.
+Reacting to deviations lags for a plain reason. The miss has to be noticed, measured and reported. Then someone decides and acts. Meanwhile the business keeps moving. The correction lands after the situation has changed, often too strong or too weak. Control theory calls this delay [phase lag](/blog/phase-lag-management/).
 
 Watch it happen in Andrew's display case. On Tuesday thirty croissants were left, so for Wednesday he orders seventy. Wednesday customers take about ninety: twenty short. Friday sells out, so for Saturday he orders a hundred. A hundred and thirty customers come: thirty short. He is always one day behind his own guests.
 
-Do this: find one cause you can measure before it hits, and react to the cause. A heater can switch on when the outside temperature drops, without waiting for the room to cool. For you, the cause might be enquiries, a supplier's notice or the weather forecast.
+Do this: find [one cause you can measure before it hits](/blog/lagging-vs-leading-indicators/), and react to the cause. A heater can switch on when the outside temperature drops, without waiting for the room to cool. For you, the cause might be enquiries, a supplier's notice or the weather forecast.
 
 How to avoid it: stop steering by yesterday's result alone. Add one look ahead.
 
@@ -100,11 +102,11 @@ How to avoid false comfort: a busy week is noise until the pattern says otherwis
 
 <strong>Every year, one UK company in 190 goes under. Count the shops on your street.</strong>
 
-Each of those shops had a reason on the day it closed. Some of them might have stayed if their owners had moved one goal up a level, from the calendar to the forecast.
+Each of those shops had [a reason on the day it closed](/blog/why-small-businesses-fail/). Some of them might have stayed if their owners had moved one goal up a level, from the calendar to the forecast.
 
 Suppose Andrew had stayed with "a hundred a day". He would have kept calling the shortages and leftovers bad luck. He would have blamed the supplier, the weather and the guests. Nothing would change, because nothing was being read.
 
-For a small business, the third level is modest. Keep a rolling forecast of cash, enquiries and workload for the next three months. Update it once a week or once a month.
+For a small business, the third level is modest. Keep [a rolling forecast of cash](/blog/forecast-cash-flow/), enquiries and workload for the next three months. Update it once a week or once a month.
 
 Do this tonight, in ten minutes:
 
@@ -128,7 +130,7 @@ It isn't. A forecast here is a sum on one sheet: last week's input, times your r
 
 Be honest about its limits. A forecast needs a model and discipline. With a poor model it can do worse than plain reaction. So keep both: forecast first, and keep measuring the result. In practice the schemes combine.
 
-You don't need a data team. Elena needed two numbers and a Monday. Andrew needed a few weeks of notes by weekday.
+You don't need a data team. Elena needed two numbers and a Monday. Andrew needed a few weeks of notes by weekday. The blind test of the method, with its data, is on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt).
 
 ## Where the Monday forecast stops
 
@@ -138,7 +140,7 @@ The cause can still catch you. The forecast says "four short". It doesn't say ho
 
 Two steps close that gap.
 
-- **Zones and thresholds.** Which deviation gets a response and which stays inside the tolerance. Chapter 4.
+- **Zones and thresholds.** [Which deviation gets a response](/blog/kpi-zones/) and which stays inside the tolerance. Chapter 4.
 - **Steady mode and manoeuvre.** When to change the plan, and when to change the goal itself. Chapter 10.
 
 Without them, you see the road ahead. You still need rules for when to turn the wheel.
@@ -157,7 +159,7 @@ Without them, you see the road ahead. You still need rules for when to turn the 
 
 You have two choices. Wait for the month-end statement and read the brake lights again. Or do the Monday sum for your main goal tomorrow, and act while the month is open.
 
-Next Monday you see the gap with three weeks left to close it.
+Next Monday you see the gap with three weeks left to close it. The book also comes as [a paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 The forecast shows the road. The zones and the rules for a manoeuvre tell you when to steer. If a goal is already sliding, set its warning lines first: [when your business is struggling quietly](/blog/business-is-struggling/).
 

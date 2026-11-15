@@ -33,9 +33,9 @@ Pick the best order in the world, and a monthly gap still refills the card. The 
 
 ## The one-page debt payoff plan template
 
-Here is the tool, filled in with a real case. Emma and Paul are the household in Steer, Don't Guess. They have no loan yet. They have the thing that makes one.
+Here is the tool, filled in with a real case. Emma and Paul are the household in [Steer, Don't Guess](https://www.amazon.com/dp/B0HPCJCWKF). They have no loan yet. They have the thing that makes one.
 
-Their income is €4,000 a month. Their expenses rose to €4,400 over one quarter. They hold €2,000 in savings. Each month leaves them €400 behind.
+Their income is €4,000 a month. Their expenses rose to €4,400 over one quarter. They hold €2,000 in savings. Each month leaves them €400 behind. How they agreed on those numbers together is in [couples budget](/blog/couples-budget/).
 
 That €400 is debt in the making. When the savings run out, it lands on a card, an overdraft or a loan. So their plan is a debt payoff plan written before the debt. Yours may start after it. The page is the same.
 
@@ -45,7 +45,7 @@ Write every debt with its balance, rate and minimum payment. Pick your order. Ev
 
 ### 1. Levers, and in what order
 
-A lever is a move you can make yourselves. Rent and the bank's rates are not levers. You can watch them. You can't pull them.
+A [lever](/blog/levers-of-control/) is a move you can make yourselves. Rent and the bank's rates are not levers. You can watch them. You can't pull them.
 
 Emma and Paul's levers: first, cut subscriptions and eating out by €180 a month. Second, €300 a month from a side job, added a month later. One lever at a time, so each effect shows on its own statement.
 
@@ -57,11 +57,11 @@ How much time and money each lever takes. The cut costs nothing but attention. T
 
 What will you not do, even if it would be faster? Write it in a calm hour. Under pressure, the mind grabs fast and foolish moves. A written line stops them faster than any argument.
 
-As an illustration, two lines from the book fit here. Alex, thirteen, wrote "do not borrow money" for his bicycle fund. And for a business in a cash squeeze: "do not take an urgent high-interest loan". For a debt plan, the first constraint writes itself: no new borrowing to cover the gap.
+As an illustration, two lines from the book fit here. Alex, thirteen, wrote "do not borrow money" for [his bicycle fund](/blog/save-for-a-goal/). And for a business in a cash squeeze: "do not take an urgent high-interest loan". For a debt plan, the first constraint writes itself: no new borrowing to cover the gap.
 
 ### 4. Leading indicator
 
-One number that tells you the plan works before the deadline does. For Emma and Paul: the account balance every week, and the monthly result on each statement. If the result is still €400 short after the cut, they know in one month, not in five.
+[One number](/blog/what-is-a-leading-indicator/) that tells you the plan works before the deadline does. For Emma and Paul: the account balance every week, and the monthly result on each statement. If the result is still €400 short after the cut, they know in one month, not in five.
 
 ### 5. Deadline, owner and the revision point
 
@@ -88,7 +88,7 @@ Emma and Paul: €180 plus €300 is €480. The gap is €400. The buffer is �
 
 Now look at a plan that passed with almost nothing left. Andrew, the coffee shop owner, needed his margin to rise by 6 points. His four levers added up to 6.1. It passed, but the buffer was 0.1 of a point. So he did two things. He made the first checkpoint mandatory. And he wrote a backup lever into the plan in advance.
 
-Copy that rule. If your levers only match the gap, write the backup lever today. A plan with no buffer turns red on the first bad month.
+Copy that rule. If your levers only match the gap, write [the backup lever](/blog/contingency-plan-template/) today. A plan with no buffer turns red on the first bad month.
 
 Here is where the debt order comes back in. Emma and Paul's €80 is the payoff engine. Avalanche or snowball only decides where that €80 goes. Without the first job, there is no €80 to aim.
 
@@ -118,10 +118,10 @@ And the human cost has a sound: checking the balance in the queue at the till, b
 
 Be honest about what you built. The page stops new debt and gives the surplus a target. It treats the symptom: the treadmill.
 
-The cause sits deeper. Placed in the whole loop of goal, state, gap, levers, plan and forecast, this page is the plan step. Two parts around it are still missing.
+The cause sits deeper. Placed in [the whole loop](https://github.com/mjirgensons/jirgenson-model) of goal, state, gap, levers, plan and forecast, this page is the plan step. Two parts around it are still missing.
 
-- **Zones and the red protocol.** The line where "a bit behind" turns into "act now", agreed in advance. And the order of action when the reserve and the debt both turn red in the same month. Chapter 4.
-- **The three offsets.** The check before you start: is the goal contradictory, is the starting balance wrong, is the ground under the plan moving? A flawless plan built from the wrong floor still lands in the wrong place. Chapter 11.
+- **Zones and the red protocol.** [The line](/blog/kpi-zones/) where "a bit behind" turns into "act now", agreed in advance. And the order of action when the reserve and the debt both turn red in the same month. Chapter 4.
+- **The three offsets.** [The check before you start](/blog/why-business-plans-fail/): is the goal contradictory, is the starting balance wrong, is the ground under the plan moving? A flawless plan built from the wrong floor still lands in the wrong place. Chapter 11.
 
 Without them, the page pays down the debt. It doesn't yet tell you what to do the month the car breaks down.
 
@@ -148,6 +148,8 @@ The page stops the treadmill. The zones, the red protocol and the three offsets 
 Start free: [read Chapter 1 and try the refusal test](/blog/free-sample/). Or set up the complete method today, [on Kindle at Amazon](https://www.amazon.com/dp/B0HPBR6BNX). The system comes as a book, and the same page runs a coffee shop, a freelance career and a family budget.
 
 Picture next month's statement: one line showing a result in the black, and €80 with a name on it.
+
+Short videos on the one-page plan are on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess). In Canada, the Kindle book is on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## FAQ
 

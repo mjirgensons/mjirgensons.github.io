@@ -23,7 +23,7 @@ The quitting line hides two different exits. One trader stops at a line chosen i
 
 Look at an engine temperature gauge. Needle in the green: drive on. In the yellow: pay closer attention. In the red: stop and let the engine cool. A red light is an order, not a death sentence for the car. The engine is still whole. What matters is to act now.
 
-What to do: give every number you care about three zones, the same way. Normal, acceptable, emergency.
+What to do: give every number you care about [three zones](/blog/kpi-zones/), the same way. Normal, acceptable, emergency.
 
 How to avoid an exit by exhaustion: set the red line on a calm evening, long before the afternoon that tests it.
 
@@ -60,13 +60,13 @@ Elena's goal is no more than 30%. Her largest client brings in 70%. That is red.
 
 The red boundary isn't a guess. It sits where repair gets hard.
 
-Andrew, who runs a coffee shop, set the red line for his cash reserve at one month. A month gives him time to negotiate a deferral, find money and make a decision. With less than a month, there is no time left for any of that.
+Andrew, who runs a coffee shop, set the red line for [his cash reserve](/blog/cash-reserve-months-of-expenses/) at one month. A month gives him time to negotiate a deferral, find money and make a decision. With less than a month, there is no time left for any of that.
 
 ### 4. Check each zone against your measurement
 
 A tolerance can't be narrower than the error in your numbers. If your figures can be off by one point, a green zone half a point wide means nothing. Fix the measurement, not the zone.
 
-If a row hovers near a boundary, use one threshold to enter a zone and another to leave it. Or wait for two or three readings in a row. Then the colour won't flicker with every bit of noise.
+If a row hovers near a boundary, use one threshold to enter a zone and another to leave it, as in [a traffic light dashboard](/blog/traffic-light-dashboard/). Or wait for two or three readings in a row. Then the colour won't flicker with every bit of noise.
 
 ### 5. Write what each colour makes you do
 
@@ -97,7 +97,7 @@ This is not ruthlessness. It is economy of effort.
 
 One rule protects the whole system. Thresholds are written in a calm moment and revised rarely. Moving them in the middle of a crisis bends the yardstick to fit the result.
 
-How to avoid that line by default: write the red protocol under your zones tonight. On the red day, you read it. You don't invent it.
+How to avoid that line by default: write [the red protocol](/blog/business-crisis-plan/) under your zones tonight. On the red day, you read it. You don't invent it.
 
 ## Risk of ruin and the stability margin
 
@@ -105,7 +105,7 @@ Every system has a stability margin: how hard a hit it can take without leaving 
 
 Same machine, same repair bill. Only the margin differs.
 
-So measure the margin, and build it before you need it. That is why Andrew's list holds a cash reserve. In your rows, as an illustration, the margin is the money and the time that sit outside the trading account.
+So measure the margin, and [build it before you need it](/blog/months-of-runway/). That is why Andrew's list holds a cash reserve. In your rows, as an illustration, the margin is the money and the time that sit outside the trading account.
 
 ## Quit day trading by mood, or by a line
 
@@ -117,7 +117,7 @@ The second has zones. Monday's dip lands in the yellow, so he looks for the caus
 
 Andrew lived the same fork. His first thought was to launch loyalty cards and win customers back. But the reserve sat in the red, and the cards cost money. Until the red zone closed, everything else was a luxury. He put the cards aside and, for the first time, felt no guilt.
 
-Zones are one piece of a loop: goal, state, error, levers, plan, forecast. They turn the gap into a signal you can act on.
+Zones are one piece of [a loop](https://github.com/mjirgensons/jirgenson-model): goal, state, error, levers, plan, forecast. They turn the gap into a signal you can act on.
 
 "I already use a stop-loss." Good. A stop-loss guards one position. The zones guard the account, the family money and your hours, all at once, in an order you chose.
 
@@ -141,8 +141,8 @@ The cause of a losing year can stay in place. You still don't know which moves a
 
 Two steps close that gap:
 
-- <strong>Levers.</strong> The short list of things you control yourself, apart from the ones you can't, so you stop scolding the ice. Chapter 5.
-- <strong>The control concept.</strong> One page per goal: the levers, the resources, the constraints you won't break even to save the goal. Chapter 6.
+- <strong>Levers.</strong> [The short list of things you control yourself](/blog/levers-of-control/), apart from the ones you can't, so you stop scolding the ice. Chapter 5.
+- <strong>The control concept.</strong> [One page per goal](/blog/one-page-business-plan/): the levers, the resources, the constraints you won't break even to save the goal. Chapter 6.
 
 Without them, the zones tell you the needle is red. They don't tell you which wheel to turn.
 
@@ -164,6 +164,8 @@ The zones tell you when. The levers and the one-page plan tell you what to move 
 
 Start with the free part: [the Introduction and Chapter 1](/blog/free-sample/), where the whole loop begins. If it holds up for you, get the full control system on Kindle: [Steer, Don't Guess on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with a short task in every chapter.
 
+Short videos on zones and red lines are on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
+
 ## FAQ
 
 ### What do day trading statistics mean for me?
@@ -176,7 +178,7 @@ The gap for each row and three zones per row. A red line where damage gets hard 
 
 ### How do I know it's time to quit day trading?
 
-Write the stop condition on a calm evening, as a number with a date. The zones show how close you are to it. The book also covers when to change the plan and when to change the goal itself.
+Write the stop condition on a calm evening, as a number with a date. The zones show how close you are to it. [The book](https://www.amazon.com/dp/B0HPCJCWKF) also covers when to change the plan and when to change the goal itself.
 
 ## Published research
 

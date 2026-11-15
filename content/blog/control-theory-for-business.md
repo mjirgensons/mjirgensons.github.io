@@ -17,9 +17,11 @@ Here is the irony. The heating in the back room is run by feedback. The business
 
 Engineers have a name for the cure: control theory. Its central idea fits on a napkin. The hard part is translating it for a shop with a queue, a supplier and a tired owner. This page does that, line by line.
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What control theory is, in one paragraph
 
-Control theory is the branch of engineering that keeps a room warm, a car at a set speed and an aircraft on course. Its core claim: a system reaches its target by measuring the gap and correcting it, over and over. Not by following a perfect plan. The circuit of target, measurement, gap and correction is a feedback loop. When the loop is closed, the system notices its own drift. When it is open, nobody notices until the drift becomes a crash.
+Control theory is the branch of engineering that keeps a room warm, a car at a set speed and an aircraft on course. Its core claim: a system reaches its target by measuring the gap and correcting it, over and over. Not by following a perfect plan. The circuit of target, measurement, gap and correction [is a feedback loop](/blog/control-cycle-management/). When the loop is closed, the system notices its own drift. When it is open, nobody notices until the drift becomes a crash.
 
 A business is not a thermostat. People react to your decisions. Data arrive late and sometimes wrong. So treat the engineering terms as a frame, not a promise that your shop will behave like a boiler.
 
@@ -45,7 +47,7 @@ Column two alone is a management system in plain words.
 
 ## Four engineering ideas that change how you run a shop
 
-**1. In the green zone, do nothing.** A good controller does not twitch while the reading is inside tolerance. Fixing what works is the most common sin in management. It costs money and attention and moves nothing.
+**1. In the green zone, do nothing.** A good controller does not twitch [while the reading is inside tolerance](/blog/kpi-zones/). Fixing what works is the most common sin in management. It costs money and attention and moves nothing.
 
 **2. Faster is not better.** Shorten the reaction time without a rule for which gaps deserve a response, and you start correcting noise. Andrew tested ordering rules on two weeks of pastry sales. "Order what sold yesterday", the fastest rule, missed by 130 pieces. A fixed hundred a day missed by 100. The rule that knew the weekly pattern missed by 76.
 
@@ -57,7 +59,7 @@ Column two alone is a management system in plain words.
 
 A thermostat has one setpoint. You have five, and they pull against each other. Cash wants fewer hours on the rota. Quality wants more. No formula settles that for you.
 
-The model answers it with one question, asked in a calm moment. If circumstances forced you to give up your goals one at a time, which would go first? Which would you defend to the end? The last one standing is number one. Andrew put his own hours last and the cash reserve first. That ranking is the model's answer to how to set priorities in business and life. No engineer can design it for you.
+The model answers it with one question, asked in a calm moment. If circumstances forced you to give up your goals one at a time, which would go first? Which would you defend to the end? The last one standing is number one. Andrew put his own hours last and the cash reserve first. That ranking is the model's answer to [how to set priorities in business and life](/blog/priorities-in-life/). No engineer can design it for you.
 
 When two numbers turn red at once, the order decides. Not the louder phone call.
 
@@ -71,7 +73,7 @@ Here is the tool. Pick the number that worries you most. Fill in eight lines. An
 4. **Error now.** Target minus today. *Minus 1.5 months, or €40,950.*
 5. **Actuator.** One lever you can move yourself this week. *Margin, through menu, prices, purchasing and portions.*
 6. **Disturbances.** What pushes the number off course? *Repairs, supplier price rises, a bad season.*
-7. **Delay.** Days from noticing a change to seeing the effect of your response. *About 45: a week to notice, a day to decide, a week to act, a month for guests and the books to respond.*
+7. **Delay.** [Days from noticing a change to seeing the effect of your response.](/blog/phase-lag-management/) *About 45: a week to notice, a day to decide, a week to act, a month for guests and the books to respond.*
 8. **Margin.** How big a shock could the number take today? *Half a month of expenses. One large repair.*
 
 An empty line is a break in the loop. Repair that one first. In Andrew's case, line 3 nearly broke everything: his margin figure had been off by eleven points until he counted the waste.
@@ -88,11 +90,11 @@ And for those six months, the owner reads every call from the bank as a verdict.
 
 ## "It sounds like engineering maths"
 
-It is not, unless you want it to be. Every chapter of the method runs on three levels: basic, practical and advanced. The formulas sit in the advanced level, and you can skip them all. Alex, a thirteen-year-old saving €300 for a bicycle, runs the same loop with a piggy bank and a weekly chart.
+It is not, unless you want it to be. Every chapter of the method runs on three levels: basic, practical and advanced. The formulas sit in the advanced level, and you can skip them all. Alex, a thirteen-year-old [saving €300 for a bicycle](/blog/save-for-a-goal/), runs the same loop with a piggy bank and a weekly chart.
 
 "Another framework, then." It does not replace OKR, EOS, the Balanced Scorecard or PDCA. It sits above them. OKR supplies the wording of goals, EOS the meeting rhythm, PDCA a small improvement cycle. The control loop adds what they leave open: the order of goals, the red lines, and what to do first when everything burns. Each of them is set out in plain words in [management frameworks explained](/blog/management-frameworks-explained/).
 
-The loop is precise enough for a machine to follow. In a blind test on ten business crises, the same AI invented a fact in seven answers out of ten on its own. With the model's rules, in one answer out of 120: more than 100 invented facts against one. A blind judge preferred the version with the rules 30 times out of 30. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
+[The loop is precise enough for a machine to follow.](https://github.com/mjirgensons/jirgenson-canon) In a blind test on ten business crises, the same AI [invented a fact in seven answers out of ten](/blog/how-to-prevent-ai-hallucinations/) on its own. With the model's rules, in one answer out of 120: more than 100 invented facts against one. [A blind judge preferred the version with the rules 30 times out of 30.](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test) Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
 
 ## Where the loop map stops
 
@@ -126,6 +128,8 @@ You have two choices. Keep running the business by hope and month-end reports, a
 The map gets you a sensor and a dial. The thresholds, the red protocol and the forecasts turn them into a controller that works on your worst Monday.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, *Steer, Don't Guess* by Martin Jirgenson: sixteen chapters, with the coffee shop's numbers running through all of them.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## FAQ
 

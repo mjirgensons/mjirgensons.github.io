@@ -11,13 +11,13 @@ answer: "A cost overrun is visible weeks before the final invoice if you steer b
 
 <strong>Less than half of all projects actually stay on budget.</strong>
 
-It didn't have to be that way. Behind that number are teams who worked late and meant well. Some of their budgets might have held if someone had looked ahead instead of back.
+It didn't have to be that way. Behind that number are teams who worked late and meant well. Some of their budgets might have held if someone had [looked ahead instead of back](/blog/reactive-vs-proactive-management/).
 
 Picture your own project review. The finance report arrives on the fifth. It describes money that left five weeks ago. Everyone nods.
 
 Here is the irony. You can say to the cent what the project spent in March. You cannot say what it will have spent by the finish line.
 
-The villain is not the team. It is steering by the rear-view mirror: a plan locked on day one, and a report that turns up after the damage.
+The villain is not the team. It is steering by the rear-view mirror: a plan locked on day one, and [a report that turns up after the damage](/blog/phase-lag-management/).
 
 There is another way to drive. The Jirgenson Model is a control system for goals, budgets and plans. It is scientifically proven to work ([the record on Zenodo](https://doi.org/10.5281/zenodo.23964934)). It is new, so it could not help the projects behind these numbers. Now it can help yours.
 
@@ -31,7 +31,7 @@ Every budget runs on one of three control schemes. Picture three drivers on one 
 | 2. By deviation | Compare spend with budget each month, then correct | It reacts after the event, often too hard or too soft |
 | 3. By forecast | Project the finish each week, act on that, correct it with facts | It needs a simple model and the discipline to update it |
 
-Why does level two run late? Between the event and the fix lies a chain: notice, measure, report, decide, act. Meanwhile the project keeps moving, so the fix often overshoots.
+Why does level two run late? [Between the event and the fix lies a chain](/blog/control-cycle-management/): notice, measure, report, decide, act. Meanwhile the project keeps moving, so the fix often overshoots.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> control by forecast means closing the loop through the predicted future, not the recorded past. You forecast where a number will land, act on that forecast, and correct it as new facts arrive. Feedback stays in place, because every forecast errs.</div>
 
@@ -74,7 +74,7 @@ Forecast the finish date and the final cost in the same meeting, from the same f
 
 That gap did not have to be so wide. The people behind it were not careless. A report that arrives late leaves good people steering blind. A forecast inside the loop might have shown the cost overrun while it was still a small number.
 
-For a project, the third level looks modest. It is a rolling forecast of cash, workload and delivery for the next three months, updated every week or every month. Here is the tool in six steps, filled in with Elena, a freelance designer selling her first online book.
+For a project, the third level looks modest. [It is a rolling forecast of cash, workload and delivery](/blog/forecast-cash-flow/) for the next three months, updated every week or every month. Here is the tool in six steps, filled in with Elena, a freelance designer selling her first online book.
 
 1. **Name the number that matters at the finish.** Elena: 21 book sales a month.
 2. **Take this week's real rate.** Elena: 280 visitors to her book page, and 1.5% of them buy. That is 4.2 sales in the week.
@@ -102,7 +102,7 @@ An IT project builds a tool. With a lever you move the process; with a tool you 
 | Prepare the decision | Gathers options and consequences | The first option to hand gets quietly accepted | A person approves the order of priorities |
 | Execute | Reminds, orders, sends | A mistake repeated at speed, irreversible actions | Limited rights, a log, confirmation by a person |
 
-Check the last row before launch. A system that can pay, order or delete needs limited rights, a log and a human yes.
+Check the last row before launch. A system that can pay, order or delete [needs limited rights, a log and a human yes](/blog/ai-in-management/).
 
 ## Project delays: what six more months of calendar control cost
 
@@ -124,7 +124,7 @@ Start with one number: the final cost of your biggest project, forecast next Mon
 
 The weekly forecast treats the symptom: you see the overrun coming instead of reading about it.
 
-The cause is still there. You have no written rule for which gap deserves an answer, so every wobble can start a fire drill. And you have no rule for when to change the plan and when to change the goal itself.
+The cause is still there. You have no written rule for which gap deserves an answer, so every wobble can start a fire drill. And you have no rule for [when to change the plan and when to change the goal itself](/blog/when-to-pivot-small-business/).
 
 Two steps close that gap.
 
@@ -152,6 +152,8 @@ The forecast shows you the overrun early. The zone thresholds, the red protocol 
 Picture next Monday. One line on the page reads "final cost, forecast", and you can still change it.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the complete control system on Kindle now, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). The full method comes as a Kindle book, from the first goal to the forecast.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). Short videos on the method are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

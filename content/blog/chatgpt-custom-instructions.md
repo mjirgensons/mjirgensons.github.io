@@ -17,11 +17,13 @@ None of it was malice. A clever person with no rules improvises. That is what cl
 
 Your AI assistant is that new hire. With one difference: every chat is its first day at work.
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Why AI rules matter more than the model
 
 It is tempting to compare models the way you compare cars. Then the winner gets no rules at all.
 
-The same question, put to two assistants, gets two kinds of answer. One has nothing to anchor it. It answers fast and smoothly, because it has to say something. Where your data has a gap, it fills it with a plausible guess. Where you have not said what matters most, it chooses for you.
+The same question, put to two assistants, gets two kinds of answer. One has nothing to anchor it. It answers fast and smoothly, because it has to say something. Where your data has a gap, [it fills it with a plausible guess](/blog/ai-hallucinations-example/). [Where you have not said what matters most, it chooses for you.](/blog/ai-sycophancy/)
 
 The other assistant has rules. It checks what it may say before it says it. It marks a guess as a guess. It proposes your priorities and waits for you to confirm them.
 
@@ -39,7 +41,7 @@ Here is a short handbook, an SOP for your AI. Paste it into ChatGPT custom instr
 **Rule 2. Help first.** Open with what my numbers already show and one safe action. Questions go at the end, and only those that change the decision.
 *What changes:* the reply starts with how long your cash lasts with no guests. The questions wait.
 
-**Rule 3. Never choose my priorities.** Propose an order of my goals, say it is a proposal, and let me confirm it.
+**Rule 3. Never choose my priorities.** [Propose an order of my goals, say it is a proposal](/blog/goal-hierarchy/), and let me confirm it.
 *What changes:* it asks what you would give up first: the renovation, staff hours or your own salary. It does not decide for you.
 
 **Rule 4. Name the most dangerous thing first.** The one event that could cause damage I cannot undo, with its date.
@@ -67,7 +69,7 @@ The cost of an assistant with no rules does not arrive as one big mistake. It ar
 
 You ask, it answers with confidence, you act. A guess about your costs becomes the base of a price. A priority it chose for you becomes the plan. Nobody marked either one as a guess, so nobody checked.
 
-Then a Monday comes when the real problem is the cash. You spend it on the website, because the assistant called the website your growth lever.
+Then a Monday comes when the real problem is the cash. You spend it on the website, because the assistant [called the website your growth lever](/blog/business-levers/).
 
 An AI that sounds sure is not the same as an AI you can trust.
 
@@ -93,22 +95,22 @@ Your five house rules are instructions. The assistant still has no rulebook for 
 
 The full version exists, and it costs nothing. Two plain-text files, free on GitHub, with setup steps on the [AI assistant page](/ai-assistant/):
 
-- **The canon**, the rulebook of the model.
+- **The canon**, [the rulebook of the model](https://github.com/mjirgensons/jirgenson-canon).
 - **The operating prompt**, the instructions for using it with you.
 
 With both loaded, the assistant refuses to start without the canon. It helps first. Its rules forbid invented data and require every assumption to be marked. It proposes an order of your goals and lets you confirm it. It names the most dangerous thing and gives two forecasts with ranges. It runs in three modes: emergency, quick and full. It works in ChatGPT, Claude and Gemini. Sample messages to start with are in Appendix I.
 
-We tested it blind against a good generic consultant prompt; the details are on the AI assistant page.
+[We tested it blind against a good generic consultant prompt](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test); the details are on the AI assistant page.
 
 Picture next Monday. You paste your numbers into one chat. The first line names what to do today, and every guess in the reply wears a label.
 
 ## What the handbook cannot write for you
 
-Even the full rulebook has a limit. It guides the assistant; it does not make it perfect. Check its numbers against yours.
+Even the full rulebook has a limit. It guides the assistant; it does not make it perfect. [Check its numbers against yours.](/blog/how-to-prevent-ai-hallucinations/)
 
 And two answers must come from you. The assistant proposes drafts; it cannot own them.
 
-- **Which of your numbers are levers and which are results.** Profit is a result. Room rates, opening dates and services are levers. A plan built on results is a wish. Chapter 5.
+- **Which of your numbers are levers and which are results.** [Profit is a result.](/blog/levers-of-control/) Room rates, opening dates and services are levers. A plan built on results is a wish. Chapter 5.
 - **How to steer by the forecast, not by the damage.** When to act on what is coming, before it shows up in the bank. Chapter 9.
 
 Without them, the assistant runs a good method on a fuzzy brief.
@@ -130,6 +132,8 @@ You have two choices. Keep asking an assistant with no handbook, one that agrees
 The files give the assistant its rulebook. Levers and steering by forecast give you the brief it needs.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt in its appendices.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## FAQ
 

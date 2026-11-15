@@ -11,7 +11,7 @@ answer: "A control cycle is the closed loop every goal passes through: notice th
 
 Every morning Andrew ordered a hundred croissants, because that was how it had always been done. On Tuesdays almost a third went in the bin. On Saturdays the display case was empty by ten. He called it bad luck.
 
-It was not bad luck. It was a control system, just a very primitive one. And the way he fixed it, in three attempts, is the clearest lesson in reactive versus proactive management I know, because every attempt can be counted in croissants.
+It was not bad luck. It was a control system, just a very primitive one. And the way he fixed it, in three attempts, is [the clearest lesson in reactive versus proactive management I know](/blog/reactive-vs-proactive-management/), because every attempt can be counted in croissants.
 
 Fixing things after the bin fills up keeps you one step late. The Jirgenson Model closes the loop with a forecast, then lets new facts correct it. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -59,9 +59,9 @@ Two things jump out. Pure reaction is the worst of all, worse even than doing no
 
 ## Feedback loop management: why reactive management runs late
 
-Between an event and its correction lies a chain: someone has to notice the deviation, measure it, report it, decide, and carry out the decision. Then the business has to respond. Meanwhile it keeps moving. The correction arrives after the situation has changed, so it is often too strong or too weak, and with an unlucky mix of delay and force the whole system starts swinging around the goal.
+Between an event and its correction lies a chain: someone has to notice the deviation, measure it, report it, decide, and carry out the decision. Then the business has to respond. Meanwhile it keeps moving. The correction arrives after the situation has changed, so it is often too strong or too weak, and with an unlucky mix of delay and force [the whole system starts swinging around the goal](/blog/control-theory-for-business/).
 
-You can put a number on that delay. Andrew looks at his figures once a week, so noticing takes up to 7 days. The decision is made at the Monday meeting: 1 day. Changing the menu and prices: 7 days. Guests adjusting their habits and the month's margin being calculated: about 30 days. Total, about 45 days. That is why his first real check of the margin plan comes in month two, not month one. Before the loop has gone round once, what you measure is not the effect of the lever. It is noise.
+[You can put a number on that delay.](/blog/phase-lag-management/) Andrew looks at his figures once a week, so noticing takes up to 7 days. The decision is made at the Monday meeting: 1 day. Changing the menu and prices: 7 days. Guests adjusting their habits and the month's margin being calculated: about 30 days. Total, about 45 days. That is why his first real check of the margin plan comes in month two, not month one. Before the loop has gone round once, what you measure is not the effect of the lever. It is noise.
 
 ## The control cycle: eight stages, none optional
 
@@ -69,7 +69,7 @@ Forecasting is one part of a larger loop.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the full control cycle is the closed loop of eight stages that every goal passes through. Stages 1 to 4 decide where to go and by what rule to act (the forecasting part); stages 5 to 7 carry the work out and adapt it (the executing part); stage 8 closes the cycle. Only control by forecast can carry all eight.</div>
 
-Every goal, in a business, a project or a household, passes through the same eight stages:
+Every goal, in a business, a project or a household, [passes through the same eight stages](/blog/management-operating-system/):
 
 | No. | Stage | Andrew's coffee shop |
 |---|---|---|
@@ -84,11 +84,11 @@ Every goal, in a business, a project or a household, passes through the same eig
 
 Stage 2 is the one owners underestimate. Naming the situation decides which levers come into play. "A bad season" calls for patience. "No cash cushion with a 9% margin" calls for work on prices, purchasing and the menu. Name it wrong, and you pull the right levers on the wrong problem. (How Andrew found the real margin is told in [busy but not profitable](/blog/busy-but-not-profitable/).)
 
-And then the rule that makes the cycle more than a checklist: a skipped stage does not disappear. Somebody else performs it, rarely in your favour. Skip stage 3 and the market, the bank or a competitor sets your goal for you. Skip stage 6 and your debts start observing you. Skip stages 1 and 2 and a crisis will recognise the situation for you, at the worst possible moment.
+And then the rule that makes the cycle more than a checklist: a skipped stage does not disappear. Somebody else performs it, rarely in your favour. Skip stage 3 and the market, the bank or a competitor [sets your goal for you](/blog/how-to-set-measurable-goals/). Skip stage 6 and your debts start observing you. Skip stages 1 and 2 and a crisis will recognise the situation for you, at the worst possible moment.
 
 ## A PDCA example, side by side with the eight stages
 
-PDCA (Plan, Do, Check, Act, going back to Shewhart and popularised by Deming) is the best-known improvement loop in business, and a good one. Within this model it has a clear job: a small, local cycle of checking and improvement. Laying the two side by side shows exactly where (an illustration, mapped by stage):
+PDCA (Plan, Do, Check, Act, going back to Shewhart and popularised by Deming) is [the best-known improvement loop in business](/blog/management-frameworks-explained/), and a good one. Within this model it has a clear job: a small, local cycle of checking and improvement. Laying the two side by side shows exactly where (an illustration, mapped by stage):
 
 | Eight stages | PDCA |
 |---|---|
@@ -123,6 +123,8 @@ Take the project that is proving hardest right now and write one sentence for ea
 On Andrew's first Monday at the spreadsheet, he feared an hour of talk. It came down to three questions: which numbers changed this week, which zone are they in, what do we do about it. The till answered the first, the colours the second, a two-line list the third. That is what a closed control cycle feels like from the inside: there is almost nothing left to argue about.
 
 Read how the method begins, with goals that can carry a cycle at all, in [the free sample](/blog/free-sample/). The full Chapters 7 and 9, with the loop delay formula and all four ordering rules worked out, are in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). Short videos on the method are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

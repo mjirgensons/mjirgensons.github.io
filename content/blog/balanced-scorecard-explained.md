@@ -21,6 +21,8 @@ Here is the balanced scorecard explained from the owner's chair, blind spot incl
 
 So you can spend an evening on four honest columns and still walk into Monday with the panic you started with. Better to know that before you start. The scorecard is a strong way to see a business from several sides. It is not a rule for choosing between them.
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Balanced scorecard explained in plain words
 
 Robert Kaplan and David Norton built the Balanced Scorecard on one idea: the money column alone does not show where a business is heading. So they added three more views.
@@ -49,7 +51,7 @@ The Jirgenson Model keeps the same many-sided view and splits it into six areas.
 | People | Learning and growth |
 | Development and owner | Learning and growth |
 
-Sales gets its own row, apart from who the clients are. And the last area is the one most often left out: the owner's own time, health and money. If you build a business at the cost of your own life, that is a goal too. Choose it on purpose.
+Sales gets its own row, apart from who the clients are. And the last area is the one most often left out: [the owner's own time, health and money](/blog/goal-setting-for-entrepreneurs/). If you build a business at the cost of your own life, that is a goal too. Choose it on purpose.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the scorecard's view from several sides becomes the state vector. That is the measured value of each goal, row by row, next to its target. What the model adds is an order between the rows, three zones for each row and a protocol for the day several turn red.</div>
 
@@ -57,8 +59,8 @@ Sales gets its own row, apart from who the clients are. And the last area is the
 
 You need no software. A sheet with five to nine rows is enough. Here is the method.
 
-1. **Walk the six areas.** Take zero to three measures from each, nine in total at most. Leave an area empty only on purpose, with the reason written down.
-2. **Give each measure six fields.** Parameter, definition, target and deadline, current value, permissible deviation, owner and check rhythm.
+1. **Walk the six areas.** Take zero to three measures from each, [nine in total at most](/blog/too-many-goals/). Leave an area empty only on purpose, with the reason written down.
+2. **Give each measure six fields.** Parameter, definition, target and deadline, current value, permissible deviation, owner and check rhythm. Four lists filled in field by field are in [this measurable goals example](/blog/measurable-goals-example/).
 3. **Name one source per number.** The bank statement, the accounts, the till, a complaints log, a calendar.
 4. **Fill in today honestly.** Not "about twenty". The figure the source gives.
 
@@ -74,7 +76,7 @@ Here is Andrew's coffee shop scorecard at month zero, the night he built it:
 
 The complaints row needed a definition first. Sara's notebook held only the complaints she remembered. They agreed that a complaint is any time a customer says out loud they are unhappy, or sends an order back. They wrote that next to the row, so next month counts the same way.
 
-The margin row held the shock. Andrew had been sure it sat near twenty per cent. It was nine. Waste had never entered his cost of goods: sour milk, pastries thrown out at the end of the shift.
+The margin row held the shock. Andrew had been sure it sat near twenty per cent. It was nine. [Waste](/blog/waste-in-small-business/) had never entered his cost of goods: sour milk, pastries thrown out at the end of the shift.
 
 ## What a scorecard without an order costs
 
@@ -90,7 +92,7 @@ And the owner pays in person: sixty-five hours a week, with the choices made lat
 
 ## Where the scorecard does not reach
 
-Treat what you built as an instrument panel. It fixes a real symptom: running the business from the money column alone. You now see five sides at once.
+Treat what you built as [an instrument panel](/blog/traffic-light-dashboard/). It fixes a real symptom: running the business from the money column alone. You now see five sides at once.
 
 It does not fix the cause of the Sunday freeze. Four honest columns can all point at trouble, and the scorecard ranks none of them. Two missing pieces turn the panel into decisions.
 
@@ -99,18 +101,18 @@ It does not fix the cause of the Sunday freeze. Four honest columns can all poin
 
 They are named here, not taught. Without them, a balanced scorecard tells you where you stand. It does not tell you where to step.
 
-In the full loop of goal, state, error, levers, plan and forecast, the scorecard covers one step: the state.
+In [the full loop](/blog/jirgenson-model-management-method/) of goal, state, error, levers, plan and forecast, the scorecard covers one step: the state. The rules of that loop are public in [the Jirgenson Model repository on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## The scorecard among other management frameworks
 
 The scorecard is one of several well-known tools. Each answers its own question, and they work together.
 
-- **OKR explained in one line**: a few objectives for a period, each with measurable key results. It supplies the wording of goals.
+- **OKR explained in one line**: a few objectives for a period, each with measurable key results. It supplies the wording of goals. The two are set side by side in [OKR vs Balanced Scorecard](/blog/okr-vs-balanced-scorecard/).
 - **PDCA explained in one line**: plan, do, check, act, then go round again. A small improvement loop.
 - **Theory of Constraints explained in one line**: find the tightest bottleneck and work on it first. It helps find the cause once a row turns red.
 - **Entrepreneurial Operating System explained in one line**: a meeting rhythm and practices for small companies.
 
-All five run through one coffee shop problem, side by side, in [management frameworks explained](/blog/management-frameworks-explained/).
+All five run through one coffee shop problem, side by side, in [management frameworks explained](/blog/management-frameworks-explained/). Short videos on the method run on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -129,6 +131,8 @@ You have two choices. Build another report with four honest columns, then let wh
 This is not another framework on the shelf. It keeps your scorecard and decides between its rows. Next Sunday you look at five colours, and the first move is already written down.
 
 The scorecard shows the field. The refusal order and the zones tell you which row to save first.
+
+Prefer paper? The book also comes as [a paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 Test the logic for free: the refusal test is in [Chapter 1, free to read](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book of sixteen chapters, each written at three levels: basic, practical and advanced.
 

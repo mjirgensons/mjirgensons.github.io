@@ -25,7 +25,7 @@ Look at an engine temperature gauge. Three coloured sectors. Green: drive on. Ye
 
 Run your shop the same way. For each goal, subtract the goal from today's value: actual minus goal. That gap is the error. It is the main signal for every decision you make.
 
-A gap alone doesn't say whether to act. You need lines drawn in advance.
+A gap alone doesn't say whether to act. You need [lines drawn in advance](/blog/kpi-zones/).
 
 | Zone | What it means | What you do |
 |---|---|---|
@@ -50,7 +50,7 @@ This is the tool. About 15 minutes, one sheet. Here it is with the numbers of An
 | Complaints a week | 2 or fewer | 3 to 8 | Over 8 |
 | Owner's hours a week | 42 or fewer | Over 42, up to 70 | Over 70 |
 
-**3. Draw the red line where damage gets hard to reverse.** Andrew put the reserve's red line at one month. A month gives him time to negotiate a deferral, find money and decide. Under a month, there is no time for any of that.
+**3. Draw the red line where damage gets hard to reverse.** Andrew put [the reserve's red line](/blog/cash-reserve-months-of-expenses/) at one month. A month gives him time to negotiate a deferral, find money and decide. Under a month, there is no time for any of that.
 
 **4. Make no zone narrower than your measuring error.** If your margin records drift by a point, a green zone half a point wide is noise.
 
@@ -68,7 +68,7 @@ One red row and four yellow ones. Now Andrew knew where to look first.
 
 Six months didn't have to be the whole story. Some of those stores might have reached a second year if their owners had seen the red row early and dropped the rest. With a written order for bad days, the number could look different.
 
-When a row turns red, follow four steps.
+When a row turns red, [follow four steps](/blog/business-crisis-what-to-do-first/).
 
 1. **Check for a direct threat.** People, safety, mandatory payments, the law. If there is one, protect and escalate first.
 2. **Freeze secondary work.** Anything that doesn't help the red row waits.
@@ -81,7 +81,7 @@ Andrew's first thought at that table was loyalty cards, to win customers back. T
 
 "I did," Andrew replied. "But the reserve is in the red zone."
 
-Regular customers drift away slowly. A red reserve can end everything quickly. He put the cards aside and, for the first time, felt no guilt. The order he chose with a clear head made the call, not his fatigue.
+Regular customers drift away slowly. A red reserve can end everything quickly. He put the cards aside and, for the first time, felt no guilt. The order he chose with a clear head made the call, [not his fatigue](/blog/decision-fatigue-small-business/).
 
 The Jirgenson Model is new. It is scientifically proven to work ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). Because it is new, it could not help the shops and stores behind these numbers. Now it can help yours.
 
@@ -97,7 +97,7 @@ A queue of incoming problems is run by chance. A queue of decisions is run by pr
 2. Which zone is that row in now?
 3. Is it more important than what I'm doing right now?
 
-Elena, a freelance designer, shows why. One client brings her 70% of her income. Her goal is no more than 30%, and above 50% is her emergency line. That row is red. Then the tax authority freezes her account. Two reds at once.
+Elena, a freelance designer, shows why. [One client](/blog/client-concentration-freelancer/) brings her 70% of her income. Her goal is no more than 30%, and above 50% is her emergency line. That row is red. Then the tax authority freezes her account. Two reds at once.
 
 Income is her goal number one, and the frozen account hits it directly. So she puts the client problem on hold and turns everything to the account.
 
@@ -147,10 +147,10 @@ The cause is still in place. You know the reserve is red. You don't yet know whi
 
 Two steps close that gap.
 
-- **Levers.** What you can change by your own decision, with three questions asked before you pull. Chapter 5.
+- **Levers.** [What you can change by your own decision](/blog/levers-of-control/), with three questions asked before you pull. Chapter 5.
 - **Two forecasts.** "If nothing changes" against "if the plan works", so you see a red row coming. Chapter 8.
 
-The zones are the third step of one loop: goal, state, error, levers, plan, forecast. Etsy statistics describe thousands of shops. The zones describe yours.
+The zones are the third step of [one loop](https://github.com/mjirgensons/jirgenson-model): goal, state, error, levers, plan, forecast. Etsy statistics describe thousands of shops. The zones describe yours.
 
 For the levers an online store can pull, with a price test in numbers, see [shopify statistics](/blog/shopify-statistics/).
 
@@ -173,6 +173,8 @@ Next Tuesday three problems land before lunch, and you already know which one go
 The zones tell you where to look. The levers and the forecasts tell you what to move, and what happens if you don't.
 
 Start free: [Chapter 1, with the refusal test](/blog/free-sample/), sets the order the red protocol relies on. The whole control system comes as a book on Kindle: [get it on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+Prefer paper? There is also a [paperback edition on Amazon](https://www.amazon.com/dp/B0HPCJCWKF). Short videos on the three zones are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

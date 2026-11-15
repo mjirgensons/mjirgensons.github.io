@@ -25,9 +25,11 @@ The answer to the threats nobody wrote down comes from the Jirgenson Model. Name
 
 A business continuity plan keeps the essential work of a business going through a disruption. It also sets out how to return to normal after it. It answers one question in advance: what keeps us running when something hits?
 
-The weak spot is in the word "something". A list of disasters is not a list of what pushes a small business off course week after week. The model widens the list and adds a direction to every line.
+The weak spot is in the word "something". A list of disasters is not a list of [what pushes a small business off course](/blog/external-factors-business/) week after week. The model widens the list and adds a direction to every line.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> an environmental factor is anything that acts on your path to the goal. It carries you, holds you back or pushes you aside. A factor is a role, not a thing. Money is part of your state, but a lack of money is a factor.</div>
+
+The rules of the model are open to read in [its GitHub repository](https://github.com/mjirgensons/jirgenson-model).
 
 So a lack of knowledge, of time or of cash goes on the list too. It does not matter whether a factor comes from the market or from you. What matters is that it acts on the path.
 
@@ -51,7 +53,7 @@ One goal per sheet. In a coffee shop, the margin and the cash reserve sit at the
 
 ### 2. List five factors, including your own shortages
 
-Write what acts on the path. Then add what you lack: knowledge, time, money. Count each item once. Training can be a lever; a lack of knowledge is a factor. Never put the same thing in two columns.
+Write what acts on the path. Then add what you lack: knowledge, time, money. Count each item once. Training can be [a lever](/blog/business-levers/); a lack of knowledge is a factor. Never put the same thing in two columns.
 
 ### 3. Mark the effect and the response
 
@@ -69,7 +71,7 @@ Look at the response column. There are only five kinds of answer: predict, adjus
 
 ### 4. Size each factor in the units of the goal it hits
 
-A factor without a number is a worry. With a number, it is a line in the budget.
+[A factor without a number is a worry](/blog/risk-register/). With a number, it is a line in the budget.
 
 The supplier raises prices by 8%. On €9,000 of ingredients that is €720 more in expenses every month. On €30,000 of revenue, it takes 2.4 points off the margin.
 
@@ -86,7 +88,7 @@ Now change one number. Say the supplier raised prices by 30%. The factor becomes
 | 8% | €720 | 2.4 pp | 2.4% | Yes: compensable |
 | 30% | €2,700 | 9 pp | about 9% | No: the factor wins |
 
-When the factor wins, no process inside the business will help. You are rowing a heavy raft against the current. You go with the current or you change rivers. The model calls this offset (c), and the check for it is the Titanic test.
+When the factor wins, no process inside the business will help. You are rowing a heavy raft against the current. You go with the current or you change rivers. The model calls this offset (c), and the check for it is [the Titanic test](/blog/when-to-give-up-on-a-business-idea/).
 
 ### 6. Write one lever for the strongest push each way
 
@@ -98,7 +100,7 @@ The sheet earned its keep in month 8. Three hits landed at once: the supplier's 
 
 The margin fell from 15% to 12%. The repair ate about 0.1 months of reserve. After the month, the reserve stood at 1.56 months of expenses.
 
-That is yellow, not red. The shop kept trading, and the reserve stayed above its red line of one month.
+That is [yellow, not red](/blog/kpi-zones/). The shop kept trading, and the reserve stayed above its red line of one month.
 
 Two of the three hits were no surprise. The supplier and the breakdown were both on the sheet from the first evening. Each had its response written: adjust the price, keep a reserve. Continuity came from the list, not from luck.
 
@@ -120,14 +122,14 @@ The human cost is the Wednesday itself: an owner who reads every quiet afternoon
 
 Be clear about what the sheet gives you. You see what pushes you, how hard, and whether you can push back. That treats the symptom: being blindsided by a factor you could have named.
 
-The cause of the damage is still in place. The sheet doesn't tell you the point at which a factor's push becomes an emergency. And it shows factors once they strike; it doesn't spot them coming.
+The cause of the damage is still in place. The sheet doesn't tell you the point at which a factor's push becomes an emergency. And it shows factors once they strike; it doesn't spot them coming. Triggers set before the bad day are the subject of [the contingency plan template](/blog/contingency-plan-template/).
 
 Two steps close that gap.
 
 - **Zone thresholds.** The exact reading at which a push turns from a nuisance into an emergency, set in advance for every goal. Chapter 4.
-- **Recognizing a factor before it strikes.** Four techniques, from leading indicators to a second observer. They put the supplier's rise on your sheet before the invoice does. Chapter 8.
+- **Recognizing a factor before it strikes.** Four techniques, from [leading indicators](/blog/what-is-a-leading-indicator/) to a second observer. They put the supplier's rise on your sheet before the invoice does. Chapter 8.
 
-The sheet is one part of a loop: goals in order, the real state, the gap, levers, plan, forecast. Factors explain the gap; they do not close it.
+The sheet is one part of a loop: goals in order, the real state, the gap, levers, plan, forecast. Factors explain the gap; they do not close it. Short videos on that loop run on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 The reserve that absorbs a breakdown is easiest to read in months, not euros: see [cash reserve months of expenses](/blog/cash-reserve-months-of-expenses/).
 
@@ -145,7 +147,7 @@ The reserve that absorbs a breakdown is easiest to read in months, not euros: se
 
 You have two choices. Keep the risks in your head and let the next quiet afternoon decide whether you panic. Or take fifteen minutes tonight, write five factors and run the test on the strongest one.
 
-The sheet shows what pushes you. The zone thresholds tell you when the push becomes an emergency, and early recognition shows it before it lands.
+The sheet shows what pushes you. The zone thresholds tell you when the push becomes an emergency, and early recognition shows it before it lands. Readers in Canada can order the book from [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 Try the logic first, at no cost: [read Chapter 1 free](/blog/free-sample/). Or set up the whole control system now, [from Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the factor list and the compensation test worked through.
 

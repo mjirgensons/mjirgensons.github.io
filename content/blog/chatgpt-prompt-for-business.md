@@ -11,13 +11,15 @@ answer: "The ChatGPT prompt for business that holds up best is not a clever role
 
 "Act as an experienced business consultant with twenty years of experience."
 
-It is a typical opening for business prompts shared online, and it works about as well as telling a stranger they are an expert. The assistant becomes more confident, not more correct. It still fills gaps in your data with plausible guesses, still chooses your priorities for you, and still gives a different shape of answer every time you ask.
+It is a typical opening for business prompts shared online, and it works about as well as telling a stranger they are an expert. The assistant becomes more confident, not more correct. [It still fills gaps in your data with plausible guesses](/blog/ai-hallucinations-example/), still chooses your priorities for you, and still gives a different shape of answer every time you ask.
 
 There is a better approach, and it has been [tested](https://doi.org/10.5281/zenodo.23964934): give the assistant a rulebook instead of a role.
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## AI for business decisions: why role prompts are not enough
 
-A language model asked about your business has to say something, so it does. If data are missing, it fills them in. If you have not said what matters most, it decides. If the question touches theory, it blends methods from different sources. The answer sounds sure of itself, and there is nothing to check it against.
+[A language model asked about your business has to say something](/blog/ai-for-business-decisions/), so it does. If data are missing, it fills them in. [If you have not said what matters most, it decides.](/blog/ai-sycophancy/) If the question touches theory, it blends methods from different sources. The answer sounds sure of itself, and there is nothing to check it against.
 
 A rulebook changes that. It tells the assistant what it may say about your situation, in what order to work, what it must not decide for you, and what to do when it is unsure. You do not get a smarter model. You get a model that has to show its working.
 
@@ -44,7 +46,7 @@ The generic prompt helped, but only by about a third of the distance. The rulebo
 4. **Send the operating prompt** as your first message.
 5. **Describe your situation** in plain words, with your numbers, as your second message.
 
-You do not need to choose a mode. The assistant picks one of three from your message: emergency (one action for today), quick (where you are and what to do this week) or full (an analysis in rounds, with up to five questions).
+You do not need to choose a mode. The assistant picks one of three from your message: [emergency (one action for today)](/blog/business-crisis-what-to-do-first/), quick (where you are and what to do this week) or full (an analysis in rounds, with up to five questions).
 
 ## What to write: a business situation message, filled in
 
@@ -60,8 +62,8 @@ With the canon, the brief has the same order whatever the situation:
 
 1. Where you are: three to six numbers that matter, computed.
 2. The greatest danger, with a date and an amount.
-3. What to do today, this week and this month, on levers you actually control.
-4. What you protect first, in your own order of goals.
+3. What to do today, this week and this month, [on levers you actually control](/blog/levers-of-control/).
+4. What you protect first, [in your own order of goals](/blog/set-priorities-refusal-order/).
 5. What not to do now.
 6. What to measure and when to check.
 7. Two forecasts, if nothing changes and if the plan works, each with a range.
@@ -74,7 +76,7 @@ An assistant is no substitute for honesty. Enter wrong numbers and it will build
 
 ## Where this does not reach
 
-The test has clear limits: ten scenarios, one model family, an AI judge. The full record of every round, with every answer, judge record and script, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934) with a permanent DOI, and you are invited to rerun it. The files on GitHub are the book edition; the results above are for the latest tested prompt version. Results with other assistants may differ. And no prompt replaces a lawyer, an accountant or your own judgement where the stakes require them.
+The test has clear limits: ten scenarios, one model family, an AI judge. The full record of every round, with every answer, judge record and script, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934) with a permanent DOI, and you are invited to rerun it. The same dataset is also on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt). [The files on GitHub](https://github.com/mjirgensons/jirgenson-canon) are the book edition; the results above are for the latest tested prompt version. Results with other assistants may differ. And no prompt replaces a lawyer, an accountant or your own judgement where the stakes require them.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -88,6 +90,8 @@ The test has clear limits: ten scenarios, one model family, an AI judge. The ful
 ## The book behind the files
 
 The two files are the appendices of a book, and they work best when you know what a good answer looks like before the assistant gives it. Why a goal list needs an order, why every number needs one source, why the red line is drawn before the crisis: that is the book. Start with Chapter 1 in [the free sample](/blog/free-sample/), and when you want the whole method behind the prompt, *Steer, Don't Guess* is on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## FAQ
 

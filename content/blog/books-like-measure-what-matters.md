@@ -11,7 +11,7 @@ answer: "Good books like Measure What Matters: The Goal by Eliyahu Goldratt (fin
 
 *Measure What Matters* sells a simple, powerful idea: pick a few ambitious objectives, attach measurable key results, and the organisation aligns. John Doerr tells it through the stories of Intel, where Andy Grove built the method, and Google, where Doerr brought it.
 
-If you finished it fired up and then tried OKRs in a small business, you may have hit questions like these. What happens when two key results collide? When is a number bad enough to drop everything? And what exactly do I do on Monday? The books below each answer part of that. Full disclosure: I wrote the last one on the list, and I will be as specific about its limits as about the others.
+If you finished it fired up and then tried OKRs in a small business, you may have hit questions like these. What happens when [two key results collide](/blog/mutually-exclusive-goals/)? When is a number [bad enough to drop everything](/blog/kpi-zones/)? And what exactly do I do on Monday? The books below each answer part of that. Full disclosure: I wrote the last one on the list, and I will be as specific about its limits as about the others. My author profile is on [Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson).
 
 Key results collide, and Monday has no clear move. That's where OKRs stall in a small business. The Jirgenson Model answers with a control system: goals in a refusal order, zones for each number, and levers to pull. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -30,11 +30,11 @@ Key results collide, and Monday has no clear move. That's where OKRs stall in a 
 
 Eliyahu Goldratt's *The Goal* is a business novel: a plant manager has months to save his factory, and through it the reader learns the Theory of Constraints. The idea that sticks is that a system moves only as fast as its tightest bottleneck, so improving anything else is wasted effort. It is one of the rare management books people read for pleasure.
 
-What to take from it: find the constraint first. Where it stops: it does not tell you how to choose between goals, or when to stop fixing and leave a doomed market.
+What to take from it: find the constraint first. Where it stops: it does not tell you how to choose between goals, or when to stop fixing and leave a doomed market. Five follow-up reads, one per step, are in [books like The Goal](/blog/books-like-the-goal/).
 
 ## The Balanced Scorecard: measure more than money
 
-Kaplan and Norton argue that financial measures alone do not show where a business is heading. Their scorecard looks from four sides: finance, customers, internal processes, and learning and growth. If your reports are all revenue and profit, this book widens the view.
+Kaplan and Norton argue that financial measures alone do not show where a business is heading. [Their scorecard](/blog/balanced-scorecard-explained/) looks from four sides: finance, customers, internal processes, and learning and growth. If your reports are all revenue and profit, this book widens the view.
 
 What to take from it: several sides of the business, measured deliberately. Where it stops: it does not say which side wins when [two of them conflict](/blog/competing-priorities-conflicting-goals/).
 
@@ -42,7 +42,7 @@ What to take from it: several sides of the business, measured deliberately. Wher
 
 Gino Wickman's *Traction* describes the Entrepreneurial Operating System: a set of practices and a meeting rhythm built for small and mid-sized companies. It is concrete and immediately usable, which is why so many owners swear by it.
 
-What to take from it: a weekly rhythm that keeps a team honest. Where it stops: it gives practices more than a framework that explains why each practice is needed.
+What to take from it: [a weekly rhythm](/blog/meeting-cadence/) that keeps a team honest. Where it stops: it gives practices more than a framework that explains why each practice is needed.
 
 ## Drucker on management by objectives
 
@@ -62,9 +62,9 @@ Here is the honest pitch for my own book, as a comparison rather than an adverti
 | Theory of Constraints (Goldratt) | Finding the bottleneck | A check of the environment, and the bottleneck as the cause of a red number |
 | EOS (Wickman) | A meeting rhythm for small companies | The goal, state and error framework that explains why each practice works |
 
-It is built around a coffee shop owner, a freelance designer and a thirteen-year-old saving for a bicycle, with every number worked out. Its appendices include a free rulebook and prompt that make an AI assistant analyse a business situation by the method; in a [blind test](https://doi.org/10.5281/zenodo.23964934) it scored 88.8 out of 100 against 67.7 for a good generic consultant prompt. If you want to see how it compares with OKRs on one concrete set of goals, the side-by-side is in [an OKR alternative for small business](/blog/okr-alternative-small-business/).
+It is built around a coffee shop owner, a freelance designer and a thirteen-year-old saving for a bicycle, with every number worked out. Its appendices include a free rulebook and prompt that make an AI assistant analyse a business situation by the method; in a [blind test](https://doi.org/10.5281/zenodo.23964934) it scored 88.8 out of 100 against 67.7 for a good generic consultant prompt. The data behind that score is open on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test). If you want to see how it compares with OKRs on one concrete set of goals, the side-by-side is in [an OKR alternative for small business](/blog/okr-alternative-small-business/).
 
-Where it stops: it is designed for one person or a small team working mostly on paper, which is why it caps a goal list at nine. Large organisations with many teams need alignment tools it does not try to provide.
+Where it stops: it is designed for one person or a small team working mostly on paper, which is why it [caps a goal list at nine](/blog/too-many-goals/). Large organisations with many teams need alignment tools it does not try to provide. The model itself is public in [its GitHub repository](https://github.com/mjirgensons/jirgenson-model).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the methods above each find a place: OKR and MBO supply the wording of goals, the Balanced Scorecard suggests what to measure, the Theory of Constraints helps find the bottleneck when a number turns red, PDCA runs small improvement cycles, and EOS supplies a meeting rhythm.</div>
 

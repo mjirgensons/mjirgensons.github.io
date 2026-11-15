@@ -36,7 +36,7 @@ Check your own goal the same way. It takes one minute.
 - "€3,000 a month" has no deadline.
 - "€3,000 a month by month 14" is a goal.
 
-How to avoid the best-month trap: take the figure from your bank statements, from the same source every time. One good month does not make an average.
+How to avoid the best-month trap: take the figure [from your bank statements](/blog/youtuber-income/), from the same source every time. One good month does not make an average.
 
 ## How much YouTubers make is the wrong first question
 
@@ -44,7 +44,7 @@ How to avoid the best-month trap: take the figure from your bank statements, fro
 
 Searching for how much YouTubers make gives you someone else's number. Yours is the one that pays your rent.
 
-So cross out every method on your list before you call it a goal. Going full time is a method. So are 100,000 subscribers, daily uploads and one big viral video. Ask of each item: what for?
+So cross out every method on your list before you [call it a goal](/blog/how-to-set-measurable-goals/). Going full time is a method. So are 100,000 subscribers, daily uploads and one big viral video. Ask of each item: what for?
 
 Andrew, who runs a coffee shop, had eight items on his first list. Three were methods: loyalty cards, a second barista, a new coffee machine. He asked "what for?" of each one. The three methods collapsed into two goals already on the list. That freed a place for the goal he would defend to the end: money in reserve.
 
@@ -67,9 +67,9 @@ Here it is, filled in on Elena's riskiest row: how much of her income one client
 | 5. Permissible deviation | Where does normal end? | Normal up to and including 33%; acceptable above 33% and up to 50%; emergency above 50% |
 | 6. Rhythm and owner | Who looks, and how often? | Elena herself, at her Monday check |
 
-Now read field 4 against field 5. Seventy per cent sits far past the 50% line. Before any new channel or format, this row says where the danger is.
+Now read field 4 against field 5. Seventy per cent sits far past the 50% line. Elena's way down from that share is in [client concentration risk](/blog/client-concentration-freelancer/). Before any new channel or format, this row says where the danger is.
 
-Fill in the same six fields for your income row. Then rank all your rows with the refusal test. Ask: if things got bad, which goal would I give up first?
+Fill in the same six fields for your income row. Then rank all your rows with [the refusal test](/blog/set-priorities-refusal-order/). Ask: if things got bad, which goal would I give up first?
 
 Elena's order puts income last to go. Her hours go first. While she writes the book, in months 1 to 3, she may work up to 55 hours a week. That is not a lapse. It is a decision made in advance, with an end date.
 
@@ -87,11 +87,11 @@ The difference shows up on the first page. Here is Elena's first draft for the b
 
 Every item on the left sounds businesslike. Not one of them can be done tomorrow. Every item on the right can.
 
-This is the order of work in the whole model: goal, state, gap, levers, plan, forecast. The goal list comes first, because every later step measures against it.
+This is the order of work in [the whole model](https://github.com/mjirgensons/jirgenson-model): goal, state, gap, levers, plan, forecast. The goal list comes first, because every later step measures against it.
 
 ## "My content creator income depends on the platform, not on me"
 
-Part of it does. The rules of the platforms where Elena promotes her book may change without warning. She writes that down as an outside factor, with its direction and strength. Then she stops arguing with it.
+Part of it does. The rules of the platforms where Elena promotes her book may change without warning. She writes that down as [an outside factor](/blog/external-factors-business/), with its direction and strength. Then she stops arguing with it.
 
 Her levers are all hers. The price of her service packages. Letters to former clients offering a repeat order. Two new channels to find clients. The text of her book's page. The payout rate is weather. The page is the wheel.
 
@@ -113,8 +113,8 @@ The cause is still in place. Elena's move from client work to her own product is
 
 Two steps close that gap.
 
-- **Steady mode and manoeuvre.** When to change the plan and when to change the goal, with launch and stop conditions written in advance. Chapter 10.
-- **The backward move.** A walk back from the month 14 goal to the one action that starts this week. Chapter 15.
+- **Steady mode and manoeuvre.** [When to change the plan and when to change the goal](/blog/when-to-pivot-small-business/), with launch and stop conditions written in advance. Chapter 10.
+- **The backward move.** [A walk back](/blog/backward-planning/) from the month 14 goal to the one action that starts this week. Chapter 15.
 
 Without them, the list tells you where you are going. It doesn't tell you when to leave the old road.
 
@@ -140,6 +140,8 @@ The list gives you direction. Launch conditions and the backward move tell you w
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, and the free chapter holds this exact goal list.
 
+Short videos on the same method are on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
+
 ## FAQ
 
 ### What does content creator mean as a business?
@@ -152,7 +154,7 @@ Take your bank statements, not the analytics page. Add the last three months and
 
 ### When should I become a full time creator?
 
-When the numbers say so, not the mood. Write the condition before you start, such as an income row and a client row inside their normal lines. The complete method, with launch and stop conditions, is in the full control system.
+When the numbers say so, not the mood. Write the condition before you start, such as an income row and a client row inside their normal lines. The complete method, with launch and stop conditions, is in [the full control system](https://www.amazon.com/dp/B0HPCJCWKF).
 
 ## Published research
 

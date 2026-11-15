@@ -19,7 +19,7 @@ Leave two goals fighting over the same cash, and a crisis picks the winner. The 
 
 **Competing priorities** share resources. A bigger cash reserve and a nicer menu both want this month's money; a second location and your Sundays both want your time. They can both be achieved, but not at the same speed, and something has to go first.
 
-**Conflicting goals** cannot be reached together at all. No order, effort or optimism will make them fit. The model calls it a badly defined goal, the first of the three offsets in Chapter 11: two trains leaving the station in opposite directions.
+**Conflicting goals** cannot be reached together at all. No order, effort or optimism will make them fit. The model calls it [a badly defined goal](/blog/mutually-exclusive-goals/), the first of the three offsets in Chapter 11: two trains leaving the station in opposite directions.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> competing priorities are resolved by the refusal order (which goal you would give up first, and which last). Conflicting goals are a defect of the goal list itself: the set of states in which all goals are met is empty, and one goal must be dropped or reshaped before any plan is built.</div>
 
@@ -31,7 +31,7 @@ Competing objectives are the same problem with a target attached. A cash reserve
 
 Andrew's list had exactly this shape: reserve, margin, regulars, complaints and his own hours, each with a target. Every target was sensible on its own. Together they were a tug of war.
 
-A target tells you how far to go. It does not tell you what to drop. So competing objectives get the same two tests as any goals. First, order them with the refusal test. Then check with arithmetic that one state of the business can meet them all.
+A target tells you how far to go. It does not tell you what to drop. So competing objectives get the same two tests as any goals. [First, order them with the refusal test.](/blog/goal-hierarchy/) Then check with arithmetic that one state of the business can meet them all.
 
 ## How to handle competing priorities: decide the order before the storm
 
@@ -39,7 +39,7 @@ When Andrew, the coffee shop owner who runs through the book, first wrote down w
 
 The book's tool here is the refusal test. Not "what matters most?", which everyone answers beautifully, but: if circumstances forced you to give up your goals one at a time, which would go first, and which would be the last one left? Andrew's answer surprised him. His own time went last on the list; the cash reserve went first, because without it the shop would close and nothing else would matter.
 
-What makes the chapter so persuasive is its account of what happens when you skip this step. A week later the supplier raises the price of milk, and someone asks for another barista on Fridays. Andrew agrees, because he is tired and does not want to argue. A month later he discovers he has run out of money before he ran out of time. Fatigue made the choice for him. Priorities never stay undecided; they are simply decided by whoever is loudest that day.
+What makes the chapter so persuasive is its account of what happens when you skip this step. A week later the supplier raises the price of milk, and someone asks for another barista on Fridays. Andrew agrees, because he is tired and does not want to argue. A month later he discovers he has run out of money before he ran out of time. [Fatigue made the choice for him.](/blog/decision-fatigue-small-business/) Priorities never stay undecided; they are simply decided by whoever is loudest that day.
 
 ## A competing priorities example: counting goals vs ordering them
 
@@ -59,7 +59,7 @@ Both plans meet four goals out of five. By counting, they are equal. By the refu
 
 These are harder to see, because each goal looks reasonable on its own. "The lowest prices in the neighbourhood, the best coffee in town and a thirty per cent margin" sounds ambitious, not impossible. The book's advice is to stop arguing about it and run the numbers.
 
-Its worked example is wonderfully concrete. At a revenue of €30,000, Andrew's fixed costs are €18,300 and his variable costs €9,000. He wants both "the lowest price on the street" (10% below today) and a 15% margin. With the price cut, the arithmetic says customer numbers would have to rise by 31% to reach that margin. If the room and the baristas can handle no more than 10% more customers, the two goals cannot both be met. Not "hard": impossible. One of them must be dropped before work begins.
+Its worked example is wonderfully concrete. At a revenue of €30,000, Andrew's fixed costs are €18,300 and his variable costs €9,000. He wants both "the lowest price on the street" (10% below today) and a 15% margin. With the price cut, [the arithmetic says customer numbers would have to rise by 31%](/blog/break-even-point/) to reach that margin. If the room and the baristas can handle no more than 10% more customers, the two goals cannot both be met. Not "hard": impossible. One of them must be dropped before work begins.
 
 That is the whole method:
 
@@ -70,7 +70,7 @@ That is the whole method:
 
 ## The five defects to check in any goal list
 
-Chapter 1 adds a five-point check for any goal list. A goal list can fail in five typical ways: mutually exclusive goals (the trap above); a missing necessary requirement, like taxes left off the list; goals that change every Monday; a secondary goal saved at the cost of the main one (expensive beans bought while the reserve is below the safe minimum); and duplicates, the same goal under two names, quietly given double weight. Five minutes with that list catches most of these problems before they cost you a season.
+Chapter 1 adds [a five-point check for any goal list](/blog/too-many-goals/). A goal list can fail in five typical ways: mutually exclusive goals (the trap above); a missing necessary requirement, like taxes left off the list; goals that change every Monday; a secondary goal saved at the cost of the main one (expensive beans bought while the reserve is below the safe minimum); and duplicates, the same goal under two names, quietly given double weight. Five minutes with that list catches most of these problems before they cost you a season.
 
 ## Where this does not reach
 
@@ -92,6 +92,8 @@ You have two choices today. Keep the list as it is, and let the loudest demand o
 The order is the first step, not the whole system. It does not tell you when a goal is losing badly enough to act; that is the zones, Chapter 4. It does not catch a plan that is doomed before it starts; that is the three offsets, Chapter 11. For the ten-second version of the test, see [how to set priorities when everything is urgent](/blog/set-priorities-refusal-order/).
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). Short videos on the method are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

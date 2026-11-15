@@ -11,7 +11,7 @@ answer: "A contingency plan template is one table. For each key number it holds 
 
 Your car warns you before the engine cooks. Your business waits for the smoke.
 
-The dashboard needle sits in the green, the yellow or the red. The driver doesn't open the bonnet to decide what to do. The colour already told him.
+[The dashboard needle sits in the green, the yellow or the red.](/blog/traffic-light-dashboard/) The driver doesn't open the bonnet to decide what to do. The colour already told him.
 
 Now look at your own week. Cash is down. The margin slipped. A big order came in late. Which of those is yellow, and which one is red? And what exactly did you plan to do about each?
 
@@ -25,7 +25,7 @@ The fix for a plan that starts too late comes from the Jirgenson Model. Put a tr
 
 A contingency plan is a response prepared in advance for something that may happen: if this occurs, we do that. Its whole value is the timing. You decide while your head is clear, not while the phone rings.
 
-That is the usual contingency plan meaning. It has one weak spot. "If this occurs" names an event, and events rarely announce themselves. A supplier doesn't phone to say your margin crossed a line this morning. The margin drifts, a point at a time, and nobody notices the day it became serious.
+That is the usual contingency plan meaning. It has one weak spot. "If this occurs" names an event, and events rarely announce themselves. A supplier doesn't phone to say your margin crossed a line this morning. The margin drifts, a point at a time, and [nobody notices the day it became serious](/blog/business-is-struggling/).
 
 So the model moves the trigger from the event to the number.
 
@@ -39,7 +39,7 @@ Here is the whole template. Each step sits next to the entries from the book's c
 
 ### 1. List the numbers that can hurt you
 
-Keep it short: no more than nine rows. Andrew used five: cash reserve, margin, regular customers, complaints and his own hours.
+[Keep it short: no more than nine rows.](/blog/too-many-goals/) Andrew used five: cash reserve, margin, regular customers, complaints and his own hours.
 
 ### 2. Write the goal, today's value and the error
 
@@ -58,7 +58,7 @@ The error is actual minus goal, row by row. The sign shows the direction. For co
 This is the heart of the template. Three rules decide where the lines go.
 
 - **No finer than your measurement.** If your margin count can be wrong by one point, a green band half a point wide is noise. Improve the measurement instead of narrowing the zone.
-- **Red starts where damage gets hard to reverse.** Andrew drew the reserve's red line at one month. His reason: one month is enough time to ask for a deferral, raise money and make a choice. Under a month, those options are gone.
+- **Red starts where damage gets hard to reverse.** [Andrew drew the reserve's red line at one month.](/blog/kpi-zones/) His reason: one month is enough time to ask for a deferral, raise money and make a choice. Under a month, those options are gone.
 - **Set them calm, change them rarely.** Moving a line mid-crisis bends the ruler to fit the result.
 
 Andrew's thresholds, written the same evening:
@@ -130,8 +130,8 @@ The cause is still in place. In the red, the template says "put everything on th
 
 Two steps close that gap.
 
-- **The list of levers.** It sorts the moves you control from the ones you only hope to control. It also shows how fast each acts. Chapter 5.
-- **Two forecasts.** One line for "change nothing", one for "the plan works", each with the month it crosses a threshold. Chapter 8.
+- **The list of levers.** [It sorts the moves you control from the ones you only hope to control.](/blog/levers-of-control/) It also shows how fast each acts. Chapter 5.
+- **Two forecasts.** [One line for "change nothing", one for "the plan works"](/blog/forecast-cash-flow/), each with the month it crosses a threshold. Chapter 8.
 
 The template covers one link of the control loop, the gap. The other links are the goal order, the real state, the levers, the plan and the forecast. A zone without a lever is an alarm with no exit.
 
@@ -154,6 +154,8 @@ You have two choices. Keep the "what if" list in your head and let the next bad 
 The zones tell you when to move. The levers pick the move that works. The forecasts warn you of a red line months ahead.
 
 Try the logic first, at no cost: [read Chapter 1 free](/blog/free-sample/). Or set up the whole control system now, [from Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the zone table and the red protocol ready to copy.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). The model itself is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## FAQ
 

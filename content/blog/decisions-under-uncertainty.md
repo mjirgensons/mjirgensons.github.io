@@ -27,7 +27,7 @@ The usual advice says "trust your gut" or "gather more data". Neither tells you 
 
 The model starts from one plain rule. "Random" is a description, not a denial of causes. Milk prices jump about for someone who looks at them once a month. For a supplier who knows the milking schedule, they are predictable. So the first question is always: can I learn more about the mechanism?
 
-Some uncertainty always remains. You still decide, with that uncertainty in view. You give a range instead of one false number.
+Some uncertainty always remains. You still decide, with that uncertainty in view. You give [a range](/blog/scenario-planning/) instead of one false number.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a decision under uncertainty is a forecast you act on. You write the forecast, its range and its assumptions before you act. New facts then correct the forecast, and feedback stays in place, because forecasts err.</div>
 
@@ -43,9 +43,9 @@ The model places every way of deciding into one of three schemes. Andrew tested 
 
 The third scheme sets the order from the forecast. A rainy Saturday gets 130 × 0.85, so about 110 croissants. By midday he adjusts if sales are off.
 
-Waste fell. So did shortages. And he got the habit of looking ahead, which he then used on his cash reserve, his milk orders and the shift schedule.
+Waste fell. So did shortages. And he got the habit of looking ahead, which he then used on [his cash reserve](/blog/cash-reserve-months-of-expenses/), his milk orders and the shift schedule.
 
-Picture three drivers on one road. The first has locked the accelerator. The second brakes when the brake lights ahead come on. The third looks three cars ahead and lifts off the pedal before anyone brakes. Same road, three results.
+Picture three drivers on one road. The first has locked the accelerator. The second brakes when the brake lights ahead come on. The third looks three cars ahead and lifts off the pedal before anyone brakes. Same road, three results. Why the second driver is always late is in [the control cycle](/blog/control-cycle-management/).
 
 ## Faster is not better: the two-week test
 
@@ -62,7 +62,7 @@ Take two weeks of croissant sales, day by day: 100, 65, 98, 94, 114, 123, 108, t
 
 The fastest rule, "as yesterday", did worse than the fixed plan. It chased random jumps. The winner knew the pattern: the day of the week.
 
-So the order of action is fixed. Find the pattern first and put it in the forecast. Then decide which deviation deserves a response. Only then speed up the response.
+So the order of action is fixed. Find the pattern first and [put it in the forecast](/blog/reactive-vs-proactive-management/). Then decide which deviation deserves a response. Only then speed up the response.
 
 ## Decision log template: write the forecast before you act
 
@@ -96,7 +96,7 @@ Here is Andrew's entry for a rainy Saturday:
 | Actual | Filled in at closing |
 | Correction | Update the rain effect if the gap repeats |
 
-And here is Elena, a freelance designer launching her first online book. Her goal is 21 sales a month. Every Monday she multiplies last week's visitors by her conversion rate.
+And here is Elena, a freelance designer launching [her first online book](/blog/book-launch-plan/). Her goal is 21 sales a month. Every Monday she multiplies last week's visitors by her conversion rate.
 
 | Field | Elena's entry |
 |---|---|
@@ -131,12 +131,12 @@ The deeper problem stays. The fifth field asks which deviation you will ignore. 
 
 Two steps close that gap:
 
-- **Zones and the red protocol**. The exact thresholds for normal, warning and emergency on every number. And the order of rescue when two of them go red together. Chapter 4.
-- **The full control cycle**. Eight stages, from noticing pressure to holding the result. Only control by forecast carries all eight. Chapter 7.
+- **Zones and the red protocol**. [The exact thresholds](/blog/kpi-zones/) for normal, warning and emergency on every number. And the order of rescue when two of them go red together. Chapter 4.
+- **The full control cycle**. [Eight stages](/blog/management-operating-system/), from noticing pressure to holding the result. Only control by forecast carries all eight. Chapter 7.
 
 Without them, each decision gets better. The system around the decisions still runs on habit.
 
-Here is where the log sits in the whole system. Goals set what matters. The state and the error say where you stand. Levers and a plan give the options. The forecast, held in the log, decides which option to take now.
+Here is where the log sits in [the whole system](https://github.com/mjirgensons/jirgenson-model). Goals set what matters. The state and the error say where you stand. Levers and a plan give the options. The forecast, held in the log, decides which option to take now.
 
 The likely objection: "My business is too small for a log." Andrew's first log was a croissant order. Elena's was one line every Monday. Before any forecast, the number underneath it has to be honest; that step is in [gut feeling vs numbers](/blog/gut-feeling-vs-numbers-business/).
 
@@ -157,6 +157,8 @@ You have two choices. Keep ordering the same hundred, react to yesterday, and ca
 The log makes each decision visible. The zones and the full control cycle make the whole system steer.
 
 Start free with [the opening chapter and its refusal test](/blog/free-sample/). Or get the full control system, as a Kindle book in sixteen chapters, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+Prefer paper? There is also a [paperback edition on Amazon](https://www.amazon.com/dp/B0HPCJCWKF). Short videos on deciding by forecast are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

@@ -23,7 +23,7 @@ When one client pays most of the bills, they're steering, not you. The Jirgenson
 
 ## Client concentration in one number
 
-Elena is a freelance designer. Before she set any goal, she measured. She did not trust the feeling of a "good month" after a big order. She took six months of bank statements.
+[Elena is a freelance designer.](/blog/freelance-business-plan/) Before she set any goal, she measured. She did not trust the feeling of a "good month" after a big order. She took six months of bank statements.
 
 Here is what they showed:
 
@@ -35,7 +35,7 @@ Here is what they showed:
 | Best client's share | 70% |
 | Working hours | 50 a week |
 
-That one share, 70%, is the easiest number to know as a feeling and never write down. A feeling cannot be steered.
+That one share, 70%, is the easiest number to know as a feeling and never write down. [A feeling cannot be steered.](/blog/gut-feeling-vs-numbers-business/)
 
 Now do the sum Elena's statements invite. If that one client leaves, €910 of €1,300 leaves with them. What remains is €390 a month.
 
@@ -53,7 +53,7 @@ The wish fails for a plain reason. It has no number, no deadline and no order. S
 
 ## Write the largest client share as a goal
 
-A goal becomes real once six fields are filled in. Here is Elena's client share goal, field by field:
+A goal becomes real [once six fields are filled in](/blog/measurable-goals-example/). Here is Elena's client share goal, field by field:
 
 | Field | Elena's entry |
 |---|---|
@@ -82,7 +82,7 @@ That matters with a big client. When the rush job arrives in month 2, she alread
 
 ## Levers, not wishes
 
-Elena then asked one question of every action: what exactly do I do with my own hands? Her levers for income:
+Elena then asked one question of every action: [what exactly do I do with my own hands?](/blog/business-levers/) Her levers for income:
 
 - the price of her service packages;
 - letters to former clients offering a repeat order;
@@ -109,7 +109,7 @@ The main client went from €910 to €900. Almost nothing changed there. The to
 
 That is the whole trick of client concentration. You rarely fix it by subtraction. You fix it by building a floor under the big client, so their next email is a request, not a verdict.
 
-Two months in, Elena saw that packages sold better than one-off jobs. She rebuilt the plan around them. A written goal made that turn easy: the target stayed, the route changed.
+Two months in, Elena saw that packages sold better than one-off jobs. She rebuilt the plan around them. A written goal made that turn easy: [the target stayed, the route changed](/blog/when-to-pivot-small-business/).
 
 ## What this goal does not fix
 
@@ -117,7 +117,7 @@ Be clear about what you now have. The six fields tell you where you stand. The o
 
 The cause still sits there. Two questions remain open.
 
-First, when does the share stop being yellow and turn red, and what do you do then? Worse: what if a second number turns red the same week? Picture Elena's account frozen by the tax office while the client share is already red. Which to save first follows a fixed protocol, and the zone lines decide when it starts. That is Chapter 4.
+First, when does the share stop being yellow and turn red, and what do you do then? Worse: what if a second number turns red the same week? Picture Elena's account frozen by the tax office while the client share is already red. Which to save first follows a fixed protocol, and [the zone lines decide when it starts](/blog/kpi-zones/). That is Chapter 4.
 
 Second, how do you know the new income will arrive in time? Elena did not guess her ebook's sales. She sent a trial stream of visitors to its page, counted the buyers, and checked the forecast against the facts every week. How to build that forecast is Chapters 8 and 9.
 
@@ -140,6 +140,8 @@ You can keep saying yes to every rush job and call it loyalty. Or you can spend 
 The share tells you how exposed you are. The zones, the red protocol and the forecast tell you what to do about it, and when.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). Short videos on the method are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

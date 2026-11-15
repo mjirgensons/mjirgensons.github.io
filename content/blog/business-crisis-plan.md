@@ -23,6 +23,8 @@ When the bad news lands, attention narrows to one point and the mind refuses to 
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the goal order, the zone thresholds and the constraints are set in a calm moment. So in a bad moment the decision comes from your own order, settled long before, not from fear.</div>
 
+The full model is public in [its GitHub repository](https://github.com/mjirgensons/jirgenson-model).
+
 You can look up how to handle a crisis in a small business on the night itself. This page is for a month earlier. Call it a business crisis plan or a small business emergency plan; it fits on one sheet.
 
 A crisis plan written during the crisis is a mood with bullet points.
@@ -33,7 +35,7 @@ Here is the whole page. Each block sits next to an entry from the book's example
 
 ### 1. Your goals, in the order you would give them up
 
-Ask: if things got bad, which goal would I drop first? Which would I defend to the end? Number them.
+Ask: if things got bad, [which goal would I drop first](/blog/set-priorities-refusal-order/)? Which would I defend to the end? Number them.
 
 Above the list, write what is never traded: safety, the law, wages, taxes, loan payments. These are not goals you give up in turn. They decide which moves are allowed at all.
 
@@ -47,13 +49,13 @@ Andrew's order:
 | 4 | Quality | no more than 2 complaints a week |
 | 5 | Owner's time | no more than 40 hours a week |
 
-He put his own hours last and surprised himself. The reserve came first: without it the shop closes, and then nothing else matters.
+He put his own hours last and surprised himself. [The reserve](/blog/cash-reserve-months-of-expenses/) came first: without it the shop closes, and then nothing else matters.
 
 ### 2. A red line for each goal, with its reason
 
 The red line business decisions hang on is not a feeling. It is a number, written next to a reason.
 
-Put the line where damage becomes hard to reverse. Andrew drew it for the reserve at one month. His reason: a month gives him time to negotiate a deferral, find money and decide. Below a month, there is no time left for any of that.
+[Put the line where damage becomes hard to reverse](/blog/kpi-zones/). Andrew drew it for the reserve at one month. His reason: a month gives him time to negotiate a deferral, find money and decide. Below a month, there is no time left for any of that.
 
 | Goal | Red line (emergency) |
 |---|---|
@@ -77,7 +79,7 @@ His freeze list, as an illustration: loyalty cards, a second location, any new s
 
 Write the tie-break now. First comes the red that threatens the nearest irreversible damage: judge by timing, scale, probability and how fast the lever acts. Then the red tied to your highest goal.
 
-Elena's case. One client brings in 70% of her income; her red line is 50%. That is red. Then the tax authority freezes her account. Two reds. Income is her goal number one, and the frozen account hits it directly. So the client problem waits, and the account gets everything.
+Elena's case. [One client brings in 70% of her income](/blog/client-concentration-freelancer/); her red line is 50%. That is red. Then the tax authority freezes her account. Two reds. Income is her goal number one, and the frozen account hits it directly. So the client problem waits, and the account gets everything.
 
 She did not decide that at midnight. The rule decided.
 
@@ -111,12 +113,12 @@ It does not touch the cause. The red line still arrives as a surprise, because n
 
 Two steps close that gap.
 
-- **The list of levers.** Three questions for every lever separate the ones you control from the ones you only wish you did. Chapter 5.
+- **The list of levers.** [Three questions for every lever](/blog/levers-of-control/) separate the ones you control from the ones you only wish you did. Chapter 5.
 - **Two forecasts and control by forecast.** "If nothing changes" against "if the plan works", in numbers and dates. You see the red line months before you reach it. Chapters 8 and 9.
 
 The plan is one piece of a loop: goals in order, the real state, the gap, levers, plan, forecast.
 
-"My business is different" is the fair objection. The same page works for a coffee shop, a freelancer and a family budget. Only the numbers and their units change.
+"My business is different" is the fair objection. The same page works for a coffee shop, a freelancer and [a family budget](/blog/household-budget-deficit/). Only the numbers and their units change. The author writes about the method on [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -130,7 +132,7 @@ The plan is one piece of a loop: goals in order, the real state, the gap, levers
 
 ## The quiet Tuesday is now
 
-You have two choices. Close this tab and trust that you will think clearly at two in the morning, with the bank on hold and a barista missing. Or take an evening this week and write the page.
+You have two choices. Close this tab and trust that you will think clearly at two in the morning, with the bank on hold and a barista missing. Or take an evening this week and write the page. The book also comes as [a paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 The page tells you what to do when the number turns red. The levers and the two forecasts tell you which move works, and warn you months before the red arrives. For the order of moves on the night itself, see [what to do first in a business crisis](/blog/business-crisis-what-to-do-first/).
 

@@ -21,7 +21,7 @@ The worst afternoon is no time to decide what you'd give up first. The Jirgenson
 
 ## Day trading success rate: the plan starts before the chart
 
-Day trading statistics give you the odds. They can't give you an order. That part is yours, and it takes ten minutes.
+[Day trading statistics](/blog/day-trading-statistics/) give you the odds. They can't give you an order. That part is yours, and it takes ten minutes.
 
 Write down everything you want from the next year: money, time, family, health, the trading itself. Then run the refusal test. Suppose circumstances force you to give up your goals one at a time. Which goes first? Which second? Which is the last one left?
 
@@ -39,7 +39,7 @@ The entries come from Andrew, who runs a coffee shop. His goals are not yours. H
 
 ### 1. Write the constraints first
 
-Constraints are not goals. They are the law, safety, contracts and the most a person can carry. You never give them up in turn. They decide which moves are allowed at all.
+[Constraints](/blog/goal-hierarchy/) are not goals. They are the law, safety, contracts and the most a person can carry. You never give them up in turn. They decide which moves are allowed at all.
 
 A coffee shop's entries: taxes paid on time. No saving on equipment maintenance that raises the risk of a breakdown tomorrow.
 
@@ -49,7 +49,7 @@ Your row, as an illustration: the rent and the family budget stay outside the tr
 
 Work through six areas: finance, clients, sales, processes and quality, people, and you, the owner. That last area holds your own time, health and money. People forget it most.
 
-Keep nine goals at most. For a person, ten priorities are no longer priorities. They are a list.
+Keep [nine goals at most](/blog/too-many-goals/). For a person, ten priorities are no longer priorities. They are a list.
 
 Andrew's entry: five goals. Cash reserve, margin, regular customers, quality, his own hours.
 
@@ -69,7 +69,7 @@ Andrew put his own time in last place, and it surprised him. He would defend mon
 
 ### 4. Fill the six fields of the top goals
 
-A goal becomes real when six fields are filled in. Here is Andrew's margin row.
+A goal becomes real when [six fields](/blog/how-to-set-measurable-goals/) are filled in. Here is Andrew's margin row.
 
 | Field | Andrew's entry |
 |---|---|
@@ -90,7 +90,7 @@ Check each goal in a minute. "A good profit" has no number. "15" has no unit. "1
 
 ### 6. Write the stop line now
 
-For each top goal, write the minimum below which the result is no longer viable. Then write what makes you stop, revise or carry on, as a number you can check.
+For each top goal, write the minimum below which the result is no longer viable. Then write what makes you [stop, revise or carry on](/blog/when-to-pivot-small-business/), as a number you can check.
 
 That is the whole template. Constraints, nine goals at most, an order, six fields, no methods, a stop line. Andrew needed fifteen minutes.
 
@@ -124,7 +124,7 @@ Counting goals and ordering goals give different answers. The model goes with th
 
 The same rule protects the constraints. If saving the top goal would mean breaking a constraint, the constraint wins. Find another way, or stop and change the conditions.
 
-This is one piece of a loop: goal, state, gap, levers, plan, forecast. The order comes first, because every later step asks it which way to turn.
+This is one piece of [a loop](https://github.com/mjirgensons/jirgenson-model): goal, state, gap, levers, plan, forecast. The order comes first, because every later step asks it which way to turn.
 
 "I'm a trader, not a coffee shop." The test doesn't care. Alex, thirteen, used it for a €300 bicycle. Games went first, football second, and the bicycle stayed until last. An order you can stick to beats one that looks good to others.
 
@@ -146,8 +146,8 @@ The cause of bad calls stays in place. You still don't know where you stand, row
 
 Two steps close that gap:
 
-- <strong>The state from measured data.</strong> One source per number, so "roughly fine" becomes a figure you can trust. Chapter 2.
-- <strong>Error and the three zones.</strong> Where each row turns yellow and red, and the red protocol for the day two rows go red at once. Chapter 4.
+- <strong>The state from measured data.</strong> [One source per number](/blog/how-to-measure-business-performance/), so "roughly fine" becomes a figure you can trust. Chapter 2.
+- <strong>Error and the three zones.</strong> [Where each row turns yellow and red](/blog/kpi-zones/), and the red protocol for the day two rows go red at once. Chapter 4.
 
 Without them, the table tells you what matters. It doesn't tell you when to act.
 
@@ -169,6 +169,8 @@ The order tells you what to defend. The measured state and the three zones tell 
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a task to try in every chapter.
 
+Short videos on the refusal test are on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
+
 ## FAQ
 
 ### What is the day trading success rate?
@@ -177,7 +179,7 @@ The two lines in this post give the odds for everyone who starts. They say nothi
 
 ### What should a trading plan include?
 
-On the goal side, four parts. Constraints you never break. Nine goals at most, in refusal order, with six fields each. And a stop line set in advance. The book covers that side of the plan. It gives no trading signals.
+On the goal side, four parts. Constraints you never break. Nine goals at most, in refusal order, with six fields each. And a stop line set in advance. [The book](https://www.amazon.com/dp/B0HPCJCWKF) covers that side of the plan. It gives no trading signals.
 
 ### When should you quit day trading?
 

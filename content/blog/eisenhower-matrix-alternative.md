@@ -30,7 +30,7 @@ The result is a familiar irony. You spend the morning sorting tasks into four ne
 
 ## An Eisenhower matrix alternative: rank goals, then filter tasks
 
-The fix is to sort one level higher. Tasks serve goals. Rank the goals once, and the tasks fall into line.
+The fix is to sort one level higher. Tasks serve goals. [Rank the goals once](/blog/set-priorities-refusal-order/), and the tasks fall into line.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a goal vector is an ordered list of at most nine measurable goals. The refusal test sets the order. If you had to give goals up one at a time, which would go first? Which would be the last one left?</div>
 
@@ -38,7 +38,7 @@ The method has two parts. Part one takes ten to twenty minutes, once. Part two t
 
 ### Part one: rank your goals with the refusal test
 
-1. Write down up to five things you want this year, each with a number, a unit and a deadline.
+1. Write down up to five things you want this year, each with [a number, a unit and a deadline](/blog/how-to-set-measurable-goals/).
 2. Imagine you have half the resources. Cross the goals out one at a time, starting with the one you would sacrifice first.
 3. Number them in reverse. The last one standing gets number one.
 
@@ -68,7 +68,7 @@ Here is Andrew's own test case. His first instinct at the start was to launch lo
 - **What zone?** Yellow. But the cards cost money: printing, discounts, till setup. That money comes out of the reserve, rank 1, which is red.
 - **Does it outrank current work?** No. Rescuing the red reserve does.
 
-Sara, his senior barista, asked what happens if customers leave. His answer is the whole method in two lines. Regular customers sit in the yellow zone and drift away slowly. The reserve sits in the red, and there everything can end quickly.
+Sara, his senior barista, asked what happens if customers leave. His answer is the whole method in two lines. Regular customers sit in [the yellow zone](/blog/kpi-zones/) and drift away slowly. The reserve sits in the red, and there everything can end quickly.
 
 He put the cards aside and, for once, felt no guilt.
 
@@ -83,7 +83,7 @@ Here is the same week run through both tools. This is an illustration built on t
 | Three requests marked "urgent and important" | No rule to order them | The highest-ranked goal in the worst zone goes first |
 | When you decide | Each time a task lands | Once, on a calm evening, reviewed every six to twelve months |
 
-That is the honest difference. The matrix is a good filter for chores. As a prioritization method for a business with competing goals, it needs a layer above it. The ranking is that layer.
+That is the honest difference. The matrix is a good filter for chores. As a prioritization method for a business with [competing goals](/blog/competing-priorities-conflicting-goals/), it needs a layer above it. The ranking is that layer.
 
 ## Why an order beats a count
 
@@ -106,18 +106,18 @@ The human cost fits in one line. Fatigue makes the choice, and whoever asks loud
 
 ## "I already use a framework"
 
-Keep it. The goal ranking does not replace the methods you know. It answers a narrower question they leave open: what matters more when everything is on fire? Use the matrix for your inbox. Use the ranking for the business.
+Keep it. The goal ranking does not replace [the methods you know](/blog/management-frameworks-explained/). It answers a narrower question they leave open: what matters more when everything is on fire? Use the matrix for your inbox. Use the ranking for the business.
 
 ## Where this method stops
 
-You now have a ranked list and a filter at the door. That is one step of the loop: goal, state, error, levers, plan, forecast. It treats the symptom: requests stop jumping the queue.
+You now have a ranked list and a filter at the door. That is one step of [the loop](https://github.com/mjirgensons/jirgenson-model): goal, state, error, levers, plan, forecast. It treats the symptom: requests stop jumping the queue.
 
 The cause of a chaotic week is still there. You can see that a goal is yellow, but you have not fixed where yellow ends and red begins. And when two goals turn red in the same week, the ranking alone does not tell you which one to save first.
 
 Two steps close that gap.
 
 - **Zone thresholds and the red protocol.** Where each line sits, and the order of action when several rows are red at once. Chapter 4.
-- **Levers.** Which parameters you can move yourself, and which lever acts fastest on a red row. Chapter 5.
+- **Levers.** [Which parameters you can move yourself](/blog/levers-of-control/), and which lever acts fastest on a red row. Chapter 5.
 
 For a fuller goal hierarchy example, with the constraints and minimums that sit above and below the ranked goals, see [goal hierarchy](/blog/goal-hierarchy/). That four-layer view is where goal prioritization becomes a full priority matrix alternative.
 
@@ -138,6 +138,8 @@ You have two choices this week. Keep sorting the calls into four boxes and hope 
 The ranking settles the order. The zone lines, the red protocol and the list of levers tell you what to do on the day two goals turn red. Next Monday, a new request could take you one minute instead of one argument.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a task to try at the end of every chapter.
+
+Prefer paper? There is also a [paperback edition on Amazon](https://www.amazon.com/dp/B0HPCJCWKF). Short videos on the refusal test are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

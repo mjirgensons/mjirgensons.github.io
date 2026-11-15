@@ -37,7 +37,7 @@ The second cause is the one nobody sees. Put the same goals in two different ord
 
 Every task with a goal has the same frame. What you want. What you have. The gap. What you can move. A coffee shop, an exam and a family budget are built this way. Only the contents change.
 
-So the couples budget is not a spreadsheet of forty categories. It is four lines and a weekly check. Here they are, filled in with Emma and Paul, the household in the book.
+So the couples budget is not a spreadsheet of forty categories. It is four lines and a weekly check. Here they are, filled in with Emma and Paul, the household in [the book](https://www.amazon.com/dp/B0HPCJCWKF).
 
 ### 1. Write one shared goal
 
@@ -53,7 +53,7 @@ Emma and Paul's state: income €4,000 a month, expenses €4,400, savings €2,
 
 ### 3. Measure the gap in one unit
 
-Use a unit that ends the debate. Months of expenses work well: savings divided by monthly expenses.
+Use a unit that ends the debate. [Months of expenses](/blog/cash-reserve-months-of-expenses/) work well: savings divided by monthly expenses.
 
 Emma and Paul: 2,000 / 4,400, about 0.45 months, against a goal of three. In euros, three months is €13,200. They hold €2,000. The gap is €11,200. The zone is red.
 
@@ -61,7 +61,7 @@ Read that line twice. "We're fine" and "we're sinking" can't both survive it.
 
 ### 4. List only levers you control
 
-A lever is a move the two of you can make yourselves. Rent, energy prices and the bank's rates are not levers. You can watch them. You can't pull them.
+A [lever](/blog/levers-of-control/) is a move the two of you can make yourselves. Rent, energy prices and the bank's rates are not levers. You can watch them. You can't pull them.
 
 Emma and Paul found two: cut subscriptions and eating out by €180, and a side job bringing in €300 a month. The cut came first, alone, so its effect showed on the next statement. The side job followed a month after that.
 
@@ -83,7 +83,7 @@ With both levers, the monthly result turns from €400 short to €80 ahead. The
 
 The fourth line tells you what you can move. It doesn't tell you what to protect first. For that, you need your family goals in order.
 
-Use the refusal test. Imagine circumstances force you to give up your goals one at a time. Which goes first? Which goes second? Which is the last one standing? That last one is goal number one.
+Use [the refusal test](/blog/set-priorities-refusal-order/). Imagine circumstances force you to give up your goals one at a time. Which goes first? Which goes second? Which is the last one standing? That last one is goal number one.
 
 Here is the couples version. It takes fifteen minutes.
 
@@ -107,7 +107,7 @@ The order is yours to choose. No adviser can choose it for you, because it says 
 | Emma and Paul | A reserve of 3 months | 0.45 months | Red |
 | Alex, thirteen | €300 by 1 September | €40 on 1 May | A line to check every Sunday |
 
-Three tasks, one formula, different units. When Sara asked Andrew if this was only for coffee shops, his answer was no: it is about how anyone reaches anything at all.
+Three tasks, one formula, different units. When Sara asked Andrew if this was only for coffee shops, his answer was no: it is about how anyone reaches anything at all. Alex's own plan is in [how to save for a goal](/blog/save-for-a-goal/).
 
 Here is the contrast, as an illustration on Emma and Paul's month:
 
@@ -130,14 +130,14 @@ Every one of those month-ends holds the same evening. A bank alert, a closed doo
 
 ## What the shared page does not fix
 
-Be honest about what you built. The page covers four parts of the loop: goal, state, gap and levers. The plan and the forecast are still missing. So the page treats the symptom. You stop fighting about facts, because the facts sit in one place.
+Be honest about what you built. The page covers four parts of [the loop](https://github.com/mjirgensons/jirgenson-model): goal, state, gap and levers. The plan and the forecast are still missing. So the page treats the symptom. You stop fighting about facts, because the facts sit in one place.
 
 The cause sits one level down. You still have no agreed point where yellow becomes red for your family, so one of you will panic early and the other late. And you can't see where the money stands in six months under each option. So the next big decision, the car, the move or the new job, will still be a guess.
 
 Two steps close that gap:
 
-- **Zone thresholds and the red protocol.** The lines you agree in a calm hour, and the order of action when two numbers turn red in the same month. Chapter 4.
-- **Two forecasts and who is at the wheel.** The do-nothing line next to the plan line, in numbers and dates, and which of you looks ahead for which area. Chapter 8.
+- **Zone thresholds and the red protocol.** [The lines you agree in a calm hour](/blog/kpi-zones/), and the order of action when two numbers turn red in the same month. Chapter 4.
+- **Two forecasts and who is at the wheel.** [The do-nothing line next to the plan line](/blog/forecast-cash-flow/), in numbers and dates, and which of you looks ahead for which area. Chapter 8.
 
 Without them, the page tells you where you stand. It doesn't yet tell you what to do on the worst month.
 
@@ -162,6 +162,8 @@ The page ends the fight about facts. The zone thresholds and the two forecasts k
 Start with the free part: [read Chapter 1 and run the refusal test](/blog/free-sample/). Or set up the whole loop now with the complete method, [on Kindle at Amazon](https://www.amazon.com/dp/B0HPBR6BNX). The system comes as a book, and one model runs a coffee shop, a freelance career and a family budget.
 
 Picture next Sunday: one page on the table, a red line you both can see, and a short talk about which lever to pull first.
+
+Short videos on the same loop are on the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess). In Canada, the Kindle book is on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 ## FAQ
 

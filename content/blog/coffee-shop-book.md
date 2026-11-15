@@ -25,7 +25,7 @@ No theory on page one. It opens with fires.
 
 The coffee machine breaks. A barista fails to show up. The milk supplier runs late. Andrew dashes from one fire to the next and is worn out by evening. Ask him what will change in six months, and he has no answer.
 
-That is the real enemy here. Not the supplier, not the machine. Guessing. Running a business on "it feels like we are doing fine".
+That is the real enemy here. Not the supplier, not the machine. Guessing. Running a business on "[it feels like we are doing fine](/blog/gut-feeling-vs-numbers-business/)".
 
 ## Month zero: five coffee shop numbers
 
@@ -53,8 +53,8 @@ The table did not scold him. It told him where he was. An instrument reading, no
 
 You do not need his shop to use his table. Take a sheet and write five rows:
 
-1. **Cash reserve in months.** Money in the bank divided by one month of expenses. Andrew had half a month.
-2. **Margin with waste counted.** Operating profit as a share of revenue, after everything that went in the bin.
+1. **Cash reserve in months.** [Money in the bank divided by one month of expenses.](/blog/cash-reserve-months-of-expenses/) Andrew had half a month.
+2. **Margin with waste counted.** [Operating profit as a share of revenue, after everything that went in the bin.](/blog/how-to-calculate-profit-margin/)
 3. **Regular customers.** The share of receipts from people who come back. Loyalty marks, card numbers, your own tally.
 4. **Complaints per week.** Keep a notebook by the till. Write every one down.
 5. **Your own hours.** Count them from your calendar, honestly.
@@ -75,9 +75,9 @@ Six extra months one breakdown away from closing. Six more months of 65-hour wee
 
 Month zero is the easy part. The year turns on two evenings. Here they are, without the ending.
 
-**The evening of the loyalty cards.** With the panel in front of him, Andrew wants to launch loyalty cards at once and win customers back. A sensible idea. The table says otherwise, and he puts the cards aside without guilt. Why one number outranks the others when five are off target, and how he set the lines between green, yellow and red, is Chapter 4.
+**The evening of the loyalty cards.** With the panel in front of him, Andrew wants to launch loyalty cards at once and win customers back. A sensible idea. The table says otherwise, and he puts the cards aside without guilt. Why one number outranks the others when five are off target, and how he set [the lines between green, yellow and red](/blog/kpi-zones/), is Chapter 4.
 
-**The bad month.** At month 8, everything lands at once. The supplier raises prices by 8%. The coffee machine needs a repair. A barista leaves. The margin drops from 15% to 12%, and the reserve stands at 1.56 months. Andrew's first impulse is to decide that same night, any decision at all. What he does instead, and which of three scenarios he picks, is Chapter 12.
+**The bad month.** At month 8, everything lands at once. The supplier raises prices by 8%. The coffee machine needs a repair. A barista leaves. The margin drops from 15% to 12%, and the reserve stands at 1.56 months. Andrew's first impulse is to decide that same night, any decision at all. [What he does instead](/blog/business-triage/), and which of three scenarios he picks, is Chapter 12.
 
 These two evenings treat the symptom and the cause. The panel shows the fire. The order of goals and the zones decide which fire you fight first.
 
@@ -103,7 +103,7 @@ Be honest about what this is. Andrew is a composite character. His numbers come 
 
 It is for the owner with the queue and the empty till. It also works for any small business with too many fires. The same five-row logic runs a workshop, an online shop or a family budget.
 
-Worried it is a control theory book full of formulas? Every chapter comes in three levels: basic, practical and advanced. The maths sits in the advanced level. Skip it, and the method still works.
+Worried it is [a control theory book full of formulas](/blog/control-theory-for-business/)? Every chapter comes in three levels: basic, practical and advanced. The maths sits in the advanced level. Skip it, and the method still works.
 
 If you keep practical business books like Rework on your shelf, this one goes next to them, with a calculator. For five more, sorted by the problem each solves, see [books like Measure What Matters](/blog/books-like-measure-what-matters/).
 
@@ -124,6 +124,8 @@ You have two choices. Keep serving the queue and hope the till adds up this mont
 The table gets you started. The two evenings that turned Andrew's year, the zones and the bad-month decision, are where the method earns its keep.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system, with Andrew's whole year and every calculation, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It is a Kindle book: sixteen chapters, each with a task to try yourself.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). More about the author is on his [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ).
 
 ## FAQ
 

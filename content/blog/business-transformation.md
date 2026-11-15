@@ -21,9 +21,11 @@ A change stalls at the stage nobody runs, and the old argument comes back. The J
 
 ## Business transformation in eight stages: find the empty one
 
-Whatever you are changing, a shop, a service or a whole company, the change passes through the same eight stages. Stages 1 and 8 are always there. The stages between can merge or split, but none can be dropped.
+Whatever you are changing, a shop, a service or a whole company, the change passes through [the same eight stages](/blog/management-operating-system/). Stages 1 and 8 are always there. The stages between can merge or split, but none can be dropped.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a full control cycle means eight linked stages, from pressure to maintenance. The first four set the destination and the rule for acting. The next three do the work and adjust it. The last one closes the loop. Drop a stage, and its job is left undone or done by other hands.</div>
+
+The rules of the model are public in [the Jirgenson Model repository on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 Here is the audit. Take your hardest change and write one sentence for each stage. Next to each one, see how Elena filled it in. She is a freelance designer, and her change was large: from selling hours to selling a product.
 
@@ -38,7 +40,7 @@ Here is the audit. Take your hardest change and write one sentence for each stag
 | 7 | Improve | What did the gap between forecast and fact teach? | Below 1.2% buying for two weeks running: rewrite the headline |
 | 8 | Finish or maintain | Who safeguards the result? | 21 sales a month, then the book sells without her daily work |
 
-Now read your own column. One line will be empty or vague. The usual gaps are stage 3, where goals are still wishes, and stage 6, where nobody watches on a fixed day. Pick one first action to fill the gap. The whole audit takes fifteen minutes.
+Now read your own column. One line will be empty or vague. The usual gaps are stage 3, where [goals are still wishes](/blog/how-to-set-measurable-goals/), and stage 6, where nobody watches on a fixed day. Pick one first action to fill the gap. The whole audit takes fifteen minutes.
 
 Why does the empty line matter so much? Because the function is needed anyway. Leave stage 3 blank, and a bank, a rival or the market will write your goal. Leave stage 6 blank, and your debts do the watching. Leave stages 1 and 2 blank, and a crisis names the situation, at the worst possible hour.
 
@@ -58,9 +60,9 @@ How to avoid it: write the name of the situation with numbers in it. "A bad seas
 
 <strong>Half of big mergers destroy value. Fewer than one in five create any.</strong>
 
-A merger joins two sets of goals and two versions of the truth. Start the integration with one page, not one org chart.
+A merger joins two sets of goals and two versions of the truth. [Start the integration with one page](/blog/merger-integration/), not one org chart.
 
-First, write one goal list for the combined business, in refusal order. Ask: if things went badly, which goal would we give up first, and which last? Where there are employees, customers and partners, that order has to fit their rights and obligations too.
+First, write one goal list for the combined business, in [refusal order](/blog/set-priorities-refusal-order/). Ask: if things went badly, which goal would we give up first, and which last? Where there are employees, customers and partners, that order has to fit their rights and obligations too.
 
 Second, give every number one source. When the two halves count revenue two ways, the argument over the right figure eats more energy than the business.
 
@@ -72,13 +74,13 @@ How to avoid it: no integration step starts until both halves read the same goal
 
 <strong>Canada's government pay system cost sixteen times its budget.</strong>
 
-A budget row needs a red line written before the first invoice. Give the budget three zones. Green: within tolerance. Yellow: worse than normal, find the cause while it is cheap. Red: past the limit, everything else waits.
+[A budget row needs a red line](/blog/cost-overrun/) written before the first invoice. Give the budget [three zones](/blog/kpi-zones/). Green: within tolerance. Yellow: worse than normal, find the cause while it is cheap. Red: past the limit, everything else waits.
 
 Then put stage 6 on the calendar. Name who looks at the gap between budget and spend, and how often. Weekly for fast numbers, monthly for slow ones.
 
 When a number crosses into the red, follow the red protocol. Check for any direct threat to people, payments or the law. Freeze secondary work. Put time, money and attention on the red number.
 
-Respect the loop's own speed. Andrew's loop takes about 45 days: noticing, deciding, acting, and the guests responding. A checkpoint set earlier measures noise, not the lever.
+[Respect the loop's own speed](/blog/phase-lag-management/). Andrew's loop takes about 45 days: noticing, deciding, acting, and the guests responding. A checkpoint set earlier measures noise, not the lever.
 
 How to avoid it: set the zones in a calm hour, before the start. A line moved in the middle of a crisis bends the yardstick to fit the result.
 
@@ -96,7 +98,7 @@ And the human cost: an owner who cannot take a day off, because without him the 
 
 It is not. The same eight stages ran Elena's one-person business and Andrew's coffee shop with five numbers. A small business does not need a team per stage. It needs a name next to each one.
 
-The one-page version is enough to start: eight lines, one owner per line, one Monday meeting.
+The one-page version is enough to start: eight lines, one owner per line, one Monday meeting. Short videos on the method run on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ## Where the eight-stage audit stops
 
@@ -125,7 +127,7 @@ The eight stages are the frame of one loop: goal, state, error, levers, plan, fo
 
 You have two choices. Launch the change the usual way, with a slide and a hope, and learn in month six which stage nobody ran. Or write eight lines tonight and find the empty one.
 
-The audit gives every stage an owner. The corridor, the launch conditions and the forecast keep the change on course once it moves.
+The audit gives every stage an owner. The corridor, the launch conditions and the forecast keep the change on course once it moves. The book also comes as [a paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 Next Monday the meeting asks three questions: what changed, which zone, what now. Each one has an owner and an answer on the screen.
 

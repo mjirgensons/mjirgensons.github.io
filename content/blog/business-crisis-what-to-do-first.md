@@ -9,11 +9,15 @@ keywords: [how to handle a crisis in a small business, business crisis plan, cas
 answer: How to handle a crisis in a small business, in one line: check for danger to people, legal duties and mandatory payments first; then freeze everything secondary and put all time, money and attention on the one number that has crossed its red line. If several are red, start with the one nearest to irreversible damage.
 ---
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## Cash flow crisis or a bad month? What a crisis is, in numbers
 
 In everyday language a crisis is a feeling: everything is on fire, the phone will not stop, and you have not slept. In the Jirgenson Model it is something narrower and more useful.
 
 <div class="def"><strong>In the Jirgenson Model, a crisis (the red zone)</strong> is the state in which one of your goal parameters, cash reserve, margin, overdue receivables, a safety limit, is outside the permissible limit you set in advance, but irreversible loss has not yet happened. Beyond red lies catastrophe: the damage that cannot be undone.</div>
+
+The full model is open to read in [its GitHub repository](https://github.com/mjirgensons/jirgenson-model).
 
 That definition does two things. It tells you the crisis is about *a number*, not about the number of fires; and it tells you that you still have a move, because "irreversible" has not arrived yet. The whole point of the red protocol is to use that window.
 
@@ -26,17 +30,17 @@ The book sets the order once, in a calm moment, so that you do not have to inven
 3. **Concentrate on the red parameter and its levers.** Time, money and attention go to the one number outside its limit and to the levers that act on it directly. The goal is not to be fine again; the goal is to get back to at least the yellow zone.
 4. **If several numbers are red, order them.** First the one that threatens the nearest irreversible damage: by time, by scale, by probability, and by how fast the lever works. Only then by the rank of the goal. Check the dependencies between threats: paying one red can create another.
 
-The protocol has a companion rule for every new problem that lands on your desk during the crisis, the triage: which goal does it belong to, in which zone is that goal's parameter now, and is it more important than what you are doing at this moment? Three questions, and most interruptions fail the third.
+The protocol has a companion rule for every new problem that lands on your desk during the crisis, [the triage](/blog/business-triage/): which goal does it belong to, in which zone is that goal's parameter now, and is it more important than what you are doing at this moment? Three questions, and most interruptions fail the third.
 
 ## A business crisis plan template you write before the crisis
 
-A business crisis plan is not a binder you open when the building is on fire. In the Jirgenson Model it is three short things written in a calm week: your goals in the order you would give them up, a red line for each of them, and the four steps of the red protocol above. A cash flow crisis is the most common reason owners reach for it, because the reserve is usually the first number to cross its line. With the plan already on paper, the night the bank calls becomes a matter of following an order you chose with a clear head, not inventing one in a panic.
+[A business crisis plan](/blog/business-crisis-plan/) is not a binder you open when the building is on fire. In the Jirgenson Model it is three short things written in a calm week: your goals in the order you would give them up, a red line for each of them, and the four steps of the red protocol above. A cash flow crisis is the most common reason owners reach for it, because the reserve is usually the first number to cross its line. With the plan already on paper, the night the bank calls becomes a matter of following an order you chose with a clear head, not inventing one in a panic.
 
 ## An example with euros
 
 Andrew runs a coffee shop with a queue at the door every morning. Revenue holds at about €30,000 a month. His margin, once write-offs are counted, is 9%, so expenses are €27,300 and he keeps €2,700 a month. His reserve is half a month of expenses.
 
-In a calm moment he sets zones for the reserve: normal from two months of expenses upward, acceptable between one and two, red below one. By that measure he starts the book in the red, and he never knew it, because he had been reading the bank balance instead of the months.
+In a calm moment he [sets zones](/blog/kpi-zones/) for the reserve: normal from two months of expenses upward, acceptable between one and two, red below one. By that measure he starts the book in the red, and he never knew it, because he had been reading the bank balance instead of [the months](/blog/cash-reserve-months-of-expenses/).
 
 Now imagine the red protocol applied that night, step by step. The book does not prescribe these exact moves; this is an illustration of how the four steps sort a real list of worries:
 
@@ -53,7 +57,7 @@ In the book's running numbers, raising the margin step by step to 15% takes the 
 
 - **When the red line was never set.** If you do not know your permissible limit for the reserve, you cannot know whether you are in red or in panic. Set the limit now, with the reason (where damage becomes hard to reverse), mark it as provisional, and use it.
 - **When the data is missing or stale.** The model has a fourth zone, undefined, for exactly this. Measure first; never treat an unknown as green.
-- **When the environment itself is dying.** If the strongest force against you is the whole market and it exceeds your means, the protocol buys time but tactics cannot win. That is the third offset, the "Titanic test", and it calls for changing the environment or the goal, not the price list.
+- **When the environment itself is dying.** If the strongest force against you is the whole market and it exceeds your means, the protocol buys time but tactics cannot win. That is the third offset, the ["Titanic test"](/blog/when-to-give-up-on-a-business-idea/), and it calls for changing the environment or the goal, not the price list.
 
 The book promises nothing: forecasts can be wrong and the protocol does not replace knowing your trade. It replaces reacting in the order the fires arrived.
 
@@ -68,9 +72,9 @@ The book promises nothing: forecasts can be wrong and the protocol does not repl
 
 ## What the book adds that a crisis checklist cannot
 
-Crisis checklists are everywhere, and most of them fail at two in the morning for the same reason: they tell you what to do but not in which order, and they say nothing about the numbers that should have warned you a month earlier. What Chapter 4 does brilliantly is turn "crisis" from a mood into a measurement. Once the red line is written down in a calm week, the panic has nowhere to stand. You are not deciding whether this is a crisis; the number has already decided, and you are simply following an order you chose when your head was clear.
+Crisis checklists are everywhere, and most of them fail at two in the morning for the same reason: they tell you what to do but not in which order, and they say nothing about the numbers that should have warned you a month earlier. What Chapter 4 does brilliantly is turn "crisis" from a mood into a measurement. Once the red line is written down in a calm week, the panic has nowhere to stand. You are not deciding whether this is a crisis; the number has already decided, and you are simply following an order you chose when your head was clear. The chapter is in [the paperback edition](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
-The chapter's quiet trick is the triage question for every new problem that lands during the storm: which goal does it belong to, what zone is that goal in, and is it more important than what I am doing right now? Three questions, and most interruptions politely leave the room.
+The chapter's quiet trick is the triage question for every new problem that lands during the storm: which goal does it belong to, what zone is that goal in, and is it more important than what I am doing right now? Three questions, and most interruptions politely leave the room. The blind test of the method, with its data, is on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test).
 
 It also connects to everything around it. The red line only works if your goals have an order ([the refusal test](/blog/set-priorities-refusal-order/)), and the red number is usually the reserve that looked fine while the shop was full ([busy but not profitable](/blog/busy-but-not-profitable/)). The whole system is laid out in [the Jirgenson Model explained](/blog/jirgenson-model-management-method/).
 

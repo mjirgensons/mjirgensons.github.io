@@ -11,9 +11,9 @@ answer: "Good books like The Goal by Eliyahu Goldratt: Measure What Matters by J
 
 You closed *The Goal* and went looking for your bottleneck. On Monday morning you found three.
 
-A queue at the counter. A supplier who wants paying on Friday. A reserve that would not cover one bad month. Eliyahu Goldratt taught you that improving anything except the constraint is wasted effort. He did not tell you which of the three is the constraint.
+A queue at the counter. A supplier who wants paying on Friday. [A reserve](/blog/cash-reserve-months-of-expenses/) that would not cover one bad month. Eliyahu Goldratt taught you that improving anything except the constraint is wasted effort. He did not tell you which of the three is the constraint.
 
-That is the moment people search for books like *The Goal*. This list sorts them by the question Goldratt leaves open. Disclosure: the last book on it is mine, and its limits get the same plain treatment as the others.
+That is the moment people search for books like *The Goal*. This list sorts them by the question Goldratt leaves open. Disclosure: the last book on it is mine, and its limits get the same plain treatment as the others. My author page is [on Amazon](https://www.amazon.com/e/B0HPCVYHDJ).
 
 Which of three bottlenecks comes first? That's the gap Goldratt leaves open. The Jirgenson Model fills it with a control system: goals in order, zones that flag the red number, and levers. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -33,17 +33,19 @@ Each step raises a question that a different book answers well.
 
 ## Management books for entrepreneurs who liked The Goal
 
-**Measure What Matters.** John Doerr tells how Andy Grove built Objectives and Key Results at Intel, and how Doerr brought the method to Google. Read it if the bottleneck hunt left you unsure what the business is for. Its gift is focus: few goals, measurable results. Among okr book alternatives and originals, this is the source.
+**Measure What Matters.** John Doerr tells how Andy Grove built Objectives and Key Results at Intel, and how Doerr brought the method to Google. Read it if the bottleneck hunt left you unsure what the business is for. Its gift is focus: few goals, measurable results. Among [okr book alternatives](/blog/okr-alternative-small-business/) and originals, this is the source.
 
 **Traction.** Gino Wickman's Entrepreneurial Operating System rests on six components: vision, people, data, issues, process and traction. Read it if you found the constraint and then watched the team drift back to old habits. Its gift is the weekly rhythm.
 
-**The Balanced Scorecard.** Robert Kaplan and David Norton measure a business from four sides: finance, customers, internal processes, and learning and growth. Read it when the constraint moves and you cannot see where. Its gift is a wider view than the money column.
+**The Balanced Scorecard.** Robert Kaplan and David Norton [measure a business from four sides](/blog/balanced-scorecard-explained/): finance, customers, internal processes, and learning and growth. Read it when the constraint moves and you cannot see where. Its gift is a wider view than the money column.
 
 **Drucker on management by objectives.** Peter Drucker's idea is older than all of the above: goals are agreed, and someone is personally responsible for each. Read it if fixes keep dying because nobody owns them.
 
 **Steer, Don't Guess.** It does not replace any of these. It adds a rule for the day two goals pull in opposite directions. It is built for small business owners, freelancers and families, with every example number worked out. Of these business books for small business owners, it is the one that ranks your goals before it hunts the bottleneck.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the Theory of Constraints keeps its job: it finds the bottleneck. But the bottleneck appears as the cause of a red number, so you look for it only after you know which number is red.</div>
+
+The model behind that rule is public on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## A ten-minute test: which constraint is yours?
 
@@ -61,7 +63,7 @@ Andrew's reserve: 0.5 months of expenses against a goal of 2.0. Margin: 9% again
 
 **4. Ask what limits that number.** This is your constraint. Now Goldratt's five steps apply.
 
-For Andrew, the reserve was red. What limited it was the margin: waste and loss-making menu items ate the profit that should have refilled the reserve.
+For Andrew, the reserve was red. What limited it was the margin: waste and loss-making menu items ate the profit that should have refilled the reserve. How to find that leak is in [waste in small business](/blog/waste-in-small-business/).
 
 The contrast is sharp. Read with *The Goal* alone, the queue at the counter looks like the bottleneck. The obvious fix is a second barista. But a barista costs money, and the money would come from a reserve already under a month.
 
@@ -83,18 +85,18 @@ The enemy here is not any method. It is the habit of solving problems in the ord
 
 ## Where this reading list stops
 
-A good list solves the problem you came with: what to read after *The Goal*. Take any book from it and you will learn something usable.
+A good list solves the problem you came with: what to read after *The Goal*. Take any book from it and you will learn something usable. For a wider shelf, see [systems thinking books](/blog/systems-thinking-books/).
 
 But the list treats the symptom. The cause is that each method supplies one part, and none of them says which part wins when two collide. OKR gives you goals. The scorecard gives you sides. Goldratt gives you the bottleneck. On the morning when the goal, the side and the bottleneck point three ways, you are back to guessing.
 
 Two steps fix that. They are not in this post.
 
-- **The refusal order.** A test that fixes the order of your goals in a calm moment. A crisis can no longer reorder them. Chapter 1.
-- **Zones and the red protocol.** Where normal ends and the emergency begins for each number. What you do first when several turn red at once. Chapter 4.
+- **The refusal order.** [A test that fixes the order of your goals](/blog/set-priorities-refusal-order/) in a calm moment. A crisis can no longer reorder them. Chapter 1.
+- **Zones and the red protocol.** [Where normal ends and the emergency begins](/blog/kpi-zones/) for each number. What you do first when several turn red at once. Chapter 4.
 
 Together with levers, a plan and a forecast, they close one loop: goal, state, gap, levers, plan, forecast. Each method on this list then gets its place inside it.
 
-"Another framework?" is the fair objection. It is not one more method beside the others. It is the order that tells you which of them to use this week.
+"Another framework?" is the fair objection. It is not one more method beside the others. It is the order that tells you which of them to use this week. Short videos on the method run on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

@@ -65,7 +65,7 @@ The lever: prices up 2.4%. That sits inside his own rule of no more than 5% in o
 
 Elena, a freelance designer launching her first online book, wrote the creator version. The season: in holiday weeks, clients order less. The platforms where she promotes the book may change their rules without warning. Other authors bring out similar books and respond to her price. And she doesn't know enough about selling online.
 
-For each one she wrote a direction, a strength and a lever. Do the same for your channel tonight.
+For each one she wrote a direction, a strength and a lever. Do the same for your channel tonight. Short videos on this method are on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 A fuller version for a business, with more worked numbers in euros, is in [external factors in business](/blog/external-factors-business/).
 
@@ -81,9 +81,9 @@ Run the coffee shop's test at a bigger size. Had the supplier raised prices by 3
 
 When that happens, rowing harder won't help. You are rowing a heavy raft against the current, and the current carries you downstream all the same.
 
-So write the goal behind the views. Elena's goal was never views. It was an income of €3,000 a month, with no single client above 30%. Views were one path to it. Her sales page and her mailing list were paths she owned.
+So write the goal behind the views. Elena's goal was never views. It was an income of €3,000 a month, with [no single client above 30%](/blog/client-concentration-freelancer/). Views were one path to it. Her sales page and her mailing list were paths she owned.
 
-Ask the same of your channel. Is the goal views, or what views should bring? If it's the second, there may be a river where the current runs your way.
+Ask the same of your channel. Is the goal views, or what views should bring? If it's the second, there may be a river where the current runs your way. How to steer a channel by forecast is in [YouTube growth](/blog/youtube-growth/).
 
 How to avoid the raft: check the strongest factor against your strongest lever before you set the goal, not after a year.
 
@@ -91,7 +91,7 @@ How to avoid the raft: check the strongest factor against your strongest lever b
 
 <strong>Nearly nine out of ten Twitch streamers broadcast to an audience that would fit on one sofa.</strong>
 
-Stop measuring the room. Measure what you can change with your own hands tomorrow.
+Stop measuring the room. Measure [what you can change with your own hands](/blog/attention-economy/) tomorrow.
 
 Elena's first list of levers read "more social media, increase sales, be more visible". Every item sounded businesslike. Not one could be done tomorrow.
 
@@ -119,7 +119,7 @@ It is. The list still works.
 
 The same five columns serve a coffee shop, a freelancer's book and a boy saving for a bicycle. Alex knows the neighbours leave in July, so fewer odd jobs come his way. He allows for it in advance and keeps a spare lever: selling his scooter.
 
-The factor list is one piece of a loop: goal, state, factors, error, levers, plan, forecast. Each piece has its own tool, and none of them needs software.
+The factor list is [one piece of a loop](/blog/control-theory-for-business/): goal, state, factors, error, levers, plan, forecast. Each piece has its own tool, and none of them needs software. The whole loop is public in [the Jirgenson Model on GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Where the factor list does not reach
 
@@ -129,8 +129,8 @@ The cause runs deeper. The list shows factors you can already see. It doesn't ca
 
 Two steps close that gap.
 
-- **Recognizing a factor before it strikes.** Four ways to see the gust before it hits the sail. Chapter 8.
-- **The Titanic test.** Four questions that tell a hard season from a doomed environment. Chapter 11.
+- **Recognizing a factor before it strikes.** [Four ways to see the gust](/blog/predictability-in-business/) before it hits the sail. Chapter 8.
+- **The Titanic test.** [Four questions](/blog/when-to-give-up-on-a-business-idea/) that tell a hard season from a doomed environment. Chapter 11.
 
 Without them, you read the wind after it has moved you.
 
@@ -154,6 +154,8 @@ You need one page and fifteen honest minutes. Next Friday, a quiet count will be
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with a worked example in every chapter.
 
+Shorter clips on the same ideas are on [TikTok](https://www.tiktok.com/@steerdontguess).
+
 ## FAQ
 
 ### What is the creator economy?
@@ -166,7 +168,7 @@ Check the factors before you blame the video. List what acted on the path that w
 
 ### How do small YouTubers grow when big channels take the views?
 
-Write the goal behind the views first. Then list your levers: actions you can take with your own hands tomorrow. The book's chapter on factors shows how to weigh a strong factor against your levers, with worked numbers.
+Write the goal behind the views first. Then list your levers: actions you can take with your own hands tomorrow. [The book's](https://www.amazon.com/dp/B0HPCJCWKF) chapter on factors shows how to weigh a strong factor against your levers, with worked numbers.
 
 ## Published research
 

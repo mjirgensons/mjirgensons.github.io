@@ -29,9 +29,9 @@ And here is the part most risk lists miss: your own shortages count too. A lack 
 
 A yacht must sail due north. A crosswind pushes it ten degrees east. If the helmsman holds a heading of zero, the yacht arrives off to one side, and the longer it sails, the further it strays.
 
-An experienced helmsman does not curse the wind or row harder. He notices the drift and steers 350 degrees. The wind pushes ten degrees east, the correction cancels it, and the yacht goes north. He chose the right lever, the rudder, and applied it against the factor.
+An experienced helmsman does not curse the wind or row harder. He notices the drift and steers 350 degrees. The wind pushes ten degrees east, the correction cancels it, and the yacht goes north. He chose [the right lever](/blog/levers-of-control/), the rudder, and applied it against the factor.
 
-That is the whole method in one picture: notice the factor, measure it, set your course against it in advance.
+That is [the whole method](https://github.com/mjirgensons/jirgenson-model) in one picture: notice the factor, measure it, set your course against it in advance. A four-bin version of the same sort is in [factors affecting small business](/blog/factors-affecting-small-business/).
 
 ## A business risks list with a lever for each
 
@@ -47,7 +47,7 @@ Here is a coffee shop owner's list of factors, each with its effect and his resp
 
 He noticed that almost everything on the list had already turned up in his life under other names: "unexpected expenses", "a bad season", "the market". Now they had one name and one place on the sheet. That alone changes how you react to them.
 
-And a freelancer's version, for comparison. Elena's factors for her first online book: holiday weeks when clients order less; platforms that may change their rules without warning; other authors who bring out similar books and respond to her price; and her own limited knowledge of selling online. For each she writes down the direction, the strength and the lever.
+And a freelancer's version, for comparison. Elena's factors for [her first online book](/blog/book-launch-plan/): holiday weeks when clients order less; platforms that may change their rules without warning; other authors who bring out similar books and respond to her price; and her own limited knowledge of selling online. For each she writes down the direction, the strength and the lever.
 
 ## Business headwinds in euros: can you compensate?
 
@@ -55,13 +55,13 @@ The useful question about any headwind is not "how bad is it?" but "can my lever
 
 To recover the lost profit through price, without losing customers, needs a 2.4% price rise (€30,000 × 0.024 = €720). Andrew's plan allows price rises of up to 5% in one step. So this factor can be compensated. Had the supplier raised prices by 30%, it could not, at least not by price alone.
 
-That is the test to run on every serious factor: convert it into the units of your goal, then compare it with what your levers can deliver.
+That is the test to run on every serious factor: [convert it into the units of your goal](/blog/risk-register/), then compare it with what your levers can deliver.
 
 ## Factors act together, and some carry you
 
 Draw a circle around yourself. Your goal points one way. Each factor is an arrow: one pulls with you, another against you, a third sideways. Add them up and you get the arrow that shows where you are really being carried. (It is an image, not a calculation: rain changes how well advertising works, a lack of money blocks other levers. But it is a good first look.)
 
-Do not forget the arrows pointing your way. The university building is a tailwind, and whoever sees it early prepares early. A risks list that contains only threats is half a list.
+Do not forget the arrows pointing your way. The university building is a tailwind, and [whoever sees it early](/blog/predictability-in-business/) prepares early. A risks list that contains only threats is half a list.
 
 Some factors can be weakened or used by choosing the right lever: the rudder instead of the oar, extra hours of study, a partner. Others cannot be changed at all (the weather, the season, general price rises). Those you simply take into account, for instance by adjusting planned expenses for the heating season and for inflation rather than leaving them flat.
 
@@ -71,7 +71,7 @@ Sometimes one factor is stronger than everything you can bring to bear: a whole 
 
 ## Where this does not reach
 
-A factor list is a first approximation. Factors interact and have thresholds, so adding arrows can mislead when one factor changes how another works. Not every factor can be measured in euros, and some cannot be foreseen at all; those are what a reserve is for. And recognising factors is a skill in itself: who sees it coming, which early indicators to watch, and whether a second person sees the same thing.
+A factor list is a first approximation. Factors interact and have thresholds, so adding arrows can mislead when one factor changes how another works. Not every factor can be measured in euros, and some cannot be foreseen at all; those are what [a reserve](/blog/cash-reserve-months-of-expenses/) is for. And recognising factors is a skill in itself: who sees it coming, which early indicators to watch, and whether a second person sees the same thing.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -87,6 +87,8 @@ A factor list is a first approximation. Factors interact and have thresholds, so
 The exercise takes about fifteen minutes: choose one goal, write five factors acting on it (including your own shortages), mark each as along, against or sideways, and as weak, medium or strong. Then find one that carries you and one that pushes you off course, and write a lever for each. The next time revenue dips, you will know whether to change the plan or simply check the weather.
 
 The goals your factor list hangs on are in Chapter 1, free in [the free sample](/blog/free-sample/). The full method, from factors to errors, levers and forecasts, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+It also comes as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). Short videos on reading the wind are on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

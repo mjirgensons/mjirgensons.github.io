@@ -9,6 +9,8 @@ keywords: [busy but not profitable, why is my business not making money, coffee 
 answer: Busy but not profitable means you are counting activity instead of the state. Replace "many, few, normal" with measured values from one source per number, count the costs that never become a payment (write-offs, your own hours, free extras), and express your reserve in months of expenses. Most owners find the margin is lower than it felt.
 ---
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## The queue is not a number
 
 Andrew's coffee shop on the corner has been open for two years. Customers keep coming, and every morning there is a queue at the door. Yet by the end of each month the money has somehow vanished, and he cannot remember when he last ate lunch at home. He is not lazy and not incompetent. He does not know what exactly is wrong.
@@ -21,11 +23,11 @@ That is the opening of *Steer, Don't Guess*, and it describes a state most owner
 
 When Andrew finally counts, three things are missing from his picture.
 
-**Write-offs.** Milk that had gone sour, pastries written off at the end of the shift. None of it ever showed up in a report, because it was never counted anywhere. Andrew had been sure his margin was holding at around twenty per cent. Counted honestly, it was 9%.
+**Write-offs.** Milk that had gone sour, pastries written off at the end of the shift. None of it ever showed up in a report, because it was [never counted anywhere](/blog/how-to-track-write-offs/). Andrew had been sure his margin was holding at around twenty per cent. Counted honestly, it was 9%.
 
 **His own hours.** Sixty-five a week. At zero cost in the accounts, at full cost in his life. The model puts the owner's time, health and money into the goal list on purpose, so that it cannot disappear.
 
-**The reserve, in the wrong unit.** He knows the bank balance. He does not know how many months of expenses it covers, which is the only unit that tells him how long he has. In the book's running numbers: revenue of €30,000 a month, a margin of 9%, expenses of €27,300, a reserve of half a month. Half a month is the red zone by any sensible threshold.
+**The reserve, in the wrong unit.** He knows the bank balance. He does not know [how many months of expenses it covers](/blog/cash-reserve-months-of-expenses/), which is the only unit that tells him how long he has. In the book's running numbers: revenue of €30,000 a month, a margin of 9%, expenses of €27,300, a reserve of half a month. Half a month is [the red zone by any sensible threshold](/blog/kpi-zones/).
 
 | | What Andrew felt | What the numbers show |
 |---|---|---|
@@ -40,7 +42,7 @@ Nothing here required an accountant. It required one honest count from one sourc
 
 If you are asking why your business is not making money while the room is full, the first suspect is almost always the margin you think you have. Andrew's coffee shop is the book's worked example, and its coffee shop profit margin tells the whole story in two numbers: around twenty per cent in his head, nine per cent in reality. The gap was not fraud or bad luck. It was waste that never reached a report.
 
-The fix is not glamorous. For two weeks, write down everything that goes in the bin and everything given away. Add it to the cost of goods. Recalculate the margin from one source, the accounting system the till exports to. Then set a target with a deadline: in the book, Andrew aims for 15% by the sixth month and tracks it every week. Once the margin is honest, the reserve can be measured in months, and you finally know how long you have.
+The fix is not glamorous. For two weeks, write down everything that goes in the bin and everything given away. Add it to the cost of goods. [Recalculate the margin](/blog/how-to-calculate-profit-margin/) from one source, the accounting system the till exports to. Then set a target with a deadline: in the book, Andrew aims for 15% by the sixth month and tracks it every week. Once the margin is honest, the reserve can be measured in months, and you finally know how long you have.
 
 ## Three rules for reading your state
 
@@ -54,7 +56,7 @@ And one zone the book insists on: **undefined**. When data is missing, stale or 
 
 With the margin at 9% and the reserve at half a month, Andrew's plan is not "work harder". It is two levers he can move with his own hands: prices, and the write-offs themselves. In the book's model, raising the margin step by step to 15% takes the reserve to two months of expenses by month 10. With nothing changed, the same reserve is reached in month 16. Six months of difference, made of numbers he could not see while he was busy.
 
-The five numbers an owner can check weekly, in the spirit of the book: cash reserve in months of expenses; operating margin, write-offs included; overdue receivables, the amount and the oldest date; one leading indicator for revenue (bookings, orders in the pipeline, foot traffic); and the owner's own hours. Each with a source and a red line.
+The five numbers an owner can check weekly, in the spirit of the book: cash reserve in months of expenses; operating margin, write-offs included; overdue receivables, the amount and the oldest date; [one leading indicator for revenue](/blog/what-is-a-leading-indicator/) (bookings, orders in the pipeline, foot traffic); and the owner's own hours. Each with a source and a red line.
 
 The book states its limits: this is an illustration, not a financial model of a business. A real calculation includes cash flow after taxes and debt payments, a payment schedule, provisions and seasonality.
 
@@ -76,6 +78,8 @@ What the chapter does brilliantly is show how little it takes. Andrew does not h
 From there the book shows what to do with an honest picture: which [levers to pull first in the red zone](/blog/business-crisis-what-to-do-first/), how to decide [which goal gives way first](/blog/set-priorities-refusal-order/), and how it all fits into [the Jirgenson Model](/blog/jirgenson-model-management-method/).
 
 Andrew's story starts in the Prologue of [the free sample](/blog/free-sample/). His running numbers, month by month, are in the book on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). Short videos on the method are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

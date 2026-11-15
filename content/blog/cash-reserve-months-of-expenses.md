@@ -21,7 +21,7 @@ Your balance hides the thing you need most: how much time it buys. The Jirgenson
 
 ## A balance is money; a reserve is time
 
-Every business has a stability margin: how hard a shock it can take without crossing a permissible line. A repair, a late client, a fine, a quiet month. With two months of expenses in reserve, a repair is an annoyance. With two weeks, the same repair can decide who gets paid on Friday.
+[Every business has a stability margin](/blog/control-theory-for-business/): how hard a shock it can take without crossing a permissible line. A repair, a late client, a fine, a quiet month. With two months of expenses in reserve, a repair is an annoyance. With two weeks, the same repair can decide who gets paid on Friday.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the cash reserve is measured in months of operating expenses, not in currency. That unit answers the only question that matters in a shock: how long do I have? It sits in the goal list on purpose, because it is the business's stability margin.</div>
 
@@ -50,7 +50,7 @@ One more number makes the whole picture move. Each month the reserve grows by th
 
 This is where a full room and an empty till meet. If you are busy but not profitable, the reserve is the row that tells you so in plain time.
 
-Andrew believed his coffee shop profit margin held at about twenty per cent. Counted with the waste included, it was 9%. Sour milk and pastries thrown out at closing had never reached a report. That gap is the whole story of how a café with a queue can keep only half a month of expenses in the bank.
+Andrew believed his coffee shop profit margin held at about twenty per cent. [Counted with the waste included](/blog/how-to-track-write-offs/), it was 9%. Sour milk and pastries thrown out at closing had never reached a report. That gap is the whole story of how a café with a queue can keep only half a month of expenses in the bank.
 
 So if you keep asking why is my business not making money while the tables are full, start with this row. A thin margin fills the reserve slowly. A thick one fills it fast. The calculation in step 3 shows which one you have.
 
@@ -64,7 +64,7 @@ The reserve said no. Cards cost money: printing, discounts, setting up the till.
 
 Sara asked him what would happen if the customers left. His answer is worth keeping. Regulars drift away slowly. A red reserve can end everything quickly.
 
-He put the cards aside and felt no guilt. The order of the numbers made the decision, not his fatigue.
+He put the cards aside and felt no guilt. [The order of the numbers made the decision](/blog/set-priorities-refusal-order/), not his fatigue.
 
 That same week, before he counted, he had planned to hire a second barista and launch an advertising campaign. Both plans rested on a margin of twenty per cent that did not exist.
 
@@ -80,7 +80,7 @@ Here is the price of not acting, in months.
 
 Six months of difference, in the same café, with the same customers. And for the first stretch of either line, one bad repair can still turn a Friday payroll into a call to the bank.
 
-That is the human cost of a small number: an owner who cannot take a day off because a broken machine is a crisis.
+That is the human cost of a small number: [an owner who cannot take a day off](/blog/business-owner-burnout/) because a broken machine is a crisis.
 
 ## "My numbers are not precise enough"
 
@@ -94,12 +94,12 @@ Count the reserve roughly tonight. A rough number today beats a perfect system i
 
 Be clear about what the calculation gives you. It treats the symptom: you no longer confuse a balance with safety. You know how long you have.
 
-The cause of the danger is still in place. When the reserve turns red, you have no fixed order of action, so the loudest problem still wins your morning. And you see today's reserve, not the month in which it crosses your line.
+The cause of the danger is still in place. When the reserve turns red, [you have no fixed order of action](/blog/business-crisis-what-to-do-first/), so the loudest problem still wins your morning. And you see today's reserve, not the month in which it crosses your line.
 
 Two steps close that gap.
 
 - **The red protocol.** What to freeze, what to protect, and which red number goes first when several turn red at once. Chapter 4.
-- **Two forecasts.** "If nothing changes" against "if the plan works", with the month each one crosses your lines. Chapter 8.
+- **Two forecasts.** "If nothing changes" against "if the plan works", [with the month each one crosses your lines](/blog/forecast-cash-flow/). Chapter 8.
 
 Without them, the reserve tells you how long you have. It does not yet tell you what to do on the day it turns red.
 
@@ -120,6 +120,8 @@ You have two choices this week. Keep reading the balance in the app and hope the
 The number tells you how long you have. The red protocol and the two forecasts tell you what to do with that time.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book, with every calculation from this page worked through.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). More about the author is on his [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ).
 
 ## FAQ
 

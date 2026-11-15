@@ -39,7 +39,7 @@ Numbers let you down in three ways.
 2. **Rounding.** "About twenty" is easier to say than "nine and a half". So that's the figure that survives.
 3. **What nobody writes down.** A cost that never enters a record doesn't exist for the report. It still exists for the money.
 
-Andrew met all three in one evening. He was sure his margin held at around twenty per cent. The accounts said 9%. The gap was waste: sour milk and pastries thrown out at the end of each shift. He had never counted them in his cost of goods.
+Andrew met all three in one evening. He was sure his margin held at around twenty per cent. The accounts said 9%. The gap was waste: sour milk and pastries thrown out at the end of each shift. [He had never counted them](/blog/how-to-track-write-offs/) in his cost of goods.
 
 That same week he'd planned to hire a second barista and launch an advertising campaign. Both rested on a margin that didn't exist. Within a few months the money would have run out, and nobody would have known why.
 
@@ -75,7 +75,7 @@ Andrew's "twenty" failed the second question. Nobody had counted the write-offs.
 
 ### 4. Convert cash into months
 
-A balance in euros tells you little on its own. Divide it by one month of expenses.
+A balance in euros tells you little on its own. [Divide it by one month of expenses.](/blog/cash-reserve-months-of-expenses/)
 
 Andrew's revenue is €30,000 and his margin 9%, so his expenses run at €27,300 a month. The account held €13,650. That's 13,650 / 27,300 = 0.5 months.
 
@@ -114,7 +114,7 @@ Once the reading is true, you can draw where it goes. One line if nothing change
 
 "Get paid faster" sounds like an action. It isn't. The payment period is a result, and you can't order a result to shrink.
 
-What you can move are the levers behind it: payment terms, prepayment and reminders. Write those three next to the payment row. Then the Monday talk about late payments stops being ten minutes about the weather.
+What you can move are [the levers behind it](/blog/levers-of-control/): payment terms, prepayment and reminders. Write those three next to the payment row. Then the Monday talk about late payments stops being ten minutes about the weather.
 
 The same split works for every cash row. Margin is a result; prices, menu, purchasing and portion size are its levers. The reserve is a result too; the margin feeds it.
 
@@ -124,7 +124,7 @@ So here are the only cash flow tips that survive a bad week. Measure first. Name
 
 Leave the reading blank, and the numbers keep moving without you.
 
-At Andrew's real 9% margin, the reserve grows by about 0.10 months each month. If nothing changes, it stays under one month, the red line, until month six. It reaches the goal of two months at month 16.
+At Andrew's real 9% margin, the reserve grows by about 0.10 months each month. If nothing changes, it stays under one month, [the red line, until month six](/blog/kpi-zones/). It reaches the goal of two months at month 16.
 
 With a plan that works, the reserve clears the red line at month four. It reaches two months at month 10.
 
@@ -148,7 +148,7 @@ Andrew's first impulse at the 9 was to close the spreadsheet and go and make cof
 
 Be clear about what you built. The reading tells you where you stand. It treats the symptom: you stop steering by feel.
 
-The cause of the surprise is still in place. You can see 0.5 months, but you don't know where normal ends and an emergency begins. When the reserve and the margin both slip in one week, you don't know which to save first. And the reading shows today. It doesn't show month six.
+The cause of the surprise is still in place. You can see 0.5 months, but you don't know where normal ends and an emergency begins. When the reserve and the margin both slip in one week, [you don't know which to save first](/blog/set-priorities-refusal-order/). And the reading shows today. It doesn't show month six.
 
 Two steps close that gap:
 
@@ -157,7 +157,7 @@ Two steps close that gap:
 
 Without them, you know where you are. You don't yet know what to do on the worst Monday.
 
-The reading is one stage of a closed loop: goal, state, gap, levers, plan, forecast. Each stage needs its own tool.
+The reading is [one stage of a closed loop](/blog/control-theory-for-business/): goal, state, gap, levers, plan, forecast. Each stage needs its own tool.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -176,6 +176,8 @@ You have two choices. Keep checking the bank app, trusting the good feeling and 
 The reading shows where you are. The zones, the red protocol and the forecasts tell you what to do when that reading slips.
 
 Start free with [Chapter 1 and its refusal test](/blog/free-sample/). Or get the complete control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It's a Kindle book, and each chapter ends with a task you run on your own numbers.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). Short videos on the method are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

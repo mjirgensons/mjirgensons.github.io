@@ -21,7 +21,7 @@ Burnout starts with the one number nobody checks: your own hours. The Jirgenson 
 
 ## Business owner burnout starts with a missing row
 
-Your own time is a goal like cash. Put it on the panel with the same six fields: parameter, definition and source, target and deadline, current value, permissible deviation, owner and check rhythm.
+Your own time is [a goal like cash](/blog/goal-setting-for-entrepreneurs/). Put it on the panel with the same six fields: parameter, definition and source, target and deadline, current value, permissible deviation, owner and check rhythm.
 
 Andrew, who runs a coffee shop called "The Corner", wrote his row like this.
 
@@ -34,9 +34,9 @@ Andrew, who runs a coffee shop called "The Corner", wrote his row like this.
 | Zones | Green up to 42; yellow over 42, up to 70; red over 70 |
 | Error | +25 hours: yellow |
 
-Then he ran the refusal test. If things got bad, which goal would he give up first? He put his own hours last and surprised himself. He had known for ages he was tired. He had never said out loud that he would trade rest for the business. Now it was on paper, as a choice, not a drift.
+Then he ran [the refusal test](/blog/set-priorities-refusal-order/). If things got bad, which goal would he give up first? He put his own hours last and surprised himself. He had known for ages he was tired. He had never said out loud that he would trade rest for the business. Now it was on paper, as a choice, not a drift.
 
-Do the same tonight. Write the row. Colour it. Look at it every Monday, next to the cash.
+Do the same tonight. Write the row. [Colour it](/blog/traffic-light-dashboard/). Look at it every Monday, next to the cash.
 
 How to avoid the slide: a red line for your hours, written while your head is clear. Above it, nothing new gets added to your week.
 
@@ -46,9 +46,11 @@ How to avoid the slide: a red line for your hours, written while your head is cl
 
 <div class="def"><strong>In the Jirgenson Model,</strong> predictability is how well the person at the wheel can foresee what the business will do next. It belongs to the pair, the business plus that person, never to either alone. You can control as much as you can foresee.</div>
 
+The rules of the model are public in [the Jirgenson Model repository on GitHub](https://github.com/mjirgensons/jirgenson-model).
+
 The same Friday can be chaos for one person and rhythm for another. On a Friday evening at "The Corner" the queue grew, orders got mixed up and the clean cups ran out. The new trainee froze. Sara, the senior barista, stepped in, and twenty minutes later the queue was gone. She did not work faster. She knew what came next.
 
-So stop carrying every area alone. Use this four-step handover. The first area fits on one sheet of paper.
+So [stop carrying every area alone](/blog/delegating-to-the-right-person/). Use this four-step handover. The first area fits on one sheet of paper.
 
 **1. List the areas where you are the only one at the wheel.**
 Andrew: nearly all of them. If he took a day off, the spreadsheet sat untouched and the plan hung on the wall.
@@ -81,9 +83,9 @@ How to avoid it: one sentence to one person each Monday. The fact, and the actio
 
 The thought arrives at night. Do not decide at night.
 
-Use one rule. An error is a reason to change the plan. The goal changes when conditions or priorities have changed. A bad month is an error. It calls for a new plan, not a new life.
+Use one rule. An error is a reason to [change the plan](/blog/when-to-pivot-small-business/). The goal changes when conditions or priorities have changed. A bad month is an error. It calls for a new plan, not a new life.
 
-Before you change any goal, run the refusal test again in a calm hour. What would you defend to the end? If the answer is still the business, change the plan. If the answer has moved, the priorities changed, and the goal may change too. Either way, it is now your choice, not your fatigue's.
+Before you change any goal, run the refusal test again in a calm hour. What would you defend to the end? If the answer is still the business, change the plan. If the answer has moved, the priorities changed, and the goal may change too. Either way, it is now your choice, not your fatigue's. Founders of young companies will find the same goal list in [startup burnout](/blog/startup-burnout/).
 
 How to avoid it: decide your order while calm. Then, on the worst night, the decision is already made, by you.
 
@@ -93,7 +95,7 @@ How to avoid it: decide your order while calm. Then, on the worst night, the dec
 
 Some things are not goals you give up in turn. The law, safety, and the maximum load a person can bear are constraints. They decide which actions are allowed at all. Write your limit as a constraint: "I do not work past my red line."
 
-There is a hard reason for it. Fatigue corrupts a forecast like a faulty instrument. In his first months Andrew worked sixty-five hours a week and decided late at night. Those were the hours of his worst mistakes. He mixed up figures, put off calling the supplier and gave wrong deadlines. The owner's time sits on the goal list to protect the quality of decisions, not only for rest.
+There is a hard reason for it. Fatigue [corrupts a forecast](/blog/predictability-in-business/) like a faulty instrument. In his first months Andrew worked sixty-five hours a week and decided late at night. Those were the hours of his worst mistakes. He mixed up figures, put off calling the supplier and gave wrong deadlines. The owner's time sits on the goal list to protect the quality of decisions, not only for rest.
 
 This is a management tool, not treatment. If the dark weeks keep coming, talk to a doctor. That call goes in the constraint row too.
 
@@ -109,7 +111,7 @@ Six more months of the kitchen table at eleven at night. That is the human cost,
 
 That is the point. The hours row takes a minute: a number, a unit and a deadline. The first map takes one sheet of paper. Both protect the late hours when the worst mistakes happen.
 
-You need one row, one map and one Monday sentence. Andrew's whole goal list took him fifteen minutes.
+You need one row, one map and one Monday sentence. Andrew's whole goal list took him fifteen minutes. Short videos on the method run on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ## Where the hours row and the map stop
 
@@ -140,7 +142,7 @@ You have two choices. Close this tab, answer three more emails, and let fatigue 
 
 Next Monday you look at two colours: the cash and your hours. And one area runs without you.
 
-The row and the map get you breathing room. The thresholds, the red protocol and the two forecasts keep it when the next bad month arrives.
+The row and the map get you breathing room. The thresholds, the red protocol and the two forecasts keep it when the next bad month arrives. The book also comes as [a paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: the whole loop, from the goal list to the forecast.
 

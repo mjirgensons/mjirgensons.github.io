@@ -33,11 +33,11 @@ Elena is a freelance designer. Her income swung between €800 and €2,200 a mo
 
 Here is the tool she built, step by step, with her entries.
 
-**1. Choose up to five parameters.** One row per goal, named with a number. Elena chose three: average income over three months, the share of her largest client, and hours per week.
+**1. Choose up to five parameters.** One row per goal, [named with a number](/blog/how-to-set-measurable-goals/). Elena chose three: average income over three months, the share of her largest client, and hours per week.
 
 **2. Give every row one source of truth.** One place the number comes from, and only one. Elena took income and the client share from her bank statements, and hours from her time records. If revenue reads one way in the accounts and another at the till, the argument over which is right eats more energy than the business.
 
-**3. Fill in "now" from the source, not from memory.** Elena: €1,300 a month. Her best client brings in €910 of it, which is 70%. She works 50 hours a week.
+**3. Fill in "now" from the source, not from memory.** Elena: €1,300 a month. [Her best client](/blog/client-concentration-freelancer/) brings in €910 of it, which is 70%. She works 50 hours a week.
 
 **4. Write the goal and the error.** The error is the gap between now and the goal. Elena's goals: at least €3,000 a month by M14, no client above 30%, no more than 35 hours a week. M0 is today; M14 is fourteen months from now.
 
@@ -47,9 +47,9 @@ Here is the tool she built, step by step, with her entries.
 | Largest client, % of income | no more than 30 | 70 | 40 points over |
 | Hours a week | no more than 35 | 50 | 15 over |
 
-**5. Draw the zones before you need them.** Three bands per row: normal, acceptable, emergency. Elena drew hers for the client share: normal up to 33%, acceptable above 33 and up to 50%, emergency above 50%. At 70%, that row is red. If your worries need an order first, [sort each one into a zone](/blog/small-business-owner-stress/).
+**5. Draw the zones before you need them.** [Three bands per row](/blog/kpi-zones/): normal, acceptable, emergency. Elena drew hers for the client share: normal up to 33%, acceptable above 33 and up to 50%, emergency above 50%. At 70%, that row is red. If your worries need an order first, [sort each one into a zone](/blog/small-business-owner-stress/).
 
-**6. Set the rhythm.** Decide when you look, and stop looking in between. Use a calendar of short meetings: weekly, monthly, quarterly. Elena checks her book's figures every Monday.
+**6. Set the rhythm.** Decide when you look, and stop looking in between. Use [a calendar of short meetings](/blog/meeting-cadence/): weekly, monthly, quarterly. Elena checks her book's figures every Monday.
 
 Elena's full panel has six rows. The other three track her first online book: page visitors, the share who buy, and newsletter subscribers. Her funnel reads 1,400 visitors a month, times 1.5%, times €29: about €609.
 
@@ -79,11 +79,11 @@ How to avoid the quitting night: never make the big decision in the hour you fee
 
 Those numbers might have been lower too. Part of the lost sleep comes from checking everything, all the time, because nothing says when to check. A control system says when.
 
-Match how often you look to how fast a number can move. Take the cash reserve in Andrew's coffee shop. Its yellow band is one month of expenses wide, from 1.0 to 2.0. In a bad month the reserve moves about 0.2 months. One look a month is enough.
+[Match how often you look](/blog/how-often-to-review-kpis/) to how fast a number can move. Take the cash reserve in Andrew's coffee shop. Its yellow band is one month of expenses wide, from 1.0 to 2.0. In a bad month the reserve moves about 0.2 months. One look a month is enough.
 
 Complaints move faster, so Andrew counts them weekly. In a cash crisis, the account balance gets a daily look.
 
-Now put your own hours on the panel. Elena's row said 50 hours a week against a goal of 35. While she wrote her book, from M1 to M3, she allowed herself up to 55 hours. That was a decision made in advance, with an end date. By M14 her week was back to 35 hours.
+Now put [your own hours on the panel](/blog/business-owner-burnout/). Elena's row said 50 hours a week against a goal of 35. While she wrote her book, from M1 to M3, she allowed herself up to 55 hours. That was a decision made in advance, with an end date. By M14 her week was back to 35 hours.
 
 Overload with an end date is a plan. Overload without one is a slide.
 
@@ -95,7 +95,7 @@ How to avoid the slide toward burnout: give your hours a limit, a source and the
 
 Some of them might have shared it if they had something calmer to share than fear. A panel gives you that.
 
-Andrew set up a shared spreadsheet that he and Sara, his senior barista, could both see. Data from the till flowed in as a weekly export. No expensive programs. A month later, the Monday briefing took fifteen minutes instead of an hour. There was nothing left to argue about. The figures showed everything.
+Andrew set up [a shared spreadsheet](/blog/traffic-light-dashboard/) that he and Sara, his senior barista, could both see. Data from the till flowed in as a weekly export. No expensive programs. A month later, the Monday briefing took fifteen minutes instead of an hour. There was nothing left to argue about. The figures showed everything.
 
 Do the same at home. Show your partner the rows, not the mood. "Five rows. One red. Here is what I'm doing about it." A family can plan around a red row. It can't plan around silence.
 
@@ -117,7 +117,7 @@ You're already paying the time. You pay it at night, recomputing figures you don
 
 The first panel takes 20 minutes and needs no software. A shared spreadsheet does the job. Without software, keep nine rows at the most. Five fit on one screen.
 
-The owner who stays calm on the worst day doesn't worry less. They know where to look.
+The owner who stays calm on the worst day doesn't worry less. They know where to look. Short videos on the method run on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ## Where the panel stops
 
@@ -133,6 +133,8 @@ Two steps close that gap.
 Without them, the panel calms your evenings. The numbers stay where they are.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> every part of the model becomes a tool you can hold. Goals become a table, the state becomes data sources, and the error becomes a traffic-light dashboard. One rule runs under all of them: every parameter has one source of truth.</div>
+
+The rules of the model are public in [its GitHub repository](https://github.com/mjirgensons/jirgenson-model).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -150,7 +152,7 @@ Two choices are on the table. Close this tab and keep the numbers in your head, 
 
 Next Monday you open one screen, read it in a minute, and know where the fire is.
 
-The panel shows where you stand. The levers and the rolling forecast show what to pull and where it leads.
+The panel shows where you stand. The levers and the rolling forecast show what to pull and where it leads. Readers in Canada can order the book from [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 Try the logic first, at no cost: [Chapter 1 and the refusal test](/blog/free-sample/). Or go straight to the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It arrives as a Kindle book, with the tool templates in the appendices.
 

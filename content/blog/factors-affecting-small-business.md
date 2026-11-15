@@ -35,7 +35,7 @@ The right-hand column is the one that gets left off. Picture someone who wants t
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a factor is a role, not a thing. Money belongs to your state; a lack of money is a factor. Training can be a lever; a lack of knowledge is a factor. Count each item once, in one role, in any calculation.</div>
 
-Every factor has a direction and a strength. Some carry you. A list of business headwinds with no tailwinds on it is half a list.
+Every factor has a direction and a strength. Some carry you. A [list of business headwinds](/blog/risk-register/) with no tailwinds on it is half a list.
 
 ## The four-bin sort
 
@@ -61,7 +61,7 @@ Andrew: suppose the supplier raises prices by 30%. Ingredients cost €9,000 a m
 
 ### 4. Set it against your strongest allowed lever
 
-Find the biggest move your own rules permit. Ask whether it covers the factor.
+Find [the biggest move your own rules permit](/blog/levers-of-control/). Ask whether it covers the factor.
 
 Andrew's rule: prices up no more than 5% in one step. An 8% supplier rise costs €720 a month, and 2.4% on prices wins it back. Covered. The 30% rise needs about 9% on prices only to save the profit. Not covered.
 
@@ -74,17 +74,17 @@ Andrew's rule: prices up no more than 5% in one step. An 8% supplier rise costs 
 | Absorb | Nothing changes it; plan for it | Rain: predict it from the weather forecast. Breakdown: keep a reserve |
 | Escape test | It outweighs every lever you have | Supplier up 30%: check whether the setting itself is failing |
 
-Absorb is the busiest bin. Weather, season and general price rises cannot be argued with. Adjust planned expenses for the heating season and for inflation, instead of copying June's figures into November. Alex, thirteen, saving for a bicycle, absorbs a seasonal factor the same way. In July the neighbours go on holiday and his odd jobs dry up, so he keeps a spare lever ready: selling his scooter.
+Absorb is the busiest bin. Weather, season and general price rises cannot be argued with. [Adjust planned expenses](/blog/forecast-cash-flow/) for the heating season and for inflation, instead of copying June's figures into November. Alex, thirteen, saving for a bicycle, absorbs a seasonal factor the same way. In July the neighbours go on holiday and his odd jobs dry up, so he keeps a spare lever ready: selling his scooter.
 
 That is the business risks list in a form you can act on. It turns the factors affecting small business into decisions. Every line ends in a verb.
 
 ## What unsorted factors affecting small business cost
 
-Andrew's first rainy Wednesday shows the price. The room was almost empty and revenue fell. Without his list, he would have decided the plan had failed and changed his prices that week. The cause was the weather. He would have thrown out a plan that was already working.
+Andrew's first rainy Wednesday shows the price. The room was almost empty and revenue fell. Without his list, he would have decided [the plan had failed](/blog/why-business-plans-fail/) and changed his prices that week. The cause was the weather. He would have thrown out a plan that was already working.
 
 Now the money. Andrew's shop turns over €30,000 a month. At a 9% margin it keeps €2,700. A 30% supplier rise costs €2,700 a month. Left unsorted, one factor eats the whole month's profit.
 
-The reserve has the same thin skin. It stood at half a month of expenses. At a 9% margin, a breakdown costing a tenth of a month's expenses pushes the two-month goal back by about a month. At 15%, by about half.
+[The reserve](/blog/cash-reserve-months-of-expenses/) has the same thin skin. It stood at half a month of expenses. At a 9% margin, a breakdown costing a tenth of a month's expenses pushes the two-month goal back by about a month. At 15%, by about half.
 
 And the human cost: the owner who spends the night blaming himself for the rain.
 
@@ -98,10 +98,10 @@ The sort is complete for one goal. Use it this week. But be clear about what it 
 
 The cause of most bad calls is still there. You know the push. You do not yet know how far it has carried you off course, or at which point a push turns into an emergency. And the list sees a factor only once it has arrived.
 
-This is one step of a closed loop: goal, state, error, levers, plan, forecast. Two further steps close the gap:
+This is one step of [a closed loop](https://github.com/mjirgensons/jirgenson-model): goal, state, error, levers, plan, forecast. Two further steps close the gap:
 
-- **The error and its three zones**. How far the factors together have pulled each number away from its goal, and where normal, acceptable and emergency begin. Chapter 4 holds the thresholds.
-- **Recognising a factor before it strikes**. Four techniques that turn a surprise into a forecast. Chapter 8 holds them.
+- **The error and its three zones**. [How far the factors together have pulled each number](/blog/kpi-zones/) away from its goal, and where normal, acceptable and emergency begin. Chapter 4 holds the thresholds.
+- **Recognising a factor before it strikes**. [Four techniques](/blog/predictability-in-business/) that turn a surprise into a forecast. Chapter 8 holds them.
 
 The full factor sheet, with the yacht and the arrows, sits in [external factors in business](/blog/external-factors-business/).
 
@@ -126,6 +126,8 @@ Next Monday revenue dips, and you check one line on the sheet before you touch a
 The bins tell you what is pushing. The zones and early recognition tell you how far, and how soon.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with every factor worked out in euros.
+
+Prefer paper? There is also a [paperback edition on Amazon](https://www.amazon.com/dp/B0HPCJCWKF). Short videos on sorting factors are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

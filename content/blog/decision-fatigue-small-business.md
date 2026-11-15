@@ -29,7 +29,7 @@ You can price a latte to the cent. Then the choice that decides the year gets ma
 
 The usual advice is to rest more, decide fewer things, or try harder. All fine. None of it helps on the night the phone rings at the worst moment.
 
-The fix is structural. You cannot stop being tired. You can stop being the one who decides when you are tired.
+The fix is structural. You cannot stop being tired. You can stop being the one who decides when you are tired. That structure is the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model), public on GitHub.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> you make the hard decisions in advance, in a calm moment. The order of your goals. The zones for each number. The limits you will not cross. On a bad day you do not decide from scratch. You read what you decided with a clear head.</div>
 
@@ -39,7 +39,7 @@ Take one evening this week. Write three decisions and one rule on a single sheet
 
 ### 1. The order: what you defend to the last
 
-Ask one question of your goals: if things got bad, which would I give up first, and which last?
+[Ask one question of your goals](/blog/set-priorities-refusal-order/): if things got bad, which would I give up first, and which last?
 
 Andrew's answer: cash reserve first, his own hours last. Without a reserve the shop closes, and then nothing else matters.
 
@@ -47,7 +47,7 @@ This is the step people skip, because it feels obvious. It is not. Until the ord
 
 ### 2. The red line for each number
 
-For each number, write where trouble starts. Not a feeling. A figure.
+For each number, [write where trouble starts](/blog/kpi-zones/). Not a feeling. A figure.
 
 Andrew set his red line for the cash reserve at one month of expenses. His reason: a month gives him time to negotiate a deferral, find money and decide. Below a month, there is no time left for any of that.
 
@@ -55,7 +55,7 @@ He set the lines for all five numbers that same evening, while his head was clea
 
 ### 3. What you will never do
 
-Write the moves you refuse, even if they would rescue the goal.
+Write [the moves you refuse](/blog/goal-hierarchy/), even if they would rescue the goal.
 
 Andrew's list: never cheaper coffee beans. Never delay wages. Never raise prices by more than 5% in one step.
 
@@ -100,7 +100,7 @@ Now the money. His reserve stood at 0.5 months against a goal of 2.0. With month
 
 Leave it for six more months, and the margin gap alone costs €10,800. All while the owner keeps deciding at midnight.
 
-The goal for the owner's own hours is not a luxury. It protects the quality of every other decision. The person at the wheel must be able to look ahead.
+The goal for [the owner's own hours](/blog/business-owner-burnout/) is not a luxury. It protects the quality of every other decision. The person at the wheel must be able to look ahead.
 
 ## What changes when the order exists
 
@@ -118,8 +118,8 @@ Be clear about what the sheet gives you. It treats the symptom: tired choices ma
 
 The cause is a business with no instrument panel. You have a red line for each number, but three gaps remain.
 
-- **How to set every threshold so it holds.** Three rules for a line that does not flicker or lie. Then the red protocol, for the week when two or three numbers turn red at once. Chapter 4.
-- **The Red Card.** Eight steps for the day your hands shake and the sheet feels far away. It runs from the danger check to the one person you tell out loud. It sits on the last pages, built for the worst night.
+- **How to set every threshold so it holds.** Three rules for a line that does not flicker or lie. Then [the red protocol](/blog/business-crisis-plan/), for the week when two or three numbers turn red at once. Chapter 4.
+- **The Red Card.** Eight steps for the day your hands shake and the sheet feels far away. It runs from [the danger check](/blog/business-crisis-what-to-do-first/) to the one person you tell out loud. It sits on the last pages, built for the worst night.
 
 Name them now. Learn them before the bad day, not during it.
 
@@ -140,6 +140,8 @@ You have two choices. Keep deciding at midnight, one tired yes at a time, and le
 The sheet stops the tired yes. The thresholds, the red protocol and the Red Card keep you steady when everything breaks in the same week.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book: sixteen chapters, each with a task to try yourself.
+
+Prefer paper? There is also a [paperback edition on Amazon](https://www.amazon.com/dp/B0HPCJCWKF). Short videos on the calm-hour sheet are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

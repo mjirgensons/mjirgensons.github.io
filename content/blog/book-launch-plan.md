@@ -11,7 +11,7 @@ answer: "A book launch plan fits on one page and answers five questions: which l
 
 If a first book fails, it rarely fails on launch day. It fails weeks earlier, quietly, on a Monday nobody checked.
 
-Elena is a freelance designer. Her income swings between €800 and €2,200 a month. One client brings in 70% of it. She works fifty hours a week, and she wants a product that does not depend on her hours: her first online book.
+Elena is a freelance designer. Her income swings between €800 and €2,200 a month. [One client brings in 70% of it](/blog/client-concentration-freelancer/). She works fifty hours a week, and she wants a product that does not depend on her hours: her first online book.
 
 Her first plan for it read: "more social media, increase sales, be more visible."
 
@@ -35,6 +35,8 @@ If one question has no answer, you have a wish. Finding that answer is your next
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the plan for one goal is the control concept. It holds five parts: levers, resources, constraints, a leading indicator, and a deadline with an owner. A first book is a manoeuvre: the move from one way of earning to another, with a start, a middle and an arrival.</div>
 
+The control system behind this page is public in [the model's GitHub repository](https://github.com/mjirgensons/jirgenson-model).
+
 ## The first book plan, filled in
 
 Here is Elena's page. Read it as a template: your entries go where hers are.
@@ -49,13 +51,13 @@ Here is Elena's page. Read it as a template: your entries go where hers are.
 
 Compare it with her first list. "Be more visible" became "build the sales page". "Increase sales" became a price and a weekly number. Every line is now something she can start on Monday.
 
-Look at the conversion rate. It is not on the lever row. The share of visitors who buy is a result. The lever is what the page says and the order of its blocks. Elena changes the headline and watches the rate respond.
+Look at the conversion rate. It is not on the lever row. The share of visitors who buy is a result. [The lever](/blog/business-levers/) is what the page says and the order of its blocks. Elena changes the headline and watches the rate respond.
 
 ## Where the ten hours come from
 
 The usual objection: "I have no time to write a book." Elena had fifty hours of client work a week. The plan found her ten hours without breaking her.
 
-Five hours come on top of her fifty. She wrote that permission in advance. While she writes, from month 1 to month 3, she may work up to 55 hours a week. Time is the first goal she would give up. Her income is the last.
+Five hours come on top of her fifty. She wrote that permission in advance. While she writes, from month 1 to month 3, she may work up to 55 hours a week. Time is [the first goal she would give up](/blog/set-priorities-refusal-order/). Her income is the last.
 
 The other five come from turning down small orders.
 
@@ -81,13 +83,13 @@ Chaos turned into a line with numbers she can check. And she is the one at the w
 
 ## The Monday check that catches a miss
 
-Every Monday Elena takes last week's visitors, multiplies by the conversion rate, and compares the result with the goal of 21 sales a month.
+Every Monday Elena takes [last week's visitors](/blog/what-is-a-leading-indicator/), multiplies by the conversion rate, and compares the result with the goal of 21 sales a month.
 
 Say 280 people came last week. At 1.5%, that is 4.2 sales a week, about 17 over four weeks. Four short.
 
 The month is not over. She still has time to rewrite the headline or write to her subscribers.
 
-Had she counted only at the end of the month, the four missing sales would have been a fact. On Monday they are a forecast. A forecast you can still change.
+Had she counted only at the end of the month, the four missing sales would have been a fact. On Monday they are [a forecast](/blog/reactive-vs-proactive-management/). A forecast you can still change.
 
 ## Walk the launch backwards
 
@@ -107,7 +109,7 @@ Her first action this week is the outline and the price. Not "become an author".
 
 ## The cost of the usual way
 
-Picture the launch without a plan. It follows a familiar arc. Launch, a burst of friends, a quiet second month, and a verdict: "the book does not work."
+Picture the launch without [a plan](/blog/product-launch-plan/). It follows a familiar arc. Launch, a burst of friends, a quiet second month, and a verdict: "the book does not work."
 
 The route says why that verdict is wrong. Elena's sales were never meant to reach 21 in month 5. They were meant to reach 21 by month 11. Demand a result in a single month, and you kill a book that was on schedule.
 
@@ -121,10 +123,10 @@ The deeper cause is still in place. Your plan says 350 visitors a week. It does 
 
 Two steps close that gap:
 
-- **Zones for the launch numbers.** Normal, acceptable and emergency for each number. Plus the order of action when two turn red at once. Chapter 4.
+- **Zones for the launch numbers.** [Normal, acceptable and emergency](/blog/kpi-zones/) for each number. Plus the order of action when two turn red at once. Chapter 4.
 - **The corridor of a manoeuvre.** How far the route may bend at each checkpoint before you return or halt. Plus the conditions you write before you start. Chapter 10.
 
-Without them, the Monday check tells you where you are. It does not yet tell you when to worry.
+Without them, the Monday check tells you where you are. It does not yet tell you when to worry. Both chapters are in [the paperback edition](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -139,6 +141,8 @@ Without them, the Monday check tells you where you are. It does not yet tell you
 ## Two choices before launch
 
 You have two choices for your book. Launch it on hope, and count the sales at the end of the month when nothing can be changed. Or fill in one page tonight and look at one number every Monday.
+
+The author's profile, with the book, is on [Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson).
 
 The page gets your launch moving. The zones and the corridor keep it on course when month 5 looks thin.
 

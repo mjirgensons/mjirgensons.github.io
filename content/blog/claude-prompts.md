@@ -23,7 +23,7 @@ An AI with no rules guesses, and you can't spot the invented facts. The Jirgenso
 
 Watch what a good human analyst does first. They ask where your numbers come from. They work from your figures, not from averages. They tell you which part is a guess. They point at the most dangerous thing before the interesting things. And they leave the decision to you.
 
-A chatbot with no instructions does the opposite. It fills missing data with plausible guesses and does not say so. It chooses your priorities if you have not stated them. Ask twice, and you get two different shapes of answer.
+A chatbot with no instructions does the opposite. [It fills missing data with plausible guesses and does not say so.](/blog/ai-hallucinations-example/) [It chooses your priorities if you have not stated them.](/blog/ai-sycophancy/) Ask twice, and you get two different shapes of answer.
 
 The model is not the problem. It needs a rulebook first.
 
@@ -43,7 +43,7 @@ Here is the difference in setup:
 
 You need two plain-text files and two messages. No code, no plugins, no paid add-ons. Each step below shows what you should see.
 
-**1. Download the two files.** Get the canon and the operating prompt from the [AI assistant page](/ai-assistant/). Both are free under an open licence.
+**1. Download the two files.** Get the canon and the operating prompt from the [AI assistant page](/ai-assistant/). [Both are free under an open licence.](https://github.com/mjirgensons/jirgenson-canon)
 
 *What you see:* two text files. One opens with "JIRGENSON MODEL CANON", the other with "JIRGENSON MODEL: OPERATING PROMPT".
 
@@ -87,9 +87,9 @@ Once set up, the assistant chooses one of three modes from your message. Emergen
 
 Every full answer keeps the same order. Where you are. The most dangerous thing. What to do today, this week and this month. What you protect first. What not to do now. What to measure and when to check. Two forecasts, "if nothing changes" and "if the plan works", each with a range.
 
-That order is not decoration. It is the loop the method runs on: goal, state, gap, levers, plan, forecast. Claude walks it the same way every time, so you can see when it skips a step.
+That order is not decoration. It is [the loop the method runs on](/blog/control-cycle-management/): goal, state, gap, levers, plan, forecast. Claude walks it the same way every time, so you can see when it skips a step.
 
-We tested it blind against a good generic consultant prompt; the details are on the AI assistant page.
+[We tested it blind against a good generic consultant prompt](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test); the details are on the AI assistant page.
 
 **"I am not technical."** The whole setup is two files and two messages. If you can attach a photo to an email, you can do this.
 
@@ -97,7 +97,7 @@ We tested it blind against a good generic consultant prompt; the details are on 
 
 Skip the setup and nothing breaks today. The cost arrives quietly.
 
-A confident answer rests on a figure you never gave. You act on it. You spend Monday on the wrong fire, while the real one grows somewhere else. Later, you cannot tell which part came from your business and which part the machine made up.
+A confident answer rests on a figure you never gave. You act on it. [You spend Monday on the wrong fire](/blog/business-triage/), while the real one grows somewhere else. Later, you cannot tell which part came from your business and which part the machine made up.
 
 An answer you cannot trace is an opinion, however well formatted.
 
@@ -105,12 +105,12 @@ An answer you cannot trace is an opinion, however well formatted.
 
 The setup fixes the assistant. It does not fix what you feed it.
 
-A well-built analyst still works from your inputs. Give it a number you estimated by eye, and it builds a tidy analysis on a guess. Give it no red lines, and it has to propose them for you. You will not know if they are right for your business.
+A well-built analyst still works from your inputs. [Give it a number you estimated by eye](/blog/gut-feeling-vs-numbers-business/), and it builds a tidy analysis on a guess. Give it no red lines, and it has to propose them for you. You will not know if they are right for your business.
 
 Two steps close that gap.
 
-- **One source for every number.** Where each figure comes from, and what to do when the accounts and the till disagree. That is Chapter 2.
-- **Red lines, set in a calm moment.** Where danger starts for each goal, and what to do first when two turn red. That is Chapter 4.
+- **One source for every number.** [Where each figure comes from](/blog/how-to-measure-business-performance/), and what to do when the accounts and the till disagree. That is Chapter 2.
+- **Red lines, set in a calm moment.** [Where danger starts for each goal](/blog/kpi-zones/), and what to do first when two turn red. That is Chapter 4.
 
 With both, the assistant stops proposing your thresholds and starts checking against them.
 
@@ -133,6 +133,8 @@ You have two choices. Keep asking a fresh, eager chatbot that agrees with everyt
 The free files give you the analyst. One source for every number and your own red lines give it something solid to work on.
 
 Set up the system first, from the [AI assistant page](/ai-assistant/). Then test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a Kindle book, with the canon and the prompt inside as appendices.
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). More about the author is on his [Amazon author page](https://www.amazon.com/e/B0HPCVYHDJ).
 
 ## FAQ
 

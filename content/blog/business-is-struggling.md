@@ -15,7 +15,7 @@ No bailiff. No headline. Only a few weeks that each looked like "a bad week".
 
 Picture yours. The coffee machine broke again. Two regulars stopped coming. The reserve slid a little, then a little more. None of it felt like an emergency. All of it was the same story.
 
-Here is the irony. A business can fade with a queue at the door every morning. Andrew's coffee shop had exactly that, and by the end of each month the money had vanished.
+Here is the irony. A business can fade with [a queue at the door every morning](/blog/busy-but-not-profitable/). Andrew's coffee shop had exactly that, and by the end of each month the money had vanished.
 
 The quiet signs don't ring. You set the alarm yourself, in advance.
 
@@ -38,7 +38,7 @@ Andrew: reserve goal 2.0 months of expenses, now 0.5. Margin goal 15%, now 9%.
 | Complaints per week | 2 or fewer | 5 | plus 3 |
 | Owner's hours per week | 40 or fewer | 65 | plus 25 |
 
-**3. Draw three zones for each row.** Normal, acceptable, emergency. Put the red line where damage turns hard to reverse.
+**3. Draw three zones for each row.** [Normal, acceptable, emergency](/blog/kpi-zones/). Put the red line where damage turns hard to reverse.
 Andrew put it at one month of reserve. A month gives him time to negotiate a deferral, find money and decide. Below a month, that time is gone.
 
 | Parameter | Normal | Acceptable | Emergency |
@@ -61,6 +61,8 @@ How to avoid the quiet slide: read the colours every week. A row that changes co
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the error is the gap between the goal and the measured state, row by row. Three zones, set in advance, turn that gap into a decision. Normal: leave it alone. Acceptable: find the cause. Emergency: everything else waits.</div>
 
+The rules of the model are public in [the Jirgenson Model repository on GitHub](https://github.com/mjirgensons/jirgenson-model).
+
 ## A quiet closure starts long before any courtroom
 
 <strong>For every business that dies in a courtroom, thirty to fifty just turn off the lights.</strong>
@@ -81,7 +83,7 @@ How to avoid the dark windows: treat red as the engine light, not the scrapyard.
 
 <strong>A third of owners who shut down thought the business was doing fine when they closed it.</strong>
 
-"Fine" is a feeling. Andrew felt his margin was about twenty per cent. The table said 9%.
+"Fine" is a feeling. Andrew felt [his margin](/blog/how-to-calculate-profit-margin/) was about twenty per cent. The table said 9%.
 
 The yellow zone is the most treacherous. Nothing in it is on fire, so nothing seems urgent. Yet the work there is to find the cause while that is still cheap.
 
@@ -91,7 +93,7 @@ Ask three questions of every yellow row:
 2. Since when?
 3. Which lever affects it?
 
-Andrew's answer for the margin: waste and unprofitable menu items. For regular customers he didn't know yet. So he wrote "find out" in his task list. That counts as a result too.
+Andrew's answer for the margin: [waste](/blog/waste-in-small-business/) and unprofitable menu items. For regular customers he didn't know yet. So he wrote "find out" in his task list. That counts as a result too.
 
 How to avoid false comfort: leave green rows alone. Fixing what works costs money and buys nothing. Spend the attention on yellow.
 
@@ -105,7 +107,7 @@ Every business has a stability margin: how hard a hit it can take without crossi
 
 So build the margin before you need it. Put the cash reserve in your goal list. Andrew ranked it number one: he would defend it to the end.
 
-How to avoid being the next empty window on the street: measure the reserve in months of expenses, not in currency. Months tell you how long you can last.
+How to avoid being the next empty window on the street: measure the reserve in [months of expenses](/blog/cash-reserve-months-of-expenses/), not in currency. Months tell you how long you can last.
 
 ## Problems in order of arrival, or in order of priority
 
@@ -140,13 +142,13 @@ Compare that with one month of the margin gap. Or with one loyalty campaign paid
 
 ## Where the warning lines stop
 
-The zones are the third link of one loop: goal, state, error, levers, plan, forecast. They treat the symptom. You no longer miss the quiet signs.
+The zones are the third link of one loop: goal, state, error, levers, plan, forecast. They treat the symptom. You no longer miss the quiet signs. Short videos on that loop run on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 The cause is still there. A red row tells you how serious things are. It doesn't tell you what to change. You can't order money to appear. And the lines show today, not where the trend goes next.
 
 Two steps close that gap.
 
-- **The list of levers.** What you can change yourself, today, and what only looks like a lever. Chapter 5.
+- **The list of levers.** What you can change yourself, today, and [what only looks like a lever](/blog/business-levers/). Chapter 5.
 - **Two forecasts and control by forecast.** "If nothing changes" against "if the plan works", so you act before a row turns red. Chapters 8 and 9.
 
 Without them, the zones ring the alarm. They don't yet put out the fire.
@@ -165,7 +167,7 @@ Without them, the zones ring the alarm. They don't yet put out the fire.
 
 You have two choices this week. Keep reading each slow month as bad luck, and hope the next one turns. Or put three lines on every goal tonight, so the slide shows up as a colour.
 
-Next Monday you look at colours first, and the decision is already made.
+Next Monday you look at colours first, and the decision is already made. Readers in Canada can order the book from [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 The zones tell you where the danger is. The levers and the two forecasts tell you what to pull and when. If a row is already deep in the red, start with [how to save a failing business](/blog/how-to-save-a-failing-business/).
 

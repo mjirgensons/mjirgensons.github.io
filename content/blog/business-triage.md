@@ -37,13 +37,13 @@ Here are the seven steps with what Andrew actually did in his bad month:
 | 6. Build scenarios | Three options with numbers and dates | See the table below |
 | 7. Decide and accept the consequences | One lever, then wait for its effect | Prices +5%, nothing else for now |
 
-Copy the first two columns and fill in the third the next time a bad week arrives.
+Copy the first two columns and fill in the third the next time a bad week arrives. The model behind the steps is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Which problem first? Count the weeks to red
 
-When several things are going wrong, attention tends to go to whichever problem was discussed most loudly that morning. A better rule: first anything dangerous, then anything already red in your order of goals, then the yellow ones by how soon they will turn red.
+When several things are going wrong, attention tends to go to whichever problem was discussed most loudly that morning. A better rule: first anything dangerous, then [anything already red in your order of goals](/blog/goal-hierarchy/), then the yellow ones by how soon they will turn red.
 
-Andrew's bad month had no reds, but four yellows moving in the wrong direction. Here is how fast each was heading for its red line:
+Andrew's bad month had no reds, but four yellows moving in the wrong direction. Here is how fast each was [heading for its red line](/blog/kpi-zones/):
 
 | Number | Now | Moving | Red line | Time to red |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ The reserve, at 1.56 months, was also yellow, but it was growing, moving away fr
 
 Each scenario must move a real lever: something Andrew can change by his own decision. (How to tell [levers of control](/blog/levers-of-control/) from results.)
 
-For step 6, Andrew put three options side by side:
+For step 6, Andrew put [three options side by side](/blog/scenario-planning/):
 
 | Scenario | Margin | Reserve reaches 2.0 | Holds for three months |
 |---|---|---|---|
@@ -74,7 +74,7 @@ Three weeks later he noticed, to his surprise, that he could not remember the la
 
 He would most likely have hired a full-time barista to plug the hole and started hunting for another supplier at the same time. Two levers at once, both expensive, and no way of telling afterwards which one had worked. That is the hidden cost of deciding fast: you lose the ability to learn from the result.
 
-The second half of step 7 is the one most often forgotten. To make a decision is also to accept its consequences: the effect will not come at once, and an earlier error takes time to work itself out. Whoever expects instant results changes the decision at the very moment it is starting to work.
+The second half of step 7 is the one most often forgotten. To make a decision is also to accept its consequences: [the effect will not come at once](/blog/phase-lag-management/), and an earlier error takes time to work itself out. Whoever expects instant results changes the decision at the very moment it is starting to work.
 
 ## If your hands are shaking: the Red Card
 
@@ -87,7 +87,7 @@ When a number is genuinely red, the next moves follow a strict order, set out in
 
 ## Where this does not reach
 
-Seven steps are for a tangled situation, not for every small problem; a single yellow number usually needs only its cause found. Where there is immediate danger to people, safety or the law, protection and escalation come before any analysis. And if a business is genuinely failing because its whole market is collapsing, triage will show it, but the answer then lies outside tactics: a different place, format or goal. Legal and financial advisers belong in that conversation.
+Seven steps are for a tangled situation, not for every small problem; a single yellow number usually needs only its cause found. Where there is immediate danger to people, safety or the law, protection and escalation come before any analysis. And if a business is genuinely failing because its whole market is collapsing, triage will show it, but the answer then lies outside tactics: [a different place, format or goal](/blog/when-to-pivot-small-business/). Legal and financial advisers belong in that conversation.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -103,6 +103,8 @@ Seven steps are for a tangled situation, not for every small problem; a single y
 The exercise: think back to your last bad week or month and walk through the seven steps as if it were happening now. What would you have done differently? It takes about twenty minutes, and the next bad month will feel different because you will already know the route.
 
 The goals and the order that make triage possible are in Chapter 1, free in [the free sample](/blog/free-sample/). The full method, including the formal version of time to red and the complete Red Card, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
+
+Prefer paper? The book is also out as a [paperback](https://www.amazon.com/dp/B0HPCJCWKF). In Canada, find it on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX). Short videos on the method are on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## FAQ
 

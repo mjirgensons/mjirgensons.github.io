@@ -11,7 +11,7 @@ answer: "Delegating to the right person means giving each area of the business t
 
 Most of the mistakes in Andrew's coffee shop came from its most experienced person. Late at night.
 
-He worked sixty-five hours a week. The late hours were where the mistakes lived: figures mixed up, a call to the supplier put off, deadlines that turned out wrong.
+He worked [sixty-five hours a week](/blog/business-owner-burnout/). The late hours were where the mistakes lived: figures mixed up, a call to the supplier put off, deadlines that turned out wrong.
 
 Meanwhile Sara, his senior barista, knew to the minute when the Friday wave from the office next door would hit.
 
@@ -29,7 +29,7 @@ The same restaurant is easy to read for an experienced manager and a mystery for
 
 <div class="def"><strong>In the Jirgenson Model,</strong> predictability belongs to a pair: the work plus the person at the wheel. You can control exactly as much as you can foresee. So never ask only about the process. Ask who runs it, and what they can see coming.</div>
 
-This turns delegation from a favour into a design choice. You are not offloading work. You are moving each area to the head that predicts it best.
+This turns delegation from a favour into a design choice. The rule is part of the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model), which is public on GitHub. You are not offloading work. You are moving each area to the head that predicts it best.
 
 ## Who should not be at the wheel, even when it is you
 
@@ -37,9 +37,9 @@ The rule has a sharp edge. Sometimes the person who sees worst is the owner.
 
 Fatigue bends a forecast the way a faulty gauge bends a reading. At sixty-five hours a week, Andrew was the right person for the margin in the morning. Late at night he was the wrong person for almost anything.
 
-That is why his own hours sit on his goal list. Not only for rest. A cap on hours protects the quality of every decision he makes.
+That is why his own hours sit on [his goal list](/blog/goal-setting-for-entrepreneurs/). Not only for rest. A cap on hours protects the quality of every decision he makes.
 
-He learned to act on it. On the night of a bad month, with prices up and a barista gone, he checked one thing first. Was there a direct danger to people or to mandatory payments? There was not. So he decided nothing, set a meeting with Sara for the morning, and went to bed.
+He learned to act on it. On the night of a bad month, with prices up and a barista gone, he checked one thing first. Was there a direct danger to people or to mandatory payments? There was not. So he [decided nothing](/blog/business-crisis-what-to-do-first/), set a meeting with Sara for the morning, and went to bed.
 
 ## The wheel test: four questions for each area
 
@@ -75,7 +75,7 @@ That sheet is the cheapest upgrade to predictability in business. What sat in on
 
 Without the test, a tired owner keeps every wheel. And a tired owner says yes.
 
-Picture Andrew without his ranked goals. Sara asks for a second barista on Fridays. He would agree, because he is exhausted and does not want to argue. The money would come out of a reserve of 0.5 months: about €13,650, roughly two weeks of expenses. A month later the money would run out before the energy.
+Picture Andrew without [his ranked goals](/blog/set-priorities-refusal-order/). Sara asks for [a second barista](/blog/first-employee/) on Fridays. He would agree, because he is exhausted and does not want to argue. The money would come out of a reserve of 0.5 months: about €13,650, roughly two weeks of expenses. A month later the money would run out before the energy.
 
 The slower cost shows in the forecast. At a 9% margin his reserve reaches two months at month 16. With the margin plan working, at month 10. At 9%, one breakdown worth a tenth of a month of expenses pushes the goal back a full month.
 
@@ -95,7 +95,7 @@ The deeper cause remains. Sara can read a Friday perfectly and still not know at
 
 Two steps of the system close that gap.
 
-- **Zone thresholds and the red protocol** (Chapter 4). The line for each number where "watch it" becomes "act now", agreed in advance, so the person at the wheel knows when to escalate.
+- **Zone thresholds and the red protocol** (Chapter 4). [The line for each number](/blog/kpi-zones/) where "watch it" becomes "act now", agreed in advance, so the person at the wheel knows when to escalate.
 - **Control by forecast** (Chapter 9). Steering by where the numbers are heading, not where they were.
 
 Without them, the right person sits at the wheel without a map of the road ahead.
@@ -121,6 +121,8 @@ Picture next Friday: you are not behind the counter, the queue is moving, and th
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 
+Short videos on the wheel test are on [the Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
+
 ## FAQ
 
 ### How do you choose the right person to delegate to?
@@ -133,7 +135,7 @@ Not always. But check the hours and the time of day. Fatigue corrupts forecasts,
 
 ### Who should run what in a one-person business?
 
-You run everything, so measure where your forecasts miss. Compare each forecast with the real number every week. *Steer, Don't Guess* shows how to build those forecasts for every goal.
+You run everything, so measure where your forecasts miss. Compare each forecast with the real number every week. [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPCJCWKF) shows how to build those forecasts for every goal.
 
 ## Published research
 
