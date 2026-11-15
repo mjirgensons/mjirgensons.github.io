@@ -128,7 +128,9 @@ def write(url_path: str, html_text: str):
     p.write_text(html_text)
 
 def abs_url(path):
-    return SITE["url"].rstrip("/") + "/" + path.strip("/") + ("/" if path.strip("/") else "")
+    p = path.strip("/")
+    # files such as /404.html keep their name without a trailing slash
+    return SITE["url"].rstrip("/") + "/" + p + ("/" if p and not p.endswith((".html", ".xml", ".txt")) else "")
 
 def render(template, **ctx):
     t = env.get_template(template)
