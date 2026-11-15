@@ -17,17 +17,17 @@ The form was never the hard part. The decision was, and fear makes it late at ni
 
 That is the habit to break. Not the fear itself. The habit of letting it decide.
 
-Fear makes the call late at night, with no numbers on the table. The Jirgenson Model puts real numbers, a trend and a plan in front of the decision instead. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Fear makes the call late at night, with no numbers on the table. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) puts real numbers, a trend and a plan in front of the decision instead. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Business applications without a goal table
 
 Look at that first number again. Skip the post-mortem on the nine. Put your own start on paper first.
 
-Turn your idea into a goal table before you turn it into a company. Take a sheet of paper. Write the five things you want from the business, each with a number and a deadline. "A good income" has no number. Elena, the freelancer in the book, wrote an average income of at least €3,000 a month by month 14. That is a goal.
+Turn your idea into a goal table before you turn it into a company. Take a sheet of paper. Write the five things you want from the business, [each with a number and a deadline](/blog/how-to-set-measurable-goals/). "A good income" has no number. Elena, [the freelancer](/blog/freelance-business-plan/) in the book, wrote an average income of at least €3,000 a month by month 14. That is a goal.
 
-Then run the refusal test. If things got bad, which goal would you give up first? Which would be the last one left? Number them in that order.
+Then run the [refusal test](/blog/set-priorities-refusal-order/). If things got bad, which goal would you give up first? Which would be the last one left? Number them in that order.
 
-Andrew, the coffee shop owner in the book, did this in fifteen minutes. He put his own hours last and the cash reserve first. For the first time in two years he felt solid ground under his feet.
+Andrew, the coffee shop owner in [the book](https://www.amazon.com/dp/B0HPCJCWKF), did this in fifteen minutes. He put his own hours last and the cash reserve first. For the first time in two years he felt solid ground under his feet.
 
 **How to avoid it:** a form records a name. A goal table records an order. File the second one first.
 
@@ -35,7 +35,7 @@ Andrew, the coffee shop owner in the book, did this in fifteen minutes. He put h
 
 **Half of all adults say the fear of failing would stop them from starting.**
 
-Fear is loud, and it has never seen your numbers.
+Fear is loud, and it has [never seen your numbers](/blog/gut-feeling-vs-numbers-business/).
 
 So do not wait for courage. Write the order while you are calm. Set your goals, your constraints and the line you will not cross on a quiet evening. Then, on the bad night, the decision follows your own order, settled long before. It does not follow the knot in your stomach.
 
@@ -66,7 +66,7 @@ Now run the same steps on your own start:
 3. **Trajectory.** Read the last 12 to 36 months. Are your savings growing or shrinking? Have your free hours held?
 4. **Processes.** What is improving: skills, contacts, first paying customers? What is slipping?
 5. **Enclosing system.** Is your chosen market growing or fading?
-6. **Scenarios.** Write three: do not start; start small beside the job; start full time. Give each a number and a date.
+6. **Scenarios.** [Write three](/blog/scenario-planning/): do not start; start small beside the job; start full time. Give each a number and a date.
 7. **Decide.** Pick one. Then give it time to work before you judge it.
 
 That takes an evening. It replaces a year of "maybe next spring".
@@ -77,7 +77,7 @@ Here is the contrast. Had Andrew decided that same night, he would most likely h
 
 **More people are scared to start a business today than five years ago.**
 
-Do not argue with the climate. Read it. That is steps 3 and 5: the trajectory over years, and the system you sit inside.
+Do not argue with the climate. Read it. That is steps 3 and 5: the trajectory over years, and [the system you sit inside](/blog/external-factors-business/).
 
 Then use judo, not boxing. Find what is already moving in your direction and amplify it. Andrew did not fight rising prices across the region. He moved his own price with the current, and guests could see the same thing all over town.
 
@@ -89,7 +89,7 @@ Drift has a price, and the coffee shop puts it in months.
 
 At a 9% margin, Andrew's reserve reaches two months of costs at month 16. With his margin plan working, at month 10. Same shop, same hours, six months apart. And at 9%, every breakdown worth a tenth of a month of costs pushes the goal back a full month. At 15%, about half a month.
 
-The family budget example shows the same arithmetic from the other side. Emma and Paul ran €400 short each month. Change nothing, and their €2,000 of savings would run out in five months.
+The family budget example shows the same arithmetic from the other side. Emma and Paul [ran €400 short each month](/blog/household-budget-deficit/). Change nothing, and their €2,000 of savings would run out in five months.
 
 Waiting is not free. It is a plan too, the one called "if nothing changes", and it has a date.
 
@@ -126,7 +126,7 @@ Two steps close that gap.
 - **Two forecasts.** "If nothing changes" against "if the plan works", with figures and dates. The fear then meets a picture of the future, not a guess. Chapter 8.
 - **The backward move.** From the finished goal back to this week, with resources checked at every step. Chapter 15. A short version is in [backward planning](/blog/backward-planning/).
 
-The seven steps are the entry ramp. The road is one loop: goal, state, gap, levers, plan, forecast.
+The seven steps are the entry ramp. The road is [one loop](https://github.com/mjirgensons/jirgenson-canon): goal, state, gap, levers, plan, forecast.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

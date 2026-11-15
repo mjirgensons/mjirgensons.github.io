@@ -21,7 +21,7 @@ That laugh is the most honest moment a small business can have. You know your sh
 
 Your gut feeling is not the enemy. Treating it as a reading is.
 
-Treating a hunch as a reading leaves you steering by mood. The Jirgenson Model keeps the hunch as a question and answers it with real numbers from one source. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Treating a hunch as a reading leaves you steering by mood. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) keeps the hunch as a question and answers it with real numbers from one source. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Gut feeling is a question, not an answer
 
@@ -43,7 +43,7 @@ The first is panic: "all is lost." The second is bravado: "never mind, we'll pul
 
 The panicker sees a catastrophe where there is one red row. The brave face does not see the red row at all.
 
-The fix is the same for both. Accept the state as it is, without drama and without polish. An instrument shows. It does not scold.
+The fix is the same for both. [Accept the state as it is](https://github.com/mjirgensons/jirgenson-canon), without drama and without polish. An instrument shows. It does not scold.
 
 ## Turn one gut feeling into a measured row
 
@@ -59,7 +59,7 @@ What would you count to check it? For Andrew: regular customers as a share of re
 
 ### 3. Write one definition and one source
 
-One definition, one primary source, one person who calculates it. Other sources only cross-check. Andrew's source: the "regular customer" mark on the till receipt, counted over the month.
+[One definition, one primary source](/blog/how-to-measure-business-performance/), one person who calculates it. Other sources only cross-check. Andrew's source: the "regular customer" mark on the till receipt, counted over the month.
 
 The definition matters more than it looks. Sara's complaints notebook held five entries for the week. "Those are the ones I remembered," she said. A cold coffee went unrecorded. So did the customer who said nothing and walked out. They agreed: a complaint is any case where a customer says out loud they are unhappy, or sends the order back. They wrote that next to the row, so next month they count the same way.
 
@@ -94,13 +94,13 @@ Where they disagree, the number wins. Until a better number replaces it.
 
 Andrew did this for all five goals. It took him two hours. Bank statement, accounts, receipt marks, the complaints notebook, his own calendar.
 
-The cash reserve came out at 0.5 months of expenses. The goal was 2.0.
+[The cash reserve](/blog/cash-reserve-months-of-expenses/) came out at 0.5 months of expenses. The goal was 2.0.
 
-Turn that into money. With revenue of €30,000 and a 9% margin, a month of expenses is €27,300. The reserve was €13,650. The goal was €54,600. The gap: €40,950.
+Turn that into money. With revenue of €30,000 and [a 9% margin](/blog/how-to-calculate-profit-margin/), a month of expenses is €27,300. The reserve was €13,650. The goal was €54,600. The gap: €40,950.
 
-And the pace? One month at 9% adds about €2,700, or 0.1 months of reserve. If nothing changes, the two-month goal arrives around month 16. More than a year of running one broken machine away from trouble, while the gut said "we're doing fine."
+And the pace? One month at 9% adds about €2,700, or 0.1 months of reserve. [If nothing changes](/blog/forecast-cash-flow/), the two-month goal arrives around month 16. More than a year of running one broken machine away from trouble, while the gut said "we're doing fine."
 
-That week Andrew had planned a second barista and an advertising campaign. Both rested on a number that did not exist.
+That week Andrew had planned [a second barista](/blog/first-employee/) and an advertising campaign. Both rested on a number that did not exist.
 
 The till counted every coffee. The bank counted every cent. And the decision still came from a feeling.
 
@@ -108,7 +108,7 @@ The till counted every coffee. The bank counted every cent. And the decision sti
 
 There is a second way a hunch misleads. It labels things as luck.
 
-"Milk prices jump about." To someone who checks them once a month, yes. To a supplier who knows the milking schedule and the logistics, they are predictable. Much of what feels random is a mechanism you have not looked at yet.
+"Milk prices jump about." To someone who checks them once a month, yes. To a supplier who knows the milking schedule and the logistics, they are predictable. Much of what feels random is [a mechanism you have not looked at yet](/blog/predictability-in-business/).
 
 So before you call something a force of nature, ask: who sees this coming? Find that person or that number. Some uncertainty will always remain. Decide with it in view, not by shrugging.
 
@@ -124,7 +124,7 @@ The deeper problem stays. A row reads 25% against 40%. Is that fine for now, a w
 
 Two steps close the gap:
 
-- **Zones for every row.** Where normal ends, where the warning starts, and where you must act today. Set in a calm hour, not in the moment. Chapter 4.
+- **Zones for every row.** [Where normal ends](/blog/kpi-zones/), where the warning starts, and where you must act today. Set in a calm hour, not in the moment. [Chapter 4](https://www.amazon.com/dp/B0HPCJCWKF).
 - **A forecast in numbers.** Where each row will be in three to six months if nothing changes, and if the plan works. Chapter 8.
 
 Without them, you know where you are. You still guess what it means and where it is going.

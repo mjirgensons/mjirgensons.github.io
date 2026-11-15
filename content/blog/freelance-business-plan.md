@@ -17,7 +17,7 @@ It has no line for tonight.
 
 That's the irony of the usual plan. It knows your revenue in five years. It can't tell you whether to say yes to this job.
 
-A freelance business plan has to answer that question on a Tuesday morning. The answer to this pain comes from the Jirgenson Model: one page for each goal, and one budget for your hours. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A freelance business plan has to answer that question on a Tuesday morning. The answer to this pain comes from the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model): one page for each goal, and one budget for your hours. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What a freelance business plan has to answer
 
@@ -28,7 +28,7 @@ So write one page per goal. Each page answers five questions:
 1. **Levers.** Which ones, and in what order?
 2. **Resources.** How many hours, and how much money?
 3. **Constraints.** What will I not do, even if it would be faster?
-4. **Leading indicator.** Which number shows the plan works before the deadline?
+4. **Leading indicator.** [Which number shows the plan works](/blog/what-is-a-leading-indicator/) before the deadline?
 5. **Deadline and owner.** Who checks, when is the first checkpoint, and what result means stop and revise?
 
 If a question has no answer, you hold a wish, not a plan. Finding that answer is your next task.
@@ -41,7 +41,7 @@ That second part is the one freelancers skip. They write what they will do. They
 
 Elena is a freelance designer. Her six months of bank statements told a plain story. Her freelance income swung between €800 and €2,200 a month and averaged €1,300. One client paid 70% of it. She worked fifty hours a week.
 
-She wrote three goals and put them in order:
+She wrote three goals and [put them in order](/blog/set-priorities-refusal-order/):
 
 1. A three-month average income of at least €3,000 a month by month 14.
 2. One client's share of income: 30% at most, by month 14.
@@ -65,7 +65,7 @@ Read it as a tired freelancer would. Every line is something she can start tomor
 
 Now do yours. Take the goal that worries you most. Give it fifteen minutes and one sheet:
 
-1. **Write the levers.** Test each one: can I do this with my own hands tomorrow? "More clients" fails. "Letters to five former clients offering a repeat order" passes.
+1. **Write the levers.** Test each one: [can I do this with my own hands tomorrow](/blog/levers-of-control/)? "More clients" fails. "Letters to five former clients offering a repeat order" passes.
 2. **Count the resources.** Hours per week, as a number. "When I have time" is not a resource.
 3. **Write the constraints.** Ask in a calm hour what you will never do for this goal.
 4. **Pick the leading indicator.** A number you can see every week, long before the deadline.
@@ -89,7 +89,7 @@ Burnout is a budget nobody wrote down.
 
 Now the part most plans miss. Your pages compete for the same evenings. Elena's income page also holds client levers: package prices, repeat-order letters to past clients, two new channels for finding clients. Each of those eats hours too.
 
-So put every page's hours and money into one table. Two plans can look fine side by side and still claim the same Thursday night. Add the hours. If the total crosses your line, drop a lever or move a deadline. Never borrow the hours from sleep.
+So put every page's hours and money into one table. Two plans can look fine side by side and still [claim the same Thursday night](/blog/competing-priorities-conflicting-goals/). Add the hours. If the total crosses your line, drop a lever or move a deadline. [Never borrow the hours from sleep](/blog/business-owner-burnout/).
 
 ## Freelance pricing: write the constraints first
 
@@ -115,7 +115,7 @@ Here is the same goal, written two ways. The usual column is an illustration; th
 
 The left column fails in the first rush job. It has no number, so the urgent email wins every time.
 
-"I'm a one-person business. I don't need a plan." You don't need a folder. You need a page per goal. Three goals take under an hour. The hours table comes last.
+"I'm a [one-person business](/blog/one-person-business/). I don't need a plan." You don't need a folder. You need a page per goal. Three goals take under an hour. The hours table comes last.
 
 ## The cost of six more months without one
 
@@ -135,10 +135,10 @@ That treats the symptom. The cause sits one level deeper. A plan is one stage of
 
 Two steps close that gap:
 
-- **The full control cycle, eight stages.** The plan is stage four. Two later stages carry it: structures (a payment service, a subscriber list, automated emails) and weekly observation. Skip them, and a page stays a page. Chapter 7.
+- **The full control cycle, eight stages.** [The plan is stage four](/blog/control-cycle-management/). Two later stages carry it: structures (a payment service, a subscriber list, automated emails) and weekly observation. Skip them, and a page stays a page. [Chapter 7](https://www.amazon.com/dp/B0HPCJCWKF).
 - **Steady mode and manoeuvre.** Elena's switch runs in three periods, at the pace of the process, not the calendar. Judge the book after its first month, and you call a working plan a failure. Chapter 10.
 
-The page sits inside the whole loop: goal, state, error, levers, plan, forecast. It is one link, not the chain.
+The page sits inside [the whole loop](https://github.com/mjirgensons/jirgenson-canon): goal, state, error, levers, plan, forecast. It is one link, not the chain.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

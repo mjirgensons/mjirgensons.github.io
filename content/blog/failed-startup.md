@@ -11,7 +11,7 @@ answer: "A failed startup is usually a warning nobody read in time. Subtract the
 
 **Seven out of ten startups die when the money runs out. But the money is almost never what killed them.**
 
-It didn't have to end there. The cash ran out on the last day, but the signal was on the panel months earlier, on a number nobody had marked red. Some of those startups might have lived if their founders had steered with a control system, the Jirgenson Model. The odds could have looked different.
+It didn't have to end there. The cash ran out on the last day, but the signal was on the panel months earlier, on a number nobody had marked red. Some of those startups might have lived if their founders had steered with a [control system, the Jirgenson Model](/blog/jirgenson-model-management-method/). The odds could have looked different.
 
 Think of a founder's dashboard in a good week. A wall of charts. Every line wears a colour the designer picked because it looked nice. Not one of them says "stop".
 
@@ -21,11 +21,11 @@ The Jirgenson Model is scientifically proven to work ([Zenodo record](https://do
 
 ## A failed startup misreads its error
 
-The model calls the gap between the goal and the actual value the error. You work it out for each row: actual minus goal. The sign shows the direction.
+[The model](https://github.com/mjirgensons/jirgenson-model) calls the gap between the goal and the actual value the error. You work it out for each row: actual minus goal. The sign shows the direction.
 
 On its own, though, the figure says nothing about urgency. Minus six points of margin: a lot, or not? Nobody can tell from the number alone.
 
-So add thresholds, and set them in advance. Picture an engine temperature gauge with three coloured sectors. Green: drive on. Yellow: pay attention. Red: stop. You don't strip the engine apart. You look at which sector holds the needle.
+So add [thresholds](/blog/kpi-zones/), and set them in advance. Picture an engine temperature gauge with three coloured sectors. Green: drive on. Yellow: pay attention. Red: stop. You don't strip the engine apart. You look at which sector holds the needle.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the error is the gap between the goal and the current state, worked out row by row as actual minus goal. Each row gets three zones, set in a calm moment: normal, acceptable and emergency. A fourth, undefined, marks a row with missing or stale data. The zone, not the size of the number, decides what you do next.</div>
 
@@ -59,7 +59,7 @@ Now build yours.
 2. **Write today's value next to each.** Take it from a source you can open: the bank, the accounts, the order book.
 3. **Subtract.** Actual minus goal. Keep the sign.
 4. **Draw three zones per row.** Normal: within tolerance. Acceptable: worse, but no damage to the structure. Emergency: past the limit, with nothing irreversible yet.
-5. **Put the red line where damage turns hard to reverse.** Andrew drew it at one month of reserve. A month gives him time to ask for a deferral, find money and decide.
+5. **Put the red line where damage turns hard to reverse.** Andrew drew it at [one month of reserve](/blog/cash-reserve-months-of-expenses/). A month gives him time to ask for a deferral, find money and decide.
 6. **Make every zone wider than your measurement error.** A margin figure that can be a point off makes a half-point green band useless.
 7. **Mark rows with no data, or stale data, as undefined.** Measure them first. Undefined is not normal.
 8. **Write the lines down tonight, then leave them alone.** Moving a threshold mid-crisis bends the yardstick to fit the result.
@@ -84,7 +84,7 @@ The yellow zone is the most treacherous one. Nothing is on fire, so nothing gets
 
 Andrew's regular customers sat at 25% against a goal of 40%. Yellow. He did not know the cause. So he wrote "find out" in his task list, and that line was a result too.
 
-Green asks for the opposite. If a row is normal, leave it alone. Fixing what works is cost without a goal, and a favourite hobby of busy teams.
+Green asks for the opposite. If a row is normal, leave it alone. Fixing what works is cost without a goal, and a favourite hobby of [busy teams](/blog/busy-but-not-profitable/).
 
 **How to avoid it:** put paying customers and repeat orders on the panel as rows with zones. The week a row turns yellow, answer the three questions in writing.
 
@@ -107,9 +107,9 @@ The zones answer "when do I act?". The red protocol answers "what do I do when s
 1. **Check for a direct threat** to people, safety, mandatory payments or the law. If there is one, protect and escalate first.
 2. **Freeze secondary work.** Anything that does not bring the red number back waits.
 3. **Concentrate** time, money and attention on the red number and the levers that move it.
-4. **With several reds,** start with the one closest to irreversible damage. Other things being equal, save the goal you would give up last.
+4. **With several reds,** start with the one closest to irreversible damage. Other things being equal, save [the goal you would give up last](/blog/set-priorities-refusal-order/).
 
-Elena, a freelance designer in the same examples, shows how it runs. One client brought 70% of her income against a goal of 30% at most. Above 50% is her red. Then the tax authority froze her account: a second red.
+Elena, a freelance designer in the same examples, shows how it runs. [One client](/blog/client-concentration-freelancer/) brought 70% of her income against a goal of 30% at most. Above 50% is her red. Then the tax authority froze her account: a second red.
 
 Income is her goal number one, and the frozen account hit it directly. So she put the client problem on hold and turned all her attention to the account. Then she went back to the second red.
 
@@ -143,10 +143,10 @@ The cause is still open. The zones say a row is red. They do not say which lever
 
 Two steps close that gap.
 
-- **Levers.** What you control, what you only watch, and three questions to test any lever before you pull it. Chapter 5.
+- **Levers.** [What you control](/blog/levers-of-control/), what you only watch, and three questions to test any lever before you pull it. [Chapter 5](https://www.amazon.com/dp/B0HPCJCWKF).
 - **Two forecasts.** "If nothing changes" against "if the plan works", so you see the red before it arrives. Chapter 8.
 
-The zones sit at one stage of the loop: goal, state, error, levers, plan, forecast. For the three anchor checks to run before launch, read [why startups fail](/blog/why-startups-fail/).
+The zones sit at one stage of [the loop](https://github.com/mjirgensons/jirgenson-canon): goal, state, error, levers, plan, forecast. For the three anchor checks to run before launch, read [why startups fail](/blog/why-startups-fail/).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

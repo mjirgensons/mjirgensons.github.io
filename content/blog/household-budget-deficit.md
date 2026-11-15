@@ -11,13 +11,13 @@ answer: "A household budget in deficit needs an order before it needs cuts. Take
 
 You both know the price of every streaming service.
 
-Neither of you knows how many months your savings will last.
+Neither of you knows [how many months your savings will last](/blog/months-of-runway/).
 
-So the money talk happens at the end of the month. It starts with a bank alert. It ends with "you always" and "you never". Nobody wins, and next month the gap is still there.
+So [the money talk](/blog/couples-budget/) happens at the end of the month. It starts with a bank alert. It ends with "you always" and "you never". Nobody wins, and next month the gap is still there.
 
 That is not a money problem yet. It is a missing order.
 
-A month-end money fight means a missing order, not a missing cut. The Jirgenson Model gives a household that order: goals ranked, real numbers, and one lever at a time. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A month-end money fight means a missing order, not a missing cut. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives a household that order: goals ranked, real numbers, and one lever at a time. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Emma and Paul, €400 short every month
 
@@ -44,7 +44,7 @@ Start with facts. Emma and Paul took their numbers from three months of bank sta
 | Reserve | Savings divided by monthly expenses | 0.45 months | At least 3 months | 🔴 |
 | Time until the savings run out | Savings divided by the monthly shortfall | 5 months | Watch | |
 
-Two rows look alike and are not. The reserve says how long you could live with no income at all: 2,000 / 4,400, about 0.45 months. The second says how long the current leak takes to empty the account: 2,000 / 400, five months. Watch both.
+Two rows look alike and are not. [The reserve](/blog/cash-reserve-months-of-expenses/) says how long you could live with no income at all: 2,000 / 4,400, about 0.45 months. The second says how long the current leak takes to empty the account: 2,000 / 400, five months. Watch both.
 
 Then read the trajectory, not only the point. Their income was flat. Their expenses were rising. A single month would have hidden that.
 
@@ -54,7 +54,7 @@ Now copy the table. Six rows. One evening. The bank statement is the only source
 
 A deficit invites a list of good intentions. "Spend less." "Be careful." "Earn more." None of them is something you can do tomorrow morning.
 
-So write down only the moves you can make yourselves. Then put each one through three questions:
+So write down only [the moves you can make yourselves](/blog/levers-of-control/). Then put each one through three questions:
 
 1. Can we do it ourselves, today?
 2. How long before the effect shows on the statement?
@@ -67,7 +67,7 @@ Here is how Emma and Paul's two real moves look through those questions (our rea
 | Cut subscriptions and eating out by €180 | Yes | Next statement | Easy |
 | A side job bringing in €300 a month | Needs finding first | After the first pay | Harder: it costs evenings |
 
-The rule that follows: fast and reversible first, slow and heavy second. That is the answer to "what to cut first". Not the biggest item. The one you can move today and see clearly next month.
+The rule that follows: [fast and reversible first](https://github.com/mjirgensons/jirgenson-canon), slow and heavy second. That is the answer to "what to cut first". Not the biggest item. The one you can move today and see clearly next month.
 
 Rent, energy prices and the bank's rates do not go on this list. You can watch them. You cannot pull them.
 
@@ -89,9 +89,9 @@ With both levers, the €400 gap becomes a surplus of €80 a month. The savings
 
 Every plan needs a line it will not cross, even if crossing it would close the gap faster. Write it in a calm hour, because in a tense one the mind offers quick, foolish moves.
 
-Alex, thirteen, saving for a bicycle, wrote his in one line: do not borrow money. Yours might name the loan you will not take or the bill you will never pay late.
+Alex, thirteen, [saving for a bicycle](/blog/save-for-a-goal/), wrote his in one line: do not borrow money. Yours might name the loan you will not take or the bill you will never pay late.
 
-Then rank your family goals with one question. If things got bad, which goal would you give up first? Which would you defend to the last? Write the order down while nobody is angry. Next month it settles the argument before it starts.
+Then [rank your family goals](/blog/set-priorities-refusal-order/) with one question. If things got bad, which goal would you give up first? Which would you defend to the last? Write the order down while nobody is angry. Next month it settles the argument before it starts.
 
 ## The cost of doing nothing
 
@@ -109,8 +109,8 @@ The cause sits deeper. You still do not know the date your money runs out under 
 
 Two steps close the gap:
 
-- **Two forecasts, in numbers and dates.** "If nothing changes" against "if the plan works", and who in the family looks ahead. Chapter 8.
-- **The backward move.** From the three-month reserve back to this week's first action, with the resources checked at every step. Chapter 15.
+- **Two forecasts, in numbers and dates.** ["If nothing changes" against "if the plan works"](/blog/forecast-cash-flow/), and who in the family looks ahead. Chapter 8.
+- **The backward move.** From the three-month reserve back to this week's first action, with the resources checked at every step. [Chapter 15](https://www.amazon.com/dp/B0HPCJCWKF).
 
 The same loop runs a coffee shop: see [how to build a management system in a week](/blog/management-system-small-business/).
 

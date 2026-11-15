@@ -11,11 +11,11 @@ answer: "Plan your first business backwards. Write the finished state precisely:
 
 **Only one business application in ten ever turns into a company that hires anyone.**
 
-It didn't have to be that way. Some of those nine might have hired their first person if the owner had steered with a control system instead of a hunch. With the Jirgenson Model, that number could look different. Not a promise. A different set of odds.
+It didn't have to be that way. Some of those nine might have hired their first person if the owner had steered with a [control system](/blog/jirgenson-model-management-method/) instead of a hunch. With the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model), that number could look different. Not a promise. A different set of odds.
 
 Now picture your own version. A notebook on the kitchen table. Page one says "Month 1: register the company". Page two says "Month 2: website". By page four the plan turns into fog, and the fog has a name: "then it grows".
 
-Forward plans for a first business tend to end like this. Every step opens ten new options, and by month six you are guessing. The fix is to start at the other end.
+Forward plans for a first business tend to end like this. Every step opens ten new options, and by month six you are guessing. The fix is to [start at the other end](/blog/backward-planning/).
 
 The Jirgenson Model is scientifically proven to work ([Zenodo record](https://doi.org/10.5281/zenodo.23964934)). It is new, so it could not help the businesses behind these numbers. Now it can help yours.
 
@@ -70,7 +70,7 @@ Fear grows in the dark. A plan with checkpoints switches on the light. Some of t
 
 The backward chain gives you that for free. Every row is a checkpoint with a date.
 
-Alex is thirteen and wants a €300 bicycle by 1 September. He walks backwards: €235 on 1 August, €170 on 1 July, €105 on 1 June, €40 on 1 May, the day he drew the plan. On 1 June he has €90. The plan said €105. The gap of €15 jumps off the page at the first checkpoint, while there is still time to add a lever.
+Alex is thirteen and [wants a €300 bicycle](/blog/save-for-a-goal/) by 1 September. He walks backwards: €235 on 1 August, €170 on 1 July, €105 on 1 June, €40 on 1 May, the day he drew the plan. On 1 June he has €90. The plan said €105. The gap of €15 jumps off the page at the first checkpoint, while there is still time to add a lever.
 
 He does not count "in round terms". He goes from checkpoint to checkpoint.
 
@@ -84,7 +84,7 @@ Take Alex again. On 1 June he still needs €150 over three months: €50 a mont
 
 Now let him wait one month before he starts. He still has €90 on 1 July. The same €150 must now come in two months: €75 a month. His levers still bring €50. On 1 September he is €50 short, and the bicycle stays in the shop window.
 
-A business feels the same squeeze in months of costs. Take Andrew, the coffee shop owner in the model's examples. At a 15% margin, his cash reserve at M8 sat 0.27 months above what his chain required. Change nothing, at 12%, and that room shrinks to 0.11. One breakdown would eat almost all of it.
+A business feels the same squeeze in months of costs. Take Andrew, the coffee shop owner in the model's examples. At a 15% margin, his [cash reserve](/blog/cash-reserve-months-of-expenses/) at M8 sat 0.27 months above what his chain required. Change nothing, at 12%, and that room shrinks to 0.11. One breakdown would eat almost all of it.
 
 Andrew once sketched a five-year goal of ten coffee shops. Walking back from M72 showed the main thing. If he does not free his hands today to write operating procedures, he has almost no chance of ten shops in five years. The mistake shows up today, not in year five.
 
@@ -110,7 +110,7 @@ For the rest, use five questions. Can the task be split into steps? Do you know 
 
 It does not promise the goal is reachable. It shows what must be true. That honesty is the point: until you name the start, the end and the moves between them, the method produces nothing.
 
-One more check. The goal must sit inside something that is growing. A perfect route to a shop on a dying street still ends in a dead end.
+One more check. The goal must sit inside [something that is growing](/blog/external-factors-business/). A perfect route to a shop on a dying street still ends in a dead end.
 
 ## Where the backward chain stops
 
@@ -120,10 +120,10 @@ The cause of most stalled first starts is still open. A chain built on a wrong s
 
 Two steps close that gap.
 
-- **A measured starting point.** One source for every number, so the chain starts where you are, not where you hope you are. Chapter 2.
-- **Zones.** Lines set in advance between green, yellow and red for each checkpoint, so you know when a miss calls for action. Chapter 4.
+- **A measured starting point.** [One source for every number](/blog/financial-health-check/), so the chain starts where you are, not where you hope you are. [Chapter 2](https://www.amazon.com/dp/B0HPCJCWKF).
+- **Zones.** [Lines set in advance](/blog/kpi-zones/) between green, yellow and red for each checkpoint, so you know when a miss calls for action. Chapter 4.
 
-The chain is one part of a loop that runs goal, state, gap, levers, plan, forecast. For a calm way to make the start decision itself, see [fear of failure in business](/blog/fear-of-failure-business/).
+The chain is one part of [a loop](https://github.com/mjirgensons/jirgenson-canon) that runs goal, state, gap, levers, plan, forecast. For a calm way to make the start decision itself, see [fear of failure in business](/blog/fear-of-failure-business/).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

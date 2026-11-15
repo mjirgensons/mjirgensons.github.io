@@ -11,7 +11,7 @@ answer: "How often to review KPIs follows from two rules. Look at a number befor
 
 You can look at a number too often. You can also look at it too late, and the second mistake costs more.
 
-Imagine it is Wednesday. You have opened the bank app six times since breakfast. Your real margin? You last saw it when the accountant sent last year's figures.
+Imagine it is Wednesday. You have opened the bank app six times since breakfast. [Your real margin](/blog/how-to-calculate-profit-margin/)? You last saw it when the accountant sent last year's figures.
 
 The balance moves by the hour, so it gets your attention all day. The margin decides whether the year ends in profit, so it gets one look a year.
 
@@ -19,7 +19,7 @@ Then the opposite mistake. You raise prices on Monday. By Friday the till looks 
 
 Both mistakes have one root: nobody set the rhythm. Here is how to set it, number by number, in about fifteen minutes.
 
-The balance gets a look all day, the margin once a year. The Jirgenson Model sets the rhythm: zones that warn in time, levers judged once their loop turns. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+The balance gets a look all day, the margin once a year. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) sets the rhythm: zones that warn in time, levers judged once their loop turns. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## How often to review KPIs: two rules, not a calendar
 
@@ -32,7 +32,7 @@ So each number gets two questions:
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the review rhythm follows the speed of change and the time until damage. Two working rules set it. The observation rule: look often enough that a number cannot cross its whole yellow band unseen between two looks. The assessment rule: never judge a lever before its loop delay has passed, or you are judging noise.</div>
 
-The yellow band is the acceptable zone: worse than normal, but no damage yet. The loop delay is the time from a change you make to its effect in your figures.
+[The yellow band](/blog/kpi-zones/) is the acceptable zone: worse than normal, but no damage yet. The loop delay is the time from a change you make to its effect in your figures.
 
 Importance does not set the rhythm. Speed does.
 
@@ -52,7 +52,7 @@ Notice what decided each answer. Not how much the number matters. How fast it mo
 
 ## Rule two: judge a lever only after its loop has turned
 
-Looking and judging are different jobs. Every change travels a loop with four delays. Here is Andrew's price rise:
+[Looking and judging are different jobs](https://github.com/mjirgensons/jirgenson-canon). Every change travels [a loop with four delays](/blog/phase-lag-management/). Here is Andrew's price rise:
 
 | Delay | What happens | Andrew's figure |
 |---|---|---|
@@ -66,11 +66,11 @@ So the first honest check of the margin plan falls in month 2, not month 1. Judg
 
 Daily receipt counts cut the first delay to one day. The last delay stays put. Guests do not change their habits faster because you count faster.
 
-An early verdict has a price. Picture Andrew's first rainy week with no list of outside factors. Sales drop. He decides the plan has failed and changes his prices. The cause was the weather. He throws away a plan that worked.
+An early verdict has a price. Picture Andrew's first rainy week with no [list of outside factors](/blog/external-factors-business/). Sales drop. He decides the plan has failed and changes his prices. The cause was the weather. He throws away a plan that worked.
 
 ## Set your own rhythm in fifteen minutes
 
-Take your small business KPIs, five to nine rows. Add a few columns to your KPI dashboard template and fill them in:
+Take your small business KPIs, five to nine rows. Add a few columns to your [KPI dashboard template](/blog/traffic-light-dashboard/) and fill them in:
 
 1. **Yellow band width.** The distance from where "fine" ends to where "trouble" starts. No zones yet? Write your honest rough guess.
 2. **Fastest bad change.** The steepest move you can expect in a bad period. No history? Take twice the worst move you have seen.
@@ -100,13 +100,13 @@ Complaints that climb two a week go from two to ten in four weeks. A monthly loo
 
 Six extra months of checking the bank app before every supplier payment. That is what a missing rhythm buys.
 
-"I have no time for weekly reviews." Andrew had none either. Once the numbers had a rhythm and a shared sheet, his Monday meeting shrank from an hour to fifteen minutes. There was nothing left to argue about.
+"I have no time for weekly reviews." Andrew had none either. Once the numbers had a rhythm and a shared sheet, his [Monday meeting](/blog/meeting-cadence/) shrank from an hour to fifteen minutes. There was nothing left to argue about.
 
 ## Key business metrics for startups: rhythm without history
 
 A new business has no record of how fast things go wrong. The two rules still work. Guess the fastest change on the high side and start with the quicker rhythm.
 
-Leading indicators matter most here. Elena, a freelance designer, launched her first book with no track record. Every week she checks visits to the book's page and the share who buy. Every week she compares her forecast with the real figures.
+[Leading indicators](/blog/what-is-a-leading-indicator/) matter most here. Elena, a freelance designer, launched her first book with no track record. Every week she checks visits to the book's page and the share who buy. Every week she compares her forecast with the real figures.
 
 ## Where the rhythm does not reach
 
@@ -116,7 +116,7 @@ The cause sits one level deeper. Rule one runs on the width of your yellow band,
 
 Two steps close that gap.
 
-- **Zone thresholds and the red protocol**. Where green ends and red begins for each number, and what you drop first when two rows go red in the same week. Chapter 4.
+- **Zone thresholds and the red protocol**. Where green ends and red begins for each number, and what you drop first when two rows go red in the same week. [Chapter 4](https://www.amazon.com/dp/B0HPCJCWKF).
 - **Two forecasts and control by forecast**. "If nothing changes" against "if the plan works", in numbers and dates, so you act before the needle moves. Chapters 8 and 9.
 
 The rhythm needs a panel to look at. The five-row panel and how to build it are in [small business KPIs](/blog/small-business-kpis/).

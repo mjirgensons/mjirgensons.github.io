@@ -13,14 +13,14 @@ Every autumn the same ritual begins. A fresh notebook, a quiet evening, a list o
 
 The list was not too ambitious. It was unfinished. It had wishes without numbers, numbers without a starting point, and no order for the day two of them collide. Here is a way to set goals for next year that survives February, in three passes: tonight, this week, this month.
 
-Wishes without numbers or an order don't survive February. The Jirgenson Model turns them into goals in order, with real numbers, zones, a forecast and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Wishes without numbers or an order don't survive February. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) turns them into goals in order, with real numbers, zones, a forecast and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Goals for next year, tonight: five wishes and one honest order
 
 Take a sheet of paper. It takes less than an hour.
 
 1. **Write five things you want from the coming year,** in your business, a project or your life.
-2. **Run the refusal test.** Imagine you have half the resources and cross the wishes out one at a time, first what you would give up first. Number them in reverse: whatever you crossed out last is number one.
+2. **Run the refusal test.** Imagine you have half the resources and cross the wishes out one at a time, first what you would give up first. Number them in reverse: [whatever you crossed out last is number one](/blog/set-priorities-refusal-order/).
 3. **Write where you stand today on each,** as a number.
 4. **Choose one lever for tomorrow:** one action you can take yourself.
 5. **Pick a day and time this week** to look at the sheet again.
@@ -42,7 +42,7 @@ To keep next year's goals from leaning to one side, walk through six areas and t
 | People | Team, workload, turnover | none in his list |
 | Development and owner | Projects, and the owner's own time, health, money | No more than 40 hours a week by month 12 |
 
-The last area is the one owners forget. If you are building a business at the cost of your own life, that too is a goal, and it is better chosen consciously. And an empty area is fine, as long as it is empty on purpose and the reason is written down.
+[The last area is the one owners forget](/blog/goal-setting-for-entrepreneurs/). If you are building a business at the cost of your own life, that too is a goal, and it is better chosen consciously. And an empty area is fine, as long as it is empty on purpose and the reason is written down.
 
 ## This week: turn wishes into a working table
 
@@ -50,7 +50,7 @@ The second pass turns the sheet into something you can steer by:
 
 1. **Draw up a table of goals:** no more than nine rows, and six fields in each (what you measure, how and from where, target and deadline, current value, permissible deviation, who checks it and how often).
 2. **Give each number a single data source:** bank statement, accounts, till, calendar.
-3. **Fill in where you stand and set three zones:** normal, acceptable, emergency.
+3. **Fill in where you stand and set three zones:** [normal, acceptable, emergency](/blog/kpi-zones/).
 4. **Write a one-page plan for the reddest or yellowest row:** levers, resources, constraints, a leading indicator, a deadline.
 5. **Hold your first short meeting on Monday.** Look at nothing but the colours.
 
@@ -61,22 +61,22 @@ The six fields are explained with a full example in [how to set measurable goals
 The third pass is where most annual goal setting never goes, and where most annual goals are saved or quietly killed:
 
 1. **Check that nothing is missing:** goals, current state, gaps and zones, levers, a plan per goal, who is responsible, a forecast, how you will steer, and whether this is a steady year or a big change.
-2. **Check three classic failures:** goals that cannot be met together; a starting number that is wrong; a market around you that is shrinking.
+2. **Check three classic failures:** goals that cannot be met together; a starting number that is wrong; [a market around you that is shrinking](/blog/external-factors-business/).
 3. **Draw two forecasts with numbers and dates:** if nothing changes, and if the plan works.
 4. **Plan backwards from each goal to this week,** checking money, people and time at every step. A [backward planning template](/blog/backward-planning-template/) shows one filled in.
 5. **Set a review rhythm:** levers weekly; fast numbers weekly and slow ones monthly; the plans quarterly; the goals themselves every six months.
 
-That last line is what keeps next year's goals alive past February. A goal looked at weekly is a goal. A goal looked at in December is a memory.
+That last line is what keeps next year's goals alive past February. [A goal looked at weekly](/blog/how-often-to-review-kpis/) is a goal. A goal looked at in December is a memory.
 
 ## Goal setting for startups and entrepreneurs: the same, smaller
 
 A founder with no history and no team does not need a different method, only a smaller table. Three goals instead of five. Current values that may be zero (zero is a number). A data source that may be a notebook. The order matters even more: a startup with no reserve and three equally urgent goals will let fatigue choose between them.
 
-A freelance designer in the book shows the scale. Three goals for the year: a three-month average income of at least €3,000 a month by month 14; no single client above 30% of income; no more than 35 working hours a week, except for three planned months of up to 55 while writing her first online book. She reached all three. The exception, decided in advance with an end date, is what made the long months possible without guilt.
+A freelance designer in [the book](https://www.amazon.com/dp/B0HPCJCWKF) shows the scale. Three goals for the year: a three-month average income of at least €3,000 a month by month 14; no single client above 30% of income; no more than 35 working hours a week, except for three planned months of up to 55 while writing her first online book. She reached all three. The exception, decided in advance with an end date, is what made the long months possible without guilt.
 
 ## Where this does not reach
 
-A good process does not make a goal the right one, and it does not make a weak market strong; that is what the three checks are for. Big changes in the year (a move, a second location, a new product) are a different mode with their own entry conditions. And goals shared with partners or a team must be reconciled with theirs; your list is where that conversation starts.
+A good process does not make a goal the right one, and it does not make a weak market strong; that is what the three checks are for. Big changes in the year (a move, a second location, a new product) are [a different mode](https://github.com/mjirgensons/jirgenson-canon) with their own entry conditions. And goals shared with partners or a team must be reconciled with theirs; your list is where that conversation starts.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

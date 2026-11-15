@@ -19,7 +19,7 @@ They looked at each other and burst out laughing. Neither of them knew. The coff
 
 That laugh is where every honest financial health check begins. Not with a dashboard or software, but with the discovery that "lots", "roughly" and "not many complaints" are not measurements. They are moods.
 
-"Lots" isn't a number, and a mood can't steer a business. The Jirgenson Model starts where that laugh ends: real numbers next to goals in order, each with a source and a zone. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+"Lots" isn't a number, and a mood can't steer a business. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) starts where that laugh ends: real numbers next to goals in order, each with a source and a zone. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Financial health check: why a feeling is not a reading
 
@@ -29,7 +29,7 @@ Most small businesses run like that car. Decisions are made by feel, and feel re
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the state vector is the list of current values that mirrors your goals row by row, in the same order: the goal, and beside it the state. Every value has one definition, one primary source and one person responsible for it.</div>
 
-Two enemies show up at this moment, and they look like opposites. Panic says "all is lost". Bravado says "never mind, we'll pull through". Both put feelings in place of facts. An instrument shows; it does not scold.
+Two enemies show up at this moment, and they look like opposites. Panic says "all is lost". Bravado says "never mind, we'll pull through". Both put [feelings in place of facts](/blog/gut-feeling-vs-numbers-business/). An instrument shows; it does not scold.
 
 ## The business health check template: three columns, one evening
 
@@ -60,13 +60,13 @@ The fastest way to stop arguing about numbers is to agree, once, where each one 
 | People | Working time and workload records |
 | Owner | List of projects with deadlines; the owner's hours; the owner's personal budget |
 
-One parameter, one source. Other sources are for cross-checking, never for replacing. If the accounts count revenue one way and the till another, the argument over which is right will eat more energy than the business.
+[One parameter, one source](https://github.com/mjirgensons/jirgenson-canon). Other sources are for cross-checking, never for replacing. If the accounts count revenue one way and the till another, the argument over which is right will eat more energy than the business.
 
 ## Turn a number into money
 
-A reserve of "0.5 months" sounds abstract until you convert it. At €30,000 revenue and a 9% margin, Andrew's monthly expenses are €27,300. Half a month is €13,650 in the bank. The goal, two months, is €54,600. The shortfall is €40,950.
+A [reserve](/blog/cash-reserve-months-of-expenses/) of "0.5 months" sounds abstract until you convert it. At €30,000 revenue and a 9% margin, Andrew's monthly expenses are €27,300. Half a month is €13,650 in the bank. The goal, two months, is €54,600. The shortfall is €40,950.
 
-And one month at a 9% margin adds €2,700, about 0.1 months of reserve. Now the health check has turned into a timetable: at this pace the gap closes slowly, which is exactly why the margin row matters so much. Small business KPIs only become useful when they are linked like this, one row explaining the next.
+And one month at a 9% margin adds €2,700, about 0.1 months of reserve. Now the health check has turned into a timetable: at this pace the gap closes slowly, which is exactly why [the margin row](/blog/how-to-calculate-profit-margin/) matters so much. [Small business KPIs](/blog/small-business-kpis/) only become useful when they are linked like this, one row explaining the next.
 
 ## Define it, or it will drift
 
@@ -81,13 +81,13 @@ Two more checks belong in every financial health check:
 
 ## Ways to measure business performance beyond the panel
 
-The five readings are not the whole business. Two coffee shops with identical numbers can face very different futures because of what sits behind the panel: obligations, the term of the lease, the wear on the equipment, the team's skills. When you look forward, look behind the instruments too.
+The five readings are not [the whole business](/blog/how-to-measure-business-performance/). Two coffee shops with identical numbers can face very different futures because of what sits behind the panel: obligations, the term of the lease, the wear on the equipment, the team's skills. When you look forward, look behind the instruments too.
 
 And watch for the indicator that changes behaviour. If complaints stop being recorded, there will be "fewer" of them. Wherever that can happen, add a protective indicator and an independent check, such as a mark at the till alongside the notebook.
 
 ## Where this does not reach
 
-A health check tells you where you are; it does not tell you what to do. It is the second step, after writing down what you want and before deciding which rows are in trouble and which levers to pull. It is also not a substitute for an accountant's view of taxes, debt and cash timing. What it does is make sure every later decision rests on readings rather than on the loudest day of the month.
+A health check tells you where you are; it does not tell you what to do. In [the book](https://www.amazon.com/dp/B0HPCJCWKF), this is Chapter 2, Where you really are. It is the second step, after writing down what you want and before deciding [which rows are in trouble](/blog/kpi-zones/) and which levers to pull. It is also not a substitute for an accountant's view of taxes, debt and [cash timing](/blog/forecast-cash-flow/). What it does is make sure every later decision rests on readings rather than on the loudest day of the month.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

@@ -11,7 +11,7 @@ answer: "Goal setting for entrepreneurs starts with a row that is easy to leave 
 
 Andrew's goal list had five rows. The last one was him.
 
-He had worked 65 hours a week for so long that the number felt like the weather. When he ranked his goals, he put his own time in last place. He had known for years that he was tired. He had never written down that he was willing to trade his rest for the business.
+He had [worked 65 hours a week](/blog/business-owner-burnout/) for so long that the number felt like the weather. When he ranked his goals, he put his own time in last place. He had known for years that he was tired. He had never written down that he was willing to trade his rest for the business.
 
 Now picture your own list for next year. Revenue. A new client. A website, maybe a second location. Look for the row with your name on it: your hours, your free day, your own pay.
 
@@ -19,7 +19,7 @@ If that row is missing, the business has already decided how you will spend the 
 
 The till counted every cappuccino. Andrew's own working week he had to add up from the calendar.
 
-A goal list without your own row lets the business spend your year for you. The Jirgenson Model puts the owner back on the list, with goals in order, real hours and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A goal list without your own row lets the business spend your year for you. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) puts the owner back on the list, with goals in order, real hours and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Goal setting for entrepreneurs starts with the owner row
 
@@ -49,13 +49,13 @@ Andrew: 65 hours a week. Elena: 50 hours a week.
 | Permissible deviation | Up to 42 counts as normal |
 | Who checks, how often | Andrew, every week |
 
-**3. Rank the row with the refusal test.** Imagine you have half the resources. Cross out goals one at a time, starting with the one you would give up first. The last one standing is number one.
+**3. Rank the row with the refusal test.** Imagine you have half the resources. Cross out goals one at a time, starting with the one you would give up first. [The last one standing is number one](/blog/set-priorities-refusal-order/).
 Andrew crossed out his hours first and defended the cash reserve to the end. Elena did the same with her time and kept her income last.
 
 **4. Give any overload an end date.** If you know a heavy stretch is coming, write it into the goal before it starts.
 Elena: no more than 35 hours a week, except from month 1 to month 3 while she writes her first online book. In those three months, up to 55.
 
-**5. Write your hard limit as a constraint.** The load a person can bear sits with the law, safety and contracts. Those rules come before the list. They are not ranked, and they are never given up in turn.
+**5. Write your hard limit as a constraint.** The load a person can bear [sits with the law, safety and contracts](/blog/goal-hierarchy/). Those rules come before the list. They are not ranked, and they are never given up in turn.
 
 That is the whole tool. One row, measured, ranked, with its exceptions dated in advance.
 
@@ -73,7 +73,7 @@ Here is Elena's whole list, in refusal order. Three rows are enough.
 
 Each area gets zero to three goals, and the whole list stops at nine. An empty area is fine, as long as you leave it empty on purpose and write down why.
 
-The same holds for goal setting for startups. A founder with no history writes the same rows. A first month of zero is still a measured value, and it beats a hopeful guess.
+The same holds for goal setting for startups. A founder with no history writes the same rows. A first month of zero is still [a measured value](/blog/financial-health-check/), and it beats a hopeful guess.
 
 And it holds for goal setting for small business owners with a team. Andrew's list had five rows: cash reserve, margin, regular customers, complaints, and his hours. His row was fifth. He put it there with a clear head.
 
@@ -87,7 +87,7 @@ Compare two versions of the same year (illustration).
 | A heavy month arrives | Overtime happens and stays | Overtime has a start, a cap and an end |
 | A bad month arrives | Fatigue picks what to drop | The order picks, decided weeks earlier |
 
-Here is what the second column produced. By month 14 Elena earned €3,000 a month from four sources. Her main client paid €900, packages €1,200, repeat orders €300 and the book about €600. Her main client's share fell to 30%. Her week went back to 35 hours. The book sells 21 copies a month without her daily work.
+Here is what the second column produced. By month 14 Elena earned €3,000 a month from four sources. Her main client paid €900, packages €1,200, repeat orders €300 and the book about €600. [Her main client's share](/blog/client-concentration-freelancer/) fell to 30%. Her week went back to 35 hours. The book sells 21 copies a month without her daily work.
 
 A year in, Andrew worked 44 hours instead of 65. The 40-hour goal was not reached, and he knew it. But for the first time in three years he had lunch at home on Sundays.
 
@@ -95,7 +95,7 @@ A year in, Andrew worked 44 hours instead of 65. The 40-hour goal was not reache
 
 Now take the other path. Andrew could have called all five goals equally important.
 
-A week later the supplier raises the price of milk. Sara asks for another barista for the Friday shifts. Andrew agrees, because he is tired and does not want to argue. A month later he finds he ran out of money before he ran out of time. Nobody chose that. Fatigue did.
+A week later the supplier raises the price of milk. Sara asks for another barista for the Friday shifts. Andrew agrees, because he is tired and does not want to argue. A month later he finds he ran out of money before he ran out of time. Nobody chose that. [Fatigue did](/blog/decision-fatigue-small-business/).
 
 The money side is blunt. At the old 9% margin, his reserve reaches two months of expenses at month 16. With an order and a plan, at month 10. Six extra months with every breakdown one step from a crisis.
 
@@ -111,10 +111,10 @@ The cause can still win. You can see 44 hours, but you do not know at what point
 
 Two steps close that gap.
 
-- **Zone thresholds and the red protocol.** Where normal ends and an emergency begins, and what to do first when several rows turn red. Chapter 4.
+- **Zone thresholds and the red protocol.** [Where normal ends and an emergency begins](/blog/kpi-zones/), and what to do first when several rows turn red. [Chapter 4](https://www.amazon.com/dp/B0HPCJCWKF).
 - **The manoeuvre.** Launch conditions, stop conditions and a corridor for any planned push, so a three-month sprint stays three months. Chapter 10.
 
-The goal row is the first of six steps: goal, state, error, levers, plan, forecast.
+The goal row is the first of [six steps](https://github.com/mjirgensons/jirgenson-canon): goal, state, error, levers, plan, forecast.
 
 "I have no time for this." The first pass takes about 30 minutes: five wishes, the refusal test, today's numbers, one lever, one review date. Andrew wrote his ranked list in fifteen minutes. The full plan for next year, from tonight to this month, is in [how to set goals for next year](/blog/goals-for-next-year/).
 

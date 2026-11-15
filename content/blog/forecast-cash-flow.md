@@ -15,7 +15,7 @@ The first is loud: "We're going bust in three months." The team hears it, the be
 
 The second is quiet: "If nothing changes, we reach a safe reserve only in month sixteen. If the plan works, in month ten. Here is what we are doing this week." Same numbers, opposite effect. That second sentence is what a cash flow forecast is for.
 
-A forecast said out loud can sink the business it describes. The Jirgenson Model gives you the calm version: real numbers, a forecast as a range, and a plan for this week. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A forecast said out loud can sink the business it describes. The [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the calm version: real numbers, a forecast as a range, and a plan for this week. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## How to forecast cash flow: start with two lines
 
@@ -24,7 +24,7 @@ You do not need software for a first forecast. You need two lines, drawn with nu
 1. **If nothing changes.** Today's margin, today's costs, today's habits, carried forward.
 2. **If the plan works.** The same, with the effect of the levers you are actually going to pull.
 
-Here are a coffee shop owner's two lines, drawn in month one. Revenue is about €30,000 a month, the reserve is half a month of expenses, the goal is two months. The numbers are illustrative and simplified: all operating profit goes into the reserve, and monthly expenses stay constant.
+Here are a coffee shop owner's two lines, drawn in month one. Revenue is about €30,000 a month, [the reserve](/blog/cash-reserve-months-of-expenses/) is half a month of expenses, the goal is two months. The numbers are illustrative and simplified: all operating profit goes into the reserve, and monthly expenses stay constant.
 
 | | If nothing changes | If the plan works |
 |---|---|---|
@@ -33,7 +33,7 @@ Here are a coffee shop owner's two lines, drawn in month one. Revenue is about �
 | Goal of 2.0 months reached | month 16 | month 10 |
 | Against a deadline of month 12 | four months late | two months early |
 
-Look at the bottom row for a moment. Same shop, same street, same coffee. Six months of difference, made entirely of decisions about prices, menu and purchasing. Most owners never see this gap because they only ever draw one line, or none.
+Look at the bottom row for a moment. Same shop, same street, same coffee. Six months of difference, made entirely of [decisions about prices, menu and purchasing](/blog/business-levers/). Most owners never see this gap because they only ever draw one line, or none.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a forecast is not a prophecy but a hypothesis you test. It is always given as at least two scenarios, with numbers and dates, and it is compared with the actual figures on a fixed rhythm. A forecast that is never checked is just an opinion with a chart.</div>
 
@@ -48,9 +48,9 @@ That is not a reason to worry. It is a reason to keep the reserve growing, and a
 For anyone in deficit, there are two numbers worth knowing, and they are easily confused.
 
 - **Coverage:** reserve divided by monthly expenses. How many months of costs you hold.
-- **Time until the money runs out:** reserve divided by the net monthly outflow. How long until it is gone at today's pace.
+- **Time until the money runs out:** reserve divided by the net monthly outflow. [How long until it is gone](/blog/months-of-runway/) at today's pace.
 
-A family example makes the difference vivid. Emma and Paul earn €4,000 a month and spend €4,400; their savings are €2,000. Coverage: 2,000 / 4,400, about 0.45 months. Time until the money runs out: 2,000 / 400, five months. Two different questions, two different answers, and you need both.
+A [family example](/blog/household-budget-deficit/) makes the difference vivid. Emma and Paul earn €4,000 a month and spend €4,400; their savings are €2,000. Coverage: 2,000 / 4,400, about 0.45 months. Time until the money runs out: 2,000 / 400, five months. Two different questions, two different answers, and you need both.
 
 Then the scenarios. Cut subscriptions and eating out by €180 and the outflow falls to €220: about nine months. Add a side job of €300 and there is a surplus of €80; the time until the money runs out is no longer defined, because the savings grow. The full story of how they chose, and why they started with one lever, is in [how to save for a goal](/blog/save-for-a-goal/).
 
@@ -62,20 +62,20 @@ A forecast given as one number is almost always wrong. An honest one has a range
 
 That sentence does three jobs. It admits uncertainty. It names the assumption that matters most. And it tells you exactly which number to watch: if the margin slips below fourteen, the forecast is no longer valid and must be redrawn. Once a month, put the forecast next to the actual figure. The gap between them will teach you more about your business than any report.
 
-For a small business, the practical version is a rolling forecast of cash, enquiries and workload for the next three months, updated weekly or monthly. Modest, cheap, and the single biggest step from reacting to yesterday towards steering by tomorrow.
+For a small business, the practical version is a rolling forecast of cash, enquiries and workload for the next three months, updated weekly or monthly. Modest, cheap, and the single biggest step from [reacting to yesterday towards steering by tomorrow](/blog/reactive-vs-proactive-management/).
 
 ## Forecasting for small business: who is at the wheel decides how far you see
 
 On a busy Friday a new trainee panics at the coffee machine: the queue grows, orders get mixed up, the clean cups run out. The senior barista stands beside him, and twenty minutes later the queue is gone. She did not work faster. She knew what would happen next: when the wave from the office arrives, which order is about to be picked up, when to grind the next batch.
 
-Predictability lives in the pairing of the business and the person running it. Two practical consequences for forecasting:
+Predictability lives in [the pairing of the business and the person running it](https://github.com/mjirgensons/jirgenson-canon). In [the book](https://www.amazon.com/dp/B0HPCJCWKF), this is Chapter 8. Two practical consequences for forecasting:
 
-- **Put the person who sees furthest in charge of each area.** The owner handed the Friday shifts to the barista who could predict them better than he could.
+- **Put the person who sees furthest in charge of each area.** The owner [handed the Friday shifts](/blog/delegating-to-the-right-person/) to the barista who could predict them better than he could.
 - **Do not forecast while exhausted.** In the months when he worked sixty-five hours a week and decided late at night, he mixed up figures and gave wrong deadlines. Fatigue corrupts a forecast like a faulty instrument.
 
 ## Where this does not reach
 
-These forecasts are deliberately simple: they turn margin into months of reserve and assume steady expenses. A real cash flow forecast also includes payment timing (customers who pay in two months), taxes, debt repayments, provisions and seasonality, and an accountant can help build that version. And predictability is not controllability: you can know exactly when a payment is due and still not have the money. A forecast shows the road; it does not drive the car.
+These forecasts are deliberately simple: they turn margin into months of reserve and assume steady expenses. A real cash flow forecast also includes payment timing (customers who pay in two months), taxes, debt repayments, provisions and seasonality, and an accountant can help build that version. And [predictability](/blog/predictability-in-business/) is not controllability: you can know exactly when a payment is due and still not have the money. A forecast shows the road; it does not drive the car.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

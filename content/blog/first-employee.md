@@ -17,11 +17,11 @@ You may be at that point now. Every shift is yours. The queue is out the door. A
 
 Here is the odd part. You'll spend a week choosing the right candidate. Then you'll spend five minutes checking whether the business can carry one.
 
-A hire is a fixed cost that arrives every month, in good months and bad. The answer to "can I hire now?" comes from the Jirgenson Model: three checks that catch a plan before it fails. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A hire is a fixed cost that arrives every month, in good months and bad. The answer to "can I hire now?" comes from the [Jirgenson Model](https://github.com/mjirgensons/jirgenson-model): three checks that catch a plan before it fails. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## When to hire your first employee: the three checks
 
-Diligence does not save a plan that was broken before it started. Every plan rests on three anchor points: the goal, the starting point and the world around it. Shift any one, and the best effort lands in the wrong place.
+Diligence does not save a plan that was broken before it started. Every plan rests on [three anchor points](/blog/why-business-plans-fail/): the goal, the starting point and the world around it. Shift any one, and the best effort lands in the wrong place.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> an offset is a shift of one of the plan's anchor points away from reality. Offset (a): goals that cannot be met at once. Offset (b): a wrong starting number. Offset (c): an environment that is fading. Each one can be spotted before you spend a cent.</div>
 
@@ -39,7 +39,7 @@ Here is the test for a first hire.
 
 Start here, because it is the cheapest to fix and the most expensive to miss.
 
-Andrew's belief rested on one blind spot. He had never counted waste in his cost of goods. Sour milk and pastries written off at closing ate the margin but showed up in no report.
+Andrew's belief rested on one blind spot. He had [never counted waste](/blog/busy-but-not-profitable/) in his cost of goods. Sour milk and pastries written off at closing ate the margin but showed up in no report.
 
 Now run his hire both ways. His shop turns over €30,000 a month. A second barista costs €1,800 a month.
 
@@ -51,11 +51,11 @@ Now run his hire both ways. His shop turns over €30,000 a month. A second bari
 | Reserve added per month | | about 0.03 months |
 | Time to a two-month reserve | | almost 50 months |
 
-Without the hire, the same shop adds about 0.10 months of reserve each month and reaches the goal in about fifteen months. With it, the road stretches to four years.
+Without the hire, the same shop adds about 0.10 [months of reserve](/blog/cash-reserve-months-of-expenses/) each month and reaches the goal in about fifteen months. With it, the road stretches to four years.
 
 An eleven-point error in one number turned a sensible hire into a four-year hole.
 
-You can see the same thing in margin points. At €30,000 of turnover, €1,800 is six points of margin. At twenty per cent, that is a cost. At nine, it eats two thirds of the profit.
+You can see the same thing in [margin points](/blog/how-to-calculate-profit-margin/). At €30,000 of turnover, €1,800 is six points of margin. At twenty per cent, that is a cost. At nine, it eats two thirds of the profit.
 
 Freelancers meet the same trap at smaller scale. Elena, a freelance designer, believed she earned about €2,000 a month, because one month had brought in €2,200. Six months of bank statements showed €1,300. An assistant priced against €2,000 would have been paid from money she never had.
 
@@ -67,15 +67,15 @@ The second check asks whether the hire fits your goals or fights them.
 
 Begin with a sharper question: is "hire someone" a goal at all? Andrew asked "what for?" about his own list. A second barista was there to stop Friday complaints. So the goal was quality: no more than two complaints a week, against five at the time. The hire was only one way to reach it.
 
-That changes the hire or outsource question. Once the goal is named, a full-time hire is one lever among several. Name at least one other before you choose. A wrong lever paid every month is hard to undo.
+That changes the hire or outsource question. Once the goal is named, a full-time hire is [one lever among several](/blog/business-levers/). Name at least one other before you choose. A wrong lever paid every month is hard to undo.
 
-Then check the order. Andrew ranked his goals by what he would give up last. The cash reserve came first. His own hours came last. A hire that drains a reserve of half a month serves the last goal by attacking the first. That is two trains, two directions.
+Then check the order. Andrew ranked his goals by [what he would give up last](/blog/set-priorities-refusal-order/). The cash reserve came first. His own hours came last. A hire that drains a reserve of half a month serves the last goal by attacking the first. That is two trains, two directions.
 
 The clash does not mean "never". It means "in sequence". First the reserve, then the hire, with the order written down so a tired evening cannot rewrite it.
 
 ## Check (c): the ship, not the deckchair
 
-The third check looks past your business at the system that carries it. Is it growing?
+The third check looks past your business at [the system that carries it](/blog/external-factors-business/). Is it growing?
 
 Andrew asked about his street. New homes, offices, students? A university building was going up nearby. The world around him was on his side. That is no guarantee, but it is a fair wind.
 
@@ -122,10 +122,10 @@ The test is complete for its job. It catches a hire that would fail on a bad goa
 
 But it treats a symptom: a hire made at the wrong moment. The cause is that the moment has no rule. "When things calm down" is not a condition. Neither is "after the busy season".
 
-Two steps of the system fix that. They are not taught here.
+Two steps of [the system](https://github.com/mjirgensons/jirgenson-canon) fix that. They are not taught here.
 
 - **Two forecasts.** "If nothing changes" against "if the plan works", in numbers and dates. They show the payroll month before it arrives. Chapter 8.
-- **The launch condition.** A hire is a manoeuvre. It starts when a measured condition holds, never on a hopeful date. Chapter 10 shows how to write it.
+- **The launch condition.** A hire is a manoeuvre. It starts when a measured condition holds, never on a hopeful date. [Chapter 10](https://www.amazon.com/dp/B0HPCJCWKF) shows how to write it.
 
 Without them, the three checks tell you "not now". They do not tell you "now".
 
