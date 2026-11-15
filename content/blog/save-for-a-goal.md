@@ -11,7 +11,7 @@ answer: "To save for a goal, write the amount and the date, count what you have 
 
 The most memorable character in a serious management book is thirteen years old. His name is Alex, he wants a €300 bicycle by 1 September, and it is 1 May. He has €40, a games console he loves, football twice a week and a scooter he no longer rides. By the end of *Steer, Don't Guess* he has bought the bicycle, and he has never learned a single clever word.
 
-Alex is in the book for a reason. If a method only works for companies with dashboards and finance teams, it is not a method; it is a privilege. Alex's piggy bank proves the opposite. Everything you need to save for a goal fits on one sheet of paper, and a teenager can run it on Sundays.
+Alex is in the book for a reason. If a method only works for companies with dashboards and finance teams, it is not a method; it is a privilege. Alex's piggy bank proves the opposite. Everything you need to save for a goal fits on one sheet of paper, and a teenager can run it on Sundays. The model behind that sheet is public on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 Savings plans fail when nobody checks the line until it's too late. The Jirgenson Model answers it as a control system: a goal, your own levers, a plan with checkpoints. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -19,7 +19,7 @@ Savings plans fail when nobody checks the line until it's too late. The Jirgenso
 
 Before any money moves, Alex has a problem most adults never admit to: his wishes compete. He wants the bicycle, football twice a week, and as much console time as he likes. Every evening on the console is an evening without odd jobs for the neighbours.
 
-So he runs the refusal test: if he had to give things up one at a time, which would go first? At first he wants to keep everything. Then he notices that the football training camp starts in June and will leave him only two free evenings a week. The choice becomes easy. Games go first, football second, and the bicycle stays until last. His list:
+So he runs [the refusal test](/blog/set-priorities-refusal-order/): if he had to give things up one at a time, which would go first? At first he wants to keep everything. Then he notices that the football training camp starts in June and will leave him only two free evenings a week. The choice becomes easy. Games go first, football second, and the bicycle stays until last. His list:
 
 1. Bicycle fund: €300 by 1 September.
 2. Football: twice a week.
@@ -37,7 +37,7 @@ That small moment is the heart of the method. A [lever](/blog/levers-of-control/
 - paid odd jobs for the neighbours, about €30 a month, from three hours a week;
 - selling the scooter, a one-off €60.
 
-He also wrote down two constraints, things he will not do even if they would save the goal: borrow money, or skip school to earn it. And he spotted a risk in advance: in July the neighbours go on holiday, so there will be fewer jobs. The scooter stays in reserve as a spare lever.
+He also wrote down two constraints, things he will not do even if they would save the goal: borrow money, or skip school to earn it. And he [spotted a risk in advance](/blog/risk-register/): in July the neighbours go on holiday, so there will be fewer jobs. The scooter stays in reserve as a spare lever.
 
 The arithmetic closes: €20 × 4 months, €30 × 4 months and €60 for the scooter make €260; with the €40 already in the piggy bank, €300.
 
@@ -52,7 +52,7 @@ Here is the part I would print and put on the fridge. Alex builds two forecasts 
 | Change nothing | Only pocket money: €40 + 4 × €20 | €120, still €180 short |
 | Use every lever | Pocket money, the neighbours, the scooter | €300 |
 
-He looks at both numbers, and nobody needs to push him. No lecture about discipline could do what that table does in ten seconds. The cost of doing nothing is no longer a feeling; it is €180.
+He looks at both numbers, and nobody needs to push him. No lecture about discipline could do what that table does in ten seconds. The cost of doing nothing is no longer a feeling; it is €180. For more of these small cases, watch the short videos on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## How to save for a goal backwards: the monthly checkpoints
 
@@ -67,13 +67,13 @@ Then he draws a table with four columns, the date, the plan, the actual amount a
 | 1 August | €235 | | |
 | 1 September | €300 | | |
 
-On 1 June he is €15 behind. Not a disaster, but not normal either, which is exactly what yellow means. So he recalculates from where he actually stands: he needs €300, the scooter will bring €60, so €240 must come from regular sources; he has €90, which leaves €150 over three months, or €50 a month. Pocket money and the neighbours bring in €20 + €30 = €50. The chain closes exactly, with nothing to spare, so any further dip will call for a new lever. That is how to save for a goal without fooling yourself: you know not just whether you are behind, but by how much, and what will fix it.
+On 1 June he is €15 behind. Not a disaster, but not normal either, which is exactly [what yellow means](/blog/kpi-zones/). So he recalculates from where he actually stands: he needs €300, the scooter will bring €60, so €240 must come from regular sources; he has €90, which leaves €150 over three months, or €50 a month. Pocket money and the neighbours bring in €20 + €30 = €50. The chain closes exactly, with nothing to spare, so any further dip will call for a new lever. That is how to save for a goal without fooling yourself: you know not just whether you are behind, but by how much, and what will fix it.
 
 On 1 September Alex's piggy bank holds €300. He goes out and buys the bicycle.
 
 ## The same method for a family budget in deficit
 
-If a bicycle sounds too small, here are the same steps on a household. Emma and Paul earn €4,000 a month. Over the last quarter their expenses rose by 10%, to €4,400, and their savings stand at €2,000. Every month they are €400 short. At first they quarrelled. Then they took their state from three months of bank statements and built three scenarios:
+If a bicycle sounds too small, here are the same steps on a household. Emma and Paul earn €4,000 a month. Over the last quarter their expenses rose by 10%, to €4,400, and their savings stand at €2,000. [Every month they are €400 short](/blog/household-budget-deficit/). At first they quarrelled. Then they took their state from three months of bank statements and built three scenarios:
 
 | Scenario | Monthly result | What happens to the €2,000 |
 |---|---|---|
@@ -81,7 +81,7 @@ If a bicycle sounds too small, here are the same steps on a household. Emma and 
 | Cut subscriptions and eating out by €180 | −€220 | Lasts about 9 months |
 | The same, plus a side job of €300 | +€80 | The savings grow |
 
-They chose the third, but started with a single lever, the cuts, so they could see its effect, and added the side job a month later. Their savings goal is a reserve of at least three months of expenses; today they have about 0.45. There is a distinction here that most budgeting advice misses: expense coverage (0.45 months) and time until the money runs out (5 months) are different numbers, and you need to watch both.
+They chose the third, but started with a single lever, the cuts, so they could see its effect, and added the side job a month later. Their savings goal is a reserve of at least three months of expenses; today they have about 0.45. There is a distinction here that most budgeting advice misses: expense coverage (0.45 months) and [time until the money runs out](/blog/months-of-runway/) (5 months) are different numbers, and you need to watch both.
 
 ## A savings goal plan you can copy tonight
 
@@ -112,7 +112,7 @@ A plan this tight has no slack: Alex's chain closed with nothing to spare, which
 
 ## Why a teenager is the best teacher here
 
-Alex never hears the words "error vector". He simply knows he needs €300 on 1 September, counts it every Sunday and adds a lever whenever he falls behind. Reading his story, I kept thinking how many adults would be better off with his piggy bank table than with their budgeting apps. If you have a child saving for something, read this part together. If you are the one saving, read it alone and be a little humbled.
+Alex never hears the words "error vector". He simply knows he needs €300 on 1 September, counts it every Sunday and adds a lever whenever he falls behind. Reading his story, I kept thinking how many adults would be better off with his piggy bank table than with their budgeting apps. If you have [a child saving for something](/blog/teach-kids-to-save-money/), read this part together. If you are the one saving, read it alone and be a little humbled. If you prefer paper, the book is also out in [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 Alex first appears in Chapter 1, which you can read in [the free sample](/blog/free-sample/). The whole of *Steer, Don't Guess*, with Alex, Elena, Andrew and the family budget, is on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

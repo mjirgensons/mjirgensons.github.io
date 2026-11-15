@@ -9,6 +9,8 @@ keywords: [how to set priorities when everything is urgent, setting priorities, 
 answer: How to set priorities when everything is urgent: write down everything you want, then ask which goal you would drop first if circumstances forced you, and which you would defend to the last. The last one standing is your real priority. Keep nine goals or fewer, give each a number and a deadline, and treat law and safety as constraints.
 ---
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## How to prioritize goals: why "what matters most" does not work
 
 Ask an owner what matters most and you get a list: revenue, the team, quality, clients, growth, family. All of it true, none of it an order. The moment two of these collide, a client who wants a discount against the margin, a late night against the family, the list is silent, and the decision is made by whoever shouts loudest, by fatigue, or by the order in which the problems arrived.
@@ -21,17 +23,17 @@ The test takes ten seconds. If you cannot answer in ten seconds, someone is alre
 
 ## Setting priorities when everything is urgent, step by step
 
-**1. Scan six areas.** Finance; clients; sales; processes and quality; people; and development and the owner (your own time, health, money, freedom). Take zero to three parameters from each. An area may stay empty only by a conscious, recorded choice: the owner's own health left off the list by accident is how a business ends up running its owner.
+**1. Scan six areas.** Finance; clients; sales; processes and quality; people; and development and the owner (your own time, health, money, freedom). Take zero to three parameters from each. An area may stay empty only by a conscious, recorded choice: the owner's own health left off the list by accident is how [a business ends up running its owner](/blog/business-owner-burnout/).
 
-**2. Keep it to nine or fewer.** That is a design limit for a human working without software, not a claim about memory. More than nine goals means some will get no attention this year; say so, and move the rest into methods or into next year.
+**2. Keep it to nine or fewer.** That is a design limit for a human working without software, not a claim about memory. [More than nine goals](/blog/too-many-goals/) means some will get no attention this year; say so, and move the rest into methods or into next year.
 
 **3. Separate goals from methods.** "Launch loyalty cards" is not a goal; it is a method serving a goal, probably repeat visits or margin. Methods belong in the plan, not in the list.
 
 **4. Treat obligations as constraints.** Taxes, safety, contracts, the law are not goals you rank; they define which actions are permissible at all. If saving your top goal would require breaking one, the constraint decides: find another way, or stop and change the conditions.
 
-**5. Give every goal six fields.** The parameter; how it is counted and from which source; the target value and deadline; the current value; the permissible deviation; the check rhythm and who owns it. A goal without a number, a unit and a deadline is a wish.
+**5. Give every goal six fields.** The parameter; how it is counted and from which source; the target value and deadline; the current value; the permissible deviation; the check rhythm and who owns it. A goal without a number, a unit and a deadline [is a wish](/blog/how-to-set-measurable-goals/).
 
-**6. Run the refusal test.** Order the list by what you would drop first. Then check it for five defects: goals that cannot be met together; a necessary requirement missing; an order that changes every week; a secondary goal being saved at the cost of the primary; one goal under two names.
+**6. Run the refusal test.** Order the list by what you would drop first. Then check it for five defects: [goals that cannot be met together](/blog/mutually-exclusive-goals/); a necessary requirement missing; an order that changes every week; a secondary goal being saved at the cost of the primary; one goal under two names.
 
 ## When everything is a priority, nothing is
 
@@ -39,7 +41,7 @@ The test takes ten seconds. If you cannot answer in ten seconds, someone is alre
 
 ## An example (illustrative)
 
-An owner of a small café writes down what she wants this year: a cash reserve of two months of expenses, a margin of 15%, a second location, one full day off a week, no staff turnover, a new website. Six items. Two of them are methods or wishes in disguise: the website serves clients or sales, and "no staff turnover" has no number yet.
+An owner of a small café writes down what she wants this year: [a cash reserve](/blog/cash-reserve-months-of-expenses/) of two months of expenses, a margin of 15%, a second location, one full day off a week, no staff turnover, a new website. Six items. Two of them are methods or wishes in disguise: the website serves clients or sales, and "no staff turnover" has no number yet.
 
 The refusal test, done honestly, surprises her. She would drop the second location first. Then the website. Then the margin target, if she had to, because a 12% margin with a reserve is survivable. The day off goes next, which tells her something about how she has been living. The reserve she would defend to the last: without it, one bad month ends the business.
 
@@ -52,11 +54,11 @@ Her list, ordered, with the fields filled in:
 | 3 | Operating margin | 15% by month 6 | 9% | not below 12% | monthly, bookkeeper |
 | 4 | Staff: unplanned departures | 0 in the next 12 months | 1 this year | 1 | quarterly, owner |
 
-The second location and the website are not gone. They wait in the plan, behind the reserve, and the rule for when they may start is written down: not while any row is red.
+The second location and the website are not gone. They wait in the plan, behind the reserve, and the rule for when they may start is written down: not while [any row is red](/blog/kpi-zones/).
 
 ## When the test does not apply
 
-The refusal order elicits preferences; it is not a complete decision algorithm. It does not decide between two goals that are both green, it does not allocate the resources left over after the constraints and minimum levels are met, and it does not tell you that your goals are the right ones. It tells you, in advance, what you would give up, so that a crisis never chooses for you. The book is explicit that an AI assistant may propose an order; only the owner confirms it.
+The refusal order elicits preferences; it is not a complete decision algorithm. It does not decide between two goals that are both green, it does not allocate the resources left over after the constraints and minimum levels are met, and it does not tell you that your goals are the right ones. It tells you, in advance, what you would give up, so that a crisis never chooses for you. The book is explicit that an AI assistant may propose an order; only the owner confirms it. The model's own text is public in its [canon on GitHub](https://github.com/mjirgensons/jirgenson-canon).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -69,9 +71,9 @@ The refusal order elicits preferences; it is not a complete decision algorithm. 
 
 ## Why this chapter stays with you
 
-Most goal-setting books ask you to dream bigger. Chapter 1 of *Steer, Don't Guess* asks you to give things up, in advance, on paper, and that turns out to be far more useful. The refusal test is the idea early reviewers quote most, and it is easy to see why: it takes ten seconds, it cannot be faked, and it tells you something about your own life that no spreadsheet will. More than one reader has found that the goal they would defend to the last was not the one their calendar was serving.
+Most goal-setting books ask you to dream bigger. Chapter 1 of *Steer, Don't Guess* asks you to give things up, in advance, on paper, and that turns out to be far more useful. The refusal test is the idea early reviewers quote most, and it is easy to see why: it takes ten seconds, it cannot be faked, and it tells you something about your own life that no spreadsheet will. More than one reader has found that the goal they would defend to the last was not the one their calendar was serving. The author, Martin Jirgenson, has a page on [Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson).
 
-What the chapter does brilliantly is make the order practical. The same five goals in a different order lead to different decisions on a bad Tuesday, and the book shows exactly how: two plans for Andrew's coffee shop that meet the same number of goals, and only the order tells you which one is better.
+What the chapter does brilliantly is make the order practical. The same five goals in a different order lead to different decisions on a bad Tuesday, and the book shows exactly how: two plans for Andrew's coffee shop that meet the same number of goals, and only the order tells you which one is better. Kindle and [paperback](https://www.amazon.com/dp/B0HPCJCWKF) readers get the same worked plans.
 
 The order is also the foundation for everything that follows: red lines and [what to do first in a crisis](/blog/business-crisis-what-to-do-first/), and reading [where your money really goes](/blog/busy-but-not-profitable/). The full map is in [the Jirgenson Model explained](/blog/jirgenson-model-management-method/).
 

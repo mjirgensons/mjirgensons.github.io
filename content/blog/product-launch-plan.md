@@ -23,9 +23,9 @@ A launch date with no launch condition is a hope with a countdown. The Jirgenson
 
 The line at the top is about launches that reach the big day with nobody waiting. Fix that from the far end.
 
-Write down what must be true after launch, not on launch day. Then walk backwards. At every step ask one question: what must already hold right before this?
+Write down what must be true after launch, not on launch day. Then [walk backwards](/blog/backward-planning/). At every step ask one question: what must already hold right before this?
 
-A navigation app works this way. It knows where you are and where you are going. Miss a turn, and it plots a fresh route from the spot where you stand. It never asks you to guess the road.
+A navigation app works this way. It knows where you are and where you are going. Miss a turn, and it plots a fresh route from the spot where you stand. It never asks you to guess the road. The full model is free to read in its [GitHub repository](https://github.com/mjirgensons/jirgenson-model).
 
 How to avoid an empty launch day: put a row for the people who must be waiting before the launch row. Give it a number and a check date. If the number isn't there on that date, move the launch, not the goal.
 
@@ -59,7 +59,7 @@ Write the event that must happen before you start. A date is a wish. A condition
 
 Andrew's entry: the reserve holds at 2.0 months or more for three monthly measurements in a row. At month 12 he had two: 2.09 and 2.27. One more to go.
 
-One rule sits under this step. Never start a growth launch while any number sits in the red.
+One rule sits under this step. Never start a growth launch while any number [sits in the red](/blog/kpi-zones/).
 
 ### 3. Walk backwards, one row at a time
 
@@ -83,7 +83,7 @@ A chain without money is a story. Andrew's rough sum: €4,500 of profit a month
 
 That leaves €46,000 against the €45,000 the new shop needs. Almost nothing to spare.
 
-Treat it as a rough estimate. A full one adds taxes, debt payments, the owner's drawings and a reserve for overruns.
+Treat it as a rough estimate. A full one adds taxes, debt payments, the owner's drawings and [a reserve for overruns](/blog/cost-overrun/).
 
 ### 5. Read the top row and do it this week
 
@@ -97,11 +97,11 @@ That is the whole template: end state, launch condition, chain, money, top row. 
 
 Write the number the launch must clear before you write the date. Then turn it into the traffic it needs.
 
-Elena, a freelance designer, did this for her first online book. She priced it at €29 and needed 21 sales a month. At a conversion rate of 1.5%, that meant 1,400 page visits a month. Her launch row sat at month 4.
+Elena, a freelance designer, did this for [her first online book](/blog/book-launch-plan/). She priced it at €29 and needed 21 sales a month. At a conversion rate of 1.5%, that meant 1,400 page visits a month. Her launch row sat at month 4.
 
-Now her launch had a leading indicator: page visits, counted every week. A leading indicator points to what will likely happen next. Revenue only tells you what already happened.
+Now her launch had [a leading indicator](/blog/what-is-a-leading-indicator/): page visits, counted every week. A leading indicator points to what will likely happen next. Revenue only tells you what already happened.
 
-How to avoid a launch that can't pay its own fee: put the break-even number in the end-state row. If the leading indicator stays far below its line, you see it weeks before the bank does.
+How to avoid a launch that can't pay its own fee: put [the break-even number](/blog/break-even-point/) in the end-state row. If the leading indicator stays far below its line, you see it weeks before the bank does.
 
 ## New product failure rate: plan past the opening
 
@@ -111,7 +111,7 @@ A launch is a row in the plan, not its last line. Plan the months after opening 
 
 Andrew wrote one: the new shop reaches its 15% margin within six months of opening. Any earlier, he could not tell a stable margin from a lucky month. So the judging date sits at six months, and the plan keeps running.
 
-Then write down, in advance, what makes you stop, sell or revise. Do it while your head is clear, before launch week.
+Then write down, in advance, [what makes you stop](/blog/sunk-cost-fallacy/), sell or revise. Do it while your head is clear, before launch week.
 
 How to avoid the empty shelf: give every launch a post-launch target and a date to judge it. Without that date, a slow start and a dead product look the same for months.
 
@@ -125,7 +125,7 @@ The backward way reads "Six months after launch: a margin. Launch day: a sign-up
 
 This is one piece of a loop: goal, state, gap, levers, plan, forecast. The backward move turns the goal into this week's plan.
 
-"My product is nothing like a coffee shop." Fair. The chain doesn't care. Elena used it for a book, Andrew for a shop, and a thirteen-year-old for a bicycle fund. Any launch with an end state and a date fits on the same sheet.
+"My product is nothing like a coffee shop." Fair. The chain doesn't care. Elena used it for a book, Andrew for a shop, and a thirteen-year-old for [a bicycle fund](/blog/save-for-a-goal/). Any launch with an end state and a date fits on the same sheet. Short cases from the model also run on [TikTok](https://www.tiktok.com/@steerdontguess).
 
 ## What a launch without a condition costs
 
@@ -148,7 +148,7 @@ Two steps close that gap:
 - <strong>The three offsets.</strong> A goal that contradicts itself, a starting point measured wrong, a market going under. Each one breaks a plan before work starts. Chapter 11.
 - <strong>Two forecasts and control by forecast.</strong> "If nothing changes" against "if the plan works", in dates, so you move the launch before a row slips. Chapters 8 and 9.
 
-Without them, the template tells you what to do this week. It doesn't tell you whether the ship under the launch is sound.
+Without them, the template tells you what to do this week. It doesn't tell you whether the ship under the launch is sound. You can read those chapters in the [paperback edition](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

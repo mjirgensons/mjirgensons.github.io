@@ -29,7 +29,7 @@ Each link takes time. Add the links up, and you have your lag.
 
 While the chain runs, the business keeps moving. It gathers speed in the wrong direction. Your correction arrives after the situation has changed. With an unlucky mix of delay and force, you start to swing around the goal. Too much stock, then too little.
 
-In many businesses the calendar sets the pace. The month closes, the report comes, the meeting happens. That is the common enemy here: management by calendar, where the clock decides when you look, not the speed of the problem.
+In many businesses the calendar sets the pace. The month closes, the report comes, [the meeting happens](/blog/meeting-cadence/). That is the common enemy here: management by calendar, where the clock decides when you look, not the speed of the problem.
 
 ## Measure your three delays
 
@@ -57,9 +57,9 @@ So the rule: shorten your own delays. Respect the business's.
 
 ## How often to measure each number
 
-The second half of the tool answers a question usually settled by habit: how often should I look?
+The second half of the tool answers a question usually settled by habit: [how often should I look](/blog/how-often-to-review-kpis/)?
 
-Use the yellow band. That is the space between "fine" and "red". Ask how fast the number can move in a bad stretch. Then look often enough that it cannot cross the whole band between two looks.
+Use the [yellow band](/blog/kpi-zones/). That is the space between "fine" and "red". Ask how fast the number can move in a bad stretch. Then look often enough that it cannot cross the whole band between two looks.
 
 > Look at least every: width of the yellow band ÷ (2 × fastest expected change)
 
@@ -89,24 +89,24 @@ So the order matters. First find the pattern. Then decide which deviations deser
 
 Lag is not an abstract delay. It is money that moves while you wait.
 
-With weekly observation, Andrew caught a mistake in his margin plan in month 2. One menu item he planned to drop was the one that brought his regulars in. Without the weekly look, he would have found out in month 6. Four months of losing regulars, with no idea why. Then a rescue paid for out of a reserve already in the red.
+With weekly observation, Andrew caught a mistake in his margin plan in month 2. One menu item he planned to drop was the one that brought his regulars in. Without the weekly look, he would have found out in month 6. Four months of losing regulars, with no idea why. Then a rescue paid for out of [a reserve already in the red](/blog/cash-reserve-months-of-expenses/).
 
-That is lag in plain terms. Four months between the cause and the cure.
+That is lag in plain terms. Four months between the cause and the cure. More short cases like this one live on the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 ## What this tool does not fix
 
-Be honest about what you did. You measured your lag and set your rhythms. That treats the symptom: you stop reacting five weeks late.
+Be honest about what you did. You measured your lag and set your rhythms. That treats the symptom: you stop [reacting five weeks late](/blog/reactive-vs-proactive-management/).
 
-The cause is still there. Every number on your panel looks backwards. Even a daily figure tells you about yesterday. However short you make the loop, you are still steering by the brake lights of the car in front.
+The cause is still there. Every number on your panel [looks backwards](/blog/lagging-vs-leading-indicators/). Even a daily figure tells you about yesterday. However short you make the loop, you are still steering by the brake lights of the car in front.
 
 Two steps take you from reacting to steering:
 
 - **Control by forecast.** The third way to run any process: you act on the predicted state, and new facts correct the forecast. It is the only scheme that runs the full control cycle. Chapter 9.
 - **Two forecasts in numbers.** "If nothing changes" against "if the plan works", with dates, so you see the shortfall before it arrives. Chapter 8.
 
-Without them, a fast loop still answers the past. With them, the loop starts before the damage.
+Without them, a fast loop still answers the past. With them, the loop starts before the damage. Both chapters are in the [paperback edition](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
-For the full picture of the three ways to steer, see [the control cycle](/blog/control-cycle-management/).
+For the full picture of the three ways to steer, see [the control cycle](/blog/control-cycle-management/). The model itself is open to read on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

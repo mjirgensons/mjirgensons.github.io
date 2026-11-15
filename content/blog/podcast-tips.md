@@ -11,7 +11,7 @@ answer: "The first of all podcast tips for a stalled show: don't decide in the f
 
 <strong>The biggest drop-off isn't at episode seven. It's right after episode one.</strong>
 
-It didn't have to be right there. Behind that drop are people with a voice, a topic and a real wish to be heard. Some of those shows might still be running if their hosts had steered with a control system, the Jirgenson Model, instead of guessing. With one, the curve could look different.
+It didn't have to be right there. Behind that drop are people with a voice, a topic and a real wish to be heard. Some of those shows might still be running if their hosts had steered with a control system, [the Jirgenson Model](/blog/jirgenson-model-management-method/), instead of guessing. With one, the curve could look different.
 
 Now the morning after your own episode one. The download count is small. A friend says "nice", and nobody else says anything. By evening you are drafting the post that explains why the show is "on a break".
 
@@ -29,7 +29,7 @@ A boxer hurls himself at his opponent and spends all his strength on every blow.
 
 A show in trouble works the same way. The main mistake isn't the wrong decision. It's a decision made too early.
 
-So start with step one tonight. Check for real danger: money you owe, a promise to a sponsor, a guest waiting. If there is none, decide nothing irreversible today. Agree on facts, not moods.
+So start with step one tonight. [Check for real danger](/blog/business-crisis-what-to-do-first/): money you owe, a promise to a sponsor, a guest waiting. If there is none, decide nothing irreversible today. Agree on facts, not moods.
 
 The Jirgenson Model is new, and it is scientifically proven to work (the record: [doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)). It came too late for the shows behind these numbers. Now it can help yours.
 
@@ -37,7 +37,7 @@ The Jirgenson Model is new, and it is scientifically proven to work (the record:
 
 Here is the whole tool. Seven steps, about 20 minutes, each with a worked entry next to it.
 
-The entries come from Andrew, who runs a coffee shop. In one bad month his supplier raised prices by eight per cent, the coffee machine broke down and a barista left. Everything landed at once. His first impulse was to decide something immediately, anything at all.
+The entries come from Andrew, who [runs a coffee shop](/blog/coffee-shop-book/). In one bad month his supplier raised prices by eight per cent, the coffee machine broke down and a barista left. Everything landed at once. His first impulse was to decide something immediately, anything at all.
 
 **1. Calm the noise.** Check for immediate danger first. Then stop the panic and agree on facts.
 Andrew: no danger to people or to mandatory payments. He decided nothing that evening, arranged to meet Sara in the morning and went to bed.
@@ -52,7 +52,7 @@ Andrew: purchases had been getting dearer by about one per cent a month. The jum
 Andrew: purchases dearer; guests growing in number, while the share of regulars fell; the team unstable.
 
 **5. Find the enclosing system.** The largest system you are part of.
-Andrew: prices were rising at every supplier in the region. Guests could see it all over town. So he moved the price of coffee with the market instead of hunting for discounts.
+Andrew: prices were rising at every supplier in the region. Guests could see it all over town. So he [moved the price of coffee with the market](/blog/external-factors-business/) instead of hunting for discounts.
 
 **6. Build several scenarios.**
 
@@ -63,11 +63,11 @@ Andrew: prices were rising at every supplier in the region. Guests could see it 
 | 3. Price +5% and a part-time barista | 13.5% | M11 | M13, but higher quality |
 
 **7. Decide, and accept the consequences.**
-Andrew chose scenario 2 and started with a single lever, so he could see its effect. If quality slips two months on, he returns to scenario 3.
+Andrew chose scenario 2 and started with [a single lever](/blog/levers-of-control/), so he could see its effect. If quality slips two months on, he returns to scenario 3.
 
 Three weeks later he noticed, to his surprise, that he couldn't remember the last time he had panicked.
 
-For your show, the same seven lines take one sheet. Downloads, hours, guests, the format, the wider podcast market, three scenarios, one choice.
+For your show, the same seven lines take one sheet. Downloads, hours, guests, the format, the wider podcast market, [three scenarios](/blog/scenario-planning/), one choice.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the seven steps of entering control are a sequence for a tangled situation. First calm the noise, read the state and restore the trajectory. Then break down the processes, find the enclosing system and build a multi-variant forecast. Last, decide and accept the consequences. You can start at any step and repeat them.</div>
 
@@ -93,7 +93,7 @@ Two out of three didn't have to go quiet. Some of those writers might still be p
 
 Look at Andrew's road not taken. Had he decided that same night, he would likely have hired a full-time barista and gone looking for a new supplier at once. Two levers at once, and no way to tell which one worked.
 
-Content consistency breaks the same way. A slow month comes, and the blog gets a new topic, a new length and a new posting day in one go. Nothing can show what helped.
+[Content consistency](/blog/consistency-is-key/) breaks the same way. A slow month comes, and the blog gets a new topic, a new length and a new posting day in one go. Nothing can show what helped.
 
 So change one thing. Then give it time. The effect won't come at once, and an earlier error takes time to work itself out.
 
@@ -119,7 +119,7 @@ It is less than it looks. The whole pass takes about 20 minutes, and you can sta
 
 Alex runs it in one evening for a bicycle. On 1 July he has €140. He reads the state and builds a forecast: 140 plus 50, plus 60 for his scooter, plus another 50 makes exactly 300. Nothing is left to spare, so he puts the scooter up for sale right away.
 
-A small studio runs it when its largest client halves its budget. A show can run it on the morning after a quiet episode.
+A small studio runs it when its largest client halves its budget. A show can run it on the morning after a quiet episode. The blind test behind the model is open to anyone on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test).
 
 ## Where the seven steps do not reach
 
@@ -132,7 +132,7 @@ The steps are one link in a loop: goal, state, error, levers, plan, forecast. Tw
 - **Error zones.** Green, yellow and red thresholds, set in a calm moment, so step 1 has a clear line for danger. Chapter 4.
 - **The working tool set.** One data source per number and a dashboard you read in a minute, so step 2 takes minutes. Chapter 13.
 
-Without them, the seven steps save the show on a bad evening. They don't yet catch the bad evening before it comes.
+Without them, the seven steps save the show on a bad evening. They don't yet catch the bad evening before it comes. Chapters 4 and 13 are in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) too.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -150,7 +150,7 @@ You have two choices. Write the "on a break" post tonight, and let one bad eveni
 
 The steps keep the show alive through the bad week. The error zones and the working tool set give you a line for danger and numbers you can read in a minute.
 
-Picture the next quiet episode: one sheet, twenty minutes, and a calm choice to record, adjust or stop.
+Picture the next quiet episode: one sheet, twenty minutes, and a calm choice to record, adjust or stop. You can follow the author, Martin Jirgenson, on [Goodreads](https://www.goodreads.com/author/show/73234443.Martin_Jirgenson).
 
 Try the logic first, at no cost: [the Introduction and Chapter 1](/blog/free-sample/). Then, if it holds up, get the complete control system as a Kindle book [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

@@ -11,9 +11,9 @@ answer: "Second order thinking asks what happens after the first result: and the
 
 Judge a good idea by its first result, and you'll kill it.
 
-Elena's first online book would have looked like a failure after one month. By month 14 it brought in about €600 a month, and it kept selling without her daily work.
+[Elena's first online book](/blog/book-launch-plan/) would have looked like a failure after one month. By month 14 it brought in about €600 a month, and it kept selling without her daily work.
 
-Now picture your own Monday meeting. A number dips. One person says cut it. Another says double down. Both answer the same question: what happens next week?
+Now picture your own [Monday meeting](/blog/meeting-cadence/). A number dips. One person says cut it. Another says double down. Both answer the same question: what happens next week?
 
 Nobody asks the second one. And then what?
 
@@ -29,7 +29,7 @@ The idea is old and sound. Its weakness is where it lives: in one person's head.
 
 The great month says: expand now. The terrible week says: tear up the plan. Both are first-order moves wearing a suit.
 
-So the model does not ask you to think harder. It gives the second question a fixed place on paper.
+So the model does not ask you to think harder. It gives the second question a fixed place on paper. You can read the model in full on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a big move is a manoeuvre: the goal itself travels, and you pass from one steady mode into another. An error is a reason to change the plan. The goal changes only when conditions or priorities change.</div>
 
@@ -37,7 +37,7 @@ So the model does not ask you to think harder. It gives the second question a fi
 
 The first trap is a mix-up. A small miss gets treated as a reason to change the goal.
 
-Alex is saving €300 for a bicycle by 1 September. On 1 July he has €140. His planned line says €170.
+Alex is [saving €300 for a bicycle](/blog/save-for-a-goal/) by 1 September. On 1 July he has €140. His planned line says €170.
 
 The first-order answer: settle for a cheaper bicycle. And then what? The next dip lowers the goal again. After three dips the goal is a pair of pedals.
 
@@ -65,16 +65,16 @@ Elena: months, not weeks. The move runs from month 1 to month 14.
 | Steady movement | 4 to 9 | The book launches; visits grow to 1,400 a month; sales reach 21 |
 | Entry | 10 to 14 | Income comes from client work, packages and the book; her week falls to 35 hours |
 
-**4. Check every stretch, not only the start.** On each stretch, ask: which levers still work, and what reserve is left? This is "and then what?" asked once per period.
+**4. Check every stretch, not only the start.** On each stretch, ask: [which levers still work](/blog/levers-of-control/), and what reserve is left? This is "and then what?" asked once per period.
 Elena: in the exit period her reserve is time, and the 55-hour limit ends at month 3. In the steady period her lever is the book's page. She changes the headline and the order of the blocks, then watches the share of visitors who buy.
 
 **5. Draw the red line.** Which number may never turn red anywhere on the route?
-Andrew, for his planned second coffee shop: the cash reserve never falls below 1.0 month of expenses.
+Andrew, for his planned second coffee shop: [the cash reserve](/blog/cash-reserve-months-of-expenses/) never falls below 1.0 month of expenses.
 
 **6. Write the launch and stop conditions.** A measurable event, not a date. Then the conditions to stop, sell or revise.
 Andrew: the second location starts only once the reserve holds at 2.0 months or more for three monthly measurements in a row.
 
-That is the whole check. Six answers, each one a second question you would otherwise skip.
+That is the whole check. Six answers, each one a second question you would otherwise skip. Martin Jirgenson, who wrote the book, is on [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/).
 
 ## Second order thinking for team priorities and team goals
 
@@ -82,7 +82,7 @@ On a team, the second question has an owner problem. Everyone assumes someone el
 
 Look at what happened in Andrew's coffee shop after he wrote the launch condition. Sara asked if they would now sit and wait. "No," Andrew replied. "We do whatever brings the condition closer."
 
-One sentence turned a delay into a team goal. The same plan for margin and reserve now worked towards the second location. Nobody had to choose between today's job and tomorrow's dream.
+One sentence turned a delay into a team goal. The same plan for margin and reserve now worked towards the second location. Nobody had to [choose between today's job and tomorrow's dream](/blog/competing-priorities-conflicting-goals/).
 
 Sara had asked a sharper second-order question back when the plans were new. Andrew's plans raised prices and also launched discount cards. "Don't those two contradict each other?" They did. Andrew added a rule: card discounts start only once the margin is at least 14%.
 
@@ -101,7 +101,7 @@ Why each number needs a rhythm that matches its own speed is in [phase lag](/blo
 
 Run Andrew's numbers. The second location needs about €45,000. At his expenses of €25,500 a month, that is 1.8 months of reserve.
 
-When the idea first struck, his reserve stood at 1.35 months. That is not enough to pay for the opening at all. Had he signed the lease that week, the new rent would have eaten a reserve still short of two months. Within a month he would be back in the red zone. Six months of building, gone.
+When the idea first struck, his reserve stood at 1.35 months. That is not enough to pay for the opening at all. Had he signed the lease that week, the new rent would have eaten a reserve still short of two months. Within a month he would be back in [the red zone](/blog/kpi-zones/). Six months of building, gone.
 
 Wait until the end of year one, with a reserve of 2.3, and it still fails. Right after the opening only 0.5 months remain. Red in the first month.
 
@@ -121,10 +121,10 @@ That treats the symptom. The cause sits under the route itself. The check trusts
 
 Two steps close that gap:
 
-- **The three offsets.** Three checks before work begins. Do two goals exclude each other? Have you misread where you start? Is the larger system already sinking? That last one is the Titanic test. Chapter 11.
+- **The three offsets.** Three checks before work begins. Do two goals exclude each other? Have you misread where you start? Is the larger system already sinking? That last one is the [Titanic test](/blog/when-to-give-up-on-a-business-idea/). Chapter 11.
 - **The backward move.** You walk back from the end result, one condition at a time. That walk sets the exact start of the move and this week's first action. Chapter 15.
 
-The route check is one piece of the loop: goal, state, error, levers, plan, forecast. It guards the move. It cannot vouch for the map.
+The route check is one piece of the loop: goal, state, error, levers, plan, forecast. It guards the move. It cannot vouch for the map. Both chapters are in print too, in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

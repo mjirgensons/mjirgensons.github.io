@@ -23,7 +23,7 @@ It is tempting to treat predictability as a property of the world: the market is
 
 <div class="def"><strong>In the Jirgenson Model,</strong> predictability belongs to the pairing of the object and the person at the wheel. You can control exactly as much as you are able to foresee. Predictability depends on the factors acting on the business, its own changes, and the quality of the person running it.</div>
 
-So before calling something random, ask: is this as unpredictable for everyone else as it is for me? A good manager asks not only "what is our process?" but "who is responsible for it?"
+So before calling something random, ask: is this as unpredictable for everyone else as it is for me? A good manager asks not only "what is our process?" but "who is responsible for it?" The open model behind this idea can be read on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## "Random" often means "not yet understood"
 
@@ -32,11 +32,11 @@ Milk prices jump about for someone who checks them once a month. They are fairly
 Four ways to recognise something before it hits you:
 
 1. **Ask who sees it coming.** What looks like a force of nature to you is predictable to someone. Find that person or source.
-2. **Switch on the headlights.** Leading indicators (enquiries, capacity use, the flow of guests) show a hidden factor before it strikes.
+2. **Switch on the headlights.** [Leading indicators](/blog/what-is-a-leading-indicator/) (enquiries, capacity use, the flow of guests) show a hidden factor before it strikes.
 3. **Rank information by importance.** News about processes that may open a threat or an opportunity matters most; "everything is normal" is no reason to move anything.
 4. **Check with a second observer.** If two independent people see the same thing using the same numbers, the factor is real.
 
-The coffee shop owner did not wait for the invoice to learn that prices were rising. He had already heard it from the supplier's account manager and seen it in the weekly margin per receipt.
+The coffee shop owner did not wait for the invoice to learn that prices were rising. He had already heard it from the supplier's account manager and seen it in the [weekly margin per receipt](/blog/how-to-calculate-profit-margin/).
 
 ## How to document processes in a small business: the Friday map
 
@@ -49,17 +49,17 @@ Together they drew a map of Friday on a sheet of paper. Here is its shape, built
 | Just after 17:30 | The wave from the office next door arrives | Second batch already grinding; milk opened |
 | During the wave | Orders pile up at the till | The person who never gets change wrong is on the till |
 
-Now the trainee could glance at the sheet instead of guessing. That is how a personal skill becomes a process: what one person knows is written down, and the team starts to control the work. It is the cheapest way to raise predictability there is: move it out of someone's head and onto a map.
+Now the trainee could glance at the sheet instead of guessing. That is how [a personal skill becomes a process](/blog/management-system-small-business/): what one person knows is written down, and the team starts to control the work. It is the cheapest way to raise predictability there is: move it out of someone's head and onto a map. We show cases like this Friday in short videos on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## Put the person who sees furthest at the wheel
 
-The owner drew the obvious conclusion and handed the Friday shifts to the barista, because she could predict them better than he could. That is the rule: in any area, the person at the wheel should be the one who sees furthest ahead, not the one with the highest title.
+The owner drew the obvious conclusion and handed the Friday shifts to the barista, because she could predict them better than he could. That is the rule: in any area, the person at the wheel should be [the one who sees furthest ahead](/blog/delegating-to-the-right-person/), not the one with the highest title.
 
 ## Who should not be at the wheel
 
-There is an opposite case. In his first months the owner worked sixty-five hours a week and made decisions late at night. Those were exactly the hours of his worst mistakes: mixed-up figures, a call to the supplier put off, wrong deadlines given. Fatigue corrupts a forecast like a faulty instrument.
+There is an opposite case. In his first months the owner [worked sixty-five hours a week](/blog/business-owner-burnout/) and made decisions late at night. Those were exactly the hours of his worst mistakes: mixed-up figures, a call to the supplier put off, wrong deadlines given. Fatigue corrupts a forecast like a faulty instrument.
 
-That is why the owner's hours sit in the goal list, and not only for the sake of rest. They protect the quality of decisions. A person who cannot see past tonight should not be steering next quarter.
+That is why the owner's hours sit in [the goal list](/blog/goal-hierarchy/), and not only for the sake of rest. They protect the quality of decisions. A person who cannot see past tonight should not be steering next quarter.
 
 ## A bad forecast, said well
 
@@ -67,7 +67,7 @@ Predictability includes being able to say bad news usefully. "We are going bust 
 
 ## Where this does not reach
 
-Predictability is not controllability: you may know exactly when a payment is due and still not have the money. Objects and people both lose predictability as they wear out: an old machine fails without warning more often, a tired owner forecasts worse. And some uncertainty is irreducible; the answer to that is a reserve, not a better map. For turning predictability into numbers, see [how to forecast cash flow](/blog/forecast-cash-flow/).
+Predictability is not controllability: you may know exactly when a payment is due and still not have the money. Objects and people both lose predictability as they wear out: an old machine fails without warning more often, a tired owner forecasts worse. And some uncertainty is irreducible; the answer to that is [a reserve](/blog/cash-reserve-months-of-expenses/), not a better map. For turning predictability into numbers, see [how to forecast cash flow](/blog/forecast-cash-flow/).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -80,7 +80,7 @@ Predictability is not controllability: you may know exactly when a payment is du
 
 ## Ten minutes and one honest question
 
-Choose one goal, write two forecasts for the next three months, and then ask the question that matters most: who in your business is best at foreseeing what happens next in this area, and are they the one at the wheel? Often the answer is someone other than you. That is not a failure. It is the beginning of a system that does not depend on one tired person.
+Choose one goal, write two forecasts for the next three months, and then ask the question that matters most: who in your business is best at foreseeing what happens next in this area, and are they the one at the wheel? Often the answer is someone other than you. That is not a failure. It is the beginning of a system that does not depend on one tired person. You can follow the author, Martin Jirgenson, on [LinkedIn](https://www.linkedin.com/in/martin-jirgenson-3098609a/).
 
 The goals behind every forecast are in Chapter 1, free in [the free sample](/blog/free-sample/). The full chapter on predictability, with scenarios and probabilities, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

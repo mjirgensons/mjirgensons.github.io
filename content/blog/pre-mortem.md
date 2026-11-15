@@ -31,13 +31,13 @@ The usual output is a list of worries in the meeting notes. "Budget might run ou
 
 <div class="def"><strong>In the Jirgenson Model,</strong> every plan rests on three anchor points: the goal, the starting state and the environment. An offset is a shift of one of them relative to reality. The exercise becomes a control step when each imagined reason lands on one anchor point. And each one ends in a written change to the plan.</div>
 
-So the pre mortem meaning changes. It is no longer a session of worrying. It is a sorting job with a check question for every pile.
+So the pre mortem meaning changes. It is no longer a session of worrying. It is a sorting job with a check question for every pile. The model's written canon is open on [GitHub](https://github.com/mjirgensons/jirgenson-canon).
 
 ## Run a pre mortem in five steps
 
 You need one sheet, one plan and about fifteen minutes. Here is the method, with a worked example next to each step.
 
-The example is Elena, a freelance designer. Her income swings between €800 and €2,200 a month. One client brings in 70% of it. She works fifty hours a week. Her plan: write her first online book, launch it at month 4, and reach an average income of €3,000 by month 14.
+The example is Elena, a freelance designer. Her income swings between €800 and €2,200 a month. [One client brings in 70% of it](/blog/client-concentration-freelancer/). She works fifty hours a week. Her plan: write her first online book, launch it at month 4, and reach an average income of €3,000 by month 14.
 
 ### 1. Name the date of death
 
@@ -86,9 +86,9 @@ Look at the last column. Every line is something she can do, check or refuse. No
 
 ### 5. Mark the "I don't know" answers
 
-Go back through the check questions. Wherever your honest answer is "I don't know", you have found a risk. Write it down as a measurement to take before you start.
+Go back through the check questions. Wherever your honest answer is "I don't know", [you have found a risk](/blog/risk-register/). Write it down as a measurement to take before you start.
 
-That rule turns ignorance into a task. Elena's "I don't know" was her real income. One evening with her bank statements closed it.
+That rule turns ignorance into a task. Elena's "I don't know" was her real income. [One evening with her bank statements](/blog/financial-health-check/) closed it.
 
 ## The usual version vs one that steers
 
@@ -102,7 +102,7 @@ Here is the same plan run both ways. It is an illustration.
 | "Sales might be slow" | "We'll push marketing" | A leading indicator and a written trigger |
 | What happens next | The plan starts unchanged | The plan starts changed |
 
-The usual version finds the cracks and leaves them. The second one fills each crack before the first brick goes on.
+The usual version finds the cracks and leaves them. The second one fills each crack before the first brick goes on. The data from the model's blind test is on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt), if you want to check it yourself.
 
 ## Stress test the business plan: what skipping the check costs
 
@@ -110,9 +110,9 @@ The exercise finds the reasons. A stress test of the business puts a number on o
 
 Take Elena's offset (b). Her felt income was about €2,000. Her real one was €1,300. Had she planned on the feeling, she would have counted on €700 a month that did not exist. Across the three writing months, that is €2,100, while she turned down small orders to free up hours.
 
-Now Andrew, who runs a coffee shop. Six months into his recovery plan, his margin hit 15% and he started to dream of a second location. Opening one costs about €45,000, or 1.8 months of expenses. His reserve stood at 1.35 months. He could not even have paid for the opening.
+Now Andrew, who runs a coffee shop. Six months into his [recovery plan](/blog/how-to-save-a-failing-business/), his margin hit 15% and he started to dream of a second location. Opening one costs about €45,000, or 1.8 months of expenses. [His reserve](/blog/cash-reserve-months-of-expenses/) stood at 1.35 months. He could not even have paid for the opening.
 
-Say he had waited for a reserve of 2.3 months and then signed. Right after opening he would have had 0.5 months left. That is the red zone in the first month. He would have lost what six months of work had built.
+Say he had waited for a reserve of 2.3 months and then signed. Right after opening he would have had 0.5 months left. That is [the red zone](/blog/kpi-zones/) in the first month. He would have lost what six months of work had built.
 
 And the human cost: the night before payroll, with a new lease signed and the old shop paying for both.
 
@@ -122,14 +122,14 @@ The question "how does this fail?" costs fifteen minutes. Skipping it would have
 
 It treats one symptom well: the surprise at launch. You start with a plan that has already met its own failure once.
 
-The deeper problem stays. The exercise checks the plan once, on the day before you start. It does not tell you when to start or how far you may stray. Nor does it build the route back from the goal.
+The deeper problem stays. The exercise checks the plan once, on the day before you start. It does not tell you when to start or how far you may stray. Nor does it [build the route back from the goal](/blog/backward-planning/).
 
 Two steps close that gap:
 
 - **Launch conditions and the tolerance corridor**. When a plan may start, written as a measurable event, not a date. And how far each number may drift on the way. Chapter 10.
 - **The backward move**. Walking from the goal back to today, so this week's first action falls out of the plan by itself. Chapter 15.
 
-Without them, the plan survives the start. It still drifts in month three without anyone noticing.
+Without them, the plan survives the start. It still drifts in month three without anyone noticing. Chapters 10 and 15 sit in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 Here is where it sits in the whole system. Goals, the state and the environment are the three anchors. This check covers all three before you pull a lever. Then the error, the plan and the forecast take over.
 

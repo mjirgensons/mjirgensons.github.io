@@ -36,7 +36,7 @@ The model counts four ways to steer a number. One road, four drivers:
 | By disturbance | Reacts to a measured cause, not to the damage | The outside temperature drops and the heater starts before the room cools |
 | By forecast (proactive) | Watches three cars ahead and eases off early | Elena's Monday forecast |
 
-Feedback loop management without a forecast is driving by brake lights. You stop in time only when the car ahead is slow.
+[Feedback loop management](/blog/control-theory-for-business/) without a forecast is driving by brake lights. You stop in time only when the car ahead is slow. The model these schemes come from is public on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## The Monday forecast: one goal, 15 minutes
 
@@ -50,7 +50,7 @@ Elena: 21 book sales a month.
 
 ### 2. Pick the driver you can count each week
 
-Find the number that comes before the result. Then find the rate that turns it into the result.
+Find [the number that comes before the result](/blog/lagging-vs-leading-indicators/). Then find the rate that turns it into the result.
 
 Elena: page visitors, counted weekly. Rate: 1.5 buyers per 100 visitors, from a trial stream of traffic she sent to the page.
 
@@ -78,7 +78,7 @@ Set last week's forecast against what happened. Adjust the rate if it was wrong.
 
 Elena: she does this every week, because her own experience is the weak point of the forecast.
 
-The same six lines work at any scale. Alex, thirteen, saves for a €300 bicycle by 1 September. On 1 June his plan says €105; the piggy bank holds €90. He switches to €50 a month: 90 plus three months of 50 makes 240, and his scooter brings another €60. Exactly 300. The forecast adds up with nothing to spare, and that alone is a signal to act.
+The same six lines work at any scale. Alex, thirteen, [saves for a €300 bicycle](/blog/save-for-a-goal/) by 1 September. On 1 June his plan says €105; the piggy bank holds €90. He switches to €50 a month: 90 plus three months of 50 makes 240, and his scooter brings another €60. Exactly 300. The forecast adds up with nothing to spare, and that alone is a signal to act.
 
 ## The same month, run twice
 
@@ -91,17 +91,17 @@ Here is Elena's month handled both ways. The reactive column is an illustration.
 | Week 4 | Month closes at 17 | Next Monday's facts check the change |
 | What she learned | "Sales were weak" | Whether the headline moved the rate |
 
-The reactive owner gets a verdict. The proactive owner gets an experiment. A forecast is not a prophecy; it is a hypothesis you test every week.
+The reactive owner gets a verdict. The proactive owner gets an experiment. A forecast is not a prophecy; it is [a hypothesis you test every week](/blog/decisions-under-uncertainty/).
 
 "Forecasts are always wrong." Single numbers usually are. That is why step 6 exists. The forecast does not need to be right; it needs to be checked. A forecast never set against the facts can do worse than plain feedback.
 
-"Then I'll check daily." Speed is not foresight. In a two-week test on croissant orders, the rule "order what sold yesterday" missed by 130 croissants. A fixed order of a hundred missed by 100. The rule that knew the weekday pattern missed by 76. Fast reaction chased noise and lost to doing nothing.
+"Then I'll check daily." [Speed is not foresight](/blog/phase-lag-management/). In a two-week test on croissant orders, the rule "order what sold yesterday" missed by 130 croissants. A fixed order of a hundred missed by 100. The rule that knew the weekday pattern missed by 76. Fast reaction chased noise and lost to doing nothing. We walk through tests like this one in short videos on [YouTube](https://www.youtube.com/@SteerDontGuess).
 
 ## What reacting late costs
 
-Andrew runs the coffee shop at the centre of the method. His reserve stood at half a month of expenses against a goal of two.
+Andrew runs [the coffee shop](/blog/coffee-shop-book/) at the centre of the method. His reserve stood at [half a month of expenses](/blog/cash-reserve-months-of-expenses/) against a goal of two.
 
-His "change nothing" forecast was blunt. At a 9% margin the reserve reaches two months at month 16, four months past the deadline. By the end of month 3 it stands at about 0.8: the red zone. With his margin plan working, the goal arrives at month 10.
+His "change nothing" forecast was blunt. At a 9% margin the reserve reaches two months at month 16, four months past the deadline. By the end of month 3 it stands at about 0.8: [the red zone](/blog/kpi-zones/). With his margin plan working, the goal arrives at month 10.
 
 That is reactive vs proactive management in one shop. A reactive owner meets that red zone on a bank statement. A proactive one saw it in month 1 and started on the menu and the supplier that week. At 9% margin, one breakdown also costs a full month of progress; at 15%, about half.
 
@@ -120,7 +120,7 @@ This is one step of a closed loop: goal, state, error, levers, plan, forecast. T
 - **Zone thresholds**. Where green ends and red begins for each number, so a small wobble leaves the levers alone. Chapter 4 holds the exact method.
 - **Two forecasts as a range**. "If nothing changes" set against "if the plan works", with dates and conditions. Chapter 8 holds the formulas.
 
-If you run PDCA, treat this as a PDCA example with one change: the Check step looks forward, not back. Where the forecast sits among all eight stages is laid out in [the control cycle](/blog/control-cycle-management/).
+If you run PDCA, treat this as a PDCA example with one change: the Check step looks forward, not back. Where the forecast sits among all eight stages is laid out in [the control cycle](/blog/control-cycle-management/). Chapters 4 and 8 are printed in the [paperback](https://www.amazon.com/dp/B0HPCJCWKF) too.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

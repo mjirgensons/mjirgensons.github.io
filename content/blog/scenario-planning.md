@@ -15,7 +15,7 @@ The future doesn't arrive as one line. It arrives as a pie cut into slices: the 
 
 A plan built on one future is a bet you never agreed to make.
 
-The usual answer to uncertainty is a five-year spreadsheet with figures to the cent. Precise to the decimal, and wrong by the summer.
+The usual answer to uncertainty is [a five-year spreadsheet](/blog/why-business-plans-fail/) with figures to the cent. Precise to the decimal, and wrong by the summer.
 
 The answer to a future you can't predict comes from the Jirgenson Model. Compare a few futures in numbers, check the worst one, and choose the move that holds in all of them. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -29,7 +29,7 @@ The model turns each scenario into an action with numbers.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> some future is bound to arrive, but it comes in variants, each with its own probability. To control is to enlarge the slice of the variant you chose as your goal and shrink the others. So you compare scenarios by three things: the chance of reaching the goal under each action, its cost and its risk of harm.</div>
 
-A scenario you can't act on is a weather report. A scenario tied to a lever is a decision waiting to be made.
+A scenario you can't act on is a weather report. A scenario tied to [a lever](/blog/levers-of-control/) is a decision waiting to be made. The model these rules belong to is open on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 ## Scenario planning in five steps, filled in
 
@@ -41,7 +41,7 @@ He decided nothing that night. He went to bed and met Sara, who runs his Friday 
 
 ### 1. Name the goal and the horizon
 
-One number, one date. Andrew's: a cash reserve of 2.0 months of expenses, looking ahead to month 12.
+One number, one date. Andrew's: [a cash reserve](/blog/cash-reserve-months-of-expenses/) of 2.0 months of expenses, looking ahead to month 12.
 
 ### 2. Write three scenarios as actions
 
@@ -71,13 +71,13 @@ No probabilities at hand? Use ranges and plain words ("likely", "unlikely") inst
 
 ### 5. Read the worst case, then decide
 
-The worst outcome is 2.11 months. That is still above the goal of 2.0, and far from the red line of one month. The goal holds in all three scenarios.
+The worst outcome is 2.11 months. That is still above the goal of 2.0, and far from [the red line](/blog/kpi-zones/) of one month. The goal holds in all three scenarios.
 
-This is the point of the whole exercise. The decision is robust to an error in the probabilities. Andrew could be wrong about every one of his odds, and the choice would still stand. Robustness, not the exact probability, makes the forecast fit for action.
+This is the point of the whole exercise. The decision is robust to an error in the probabilities. Andrew could be wrong about every one of his odds, and the choice would still stand. [Robustness](/blog/decisions-under-uncertainty/), not the exact probability, makes the forecast fit for action.
 
 Andrew chose scenario 2. It reaches the goal sooner and ends highest. The part-time barista would add fixed costs while the reserve is still yellow. He wrote one condition next to the choice: if quality slips in two months, switch to scenario 3.
 
-Three weeks later he noticed he couldn't remember the last time he had panicked.
+Three weeks later he noticed he couldn't remember the last time he had panicked. Andrew's shop runs through the whole book, on Kindle and in [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 ## The worst case scenario is a test, not a mood
 
@@ -89,7 +89,7 @@ Then pull one lever at a time. Andrew started with the price alone, so he could 
 
 ## A what if analysis on a pocket-money budget
 
-The same tool works at the smallest scale. Alex is thirteen and saving for a €300 bicycle by 1 September. On 1 May he has €40.
+The same tool works at the smallest scale. Alex is thirteen and [saving for a €300 bicycle](/blog/save-for-a-goal/) by 1 September. On 1 May he has €40.
 
 What if he changes nothing and only collects his pocket money of €20 a month? By the autumn: €40 plus four times €20, so €120. He is €180 short.
 
@@ -99,7 +99,7 @@ Nobody needs to push him. He sees in two numbers that doing nothing costs him th
 
 On 1 July he runs the what if again. He has €140. Add €50, the scooter's €60 and another €50: exactly €300, with nothing to spare. So he puts the scooter up for sale that day.
 
-A what if analysis is the same move each time: one action, one number, one date.
+A what if analysis is the same move each time: one action, one number, one date. More short cases from the model appear on [X](https://x.com/SteerDontGuess).
 
 ## What a one-line future costs
 
@@ -109,7 +109,7 @@ Six months of difference, and a one-line planner never sees it, because he never
 
 The bad month shows the other cost. Say Andrew had decided that same night. He would most likely have hired a full-time barista to plug the hole. And he would have started hunting for a new supplier. Two levers at once. When the numbers moved, he could not have said which lever moved them.
 
-The human cost is the night itself: decisions made at the hour you see least.
+The human cost is the night itself: [decisions made at the hour you see least](/blog/decision-fatigue-small-business/).
 
 "I can't predict the future, so why model it?" is the fair objection. You don't need to predict it. You need a choice that survives being wrong. The worst case check gives you exactly that.
 
@@ -117,7 +117,7 @@ The human cost is the night itself: decisions made at the hour you see least.
 
 Be clear about what the table gives you. You compare futures, pick the move that holds in all of them and know your worst case. That treats the symptom: decisions made on one hopeful line.
 
-The cause is still there. The table is a snapshot. It doesn't change how you steer between snapshots, so you still react to last month's figures instead of next month's. And when a scenario says the goal is out of reach, the table doesn't say whether to change the plan or the goal.
+The cause is still there. The table is a snapshot. It doesn't change how you steer between snapshots, so you still [react to last month's figures](/blog/reactive-vs-proactive-management/) instead of next month's. And when a scenario says the goal is out of reach, the table doesn't say whether to change the plan or the goal.
 
 Two steps close that gap.
 

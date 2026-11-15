@@ -39,7 +39,7 @@ Here is the whole tool. Five lines on one page, each with a worked entry from El
 Elena, a freelance designer, used this for her first online book. Months 1 to 3: she exits the old mode and writes the book, about 120 hours. Months 4 to 9: the book launches, visits grow to 1,400 a month, sales reach 21. Months 10 to 14: she enters the new mode, with income from three sources and her week back to 35 hours.
 
 **2. Launch conditions.** The measurable event that starts the turn. Not a date.
-Andrew, who runs a coffee shop, wanted a second location. His condition: the cash reserve holds at two months for three months in a row. Nothing in the red zone before a growth manoeuvre starts.
+Andrew, who runs a coffee shop, wanted a second location. His condition: [the cash reserve](/blog/cash-reserve-months-of-expenses/) holds at two months for three months in a row. Nothing in [the red zone](/blog/kpi-zones/) before a growth manoeuvre starts.
 
 **3. The corridor.** How far you may stray from the planned line at each checkpoint, in value and in time.
 Elena's corridor allowed up to 55 hours a week while writing. Andrew's corridor: his cash reserve never below 1.0 month, along the whole route.
@@ -56,7 +56,7 @@ Elena's corridor allowed up to 55 hours a week while writing. Andrew's corridor:
 **5. Stop, sell or revise conditions.** Written in advance, while you're calm.
 The data may show a goal is out of reach, or that its price beats the benefit. Write what reading would tell you so, before the first episode.
 
-That is the card. It fits on one page.
+That is the card. It fits on one page. The model behind it is published in full on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> steady mode holds a fixed goal and corrects small deviations. A manoeuvre moves the goal itself, through three periods, inside a tolerance corridor along a planned path. It starts when written launch conditions are met, not when you feel ready.</div>
 
@@ -70,7 +70,7 @@ Alex shows how this works. He is saving €300 for a bicycle, and his planned li
 
 He doesn't change the goal to "a cheaper bicycle". An error of €30 is a reason to change the plan, not the goal. He puts his scooter up for sale at once, without waiting for August. By 1 August he has €250, €15 above the line.
 
-Do the same with your show. Episodes behind the line mean a new lever: a shorter format, a fixed recording slot, a guest list booked ahead. The goal stays.
+Do the same with your show. Episodes behind the line mean a new [lever](/blog/levers-of-control/): a shorter format, a fixed recording slot, a guest list booked ahead. The goal stays.
 
 As long as you stay inside the corridor, you control the manoeuvre. Drop out of it and you need either a controlled return or a halt. You decide which, on paper.
 
@@ -98,15 +98,15 @@ How to avoid the silent stop: decide tonight which reading would make you stop. 
 
 <strong>Two out of three blogs go silent within two months.</strong>
 
-Fix the review rhythm first. Content consistency follows the rhythm, not the other way round.
+Fix the review rhythm first. [Content consistency](/blog/consistency-is-key/) follows the rhythm, not the other way round.
 
-Use the table on the card. Look at your levers every week: did you record, write, publish? Look at the error weekly for fast numbers and monthly for slow ones. Look at the plan every quarter, and at the goal every six months.
+Use the table on the card. Look at your levers every week: did you record, write, publish? Look at the error [weekly for fast numbers and monthly for slow ones](/blog/how-often-to-review-kpis/). Look at the plan every quarter, and at the goal every six months.
 
 The rhythm depends on how fast things change and how soon damage sets in. A blog that posts weekly needs a weekly look at the levers. A podcast with monthly episodes needs a monthly look at the error.
 
 A missed week then shows up on Monday, while it costs one post. Without the rhythm, it shows up in month three, when the blog has already gone quiet.
 
-How to avoid the two-month silence: book the weekly review before you book the next post.
+How to avoid the two-month silence: book the weekly review before you book the next post. Our own short videos on the model sit on the [Steer, Don't Guess channel](https://www.youtube.com/@SteerDontGuess).
 
 ## What a stop after one month costs
 
@@ -126,7 +126,7 @@ The card takes 15 minutes. Five lines, one table, one page.
 
 It saves the time you'd spend deciding, every Tuesday night, whether the show is worth it. The decision was made on paper, while you were calm.
 
-The same card serves a coffee shop's second location, a freelancer's book and a boy's bicycle fund. A show is one more manoeuvre.
+The same card serves a coffee shop's second location, a freelancer's book and [a boy's bicycle fund](/blog/save-for-a-goal/). A show is one more manoeuvre. For the bad evening after a quiet episode, see these [podcast tips](/blog/podcast-tips/).
 
 ## Where the manoeuvre card does not reach
 
@@ -139,7 +139,7 @@ Steady mode and manoeuvre are one link in the loop: goal, state, error, levers, 
 - **The backward move.** From the goal back to this week's first action, which also sets when the manoeuvre starts. Chapter 15.
 - **The three offsets.** Three hidden errors that break even a good plan: in the goal, the starting point or the environment. Chapter 11.
 
-Without them, the card keeps the show alive. It doesn't yet tell you if the show is heading for the right port.
+Without them, the card keeps the show alive. It doesn't yet tell you if the show is heading for the right port. Both chapters are in the Kindle book and the [paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -155,7 +155,7 @@ Without them, the card keeps the show alive. It doesn't yet tell you if the show
 
 You have two choices. Record episode two when you feel like it, and let a quiet week decide the show's fate. Or put the manoeuvre card on one page tonight.
 
-The card keeps you recording on purpose. The backward move and the three offsets tell you when to start, what must stand by when, and where a good plan breaks.
+The card keeps you recording on purpose. [The backward move](/blog/backward-planning/) and the three offsets tell you when to start, what must stand by when, and where a good plan breaks.
 
 Next Monday you open one page, check the corridor and know whether to record, adjust or stop.
 

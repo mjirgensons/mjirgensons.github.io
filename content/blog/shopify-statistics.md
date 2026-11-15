@@ -25,12 +25,12 @@ Late nights on the store don't move sales when the changes don't obey you. The J
 
 Stop pushing on sales. Move a lever. Shopify statistics count the stores that close; your list counts the levers you hold.
 
-A lever is anything you can change by your own decision. Sales, margin and conversion are results. They move when a lever moves, and never on command.
+[A lever](/blog/levers-of-control/) is anything you can change by your own decision. Sales, margin and conversion are results. They move when a lever moves, and never on command.
 
 Here is the whole tool. It takes about ten minutes and one sheet of paper.
 
 **1. Pick one goal in trouble and write every action that comes to mind**. Don't filter yet.
-Elena, a freelance designer launching her first online book, wrote: "more social media, increase sales, be more visible".
+Elena, a freelance designer launching [her first online book](/blog/book-launch-plan/), wrote: "more social media, increase sales, be more visible".
 
 **2. Ask of each item what exactly you do with your own hands**.
 Elena's answers: write three chapters, prepare the book's page, collect a list of the first hundred addresses. Every item sounded less grand. Every item could start tomorrow.
@@ -50,9 +50,9 @@ Andrew's answers:
 
 **5. Start with what is fast and reversible.** Then the slow or irreversible levers. For a store, the range and the product page sit at the top. A long supplier contract sits at the bottom.
 
-**6. Give every financial goal one leading indicator.** A number that moves before the monthly revenue does.
+**6. Give every financial goal one leading indicator.** [A number that moves before the monthly revenue does](/blog/what-is-a-leading-indicator/).
 
-That is the lever list. Andrew read his four lines and felt calmer. Until then he had spent his nerves on everything at once. Now he had four things to tackle the next morning.
+That is the lever list. Andrew read his four lines and felt calmer. Until then he had spent his nerves on everything at once. Now he had four things to tackle the next morning. The model behind the list lives in a public [GitHub repository](https://github.com/mjirgensons/jirgenson-model).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the levers are the parameters you can reach and change by your own decision. Together they form the control vector. What pushes you but does not obey you is an environmental factor: you allow for it, you don't work on it.</div>
 
@@ -70,7 +70,7 @@ How to avoid the late surprise: on the day you pull a lever, write the check dat
 
 ## Ecommerce margin: what one lever buys
 
-Test a lever in money before you pull it hard. Andrew's monthly numbers: revenue €30,000, ingredients €9,000 that rise and fall with customers, other costs €18,300. Profit €2,700. Margin 9%.
+Test a lever in money before you pull it hard. Andrew's monthly numbers: revenue €30,000, ingredients €9,000 that rise and fall with customers, other costs €18,300. Profit €2,700. [Margin 9%](/blog/how-to-calculate-profit-margin/).
 
 Now run one lever on paper. An illustration with his starting numbers: prices up 5%, and 2% of customers leave.
 
@@ -82,7 +82,7 @@ Now run one lever on paper. An illustration with his starting numbers: prices up
 | Profit | €2,700 | €3,750 |
 | Margin | 9% | about 12% |
 
-One lever delivered about 3 points of the 6 he needed. The rise pays as long as fewer than 6.7% of customers leave.
+One lever delivered about 3 points of the 6 he needed. [The rise pays](/blog/break-even-point/) as long as fewer than 6.7% of customers leave.
 
 He capped each step at 5%. A bigger jump would have mixed two effects, and he could not have told which caused the drop.
 
@@ -98,7 +98,7 @@ Her trial stream gave a usable line. Every 100 visitors brought 1.5 buyers. At 1
 
 Her leading indicator: 350 page visitors a week and the share of them who buy. Monthly revenue tells her what happened. Weekly visitors tell her what is coming.
 
-How to avoid going dark: give each money goal one leading number, and read it every week. Managing by monthly revenue alone is living by the fire alarm. It rings when the house is already on fire.
+How to avoid going dark: give each money goal one leading number, and read it every week. Managing by monthly revenue alone is living by the fire alarm. It rings when the house is already on fire. Three zones for a shop like this are set out in [Etsy statistics](/blog/etsy-statistics/).
 
 ## Ecommerce mistakes: pushing on the result
 
@@ -122,15 +122,15 @@ Every system works the same way: goal, state, gap, levers, plan, forecast. The l
 
 The lever list takes about ten minutes. Pick one goal, write four or five actions, cross out what depends on others. What remains is your list for that goal.
 
-You already spend three hours a night on banner colours. Ten minutes on levers decides which three hours count.
+You already spend three hours a night on banner colours. Ten minutes on levers decides which three hours count. For quick lever cases between evenings, see [Steer, Don't Guess on Instagram](https://www.instagram.com/steerdontguess/).
 
 ## What six more months of guessing cost
 
 Leave the levers unnamed and the numbers stay where they are. Andrew's margin stays at 9%: €2,700 a month instead of the €4,500 a 15% margin would bring. That is €10,800 missing over six months.
 
-His cash reserve reaches its two-month goal at month 16 instead of month 10. Six extra months with no cushion, where one breakdown costs him a full month of progress.
+[His cash reserve](/blog/cash-reserve-months-of-expenses/) reaches its two-month goal at month 16 instead of month 10. Six extra months with no cushion, where one breakdown costs him a full month of progress.
 
-And the owner pays twice. Effort poured into what will not budge returns nothing but fatigue.
+And the owner pays twice. [Effort poured into what will not budge](/blog/work-smarter-not-harder/) returns nothing but fatigue.
 
 ## Where the lever list stops
 
@@ -143,7 +143,7 @@ Two steps close that gap.
 - **One page per goal.** Levers in order, resources, written limits, a leading indicator, a deadline and an owner. Chapter 6.
 - **Control by forecast.** A weekly reading of where the month will land, so you correct course before it ends. Chapter 9.
 
-Without them, the list is a pile of bricks with no blueprint.
+Without them, the list is a pile of bricks with no blueprint. The blueprint, Chapters 6 and 9, comes in [paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well.
 
 The three-bin sort and a full price test are in [business levers](/blog/business-levers/).
 
