@@ -1,6 +1,6 @@
 ---
-title: "Levers of control: what you can actually change in a business"
-description: Levers of control for small business owners: how to tell a lever from a result, the three questions to ask before pulling one, and a 5% price rise tested in euros.
+title: "Levers of control: 3 questions to ask before you pull one"
+description: "Levers of control in plain terms: tell a lever from a result, check three things before you act, and see if a 5% price rise pays off, worked out in euros."
 date: 2026-10-30
 updated: 2026-11-05
 chapter: Chapter 5, Levers: what you can really change

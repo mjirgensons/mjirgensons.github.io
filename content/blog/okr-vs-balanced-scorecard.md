@@ -31,7 +31,7 @@ Both methods are strong, built for different jobs.
 | Its strength | Focus | Breadth |
 | What it leaves open | Which key result wins in a collision | Which side comes first when several look bad |
 
-So the honest answer to "OKR or scorecard?" is both, for different parts of your sheet. OKR writes the goals. The scorecard checks that you are not staring at money alone.
+So the honest answer to "OKR or scorecard?" is both, for different parts of your sheet. OKR writes the goals. The scorecard checks that you are not staring at money alone. For PDCA, TOC and EOS on the same kind of problem, read [management frameworks explained](/blog/management-frameworks-explained/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> OKR-style wording feeds the goal vector: an ordered list of at most nine measurable goals. The balanced scorecard's sides feed the state vector: the measured value of each goal, row by row. The refusal order sits on top and settles every collision before it happens.</div>
 

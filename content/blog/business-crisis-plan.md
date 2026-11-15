@@ -87,7 +87,7 @@ Write when you will look at the numbers again, and what should have changed by t
 
 Then name one person you will tell out loud: the fact and one action. Saying the risk with an action attached makes you pull the lever sooner.
 
-Add the three business triage questions for every new problem that lands during the storm. Which goal does it belong to? Which zone is that number in now? Is it more important than what I am doing right now?
+Add the three [business triage](/blog/business-triage/) questions for every new problem that lands during the storm. Which goal does it belong to? Which zone is that number in now? Is it more important than what I am doing right now?
 
 That is the page. It takes an evening.
 

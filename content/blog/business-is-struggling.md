@@ -67,7 +67,7 @@ How to avoid the quiet slide: read the colours every week. A row that changes co
 
 The courtroom is loud. The red line is quiet, and it comes first. Act there.
 
-When a row crosses into emergency, follow the red protocol. Check for direct threats to people, safety, mandatory payments and the law. Freeze secondary work. Put time, money and attention on the red row and its levers. If several rows are in the red, save first the one closest to damage you can't undo.
+When a row crosses into emergency, follow the red protocol. Check for direct threats to people, safety, mandatory payments and the law. Freeze secondary work. Put time, money and attention on the red row and its levers. If several rows are in the red, save first the one closest to damage you can't undo. [Business triage](/blog/business-triage/) turns that rule into seven steps for a bad month.
 
 Andrew wanted loyalty cards at once, to win customers back. The table said no. The cards cost money, and that money would come out of a reserve already under a month.
 

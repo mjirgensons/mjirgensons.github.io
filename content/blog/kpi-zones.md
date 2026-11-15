@@ -1,11 +1,11 @@
 ---
-title: "KPI Zones: How to Turn Any Number Into a Clear Decision"
-description: "KPI zones turn a gap into a decision: work out the error, then set green, yellow and red in advance. Five steps, a freelancer's and a coffee shop's numbers."
+title: "KPI zones: draw green, yellow and red lines in 5 steps"
+description: "KPI zones in five steps: turn each gap into an error, then set green, yellow and red in advance. See where a coffee shop puts its red line, and copy the method."
 date: 2026-10-31
 updated: 2026-10-31
 chapter: Chapter 4, Error: the main signal that drives decisions
 slug: kpi-zones
-keywords: [kpi zones, traffic light dashboard, traffic light dashboard template, business dashboard, red line business, what is a business dashboard, kpi thresholds, how to set kpi thresholds, kpi tolerance, error vector, stability margin, red amber green status]
+keywords: [kpi zones, kpi zone, traffic light dashboard, traffic light dashboard template, business dashboard, red line business, what is a business dashboard, kpi thresholds, how to set kpi thresholds, kpi tolerance, error vector, stability margin, red amber green status]
 answer: "KPI zones turn a raw gap into a decision. For each number, work out the error (actual minus goal), then set three zones in advance. Green: within tolerance, leave it alone. Yellow: worse than normal, find the cause. Red: past the line where damage turns hard to reverse, so everything else waits. Grey means the data are missing or stale."
 ---
 
@@ -19,7 +19,7 @@ Twenty numbers in the monthly report, and not one of them says whether to act. T
 
 A number without a line makes you judge it fresh each week, mood and all. The Jirgenson Model gives you the answer: every gap becomes an error, and zones you set in advance turn it into a decision. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
-## What KPI zones are
+## What a KPI zone is
 
 A zone is a range of values you agree on in advance, in a calm moment. When the number lands in it, the response is already written down.
 

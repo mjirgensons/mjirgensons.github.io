@@ -63,7 +63,7 @@ The third pass is where most annual goal setting never goes, and where most annu
 1. **Check that nothing is missing:** goals, current state, gaps and zones, levers, a plan per goal, who is responsible, a forecast, how you will steer, and whether this is a steady year or a big change.
 2. **Check three classic failures:** goals that cannot be met together; a starting number that is wrong; a market around you that is shrinking.
 3. **Draw two forecasts with numbers and dates:** if nothing changes, and if the plan works.
-4. **Plan backwards from each goal to this week,** checking money, people and time at every step.
+4. **Plan backwards from each goal to this week,** checking money, people and time at every step. A [backward planning template](/blog/backward-planning-template/) shows one filled in.
 5. **Set a review rhythm:** levers weekly; fast numbers weekly and slow ones monthly; the plans quarterly; the goals themselves every six months.
 
 That last line is what keeps next year's goals alive past February. A goal looked at weekly is a goal. A goal looked at in December is a memory.

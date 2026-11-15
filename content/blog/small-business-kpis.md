@@ -43,7 +43,7 @@ A freelance designer's version has six rows: three goals (average income over th
 2. **Name a data source for each.** Bank statement, accounts, till, calendar, complaints log.
 3. **Set up minimal measurement** where there is no source yet. A notebook counts.
 4. **Fill in today's values honestly.** No "about twenty" where the real figure is nine.
-5. **Set the zones.** Normal, acceptable, emergency, set in a calm moment.
+5. **Set the zones.** Normal, acceptable, emergency, set in a calm moment. [KPI zones](/blog/kpi-zones/) shows where each line goes.
 6. **Set the meeting rhythm.** A short weekly look, a monthly review, a quarterly check of the plans.
 
 The tools differ by line of work. An online shop tracks orders and advertising spend; a workshop, workload and deadlines; an insurance agent, the client funnel and contract renewals. The six steps stay the same.

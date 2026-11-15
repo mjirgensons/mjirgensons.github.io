@@ -23,7 +23,7 @@ A list without an order lets the loudest call win. The Jirgenson Model starts wi
 
 A ship cannot sail to two ports at once. A captain who loves both will dash back and forth, burn fuel and arrive nowhere. You pick the port before you leave the harbour, not in the middle of a storm.
 
-Too many goals work the same way. Cash wants you to cut costs. Quality wants you to spend. When the list has no order, the choice falls to whoever asks loudest.
+Too many goals work the same way. Cash wants you to cut costs. Quality wants you to spend. When the list has no order, the choice falls to whoever asks loudest. An [Eisenhower matrix alternative](/blog/eisenhower-matrix-alternative/) fixes that: rank the goals first, then let each task in.
 
 "Everything is a priority" sounds like commitment. In practice it hands the steering wheel to chance.
 

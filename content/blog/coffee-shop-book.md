@@ -105,7 +105,7 @@ It is for the owner with the queue and the empty till. It also works for any sma
 
 Worried it is a control theory book full of formulas? Every chapter comes in three levels: basic, practical and advanced. The maths sits in the advanced level. Skip it, and the method still works.
 
-If you keep practical business books like Rework on your shelf, this one goes next to them, with a calculator.
+If you keep practical business books like Rework on your shelf, this one goes next to them, with a calculator. For five more, sorted by the problem each solves, see [books like Measure What Matters](/blog/books-like-measure-what-matters/).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

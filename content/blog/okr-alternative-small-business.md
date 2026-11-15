@@ -9,7 +9,7 @@ keywords: [okr alternative, okr for small business, okr vs balanced scorecard, o
 answer: "A good OKR alternative for small business keeps what OKRs do well (few goals, measurable results) and adds what a small team needs most: a refusal order that says which goal wins when two collide, three zones for every number so you know when to act, and named levers for each goal. The Jirgenson Model is built that way and can sit on top of OKRs rather than replace them."
 ---
 
-OKRs are a brilliant invention. Andy Grove built them at Intel, John Doerr carried them to Google, and the idea at their core is hard to argue with: a few ambitious objectives, each with measurable key results.
+OKRs are a brilliant invention. Andy Grove built them at Intel, John Doerr carried them to Google, and the idea at their core is hard to argue with: a few ambitious objectives, each with measurable key results. Doerr tells that story in *Measure What Matters*; these [books like Measure What Matters](/blog/books-like-measure-what-matters/) take it further.
 
 So why do so many small businesses try OKRs, love the first quarterly workshop and quietly drop them by the second? Not because the idea is wrong. Because a ten-person company, or a one-person one, hits the questions OKRs were never designed to answer. Which key result wins when two of them pull against each other? At what point is a number bad enough to drop everything? And on a tired Thursday, what exactly do I *do*?
 
@@ -72,7 +72,7 @@ The Jirgenson Model does not replace either. It gives each a place:
 | MBO (Drucker) | Agreed goals with personal responsibility | A review rhythm within the period and control by forecast |
 | PDCA | A small cycle of checking and improvement | Three control schemes; PDCA works as a local improvement loop inside the model |
 
-OKRs and MBO supply the wording of goals. The Balanced Scorecard suggests which sides of the business to measure. The model links them into one system and answers the questions that matter most when everything is on fire.
+OKRs and MBO supply the wording of goals. The Balanced Scorecard suggests which sides of the business to measure. The model links them into one system and answers the questions that matter most when everything is on fire. For five of them run on one coffee shop problem, see [management frameworks explained](/blog/management-frameworks-explained/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the goal vector is an ordered list of at most nine measurable goals, each with a current value, a permissible deviation and a check rhythm. The order (the refusal order) says which goal is given up first and which last, and it decides every collision in advance.</div>
 

@@ -1,6 +1,6 @@
 ---
-title: "Business triage: what to do when everything goes wrong at once"
-description: Business triage for a bad month: seven steps from calming the noise to one decision, which problem goes first, and a coffee shop's three scenarios in numbers.
+title: "Business triage in 7 steps: what to fix first when it all breaks"
+description: "Business triage for a bad month: count the weeks to red to see which problem goes first, then work through a filled-in seven-step template before you decide."
 date: 2026-10-30
 updated: 2026-11-04
 chapter: Chapter 12, Seven steps of entering control; Conclusion, the Red Card

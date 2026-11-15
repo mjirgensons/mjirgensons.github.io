@@ -1,6 +1,6 @@
 ---
-title: "Management frameworks explained: OKR, BSC, PDCA, TOC and EOS"
-description: Management frameworks explained plainly: OKR, Balanced Scorecard, PDCA, TOC and EOS, one coffee shop problem run through all five.
+title: "Management frameworks explained: which of 5 to use on Monday"
+description: "Management frameworks explained in plain words: OKR, Balanced Scorecard, PDCA, TOC and EOS run on one coffee shop problem, so you can see which fits your case."
 date: 2026-10-30
 updated: 2026-10-30
 chapter: Chapter 14, One model for every field (How the model differs from familiar approaches)
@@ -73,7 +73,7 @@ Every framework gives useful work. None of them, on its own, says what to do whe
 
 ## Where this does not reach
 
-These are one-paragraph summaries, not a substitute for the original books, and each framework has more depth than a table can show. The "fair fight" is an illustration of typical use, not a test. And the suggestion here is not to pick a winner, but to see which question each tool answers and use it for that.
+These are one-paragraph summaries, not a substitute for the original books, and each framework has more depth than a table can show. To choose which book to read first, see [books like Measure What Matters](/blog/books-like-measure-what-matters/). The "fair fight" is an illustration of typical use, not a test. And the suggestion here is not to pick a winner, but to see which question each tool answers and use it for that.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

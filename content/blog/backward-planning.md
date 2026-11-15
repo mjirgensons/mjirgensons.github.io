@@ -5,7 +5,7 @@ date: 2026-10-30
 updated: 2026-11-05
 chapter: Chapter 15, The backward move: from the goal to today
 slug: backward-planning
-keywords: [backward planning, reverse planning, backward planning template, what is backward planning, plan backwards from a goal, how to plan backwards from a goal]
+keywords: [backward planning, reverse planning, back planning, backplanning, backward planning template, what is backward planning, plan backwards from a goal, how to plan backwards from a goal]
 answer: "Backward planning means starting from the finished result and asking, step by step, what must be true just before it, until you reach this week. The output is a two-column table, time before the goal and what must be true, whose first row tells you what to do now. It works best when the end state and your starting point are both written down precisely."
 ---
 
@@ -65,7 +65,7 @@ You do not need software. A sheet of paper and twenty minutes will do. Here is t
 4. **Check resources at every row.** Money, people and time must exist for each step, or the chain is a story.
 5. **Read the first row as your task for this week.**
 
-Fill it from the bottom up, starting with the goal, exactly as Andrew did; then read it from the top, where this week sits.
+Fill it from the bottom up, starting with the goal, exactly as Andrew did; then read it from the top, where this week sits. For a five-column version filled in for a freelancer's 14-month goal, see the [backward planning template](/blog/backward-planning-template/).
 
 | Time before the goal | What must be true | Resources needed | Check date |
 |---|---|---|---|
@@ -123,6 +123,10 @@ Write the end state and today's state precisely, then ask what must be true 3, 6
 ### Is there a backward planning template?
 
 Yes: a table with columns for time before the goal, what must be true, resources needed and a check date. Put the goal in the bottom row and today in the top row, fill it upwards from the goal, and the top row is your task for this week.
+
+### Is back planning the same as reverse planning?
+
+Yes. Back planning (often written backplanning), reverse planning and backward planning are three names for one method. You start at the finished goal and ask what must be true right before it. Whatever you call it, the output is the same two-column table, and its top row is this week's task.
 
 ## Published research
 

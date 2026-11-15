@@ -1,6 +1,6 @@
 ---
-title: "Eisenhower Matrix Alternative: Rank Your Goals, Not Your Tasks"
-description: "An Eisenhower matrix alternative for owners whose every task looks urgent: rank goals once with the refusal test, then filter each request with three questions."
+title: "Eisenhower matrix alternative for when every task looks urgent"
+description: "An Eisenhower matrix alternative that ranks goals, not tasks: one refusal test, three questions at the door, and a side-by-side week where the grid stalls."
 date: 2026-10-31
 updated: 2026-10-31
 chapter: Chapter 1, Goal: not a dream but a list with an order; Chapter 4, Error

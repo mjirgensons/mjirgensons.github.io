@@ -65,7 +65,7 @@ A tired mind offers quick, foolish fixes. A written "never" stops them faster th
 
 Receive problems in the order they arrive. Resolve them in order of priority.
 
-When a new request lands, ask it three questions. Which goal does it belong to? Which zone is that number in now? Is it more important than what I am doing right now? Only then does it earn a place in the queue.
+When a new request lands, ask it three questions. Which goal does it belong to? Which zone is that number in now? Is it more important than what I am doing right now? Only then does it earn a place in the queue. This [Eisenhower matrix alternative](/blog/eisenhower-matrix-alternative/) puts the same three questions next to the classic grid.
 
 That is the whole sheet. It takes about an evening. Writing his five goals in order took Andrew fifteen minutes.
 
@@ -94,7 +94,7 @@ If both answers come at once, the calm-hour work is done. If you hesitate, someo
 
 Tiredness does not only feel bad. It costs money.
 
-In his first months Andrew worked sixty-five hours a week and made decisions late at night. Those were the hours of his worst mistakes. He mixed up figures, put off calling the supplier and gave wrong deadlines. Fatigue corrupts a forecast like a faulty instrument.
+In his first months Andrew worked sixty-five hours a week and made decisions late at night. Those were the hours of his worst mistakes. He mixed up figures, put off calling the supplier and gave wrong deadlines. Fatigue corrupts a forecast like a faulty instrument. That is why [business triage](/blog/business-triage/) starts by not deciding in the first hour.
 
 Now the money. His reserve stood at 0.5 months against a goal of 2.0. With monthly expenses of €27,300, that gap is €40,950. His margin was 9% against a goal of 15%. On revenue of €30,000 a month, that is €1,800 of profit lost every month: €2,700 earned instead of €4,500.
 

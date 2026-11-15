@@ -25,7 +25,7 @@ Waste is usually treated as a kitchen problem: be more careful, throw less away.
 
 Whatever no one writes down does not exist for the report. It still exists for the bank. So a margin that leaves out waste is not a rough version of the true margin. It is a different number, and it is always too kind.
 
-Andrew's goal for margin was 15%. Below 5% he would be in an emergency. That gave him ten points of room between the goal and the red line. His uncounted waste bent the reading by eleven points. The error was bigger than the whole road to the red line. His gauge could not tell normal from emergency.
+Andrew's goal for margin was 15%. Below 5% he would be in an emergency. That gave him ten points of room between the goal and the [red line](/blog/kpi-zones/). His uncounted waste bent the reading by eleven points. The error was bigger than the whole road to the red line. His gauge could not tell normal from emergency.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> a figure is fit to steer by only when its error is small. It must sit well inside the room between the goal and the red line. The working rule: no more than a third of that room. If a figure fails, you repair the measurement. You never widen the tolerance to fit a broken gauge.</div>
 

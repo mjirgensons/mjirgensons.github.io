@@ -114,7 +114,7 @@ Without them, the page tells you what to do. It does not tell you what to do whe
 
 ## "I have no time to plan"
 
-Use the action plan template for one goal at a time: one page, about fifteen minutes. If the page will not fit, the goal is too big: split it in two. Start with the goal in the worst shape, not with all of them.
+Use the action plan template for one goal at a time: one page, about fifteen minutes. If the page will not fit, the goal is too big: split it in two. Start with the goal in the worst shape, not with all of them. If the goal is a year away, fill in a [backward planning template](/blog/backward-planning-template/) first to find this week's step.
 
 For Andrew's full margin page, with the arithmetic of each lever, see the [one page business plan template](/blog/one-page-business-plan/).
 

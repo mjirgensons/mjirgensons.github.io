@@ -1,6 +1,6 @@
 ---
-title: "Books like Measure What Matters: five to read next"
-description: Books like Measure What Matters for owners and managers, from The Goal to Traction: what each one adds, and which to read for which problem.
+title: "Books like Measure What Matters: 5 picks, each for one problem"
+description: "Books like Measure What Matters, sorted by the problem OKRs leave open: The Goal, Traction, the Balanced Scorecard and more. Pick by what you're stuck on."
 date: 2026-10-30
 updated: 2026-11-04
 chapter: Chapter 14, One model for every field (How the model differs from familiar approaches)

@@ -40,7 +40,7 @@ You need two documents: the bank statement and your accounts. Here are the steps
 | 5. The goal | Write the reserve you want, and its deadline | 2.0 months by month 12 |
 | 6. The gap in money | (goal − now) × monthly expenses | 1.5 × 27,300 = €40,950 short |
 
-Step 4 deserves a sentence of its own. Andrew put his red line at one month for a plain reason. A month gives him time to negotiate a deferral, find money and make a decision. Below a month, there is no time for any of it.
+Step 4 deserves a sentence of its own. Andrew put his red line at one month for a plain reason. A month gives him time to negotiate a deferral, find money and make a decision. Below a month, there is no time for any of it. The same test sets the line for any number: see [KPI zones](/blog/kpi-zones/).
 
 Set that line tonight, in a calm moment. Moving it in the middle of a crisis bends the ruler to fit the result.
 

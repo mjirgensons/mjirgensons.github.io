@@ -65,7 +65,7 @@ The Eisenhower matrix is the best-known prioritization tool: sort every task by 
 
 Three of the four requests land in the same Eisenhower box, "urgent and important", which is where most small business weeks live. The matrix cannot rank inside that box. The hierarchy can, because it knows which goal each request touches, what colour that goal is in, and which goal wins. One item gets the week; the others wait without guilt.
 
-That is the honest comparison. Eisenhower sorts tasks. A ranked list of goals sorts the goals the tasks serve, and then the tasks sort themselves.
+That is the honest comparison. Eisenhower sorts tasks. A ranked list of goals sorts the goals the tasks serve, and then the tasks sort themselves. The full method, with three questions at the door, is in this [Eisenhower matrix alternative](/blog/eisenhower-matrix-alternative/).
 
 ## Goal prioritization starts by removing methods
 
