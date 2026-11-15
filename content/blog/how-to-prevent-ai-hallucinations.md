@@ -11,7 +11,9 @@ answer: "How to prevent AI hallucinations in business advice: give the assistant
 
 A food truck has 72 hours before it loses its permit. The owner types the situation into an AI assistant and gets back a confident, beautifully formatted plan. It mentions an "industry average" repair time, a "typical" grace period from the city, and a cash figure the owner never gave it. All three are invented. None of them is flagged. And the owner, tired and frightened, has no way to tell which sentences came from his life and which came from the machine's imagination.
 
-That is what AI hallucinations look like in real life: a plausible number in the one place where you can least afford a wrong one. If you have ever wondered how to prevent AI hallucinations when you ask for business advice, the most useful answer I have read is hidden in the appendices of a management book: *Steer, Don't Guess* by Martin Jirgenson.
+That is what [AI hallucinations look like in real life](/blog/ai-hallucinations-example/): a plausible number in the one place where you can least afford a wrong one. If you have ever wondered how to prevent AI hallucinations when you ask for business advice, the most useful answer I have read is hidden in the appendices of a management book: *Steer, Don't Guess* by [Martin Jirgenson](https://www.amazon.com/e/B0HPCVYHDJ).
+
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## AI hallucinations explained, in a business conversation
 
@@ -40,7 +42,7 @@ Left to itself, the assistant slipped something made up into seven answers out o
 
 And the single invented fact that survived? The judge traced it back to an example sentence inside the prompt itself. The assistant had not made anything up. It had copied, faithfully, the one number its own instructions contained. If there is a better illustration of how literally these systems follow what you give them, I have not seen it.
 
-You do not have to take these numbers on trust. The complete experimental record (the scenarios and answer key, all 240 answers, all 600 blind judge records, the scripts and the limits) is archived on Zenodo with a permanent DOI: [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934).
+You do not have to take these numbers on trust. The complete experimental record (the scenarios and answer key, all 240 answers, all 600 blind judge records, the scripts and the limits) is archived on Zenodo with a permanent DOI: [10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934). A copy of the same data sits on [Hugging Face](https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test).
 
 ## How to prevent AI hallucinations: the five rules that did the work
 
@@ -52,13 +54,13 @@ What makes this part of the book brilliant is that the rules are simple enough t
 - arithmetic shown from those facts;
 - assumptions labelled "I am assuming", with what changes if they are wrong.
 
-Everything else (causes, typical values, what others will do) must be phrased as a check to perform. This single rule is the heart of how to prevent AI hallucinations in practice: it gives the model a legal place to put its guesses, so they stop disguising themselves as facts.
+Everything else (causes, typical values, what others will do) must be phrased as a check to perform. This single rule is the heart of how to prevent AI hallucinations in practice: it gives the model a legal place to put its guesses, so they stop disguising themselves as facts. You can set it once, as shown in [ChatGPT custom instructions](/blog/chatgpt-custom-instructions/).
 
 **2. Ask only what would change the decision.** An assistant that must compute with what it has, and may ask only questions that change the answer, has no reason to invent the rest.
 
-**3. Never let it choose your priorities.** The assistant proposes an order of goals in your own words, marks it as a proposal, and you confirm it. A machine that is not allowed to decide what matters to you has one less thing to hallucinate.
+**3. Never let it choose your priorities.** The assistant proposes [an order of goals](/blog/goal-hierarchy/) in your own words, marks it as a proposal, and you confirm it. A machine that is not allowed to decide what matters to you has one less thing to hallucinate.
 
-**4. Fix the shape of the answer.** The same order every time: where you are, the most dangerous point, what to do, what to protect, what not to do, what to measure, two forecasts. When the structure is fixed, a missing number has nowhere to hide.
+**4. Fix the shape of the answer.** The same order every time: where you are, the most dangerous point, what to do, what to protect, what not to do, what to measure, [two forecasts](/blog/forecast-cash-flow/). When the structure is fixed, a missing number has nowhere to hide.
 
 **5. Treat a mismatch as a red alarm.** If the assistant's figures stop matching yours, the book says, that is an error to diagnose: check the data, the calculation, the version of the rules, then restart with the goals and the state supplied again. Hallucinations thrive in long, drifting conversations; a reset rule starves them.
 
@@ -68,11 +70,11 @@ The book's own example is worth quoting in spirit. You write: "I have a small wo
 
 An assistant without the canon replies with pages of sensible, generic advice: broaden your customer base, keep a budget, think about advertising. None of it is wrong. None of it is yours.
 
-An assistant with the canon starts from your own sentence. If the money runs out too soon, the reserve is less than a month of expenses, and that is the most vulnerable point. The first safe action is to calculate the reserve in months from your bank statement. Then it asks the one question that would change the plan. No averages, no invented deadlines, no borrowed margins. Just your numbers, and the honest gaps between them.
+An assistant with the canon starts from your own sentence. If the money runs out too soon, the reserve is less than [a month of expenses](/blog/cash-reserve-months-of-expenses/), and that is the most vulnerable point. The first safe action is to calculate the reserve in months from your bank statement. Then it asks the one question that would change the plan. No averages, no invented deadlines, no borrowed margins. Just your numbers, and the honest gaps between them.
 
 ## Where this does not reach
 
-The test has clear limits, and the book states them calmly: ten scenarios, one model family, an AI judge. The full record of every round, with every answer, judge record and script, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934) with a permanent DOI, and the author invites anyone to rerun it. A rulebook does not make a language model infallible, and it does not replace your judgement or your data. What it does is make deviations visible. When the assistant starts inventing, you notice at once, because you know what the right move looks like.
+The test has clear limits, and the book states them calmly: ten scenarios, one model family, an AI judge. The full record of every round, with every answer, judge record and script, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934) with a permanent DOI, and the author invites anyone to rerun it. The scripts wait in the [GitHub experiment folder](https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10). A rulebook does not make a language model infallible, and it does not replace your judgement or your data. What it does is make deviations visible. When the assistant starts inventing, you notice at once, because you know what the right move looks like.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -85,7 +87,7 @@ The test has clear limits, and the book states them calmly: ten scenarios, one m
 
 ## The book behind the prompt
 
-The canon and the operating prompt are free, and you can [download them here](/ai-assistant/). But they are the appendices of a book, not a replacement for it. *Steer, Don't Guess* explains why these rules work: why a goal list needs an order, why a number needs one source, why a red line must be drawn before the crisis. Read it and you will not only know how to prevent AI hallucinations; you will know what a good answer looks like before the assistant gives it to you. That is the real protection.
+The [canon](https://github.com/mjirgensons/jirgenson-canon) and the operating prompt are free, and you can [download them here](/ai-assistant/). But they are the appendices of a book, not a replacement for it. *Steer, Don't Guess* explains why these rules work: why a goal list needs an order, why a number needs one source, why [a red line](/blog/kpi-zones/) must be drawn before the crisis. Read it and you will not only know how to prevent AI hallucinations; you will know what a good answer looks like before the assistant gives it to you. That is the real protection.
 
 Start with [the free sample](/blog/free-sample/) (the Introduction and Chapter 1), see how the whole method fits together in [the Jirgenson Model explained](/blog/jirgenson-model-management-method/), or read how the same discipline works without any AI in [what to do first in a business crisis](/blog/business-crisis-what-to-do-first/). When you are ready, the book is on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

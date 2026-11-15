@@ -13,7 +13,7 @@ Management books love a framework, and small business owners end up with a shelf
 
 The honest answer is that they are not competitors. Each was built to answer a different question. Here are the five most common, explained plainly, and then one real problem run through all of them, so you can see what each actually tells you.
 
-A shelf of acronyms still leaves you stuck when two goals collide on Monday. The Jirgenson Model gives you the answer as one control system: goals in order, real numbers, zones, levers and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A shelf of acronyms still leaves you stuck when two goals collide on Monday. The Jirgenson Model gives you the answer as [one control system](https://github.com/mjirgensons/jirgenson-model): goals in order, real numbers, zones, levers and a plan. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Management frameworks explained, one by one
 
@@ -28,11 +28,11 @@ A shelf of acronyms still leaves you stuck when two goals collide on Monday. The
 
 ### OKR explained
 
-Objectives and Key Results pair a qualitative objective ("become the neighbourhood's favourite coffee shop") with a few measurable results that show whether you got there. Its strength is focus: a small number of goals for a period, visible to everyone.
+Objectives and Key Results pair a qualitative objective ("become the neighbourhood's favourite coffee shop") with a few measurable results that show whether you got there. Its strength is focus: a small number of goals for a period, visible to everyone. How it stacks up against the scorecard is covered in [OKR vs Balanced Scorecard](/blog/okr-vs-balanced-scorecard/).
 
 ### Balanced Scorecard explained
 
-The Balanced Scorecard argues that financial measures alone do not show where a business is heading, so it adds customers, internal processes, and learning and growth. Its strength is breadth: you stop running the business from the money column alone.
+The Balanced Scorecard argues that financial measures alone do not show where a business is heading, so it adds customers, internal processes, and learning and growth. Its strength is breadth: you stop running the business from the money column alone. A fuller walk-through is in [balanced scorecard explained](/blog/balanced-scorecard-explained/).
 
 ### PDCA explained
 
@@ -40,7 +40,7 @@ Plan a change, do it on a small scale, check the result, act on what you learned
 
 ### Theory of Constraints explained
 
-A system moves only as fast as its tightest constraint, so improving anything else is wasted effort. The usual sequence is to identify the constraint, exploit it fully, subordinate everything else to it, widen it if needed, and then look for the next one. Its strength is ruthless focus on the real bottleneck.
+A system moves only as fast as its tightest constraint, so improving anything else is wasted effort. The usual sequence is to identify the constraint, exploit it fully, subordinate everything else to it, widen it if needed, and then look for the next one. Its strength is ruthless focus on the real bottleneck. Five reads that go deeper are listed in [books like The Goal](/blog/books-like-the-goal/).
 
 ### Entrepreneurial Operating System explained
 
@@ -48,7 +48,7 @@ EOS packages practices for small and mid-sized companies around six components (
 
 ## One problem, five frameworks: a fair fight
 
-Here is a real situation from *Steer, Don't Guess*. A coffee shop has half a month of cash reserve (the goal is two), a 9% margin (believed to be twenty), 25% regular customers, five complaints a week and an owner working 65 hours. Run it through each framework (an illustration of what each typically points to):
+Here is a real situation from [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPBR6BNX). A coffee shop has half a month of cash reserve (the goal is two), a 9% margin (believed to be twenty), 25% regular customers, five complaints a week and an owner working 65 hours. Run it through each framework (an illustration of what each typically points to):
 
 | Framework | What it would point you to | What it leaves open |
 |---|---|---|
@@ -58,7 +58,7 @@ Here is a real situation from *Steer, Don't Guess*. A coffee shop has half a mon
 | Theory of Constraints | Find the bottleneck. Is it the owner's time? The Friday queue? Cash? | Whether the constraint is inside the shop or in the street around it |
 | EOS | Set a weekly meeting, a scorecard and an issues list | The meeting will surface all five problems at once. In what order? |
 
-Every framework gives useful work. None of them, on its own, says what to do when the reserve is red and everything else is yellow and they all compete for the same money. That gap is a ranked order of goals with colour zones: reserve first because without it the shop closes, everything that spends money waits until the reserve is back above one month. That one rule turns five frameworks' worth of good advice into a sequence.
+Every framework gives useful work. None of them, on its own, says what to do when the reserve is red and everything else is yellow and they all compete for the same money. That gap is [a ranked order of goals](/blog/goal-hierarchy/) with colour zones: reserve first because without it the shop closes, everything that spends money waits until the reserve is back above one month. That one rule turns five frameworks' worth of good advice into a sequence. Rules of this kind are written out in [the public canon](https://github.com/mjirgensons/jirgenson-canon).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> each method has a place: OKR and MBO supply the wording of goals; the Balanced Scorecard suggests which sides of the business to measure; the Theory of Constraints helps find the bottleneck when a number turns red; PDCA runs small improvement cycles; EOS supplies the meeting rhythm. The refusal order and the zones decide between them.</div>
 
@@ -86,7 +86,7 @@ These are one-paragraph summaries, not a substitute for the original books, and 
 
 ## One frame for all of them
 
-The appeal of putting these side by side is how much less contradictory they look. The confusion comes from treating them as rival religions. Treated as tools, each with its own job, they fit into one frame with room to spare.
+The appeal of putting these side by side is how much less contradictory they look. The confusion comes from treating them as rival religions. Treated as tools, each with its own job, they fit into [one frame](/blog/jirgenson-model-management-method/) with room to spare.
 
 The ranked goal list that sits underneath all of them is in Chapter 1, free in [the free sample](/blog/free-sample/). The full comparison, with what the model takes from each method and what it adds, is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

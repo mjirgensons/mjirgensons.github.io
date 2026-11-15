@@ -15,11 +15,11 @@ Picture the scene. Three tabs are open on the laptop: a loan offer, a job ad for
 
 Here is the irony. If the business recovers, you will never know which of the three saved it. If it does not, you will not know which one sank it.
 
-Late at night is the worst hour to steer. Andrew, the coffee shop owner in *Steer, Don't Guess*, made his worst mistakes in exactly those hours. Wrong figures, delayed calls, deadlines he could not keep. Fatigue bends a forecast like a faulty gauge.
+Late at night is the worst hour to steer. Andrew, the coffee shop owner in [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPCJCWKF), made his [worst mistakes in exactly those hours](/blog/decision-fatigue-small-business/). Wrong figures, delayed calls, deadlines he could not keep. Fatigue bends a forecast like a faulty gauge.
 
 So the first rule of how to save a failing business is about the clock, not the money.
 
-A sinking business doesn't need three bold moves at midnight. The Jirgenson Model gives you the answer as a control system: real numbers, clear zones and one lever pulled at the right time. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A sinking business doesn't need three bold moves at midnight. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer as a control system: real numbers, clear zones and one lever pulled at the right time. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Is it failing, or is it a bad month?
 
@@ -33,7 +33,7 @@ The calm version names the risk early and backs it at once with one action.
 
 ## How to save a failing business: three readings and one lever
 
-Before any reading, make one check. Is there an immediate danger to people, safety, mandatory payments or the law? If yes, protect first and call whoever can help. If no, make nothing irreversible tonight. Agree to look at facts in the morning.
+Before any reading, make one check. Is there an immediate danger to people, safety, mandatory payments or the law? If yes, protect first and call whoever can help. If no, make [nothing irreversible tonight](/blog/business-crisis-what-to-do-first/). Agree to look at facts in the morning.
 
 Then take three readings. They come from the middle of the seven steps the model uses when everything lands at once. Here they are, filled in with Andrew's bad month. A supplier raised prices by 8%, the coffee machine broke and a barista quit, all in a few days.
 
@@ -46,13 +46,13 @@ Then take three readings. They come from the middle of the seven steps the model
 
 <div class="def"><strong>In the Jirgenson Model,</strong> the enclosing system is the largest system your business sits inside: its industry, its economic cycle, its regulation. The rule for it is "judo, not boxing". Do not meet every problem with counterforce. Find what is already moving the right way and amplify it.</div>
 
-Read the third row twice. A price rise in a town where every café is raising prices swims with the river. The same price rise in a town where rivals are cutting prices swims against it. Same lever, different current.
+Read the third row twice. A price rise in a town where every café is raising prices [swims with the river](/blog/external-factors-business/). The same price rise in a town where rivals are cutting prices swims against it. Same lever, different current.
 
-The readings work outside cafés too, so this is how to save a failing business of any kind. Take a small studio that hears its largest client will cut its budget in half. Reading one: how has that client's share changed over two years? Reading two: what is growing, such as new clients? Reading three: what is the whole industry doing? Only then pick the lever.
+The readings work outside cafés too, so this is how to save a failing business of any kind. Take a small studio that hears its [largest client](/blog/client-concentration-freelancer/) will cut its budget in half. Reading one: how has that client's share changed over two years? Reading two: what is growing, such as new clients? Reading three: what is the whole industry doing? Only then pick the lever.
 
 Finish with two rules for the lever:
 
-1. **Pull one at a time.** Other causes, such as the season, keep acting. You need several weeks to see what one lever did.
+1. **Pull one at a time.** Other causes, such as the season, keep acting. You need several weeks to see [what one lever did](/blog/levers-of-control/).
 2. **Set the check date before you start.** Andrew wrote: receipts and complaints in three weeks, margin in a month and a half.
 
 That is the whole tool. One check, three readings, one lever, one date.
@@ -73,7 +73,7 @@ Three weeks into the morning version, Andrew could not remember his last panic.
 
 ## What six more months of guessing cost
 
-The numbers decide whether "failing" is a mood or a fact. In Andrew's starting position the margin was 9% and the cash reserve covered half a month of expenses.
+The numbers decide whether "failing" is a mood or a fact. In Andrew's starting position the margin was 9% and the [cash reserve](/blog/cash-reserve-months-of-expenses/) covered half a month of expenses.
 
 Change nothing, and that reserve reaches two months of expenses at month 16. With the margin raised step by step to 15%, it gets there at month 10. Six months apart, for the same coffee shop.
 
@@ -90,9 +90,9 @@ The cause of a slow slide is still there. You have no order of attention. When f
 Two steps close that gap.
 
 - **The attention queue by time to red.** Which worsening number crosses its red line first, and so earns your first hour. Chapter 12 has the exact calculation.
-- **The scenario forecast.** "If nothing changes" against "if the plan works", each with a date, so you act before the damage. Chapter 8.
+- **The scenario forecast.** ["If nothing changes" against "if the plan works"](/blog/scenario-planning/), each with a date, so you act before the damage. Chapter 8.
 
-Without them, the readings keep you from drowning. They do not yet tell you where to swim on the worst Monday.
+Without them, the readings keep you from drowning. They do not yet tell you where to swim on the worst Monday. The rules behind both are public in [the canon on GitHub](https://github.com/mjirgensons/jirgenson-canon).
 
 The full seven steps, filled in for the same bad month, are laid out as a [business triage template](/blog/business-triage/). Business triage is the long version. The three readings above are its core.
 

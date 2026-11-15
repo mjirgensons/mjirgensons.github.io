@@ -9,28 +9,30 @@ keywords: [Jirgenson Model, Martin Jirgenson, management method for small busine
 answer: The Jirgenson Model is a management method by Martin Jirgenson, set out in Steer, Don't Guess (2026). It applies control theory to business and life in three questions asked regularly: where do I want to go, where am I really, and what can I actually move to close the gap?
 ---
 
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+
 ## What the Jirgenson Model is, in one paragraph
 
 Managing without a model is driving in fog: you react to whatever appears in front of you. The machine breaks, a supplier is late, a client does not pay, and the day is spent in the order the problems arrived. The Jirgenson Model replaces that with steering. You decide in advance which goals matter and in which order you would give them up; you measure where you really are, one number from one source at a time; you set red lines while you are calm; you separate what you can change from what you can only watch; and you check the gap on a fixed rhythm, acting before the deviation becomes a crisis, not after.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> management is the regular reduction of the gap between where you want to be (the goal vector) and where you really are (the state vector), using only the parameters you can change directly (levers), in the order your priorities dictate, before the gap crosses a limit you set in advance.</div>
 
-The model is deliberately small. Its full rulebook, the canon, fits on a few pages and is published openly. The book *Steer, Don't Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life* explains it on three levels, from a teenager saving for a bike to a coffee shop with a 9% margin to the formal definitions.
+The model is deliberately small. Its full rulebook, the canon, fits on a few pages and is [published openly](https://github.com/mjirgensons/jirgenson-canon). The book *Steer, Don't Guess: Setting Priorities, Reading the Numbers and Correcting Course in Business and Life* explains it on three levels, from a teenager saving for a bike to a coffee shop with a 9% margin to the formal definitions.
 
 ## Who created it: Martin Jirgenson
 
-Martin Jirgenson is a researcher of management systems and a management practitioner based in Ontario, Canada. His field lies where strategy meets execution: from goals and measurements to working operational and software tools. He developed the Jirgenson Model from experience in crisis management, the architecture of complex systems and the fundamental laws of control theory, with one aim: to help owners, managers and families make decisions by instruments rather than by guesswork, with or without AI. *Steer, Don't Guess* (October 2026) is the first full presentation of the model. [More about the author](/author/).
+[Martin Jirgenson](https://www.linkedin.com/in/martin-jirgenson-3098609a/) is a researcher of management systems and a management practitioner based in Ontario, Canada. His field lies where strategy meets execution: from goals and measurements to working operational and software tools. He developed the Jirgenson Model from experience in crisis management, the architecture of complex systems and the fundamental laws of control theory, with one aim: to help owners, managers and families make decisions by instruments rather than by guesswork, with or without AI. [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPBR6BNX) (October 2026) is the first full presentation of the model. [More about the author](/author/).
 
 ## Why control theory belongs in a small business
 
-Control theory is the branch of engineering that keeps an aircraft on course, a room at the right temperature and a car at a steady speed. Its central idea is simple: a system reaches a goal not by following a plan perfectly but by measuring the deviation from the goal and correcting it, again and again. That loop, goal, measurement, error, correction, is called **feedback control**.
+[Control theory](/blog/control-theory-for-business/) is the branch of engineering that keeps an aircraft on course, a room at the right temperature and a car at a steady speed. Its central idea is simple: a system reaches a goal not by following a plan perfectly but by measuring the deviation from the goal and correcting it, again and again. That loop, goal, measurement, error, correction, is called **feedback control**.
 
 A business is not an autopilot, and the book is careful about that. People react to your decisions, markets change, data is late or wrong. But the loop applies with surprising force, because most of what goes wrong in a small business is a broken loop:
 
 - **No goal in the loop.** "Grow and be happy" cannot be compared with anything, so there is no error to correct.
 - **No measurement in the loop.** The owner reads the queue at the door instead of the margin, the bank balance instead of months of reserve.
 - **No lever in the loop.** Energy goes to things that cannot be changed: the season, the competitor, "the economy".
-- **Too much delay in the loop.** The problem is noticed at the end of the month, decided on next week and acted on the week after. Engineers call that delay *phase lag*; owners call it "always reacting too late".
+- **Too much delay in the loop.** The problem is noticed at the end of the month, decided on next week and acted on the week after. Engineers call that delay [*phase lag*](/blog/phase-lag-management/); owners call it "always reacting too late".
 
 The Jirgenson Model is a way to close the loop with ordinary tools: a short goal table, a source for every number, a traffic-light dashboard and a weekly rhythm.
 
@@ -91,11 +93,11 @@ The model does not replace the methods you may already use. Chapter 14 of the bo
 | Balanced Scorecard | Four perspectives: financial, customer, internal process, learning and growth | The six-area scan including the owner's own time and health, and a rule for which perspective gives way first |
 | Theory of Constraints | Find and manage the bottleneck | Bottlenecks treated as levers and constraints inside one goal table, with a rhythm for checking them |
 
-If you already run OKR or EOS, the model gives you the missing layer: the order in which your goals give way, and the red lines that tell you when to stop everything else.
+If you already [run OKR](/blog/okr-alternative-small-business/) or EOS, the model gives you the missing layer: the order in which your goals give way, and the red lines that tell you when to stop everything else.
 
 ## The AI version: a canon and a prompt
 
-The model is also written for language models. Its canon, a compact rulebook, and an operating prompt are [published openly](/ai-assistant/). With them, an AI assistant such as ChatGPT, Claude or Gemini stops giving generic advice and works through your numbers in a fixed order: priorities, state, red lines, levers, two forecasts. In a blind test on ten realistic business crises, the same AI invented a fact in seven answers out of ten when left alone, and in one answer out of a hundred and twenty with the model. It scored 88.8 out of 100 against 56.2, won 30 blind pairings out of 30 and broke no rules in 120 reviews. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934).
+The model is also written for language models. Its canon, a compact rulebook, and an operating prompt are [published openly](/ai-assistant/). With them, an AI assistant such as ChatGPT, Claude or Gemini stops giving generic advice and works through your numbers in a fixed order: priorities, state, red lines, levers, two forecasts. In a blind test on ten realistic business crises, the same AI invented a fact in seven answers out of ten when left alone, and in one answer out of a hundred and twenty with the model. It scored 88.8 out of 100 against 56.2, won 30 blind pairings out of 30 and broke no rules in 120 reviews. Ten scenarios, one model family, an AI judge; the full record of every round, with every answer and judge record, is public on [Zenodo](https://doi.org/10.5281/zenodo.23964934). A second copy of the data sits on [Kaggle](https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt).
 
 ## Who the method is for
 

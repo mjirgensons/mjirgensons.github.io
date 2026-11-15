@@ -11,7 +11,7 @@ answer: "Levers of control are the actions you can take yourself, by your own de
 
 "We need profit. We have to do something."
 
-Andrew, the coffee shop owner in *Steer, Don't Guess*, says this at a morning briefing, staring at a red number. His senior barista, Sara, asks the only reasonable question: "Do what, exactly?" He does not know. They talk for ten minutes and part with the feeling that they have been discussing the weather.
+Andrew, the coffee shop owner in [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPCJCWKF), says this at a [morning briefing](/blog/meeting-cadence/), staring at a red number. His senior barista, Sara, asks the only reasonable question: "Do what, exactly?" He does not know. They talk for ten minutes and part with the feeling that they have been discussing the weather.
 
 If you have ever sat through that meeting, possibly as the person running it, this page is for you. It is about levers of control: the short list of things you can actually move, and the much longer list of things you only wish you could.
 
@@ -27,7 +27,7 @@ A helmsman does not turn the ship with his bare hands. He turns the wheel, and t
 
 If you searched for Robert Simons' *Levers of Control* (Harvard Business School Press, 1995), here is the short version. Simons names four systems a large organisation uses to steer its people: beliefs systems (the values everyone shares), boundary systems (what nobody may do), diagnostic control systems (targets and the reports that watch them) and interactive control systems (the few numbers top management discusses face to face).
 
-That is control of a company from above. This page is about the other meaning of the phrase: the short list of things you, the owner, can change by your own decision this week. The two fit together. A diagnostic system tells you that margin is red. It does not tell you which lever to pull.
+That is control of a company from above. This page is about the other meaning of the phrase: the short list of things you, the owner, can change by your own decision this week. The two fit together. A diagnostic system tells you that [margin is red](/blog/traffic-light-dashboard/). It does not tell you which lever to pull.
 
 ## Business levers vs results: the mistake behind most "we must do something" meetings
 
@@ -53,7 +53,7 @@ The most satisfying scene in the chapter is a clean sheet of paper. Andrew write
 
 He rereads the list and feels noticeably calmer. Until then he had spent his nerves on everything at once: the rent, the weather, the customers' mood. Now he has four things he can tackle tomorrow morning. That, I think, is the most honest description of how to focus on what you can control that I have read in a business book. Not a mindset. A crossed-out list.
 
-The same move works anywhere. Elena, a freelance designer, first wrote "more social media, increase sales, be more visible". Every item sounded businesslike; not one could be done tomorrow. Her second list: write three chapters, prepare the book's page, collect the first hundred addresses. Those are business levers. Alex, thirteen and saving for a bicycle, crossed out "get money for my birthday" when his mother pointed out it depended on his uncle.
+The same move works anywhere. Elena, a freelance designer, first wrote "more social media, increase sales, be more visible". Every item sounded businesslike; not one could be done tomorrow. Her second list: write three chapters, prepare the book's page, collect the first hundred addresses. Those are [business levers](/blog/business-levers/). Alex, thirteen and [saving for a bicycle](/blog/save-for-a-goal/), crossed out "get money for my birthday" when his mother pointed out it depended on his uncle.
 
 ## Three questions before you pull any lever
 
@@ -66,7 +66,7 @@ Not every lever is equally good. Before pulling one, ask three questions: Can I 
 | Purchasing | Through negotiation | In a month, after a new contract | Hard: the contract is signed |
 | Portion size | Yes | Immediately | Easy, but past a limit quality suffers |
 
-The table tells you where to start: fast and reversible first, slow or irreversible later. It also explains something owners often get wrong: why the first honest check of a plan comes in the second month. Some levers simply cannot work sooner.
+The table tells you where to start: fast and reversible first, slow or irreversible later. It also explains something owners often get wrong: why [the first honest check of a plan](/blog/how-often-to-review-kpis/) comes in the second month. Some levers simply cannot work sooner.
 
 ## Testing a lever in euros: will a 5% price rise pay off?
 
@@ -80,7 +80,7 @@ Here is where the chapter turns from good advice into a tool. Andrew's numbers: 
 | Profit | €2,700 | €3,750 |
 | Margin | 9% | about 12% |
 
-One lever delivers about three of the six percentage points he needs. Then comes the better question: where is the limit? The rise pays off as long as fewer than 6.7% of customers leave. "Raise the margin" has become something you can test: how many customers will leave? And the test is cheap, because a leading indicator answers it early: the number of receipts in the first two weeks after the change.
+One lever delivers about three of the six percentage points he needs. Then comes the better question: where is the limit? The rise pays off as long as fewer than 6.7% of customers leave. "Raise the margin" has become something you can test: how many customers will leave? And the test is cheap, because [a leading indicator](/blog/what-is-a-leading-indicator/) answers it early: the number of receipts in the first two weeks after the change.
 
 ## When there is no lever
 
@@ -101,11 +101,11 @@ A lever list tells you what you can move, not how hard to push or in what combin
 
 ## The ten-minute exercise that ends the weather talk
 
-Here is the exercise for anyone who feels stuck: pick one goal in trouble, write four or five actions you can take yourself in the next few days, then cross out everything that depends on others, the weather, the market or luck. It takes about ten minutes. What remains is short, a little humbling and enormously calming.
+Here is the exercise for anyone who feels stuck: pick one goal in trouble, write four or five actions you can take yourself in the next few days, then cross out everything that depends on others, the weather, the market or luck. It takes about ten minutes. What remains is short, a little humbling and enormously calming. Post your list and tag us on [Instagram](https://www.instagram.com/steerdontguess/).
 
 You have two choices. Hold another meeting about the weather. Or spend those ten minutes on a list of levers and pull one of them on Monday.
 
-The list is one step. It does not say when a number is bad enough to act on; that is the zones, Chapter 4. It does not turn a lever into a plan with a deadline and an indicator; that is the control concept, Chapter 6.
+The list is one step. It does not say when a number is bad enough to act on; that is the zones, Chapter 4. It does not turn a lever into a plan with a deadline and an indicator; that is the control concept, Chapter 6. The control vector itself is defined in [the model's canon](https://github.com/mjirgensons/jirgenson-canon).
 
 Test the logic for free: [Chapter 1, the goals that levers serve](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

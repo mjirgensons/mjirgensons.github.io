@@ -9,7 +9,7 @@ keywords: [how to prioritize your life, how to set priorities in life, life prio
 answer: "How to prioritize your life: write your limits first: the law, safety, promises and the load you can bear. Then list goals from every area, including your own time and health, each with a number, a date and today's value. Ask what you would give up first with half the resources, number the list in reverse, and give every exception a ceiling and an end date."
 ---
 
-In his first months, Andrew worked sixty-five hours a week. His worst mistakes came late at night.
+In his first months, Andrew [worked sixty-five hours a week](/blog/business-owner-burnout/). His worst mistakes came late at night.
 
 He mixed up figures. He put off the call to the supplier. He gave deadlines he could not keep. None of it came from a lack of effort. It came from a worn-out man at the wheel.
 
@@ -41,15 +41,15 @@ Some things are not goals you trade. The law, safety, the promises you have made
 
 ### 2. Scan every area, yourself included
 
-Go through each area of your life: money, work, health, relationships, studies, your own time. Take zero to three goals from each. You may leave an area empty, but on purpose, with the reason written down. Stop at nine goals in total. Ten priorities are no longer priorities. They are a list.
+Go through each area of your life: money, work, health, relationships, studies, your own time. Take zero to three goals from each. You may leave an area empty, but on purpose, with the reason written down. Stop at [nine goals in total](/blog/too-many-goals/). Ten priorities are no longer priorities. They are a list.
 
 ### 3. Give each goal a number, a date and today's value
 
-"More balance" cannot be checked. "No more than 35 working hours a week" can. Then write where you stand today. Without today's value, a goal stays a wish.
+"More balance" [cannot be checked](/blog/how-to-set-measurable-goals/). "No more than 35 working hours a week" can. Then write where you stand today. Without today's value, a goal stays a wish.
 
 ### 4. Run the refusal test
 
-Imagine you had half the time, half the money and half the energy. Cross the goals out one at a time, starting with what you would give up first. Keep going until one is left. Then number the list in reverse. The last one crossed out becomes number one.
+Imagine you had half the time, half the money and half the energy. Cross the goals out one at a time, starting with what you would give up first. Keep going until one is left. Then number the list in reverse. The last one crossed out becomes number one. Each step of it is worked through in [the refusal test](/blog/set-priorities-refusal-order/).
 
 ### 5. Write your exceptions in advance
 
@@ -57,7 +57,7 @@ Low goals rarely need a ban. They need a limit and a date. Decide now how far a 
 
 ## A filled-in example: Elena's page
 
-Elena is a freelance designer who wants to write her first online book. Before she wrote a single goal, she measured instead of guessing. Six months of bank statements showed income swinging between €800 and €2,200. The average was about €1,300 a month. One client brought in €910 of it, or 70%. Her time records showed 50 hours a week.
+Elena is a freelance designer who wants to write her first online book. Before she wrote a single goal, she measured instead of guessing. Six months of bank statements showed income swinging between €800 and €2,200. The average was about €1,300 a month. [One client](/blog/client-concentration-freelancer/) brought in €910 of it, or 70%. Her time records showed 50 hours a week.
 
 Here is her page, with today's values next to each goal.
 
@@ -77,9 +77,9 @@ Is "income first, my hours last" the right order? For Elena, yes. For you, maybe
 
 Andrew ran the same test on his coffee shop goals. He put his own hours, no more than 40 a week, in last place. He stared at that row for a long time. He had known for ages that he was worn out. He had never said out loud that he would give up rest for the business.
 
-Writing it down did not give him a free Sunday that week. It did two other things. It made the trade visible. And it made the trade open to review. The model checks the order of goals every six months to a year.
+Writing it down did not give him a free Sunday that week. It did two other things. It made the trade visible. And it made the trade open to review. [The model](https://github.com/mjirgensons/jirgenson-canon) checks the order of goals every six months to a year.
 
-A year later, Andrew has lunch at home on Sundays. His hours still sit in the yellow zone, and he is honest about that. But he no longer guesses.
+A year later, Andrew has lunch at home on Sundays. His hours still sit in the [yellow zone](/blog/kpi-zones/), and he is honest about that. But he no longer guesses.
 
 ## What six more months of "everything matters" cost
 
@@ -97,7 +97,7 @@ The enemy here is not ambition, and it is not you. It is the habit of letting th
 
 Fair. Nobody asks you to run your family on a dashboard.
 
-But look at who uses the same steps. A coffee shop owner. A freelancer. A couple whose budget runs €400 short every month. A thirteen-year-old saving for a €300 bicycle. The contents change. The questions stay the same: what do I want, where am I now, and what gives way first?
+But look at who uses the same steps. A coffee shop owner. A freelancer. A couple whose budget runs €400 short every month. A thirteen-year-old [saving for a €300 bicycle](/blog/save-for-a-goal/). The contents change. The questions stay the same: what do I want, where am I now, and what gives way first?
 
 For the refusal test worked through with the teenager and the couple, read [how to set priorities in life when everything feels important](/blog/priorities-in-life/).
 
@@ -114,7 +114,7 @@ Two steps close that gap.
 
 Without them, the list tells you what to give up. It does not tell you when you have already given up too much.
 
-This page is one step of a loop: goal, state, gap, levers, plan, forecast. Tonight you write the first one.
+This page is one step of [a loop](https://github.com/mjirgensons/jirgenson-model): goal, state, gap, levers, plan, forecast. Tonight you write the first one.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -130,7 +130,7 @@ This page is one step of a loop: goal, state, gap, levers, plan, forecast. Tonig
 
 You have two choices. Close this tab and let tomorrow's loudest request set your order again. Or take one sheet of paper and twenty minutes, and decide what gives way before the week decides for you.
 
-The page gives you the order. The zones and the launch conditions tell you when to act on it.
+The page gives you the order. The zones and the launch conditions tell you when to act on it. Both are in [the paperback](https://www.amazon.com/dp/B0HPCJCWKF) too.
 
 That is how to prioritize your life in practice. Next Sunday evening, you open one page and know what you will refuse this week.
 

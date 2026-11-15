@@ -11,9 +11,9 @@ answer: "How to set measurable goals: fill in six fields for each one. Parameter
 
 "A good profit." "Happy customers." "More time for the family."
 
-Every owner has written goals like these, and every owner knows the quiet disappointment that follows a few months later, when nothing has changed and nobody can say whether anything should have. The problem is never ambition. The problem is that a wish cannot be steered. You can only steer by a number you can see, against a line you drew in advance.
+Every owner has written goals like these, and every owner knows the quiet disappointment that follows a few months later, when nothing has changed and nobody can say whether anything should have. The problem is never ambition. The problem is that a wish cannot be steered. You can only steer by a number you can see, against [a line you drew in advance](/blog/kpi-zones/).
 
-Andrew, the coffee shop owner who runs through *Steer, Don't Guess*, starts his list with "growth and joy". By the end of one evening he has crossed it out and replaced it with five lines that would change how he ran the business for the next year. What happened in between takes fifteen minutes, and anyone can do it.
+Andrew, the coffee shop owner who runs through [*Steer, Don't Guess*](https://www.amazon.com/dp/B0HPCJCWKF), starts his list with "growth and joy". By the end of one evening he has crossed it out and replaced it with five lines that would change how he ran the business for the next year. What happened in between takes fifteen minutes, and anyone can do it.
 
 A wish can't be steered, and a list without an order can't settle a clash. The Jirgenson Model gives you the answer: goals in a fixed order, each with a real number and a line where normal ends. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -33,7 +33,7 @@ Here are the six fields, each with the exact entry Andrew wrote for his margin. 
 *Andrew:* margin. Not "profit", not "how the month felt". One word everyone in the shop understands the same way.
 
 **2. Definition and source: how is it calculated, and where do the data come from?**
-*Andrew:* operating profit as a percentage of revenue, taken from the accounting system into which the till data are exported. Without this field, two people will bring two different margins to the same meeting, and both will be right.
+*Andrew:* operating profit as a percentage of revenue, taken from the accounting system into which the till data are exported. Without this field, two people will bring [two different margins](/blog/how-to-measure-business-performance/) to the same meeting, and both will be right.
 
 **3. Target and deadline: where, and by when?**
 *Andrew:* 15% by the sixth month. This is where most goal setting stops. It is barely halfway.
@@ -45,13 +45,13 @@ Here are the six fields, each with the exact entry Andrew wrote for his margin. 
 *Andrew:* once the goal is reached, no lower than 14%. This line decides in advance what a bad week looks like. A dip to 14.5% is not a crisis; a slide to 13% is a signal. Without it, every wobble triggers panic, or nothing ever does.
 
 **6. Rhythm and owner: who looks, and how often?**
-*Andrew:* Andrew checks it every week. A number nobody looks at is decoration.
+*Andrew:* Andrew checks it every week. A number nobody looks at is decoration. The right rhythm is set in [how often to review KPIs](/blog/how-often-to-review-kpis/).
 
 Put together, the six fields read as one sentence:
 
 > Margin, meaning operating profit as a percentage of revenue, taken from the accounting system into which the till data are exported; 15% by the sixth month; currently 9%; once the goal is reached, no lower than 14% is permissible; Andrew checks it every week.
 
-That is what a measurable goal looks like. Notice that fields four, five and six are precisely the ones most templates leave out, and precisely where plans quietly die.
+That is what a measurable goal looks like. Notice that fields four, five and six are precisely the ones most templates leave out, and precisely where plans quietly die. The same six fields sit in [the model's public canon](https://github.com/mjirgensons/jirgenson-canon).
 
 ## A measurable goals example: one owner's whole list
 
@@ -65,7 +65,7 @@ One goal is a start. Andrew's full list after that evening, with time counted in
 | 4 | Quality | no more than 2 complaints a week | M3 |
 | 5 | Owner's time | no more than 40 hours a week | M12 |
 
-The order of the rows is a decision, not a ranking of importance. It answers a harder question: if things got bad and he had to give goals up one at a time, which would go first? His own hours went last on the list, the first to be sacrificed. The reserve went to the top, because without it the shop closes and nothing else matters. I call that the refusal order, and it is the reason a list of goals can survive a bad month.
+The order of the rows is a decision, not a ranking of importance. It answers a harder question: if things got bad and he had to give goals up one at a time, which would go first? His own hours went last on the list, the first to be sacrificed. The reserve went to the top, because without it the shop closes and nothing else matters. I call that [the refusal order](/blog/set-priorities-refusal-order/), and it is the reason a list of goals can survive a bad month.
 
 ## The one-minute test
 
@@ -76,7 +76,7 @@ If you remember one thing from this page, remember this:
 - "15%" has no deadline.
 - "15% by the sixth month" is a goal.
 
-Number, unit, deadline. Run it over your current list now. Goals that fail it are usually not wrong; they were simply never finished.
+Number, unit, deadline. Run it over your current list now. Goals that fail it are usually not wrong; they were simply never finished. Four lists, finished field by field, are in [this measurable goals example](/blog/measurable-goals-example/).
 
 ## Goals vs methods: the mistake hiding in every list
 
@@ -90,7 +90,7 @@ This matters more than it looks. A goal answers "what do I want to achieve?"; a 
 
 To keep the list from leaning to one side, work through six areas: finance, clients, sales, processes and quality, people, and development and the owner. Take zero to three goals from each and no more than nine in total. An area may stay empty, but on purpose, with the reason written down.
 
-The sixth area is the one owners forget: their own time, health and money. If you are building a business at the cost of your own life, that too is a goal, and it is better chosen consciously. And why nine? Because for a person working on paper, ten priorities are no longer priorities. They are a list.
+The sixth area is the one owners forget: their own time, health and money. If you are building a business at the cost of your own life, that too is a goal, and it is better chosen consciously. And why nine? Because for a person working on paper, [ten priorities are no longer priorities](/blog/too-many-goals/). They are a list.
 
 ## SMART goals vs the six fields: a fair fight
 
@@ -117,7 +117,7 @@ So is this a SMART goals alternative? I would put it differently. SMART tells yo
 
 ## Where this does not reach
 
-Six fields make a goal measurable. They do not make it the right goal, and they do not make a set of goals compatible: "the lowest prices, the best coffee and a thirty per cent margin" can pass every field and still be impossible as a set, which is why goal lists need a separate check against your own costs and capacity. Legal, safety and contractual requirements stay outside the list altogether. They are constraints, not goals you can trade away.
+Six fields make a goal measurable. They do not make it the right goal, and they do not make a set of goals compatible: "the lowest prices, the best coffee and a thirty per cent margin" can pass every field and still be impossible as a set, which is why goal lists need [a separate check](/blog/mutually-exclusive-goals/) against your own costs and capacity. Legal, safety and contractual requirements stay outside the list altogether. They are constraints, not goals you can trade away.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -130,7 +130,7 @@ Six fields make a goal measurable. They do not make it the right goal, and they 
 
 ## Fifteen minutes and a sheet of paper
 
-No software, no workshop, no consultant. A sheet of paper, ten to twenty minutes, and the honesty to write down a current value you may not enjoy seeing. When Andrew finished his list, he felt solid ground under his feet for the first time in two years. If your goals have never given you that feeling, it is fifteen minutes away.
+No software, no workshop, no consultant. A sheet of paper, ten to twenty minutes, and the honesty to write down a current value you may not enjoy seeing. When Andrew finished his list, he felt solid ground under his feet for the first time in two years. If your goals have never given you that feeling, it is fifteen minutes away. Readers in Canada will find the book on [Amazon.ca](https://www.amazon.ca/dp/B0HPBR6BNX).
 
 The whole of Chapter 1, with the refusal test and examples for a business, a freelancer and a teenager saving for a bicycle, is free in [the free sample](/blog/free-sample/). When your goals are on paper and you want to steer by them through zones, levers and forecasts, the full book is on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

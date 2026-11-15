@@ -11,15 +11,15 @@ answer: "To track write-offs, define what counts (spoiled stock, binned products
 
 A note on words first. In tax language, a "write-off" often means a deductible expense. This post is about the other kind: stock that is lost, spoiled, binned or given away. The kind that never shows up on a sales report, yet leaves the business every single day.
 
-Andrew, a coffee shop owner, was sure his margin was around twenty per cent. When he finally measured it properly, it was nine. The difference was write-offs: milk that had gone sour, pastries thrown away at the end of a shift. Every one of them ate into the margin, and none of them appeared in any report, because nobody ever counted them.
+Andrew, a coffee shop owner in [the book](https://www.amazon.com/dp/B0HPCJCWKF), was sure [his margin](/blog/how-to-calculate-profit-margin/) was around twenty per cent. When he finally measured it properly, it was nine. The difference was write-offs: milk that had gone sour, pastries thrown away at the end of a shift. Every one of them ate into the margin, and none of them appeared in any report, because nobody ever counted them.
 
-Write-offs are the leak nobody counts, so the margin in your head looks better than the bank. The Jirgenson Model gives you the answer as a control system: real numbers from one source, checked against zones you set in advance. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Write-offs are the leak nobody counts, so the margin in your head looks better than the bank. The Jirgenson Model gives you the answer as [a control system](https://github.com/mjirgensons/jirgenson-model): real numbers from one source, checked against zones you set in advance. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Write-offs explained: why they disappear
 
 Write-offs are invisible for a simple reason: they produce no receipt. A sale leaves a trace in the till. A croissant in the bin leaves nothing. Whatever is not written down anywhere does not exist for the report, even though it still exists for the money.
 
-Three habits make it worse. Memory keeps the busy days and forgets the quiet losses. Rounding prefers comfortable numbers ("about twenty" sounds better than "nine and a half"). And people stop recording what makes them look bad: if waste is a source of blame, there will soon be "less" of it on paper.
+Three habits make it worse. Memory keeps the busy days and forgets the quiet losses. Rounding prefers comfortable numbers ("about twenty" sounds better than "nine and a half"). And people stop recording what makes them look bad: if waste is a source of blame, there will soon be "less" of it on paper. Each of the three gets its own section in [where does money go](/blog/where-does-money-go/).
 
 <div class="def"><strong>In the Jirgenson Model,</strong> every parameter needs one definition, one primary source and one person responsible for it. A cost that has no source is not small; it is unmeasured. Setting up the source is itself the first act of management.</div>
 
@@ -45,7 +45,7 @@ The example rows show the shape, not real numbers: fill in your own costs. What 
 
 ## What uncounted write-offs did to one margin
 
-With write-offs left out, the coffee shop's margin read about twenty per cent. With them in, it read nine. The gap was more than €3,000 a month on €30,000 of revenue, and it was about to drive a decision: that same week the owner had planned to hire a second barista at €1,800 a month.
+With write-offs left out, the coffee shop's margin read about twenty per cent. With them in, it read nine. The gap was more than €3,000 a month on €30,000 of revenue, and it was about to drive a decision: that same week the owner had planned to [hire a second barista](/blog/first-employee/) at €1,800 a month.
 
 | | Margin without write-offs | Margin with write-offs |
 |---|---|---|
@@ -57,18 +57,18 @@ The full story of that discovery is in [busy but not profitable](/blog/busy-but-
 
 ## Write-offs for small business, beyond the café
 
-The same invisible leak exists in almost every line of work, under different names:
+The same [invisible leak](/blog/waste-in-small-business/) exists in almost every line of work, under different names:
 
 - **A workshop:** offcuts, spoiled pieces, work redone because of a mistake.
 - **An online shop:** damaged returns that cannot be resold, items lost in shipping, samples sent out free.
 - **A shop or kiosk:** expired stock, breakage, small thefts.
 - **A bakery or kitchen:** the end-of-day bin, the batch that went wrong, staff meals.
 
-The method does not change. Define what counts, give it one place to be written down the moment it happens, total it weekly, and put it into the cost of goods. The categories in the "reason" column will be different for every business, and that column is usually where the first useful lever is found.
+The method does not change. Define what counts, give it one place to be written down the moment it happens, total it weekly, and put it into the cost of goods. The categories in the "reason" column will be different for every business, and that column is usually where [the first useful lever](/blog/business-levers/) is found.
 
 ## From tracking to reducing
 
-Once write-offs are visible, they become a lever. In the owner's margin plan, "track and reduce write-offs" was the backup lever, written down in advance in case the main levers fell short at the first check. Typical moves once you can see the numbers:
+Once write-offs are visible, they become a lever. In the owner's margin plan, "track and reduce write-offs" was [the backup lever](/blog/contingency-plan-template/), written down in advance in case the main levers fell short at the first check. Typical moves once you can see the numbers:
 
 - **Drop items that sell poorly and cost a lot.** The sheet shows which ones are binned most.
 - **Adjust daily quantities to the day of the week.** If Tuesdays throw away a third of the pastries and Saturdays sell out by ten, order by day, not by habit.
@@ -79,7 +79,7 @@ The one thing not to do is turn the sheet into a blame tool. The moment people a
 
 ## Where this does not reach
 
-This is a working method for seeing losses, not accounting or tax advice. How inventory write-offs are treated in your accounts and tax return depends on your jurisdiction, and an accountant should set that up. Some loss is normal in any business that handles perishables; the goal is a known, stable number inside your tolerance, not zero.
+This is a working method for seeing losses, not accounting or tax advice. How inventory write-offs are treated in your accounts and tax return depends on your jurisdiction, and an accountant should set that up. Some loss is normal in any business that handles perishables; the goal is a known, stable number [inside your tolerance](/blog/kpi-zones/), not zero.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -92,7 +92,7 @@ This is a working method for seeing losses, not accounting or tax advice. How in
 
 ## Two weeks with a notebook
 
-The cheapest experiment in this whole blog: put a sheet next to the bin for two weeks and write down everything that goes in it, with its cost. Then recalculate your margin. Whatever the number is, it will be truer than the one in your head, and true numbers are the only ones you can steer by.
+The cheapest experiment in this whole blog: put a sheet next to the bin for two weeks and write down everything that goes in it, with its cost. Then recalculate your margin. Whatever the number is, it will be truer than the one in your head, and true numbers are the only ones you can steer by. Send us your result on [X](https://x.com/SteerDontGuess).
 
 Goals that turn "lower waste" into a measurable target are in Chapter 1, free in [the free sample](/blog/free-sample/). The full method is in *Steer, Don't Guess* on [Amazon](https://www.amazon.com/dp/B0HPBR6BNX).
 

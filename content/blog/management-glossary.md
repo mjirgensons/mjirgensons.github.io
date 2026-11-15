@@ -15,7 +15,9 @@ And leave with no number, no owner and no date.
 
 That is the quiet trick of management jargon. It sounds like a plan. Often it replaces one. The word "priorities" fills the slide, and nobody has written down which goal dies first when money runs short.
 
-This glossary works the other way. Every term below names one part of a control loop. Every term points to a number in a real coffee shop. If a word cannot point to a number, it is decoration.
+This glossary works the other way. Every term below names one part of [a control loop](https://github.com/mjirgensons/jirgenson-model). Every term points to a number in a real coffee shop. If a word cannot point to a number, it is decoration.
+
+The answer to this comes from the Jirgenson Model. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## Why a management glossary should fit on one loop
 
@@ -27,11 +29,11 @@ Learn the words in this order and you can name every part of your own business i
 
 ## Goals: what you want, in order
 
-**Goal vector.** An ordered list of measurable goals. Not a mission. A list, with numbers and deadlines, no more than nine rows for a person working without software.
+**Goal vector.** An ordered list of measurable goals. Not a mission. A list, with numbers and deadlines, [no more than nine rows](/blog/too-many-goals/) for a person working without software.
 
 *Andrew's coffee shop:* cash reserve of at least 2.0 months of expenses by month 12. Margin 15% by month 6. Regular customers 40% of receipts. No more than 2 complaints a week. Owner's time no more than 40 hours a week.
 
-**Refusal order.** The order in which you would give up your goals. The one left at the end is the main one.
+**Refusal order.** The order in which you [would give up your goals](/blog/set-priorities-refusal-order/). The one left at the end is the main one.
 
 *Andrew:* reserve first, his own hours last. Without a reserve the shop closes, and nothing else matters.
 
@@ -53,7 +55,7 @@ Learn the words in this order and you can name every part of your own business i
 
 *Andrew:* reserve short by 1.5 months; margin short by 6 points.
 
-**Zones.** Normal, acceptable, emergency: green, yellow, red. Grey means no data, which is its own warning.
+**Zones.** Normal, acceptable, emergency: [green, yellow, red](/blog/kpi-zones/). Grey means no data, which is its own warning.
 
 *Andrew:* the reserve is red; margin, regulars, complaints and hours are yellow.
 
@@ -75,7 +77,7 @@ Learn the words in this order and you can name every part of your own business i
 
 *Andrew:* the share of espresso drinks in sales. It shifts with the menu and prices. He cannot order customers to drink less milk.
 
-**Leading and lagging indicators.** Lagging tells you what happened. Leading points to what will happen. Steering by lagging numbers alone is living by the fire alarm.
+**Leading and lagging indicators.** Lagging tells you what happened. Leading points to what will happen. Steering by lagging numbers alone is [living by the fire alarm](/blog/lagging-vs-leading-indicators/).
 
 *Andrew's leading indicator for margin:* average margin per receipt, every week.
 
@@ -87,7 +89,7 @@ Learn the words in this order and you can name every part of your own business i
 
 *Andrew's display case:* by plan, a hundred croissants every day, thirty in the bin on Tuesday, thirty guests turned away on Saturday. By forecast: about 70 on a Tuesday, about 130 on a Saturday, 15% fewer when it rains. A rainy Saturday order comes to about 110.
 
-**Phase lag.** The delay between a disturbance and your response: noticing, deciding, doing. Reacting faster does not remove it. A correction that arrives late is often too strong or too weak.
+**Phase lag.** [The delay between a disturbance and your response](/blog/phase-lag-management/): noticing, deciding, doing. Reacting faster does not remove it. A correction that arrives late is often too strong or too weak.
 
 ## Modes: holding course or turning
 
@@ -97,7 +99,7 @@ Learn the words in this order and you can name every part of your own business i
 
 **Tolerance corridor.** In a manoeuvre, the band around the planned path where you are still in control. Drop out of it, and you either return in a controlled way or stop.
 
-**Backward move.** Planning from the goal back to today. At every step you ask: what must be true right before this?
+**Backward move.** [Planning from the goal back to today](/blog/backward-planning/). At every step you ask: what must be true right before this?
 
 ## Name your own loop in ten minutes
 
@@ -135,7 +137,7 @@ Three of these words hide a method that matters most on the worst day:
 
 Knowing the word "red protocol" does not tell you which fire to fight first. The definition treats the vocabulary. The method treats the decisions.
 
-For the full list of terms in one place, see the glossary in [the Jirgenson Model overview](/blog/jirgenson-model-management-method/).
+For the full list of terms in one place, see the glossary in [the Jirgenson Model overview](/blog/jirgenson-model-management-method/). A machine-readable version sits in [the canon on GitHub](https://github.com/mjirgensons/jirgenson-canon).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

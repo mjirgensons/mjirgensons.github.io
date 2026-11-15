@@ -15,7 +15,7 @@ That week he meant to take on a second barista and pay for ads. Every sum behind
 
 Now picture your own desk. You can quote last month's revenue to the euro. You still cannot say whether your margin is nine or twenty.
 
-Nobody lied to Andrew. The number did, quietly, the way an unchecked number always can.
+Nobody lied to Andrew. The number did, quietly, the way an unchecked number always can. Short cases like his also run on the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 An unchecked number lies quietly, and every plan built on it inherits the lie. The Jirgenson Model gives you real numbers you've audited, set against the zones you steer in. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
@@ -27,7 +27,7 @@ A figure fails you in three ways. Each has a name, and each looks innocent.
 2. **Rounding and good intentions.** "About twenty" feels better to say than "nine and a half". So that is the figure people give.
 3. **What goes unrecorded.** A cost nobody writes down does not exist for the report. It still exists for the money.
 
-Andrew's margin fell through all three holes at once. He remembered the busy mornings. He rounded up. And he never counted waste: sour milk, pastries thrown out at the end of a shift. None of it reached a report, so none of it reached his margin.
+Andrew's margin fell through all three holes at once. He remembered the busy mornings. He rounded up. And he never counted [waste](/blog/waste-in-small-business/): sour milk, pastries thrown out at the end of a shift. None of it reached a report, so none of it reached his margin.
 
 A number without a source is a mood with a decimal point.
 
@@ -81,32 +81,32 @@ Here is the same coffee shop described two ways.
 
 The left column feels like knowledge. Not one entry in it can be checked a month later. The right column can. That makes it the start of any business health check worth the name.
 
-A freelancer runs the same test. Elena did not trust the glow of a good month after a big order. She pulled six months of bank statements. Her income swung between €800 and €2,200, an average of €1,300. Her best client brought in €910 a month on average: 70% of her income. One good month does not make an average.
+A freelancer runs the same test. Elena did not trust the glow of a good month after a big order. She pulled six months of bank statements. Her income swung between €800 and €2,200, an average of €1,300. Her best client brought in €910 a month on average: 70% of her income. One good month does not make an average. How she brought that share down is told in [client concentration risk](/blog/client-concentration-freelancer/).
 
 ## What six more months of guessing cost
 
 Andrew's phantom twenty per cent was about to pay for a hire and an ad campaign. Within a few months the shop would have run out of money. Nobody would have understood why.
 
-The real numbers are blunt. A margin six points short of target means €1,800 a month less profit: €2,700 instead of €4,500. At 9%, his reserve reaches two months of expenses only at month 16. With the margin plan working, at month 10. That is six extra months without a safe cushion.
+The real numbers are blunt. A margin six points short of target means €1,800 a month less profit: €2,700 instead of €4,500. At 9%, his reserve reaches [two months of expenses](/blog/cash-reserve-months-of-expenses/) only at month 16. With the margin plan working, at month 10. That is six extra months without a safe cushion.
 
 A thin margin also makes every accident dearer. At 9%, one breakdown costing a tenth of a month of expenses pushes the goal back a full month. At 15%, about half a month.
 
-Behind those figures sits an owner working 65 hours a week, deciding late at night, with numbers that flatter him.
+Behind those figures sits an owner [working 65 hours a week](/blog/business-owner-burnout/), deciding late at night, with numbers that flatter him.
 
 ## Where the audit stops
 
-The audit delivers the second step of the loop: goal, state, error, levers, plan, forecast. You now hold true readings. That treats the symptom: you stop steering by moods.
+The audit delivers the second step of [the control loop](/blog/control-cycle-management/): goal, state, error, levers, plan, forecast. You now hold true readings. That treats the symptom: you stop steering by moods.
 
 The cause of bad decisions is still in place. A clean 9% does not tell you whether it is a problem or a crisis. It does not tell you what to pull either.
 
 Two steps close that gap.
 
-- **Error and zones.** Where the green, yellow and red lines sit for each row. What to do when several rows turn red at once. Chapter 4.
-- **Levers.** Which parameters you can change yourself, and which only look like levers. Chapter 5.
+- **Error and zones.** Where the [green, yellow and red lines](/blog/kpi-zones/) sit for each row. What to do when several rows turn red at once. Chapter 4.
+- **Levers.** Which [parameters you can change yourself](/blog/business-levers/), and which only look like levers. Chapter 5.
 
 Without them, you own an honest panel and no rule for acting on it. If you want the one-evening table that comes before this audit, with a source for every row, start with the [financial health check](/blog/financial-health-check/).
 
-Too much maths for a small shop? No. Every chapter runs at three levels: basic, practical and advanced. The basic level here is three questions: who, how, over what period. The third-of-the-room rule is the practical step. The formulas stay optional.
+Too much maths for a small shop? No. Every chapter of [the paperback](https://www.amazon.com/dp/B0HPCJCWKF) runs at three levels: basic, practical and advanced. The basic level here is three questions: who, how, over what period. The third-of-the-room rule is the practical step. The formulas stay optional. The model itself is public on [GitHub](https://github.com/mjirgensons/jirgenson-model).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways

@@ -15,11 +15,11 @@ It ran at 9.
 
 That week he was about to hire a second barista and start an advertising campaign. On a number that did not exist.
 
-Nobody lied to him. Sour milk and unsold pastries never showed up in any report, so they never showed up in his head either. He owned the business, worked 65 hours a week, and still did not know where he stood.
+Nobody lied to him. [Sour milk and unsold pastries](/blog/how-to-track-write-offs/) never showed up in any report, so they never showed up in his head either. He owned the business, worked 65 hours a week, and still did not know where he stood.
 
 Ten honest questions would have caught it. They take ten minutes and a pen.
 
-Each No marks a spot where you're steering by a number that may not exist. The Jirgenson Model gives you the answer: it fills those rows with goals in order, real numbers, zones, levers, a plan and a forecast. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+Each No marks a spot where you're steering by a number that may not exist. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer: it fills those rows with goals in order, real numbers, zones, levers, a plan and a forecast. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What a self check measures
 
@@ -52,7 +52,7 @@ Write your answers down. Then read what each No costs.
 
 ### Goals: questions 1 and 2
 
-A goal without a number is a wish. Andrew's first list said "growth and joy". He crossed it out and wrote five goals with numbers and deadlines. That took fifteen minutes.
+A goal without a number is a wish. Andrew's first list said "growth and joy". He crossed it out and wrote [five goals with numbers and deadlines](/blog/how-to-set-measurable-goals/). That took fifteen minutes.
 
 A list without an order is worse. Picture the week after: the supplier raises the price of milk, and Sara asks for another barista on Fridays. Tired, Andrew says yes to both. A month later he runs out of money before he runs out of time. Nobody decided that. Fatigue did.
 
@@ -64,9 +64,9 @@ Words instead of numbers hide the truth. "The margin is fine" was 9%. "The reser
 
 ### Gap and levers: questions 5 and 6
 
-Without zones, every number looks equally urgent. Or equally fine. Andrew's first panel had one red row: a cash reserve of 0.5 months against a goal of 2.0. Without the colour, it sat in the list like any other number.
+[Without zones](/blog/kpi-zones/), every number looks equally urgent. Or equally fine. Andrew's first panel had one red row: a cash reserve of 0.5 months against a goal of 2.0. Without the colour, it sat in the list like any other number.
 
-Without levers written apart from results, meetings turn into weather reports. You get ten minutes of "we have to do something". Effort goes into what will not budge. You are left with fatigue instead of a result.
+Without levers written apart from results, meetings turn into [weather reports](/blog/levers-of-control/). You get ten minutes of "we have to do something". Effort goes into what will not budge. You are left with fatigue instead of a result.
 
 ### Plan and people: questions 7 and 8
 
@@ -78,7 +78,7 @@ A system without names and a rhythm lives in one head. Once Andrew named who loo
 
 No forecast means you meet the future when it arrives. At his old 9% margin, Andrew's reserve reaches two months at month 16. With the plan working, at month 10. Six months of difference, visible only on paper.
 
-No checks before acting means you can chase a goal that cannot exist. Suppose Andrew wants the lowest price on the street and a 15% margin at the same time. The sums say he would need 31% more customers. His room and his baristas can handle no more than 10% more. One goal has to go before any work begins.
+No checks before acting means you can chase [a goal that cannot exist](/blog/mutually-exclusive-goals/). Suppose Andrew wants the lowest price on the street and a 15% margin at the same time. The sums say he would need 31% more customers. His room and his baristas can handle no more than 10% more. One goal has to go before any work begins.
 
 ## Ten Yes answers are not the finish line
 
@@ -94,7 +94,7 @@ Every No stays a No until a bad month finds it. Then you fill the empty row in a
 
 Andrew's "twenty per cent" shows the price. He was one hire and one campaign away from running the coffee shop out of money. Within a few months, and nobody would have understood why.
 
-Ten minutes now, or one bad month later. The ten minutes are cheaper.
+Ten minutes now, or one bad month later. The ten minutes are cheaper. Share your first No with us on [Threads](https://www.threads.com/@steerdontguess).
 
 ## What this test does not fix
 
@@ -106,7 +106,7 @@ The cause behind most Nos is the same: a part of the loop exists in your head bu
 - **A No on question 9.** "If nothing changes" against "if the plan works", in numbers and dates, plus who should be at the wheel. That is Chapters 8 and 9.
 - **A No on question 10.** The three offsets test the goal, the starting point and the outside world before you spend a cent.
 
-One more honest limit. The model does not replace a risk register, legal advice, safety rules or a proper test of cause and effect. The order of your goals is a way to state what you want, not a full decision machine.
+One more honest limit. The model does not replace a [risk register](/blog/risk-register/), legal advice, safety rules or a proper test of cause and effect. The order of your goals is a way to state what you want, not a full decision machine.
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -121,7 +121,7 @@ One more honest limit. The model does not replace a risk register, legal advice,
 
 You have two choices tonight. Keep the ten answers as a feeling, and let the next bad month grade you. Or write them down and circle your first No.
 
-The circle tells you where you are weak. The exact method for each empty row, with thresholds, forecasts and the three offsets, is what turns the circle into a fix.
+The circle tells you where you are weak. The exact method for each empty row, with thresholds, forecasts and the three offsets, is what turns the circle into a fix. You will find them in [the paperback](https://www.amazon.com/dp/B0HPCJCWKF) as well as on Kindle.
 
 Test the logic for free: [Chapter 1, with the refusal test](/blog/free-sample/). Or get the full control system on Kindle, [on Amazon](https://www.amazon.com/dp/B0HPBR6BNX). It comes as a book: sixteen chapters, a one-page cheat sheet, and this self check at the back.
 

@@ -15,9 +15,9 @@ Is that a comfort or a cliff edge? On a good Monday it feels like security. On a
 
 Your own version might be a margin six points under target. A lot? A little? You decide afresh every week, usually tired.
 
-Twenty numbers in the monthly report, and not one of them says whether to act. That is the gap KPI zones close.
+[Twenty numbers in the monthly report](/blog/small-business-kpis/), and not one of them says whether to act. That is the gap KPI zones close.
 
-A number without a line makes you judge it fresh each week, mood and all. The Jirgenson Model gives you the answer: every gap becomes an error, and zones you set in advance turn it into a decision. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+A number without a line makes you judge it fresh each week, mood and all. [The Jirgenson Model](https://github.com/mjirgensons/jirgenson-model) gives you the answer: every gap becomes an error, and zones you set in advance turn it into a decision. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What a KPI zone is
 
@@ -52,7 +52,7 @@ Here is Andrew's coffee shop at the start, with the error worked out:
 | Complaints a week | 2 or fewer | 5 | +3 |
 | Owner's hours a week | 40 or fewer | 65 | +25 hours |
 
-Then turn the biggest errors into money. Monthly expenses are €27,300, so the reserve error is 1.5 × €27,300: €40,950 missing. On €30,000 of revenue, six points of margin is €1,800 a month. The goal brings €4,500. The till brings €2,700.
+Then turn the biggest errors into money. Monthly expenses are €27,300, so [the reserve error](/blog/cash-reserve-months-of-expenses/) is 1.5 × €27,300: €40,950 missing. On €30,000 of revenue, six points of margin is €1,800 a month. The goal brings €4,500. The till brings €2,700.
 
 Now "minus six points" has a price tag. It still has no instruction. That comes from the zones.
 
@@ -60,10 +60,10 @@ Now "minus six points" has a price tag. It still has no instruction. That comes 
 
 This takes about fifteen minutes for five rows. Do it with a clear head, not in the middle of a bad week.
 
-1. **Write the direction.** More is better, less is better, or "no more than". Elena's client share: no more than 30%.
+1. **Write the direction.** More is better, less is better, or "no more than". [Elena's client share](/blog/client-concentration-freelancer/): no more than 30%.
 2. **Work out the error.** Actual minus goal. Elena: 70 minus 30 gives +40 points.
 3. **Draw the red line where damage becomes hard to reverse.** Ask: below this point, can I still fix it calmly? Andrew's reserve: red under one month. A month leaves time to negotiate a deferral, find money and decide. Less leaves none.
-4. **Draw the green edge, never tighter than your measurement error.** If your margin figures can be a point out, a half-point green band is noise. Improve the count. Do not widen the band.
+4. **Draw the green edge, never tighter than your measurement error.** If your margin figures [can be a point out](/blog/how-to-measure-business-performance/), a half-point green band is noise. Improve the count. Do not widen the band.
 5. **Yellow is everything between.** Then add a grey rule: any row not updated on schedule turns grey.
 
 Filled in for three rows:
@@ -96,7 +96,7 @@ A red reserve is not an abstract colour. It is your stability margin: how big a 
 
 A broken coffee machine is a nuisance for a shop with two months of reserve. For a shop with two weeks, it is an emergency.
 
-The numbers make it blunt. At Andrew's 9% margin, any breakdown or fine of about 0.1 months of reserve pushes his goal back about a month. At 15%, about half a month. If nothing changes, the reserve reaches two months at month 16; with the plan working, at month 10. At the end of month 3 the "change nothing" line still reads 0.8 months: red.
+The numbers make it blunt. At Andrew's 9% margin, any breakdown or fine of about 0.1 months of reserve pushes his goal back about a month. At 15%, about half a month. [If nothing changes](/blog/forecast-cash-flow/), the reserve reaches two months at month 16; with the plan working, at month 10. At the end of month 3 the "change nothing" line still reads 0.8 months: red.
 
 Without a written red line, nobody calls it red. Andrew's first instinct was loyalty cards, paid for from a reserve under one month. The zone stopped him. A business without zones decides by whoever shouts loudest that week.
 
@@ -114,10 +114,10 @@ The second: a zone tells you that something must move. It does not tell you what
 
 Two steps close those gaps:
 
-- **The red protocol**. The order of action when several rows are red at once, and what you freeze first. Chapter 4.
-- **The list of levers**. What you can change today, tested with three questions, each with an owner. Chapter 5.
+- **The red protocol**. The order of action [when several rows are red at once](/blog/business-triage/), and what you freeze first. Chapter 4.
+- **The list of levers**. What you can change today, [tested with three questions](/blog/levers-of-control/), each with an owner. Chapter 5.
 
-To see all five rows of Andrew's panel with every threshold, open the [traffic light dashboard template](/blog/traffic-light-dashboard/). It shows how a business dashboard reads in a minute once the zones are set.
+To see all five rows of Andrew's panel with every threshold, open the [traffic light dashboard template](/blog/traffic-light-dashboard/). It shows how a business dashboard reads in a minute once the zones are set. The zone rules themselves are written out in [the public canon](https://github.com/mjirgensons/jirgenson-canon).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -133,7 +133,7 @@ To see all five rows of Andrew's panel with every threshold, open the [traffic l
 
 You have two choices. Keep reading each number fresh every Monday and let fatigue decide whether minus six is a lot. Or draw three lines on each row tonight, while your head is clear.
 
-The zones tell you how serious each gap is. The red protocol and the list of levers tell you what to do when the worst week arrives with two reds at once.
+The zones tell you how serious each gap is. The red protocol and the list of levers tell you what to do when the worst week arrives with two reds at once. Both sit in Chapters 4 and 5 of [the paperback](https://www.amazon.com/dp/B0HPCJCWKF).
 
 Picture next Monday: one look at the colours, one row that matters, and no argument about the rest.
 

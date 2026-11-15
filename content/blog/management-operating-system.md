@@ -11,19 +11,19 @@ answer: "A management operating system is the closed loop a business runs throug
 
 Andrew took one day off. His whole management system took the day off with him.
 
-He had goals. He had measured numbers, colour zones and a one-page plan for the margin. Yet the spreadsheet sat untouched. The plan hung on the wall. The only part of the business that moved was Andrew.
+He had goals. He had measured numbers, colour zones and [a one-page plan](/blog/one-page-business-plan/) for the margin. Yet the spreadsheet sat untouched. The plan hung on the wall. The only part of the business that moved was Andrew.
 
 You know the feeling. You bought the software. You built the manager dashboard. And the week you go away, nothing on it changes, because nobody looks.
 
 A dashboard nobody reads on Monday is a poster with numbers on it.
 
-The tools were never the problem. The loop that runs them was missing. The answer comes from the Jirgenson Model: control as a closed cycle of eight stages. Every stage has an owner and a date. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
+The tools were never the problem. The loop that runs them was missing. The answer comes from the Jirgenson Model: control as [a closed cycle of eight stages](https://github.com/mjirgensons/jirgenson-model). Every stage has an owner and a date. It is scientifically proven that the Jirgenson Model works ([doi.org/10.5281/zenodo.23964934](https://doi.org/10.5281/zenodo.23964934)).
 
 ## What a management operating system is
 
 In lean manufacturing circles, the phrase means the routines, meetings and measures a company runs on. The idea is sound: a business needs a rhythm, not a pile of tools.
 
-The Jirgenson Model makes that rhythm precise. It treats management as a closed loop: you act, you measure the result, and the result changes the next action. That is closed loop control, the same idea that keeps a ship on course.
+The Jirgenson Model makes that rhythm precise. It treats management as a closed loop: you act, you measure the result, and the result changes the next action. That is [closed loop control](/blog/control-theory-for-business/), the same idea that keeps a ship on course.
 
 <div class="def"><strong>In the Jirgenson Model,</strong> control is a full cycle of eight stages. Stages 1 and 8 are always present. The stages between them can be merged or split, but none can be dropped. A skipped stage does not vanish: either nobody runs it, or somebody else runs it, and rarely in your favour.</div>
 
@@ -50,7 +50,7 @@ Skip stage 3, and the market, the bank or a competitor sets your goal for you. S
 
 So the real question is never "do we have a system?". It is "who runs each stage of ours?".
 
-That is systems thinking in business, brought down to a single sheet. You stop asking which tool is missing. You ask which stage of the loop is run by someone outside your control.
+That is [systems thinking](/blog/systems-thinking-books/) in business, brought down to a single sheet. You stop asking which tool is missing. You ask which stage of the loop is run by someone outside your control.
 
 ## The 15-minute stage audit
 
@@ -62,7 +62,7 @@ You need one sheet of paper and the project that hurts most right now. Here are 
 4. **Name who runs it now.** The bank, the supplier, a key client, a crisis, or nobody.
 5. **Decide one action that fills it.** One action, with a date and a name. Not a project.
 
-The third and the sixth stage are empty most often: no measurable goals, only wishes, or no regular look at the numbers.
+The third and the sixth stage are empty most often: no measurable goals, only wishes, or [no regular look at the numbers](/blog/how-often-to-review-kpis/).
 
 Here is Andrew's sheet from his coffee shop, month by month.
 
@@ -77,7 +77,7 @@ Here is Andrew's sheet from his coffee shop, month by month.
 | 7. Improve | One item he meant to drop stays: it brings the regulars in (M2) |
 | 8. Maintain | Reserve at 2.0 months for three months in a row, then maintenance mode |
 
-Look at stage 5. It is where an accountability chart belongs: every number has a named owner, with the authority and resources to act. Before month 1, that owner was always Andrew. That is why his day off stopped everything.
+Look at stage 5. It is where an accountability chart belongs: every number has [a named owner](/blog/delegating-to-the-right-person/), with the authority and resources to act. Before month 1, that owner was always Andrew. That is why his day off stopped everything.
 
 ## A to-do list versus a closed loop
 
@@ -93,7 +93,7 @@ So his first check of the margin plan sits at month 2, not month 1. Check earlie
 
 ## Where the manager dashboard fits
 
-The manager dashboard is the instrument of stage 6. It shows the gap. It does not set goals, write plans or name owners.
+The [manager dashboard](/blog/traffic-light-dashboard/) is the instrument of stage 6. It shows the gap. It does not set goals, write plans or name owners.
 
 A tool is not a lever. With a lever you move the process. With a tool you see and calculate. Confuse the two, and you buy a better screen for a loop that has no stage 3.
 
@@ -113,7 +113,7 @@ And the human cost: an owner at sixty-five hours a week. He cannot take a day of
 
 The audit is complete as a tool. It finds the empty stage, names who runs it now and gives you one action to fill it. Use it today.
 
-But it treats a symptom. The cause sits deeper, in stage 4: can you foresee the result at all? A loop that only reacts to last month runs all eight stages too late. It brakes when the brake lights ahead come on.
+But it treats a symptom. The cause sits deeper, in stage 4: can you foresee the result at all? A loop that [only reacts to last month](/blog/reactive-vs-proactive-management/) runs all eight stages too late. It brakes when the brake lights ahead come on.
 
 Two steps of the system fix the cause. They are not taught here.
 
@@ -122,7 +122,7 @@ Two steps of the system fix the cause. They are not taught here.
 
 Without them, every stage has an owner, and the whole loop still steers by the rear-view mirror.
 
-The seven objects inside the loop are in [how to build a management system for a small business](/blog/management-system-small-business/).
+The seven objects inside the loop are in [how to build a management system for a small business](/blog/management-system-small-business/). The model's rules are spelled out in [the public canon](https://github.com/mjirgensons/jirgenson-canon).
 
 <div class="takeaways" markdown="1">
 ### Key takeaways
@@ -138,7 +138,7 @@ The seven objects inside the loop are in [how to build a management system for a
 
 You have two choices. Keep the dashboard, the software and the to-do list, and let the bank run the stage you skipped. Or spend fifteen minutes tonight on eight sentences and find the empty one.
 
-The audit tells you who runs each stage. The three ways to control teach the loop to look ahead. The seven entry steps cover the month when everything breaks.
+The audit tells you who runs each stage. The three ways to control teach the loop to look ahead. The seven entry steps cover the month when everything breaks. Short videos on the model run on the [Steer, Don't Guess YouTube channel](https://www.youtube.com/@SteerDontGuess).
 
 Next Monday, picture it: three questions, ten minutes, and a day off that the business does not notice.
 
