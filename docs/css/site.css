@@ -322,3 +322,6 @@ hr{border:0;border-top:1px solid var(--line);margin:2em 0}
   .proof-2 .tile:first-child,.proof-2 .tile{padding:24px}
   .proof-2 .num,.proof-2 .tile:first-child .num{font-size:44px}
 }
+
+.cta-deep .cta-note{align-self:center;color:#fff;font-weight:600;font-size:15px}
+.inline-buy .kn{font-weight:600;color:var(--steel);margin:0 0 8px}

@@ -58,6 +58,7 @@
       <span class="pill">Most readers start here</span>
       <div class="price-head"><b>{{ book.formats[0].name }}</b></div>
       <span class="small muted">{{ book.formats[0].pages }} pages · on your phone in a minute</span>
+      <span class="small"><b>{{ book.kindle_note }}</b></span>
       <a class="btn btn-buy" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
     </div>
     <div class="price-row"><span><b>Paperback</b><span class="small">{{ book.formats[1].pages }} pages · {{ book.formats[1].dims }}</span></span><span class="end"><a href="{{ book.formats[1].url }}" rel="noopener">Buy paperback</a></span></div>

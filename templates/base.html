@@ -74,7 +74,7 @@
   </div>
 </footer>
 {% block buybar %}<div class="buybar is-hidden" id="buybar" role="region" aria-label="Buy the book">
-  <div><b>Steer, Don't Guess</b><span>Chapter 1 free</span></div>
+  <div><b>Steer, Don't Guess</b><span>{{ book.kindle_note }}</span></div>
   <a class="btn btn-buy" href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a>
 </div>
 <script>

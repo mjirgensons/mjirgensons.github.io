@@ -12,7 +12,7 @@
     {
       "key": "kindle",
       "name": "Kindle eBook",
-      "price": "9.99",
+      "price": "2.99",
       "currency": "USD",
       "asin": "B0HPBR6BNX",
       "pages": 264,
@@ -94,5 +94,7 @@
     "url": "https://doi.org/10.5281/zenodo.23964934",
     "doi": "10.5281/zenodo.23964934",
     "github_url": "https://github.com/mjirgensons/jirgenson-model/tree/main/experiments/E5-blind-test-2026-10"
-  }
+  },
+  "kindle_note": "Kindle edition: 85% less than the paperback",
+  "kindle_note_source": "Amazon.com 2026-11-20: Kindle $2.99, paperback $19.99. Update or remove this line if either price changes (Martin 2026-11-20)."
 }
