@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block jsonld %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"CollectionPage","name":page.title,"description":page.description,"url":abs_url(page.url),"author":{"@type":"Person","name":site.author}} | tojson }}</script>{% endblock %}
+{% block content %}
+<div class="wrap">
+<article class="tools">
+  <header class="page-head col">
+    <span class="label">{{ page.kicker }}</span>
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.lead }}</p>
+  </header>
+
+  <div class="tool-grid">
+    <a class="tool-card is-live" href="/tools/youtube-channel-system/">
+      <span class="tool-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="4"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor"/></svg></span>
+      <span class="tool-state ok">Available</span>
+      <h2>YouTube channel system</h2>
+      <p>Claude runs your channel by the Jirgenson Model: goals with zones, a forecast before every video, and a diagnosis of the gate where each video stopped.</p>
+      <span class="btn btn-steel btn-sm">Open the tool</span>
+    </a>
+    <div class="tool-card is-soon" aria-disabled="true">
+      <span class="tool-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.3" cy="6.7" r="1" fill="currentColor"/></svg></span>
+      <span class="tool-state">Coming soon</span>
+      <h2>Instagram system</h2>
+      <p>The same method for Reels and posts: goals, forecasts and a check of where each post stopped.</p>
+      <span class="btn btn-sm btn-soon">Coming soon</span>
+    </div>
+    <div class="tool-card is-soon" aria-disabled="true">
+      <span class="tool-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M14 3v11.5a3.5 3.5 0 1 1-3.5-3.5"/><path d="M14 3c.6 2.8 2.4 4.4 5 4.6"/></svg></span>
+      <span class="tool-state">Coming soon</span>
+      <h2>TikTok system</h2>
+      <p>The same method for short videos on TikTok.</p>
+      <span class="btn btn-sm btn-soon">Coming soon</span>
+    </div>
+    <div class="tool-card is-soon" aria-disabled="true">
+      <span class="tool-ico" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 4l16 16M20 4L4 20"/></svg></span>
+      <span class="tool-state">Coming soon</span>
+      <h2>X system</h2>
+      <p>The same method for posts and replies on X.</p>
+      <span class="btn btn-sm btn-soon">Coming soon</span>
+    </div>
+  </div>
+
+  <div class="col">
+    <h2>What every tool has in common</h2>
+    <ul>
+      <li>It works only inside the <a href="/blog/jirgenson-model-management-method/">Jirgenson Model</a> and stops if the model's canon is missing.</li>
+      <li>It writes a forecast before it acts and compares it with the result after.</li>
+      <li>It never invents numbers: what was not measured is called "not measured".</li>
+      <li>It reads and advises. It publishes nothing and never asks for passwords. You decide.</li>
+    </ul>
+    <p class="muted small">Want the method itself, without a tool? The free <a href="/ai-assistant/">canon and operating prompt</a> work with ChatGPT, Claude or Gemini.</p>
+  </div>
+  {% include "_toolfoot.html" %}
+</article>
+</div>
+{% endblock %}
+{% block buybar %}{% endblock %}

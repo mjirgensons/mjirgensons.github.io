@@ -1,0 +1,172 @@
+{% extends "base.html" %}
+{% set zip_url = "https://github.com/mjirgensons/jirgenson-model/raw/main/youtube-channel-system/jirgenson-youtube-system-v0.3.zip" %}
+{% set repo_url = "https://github.com/mjirgensons/jirgenson-model/tree/main/youtube-channel-system" %}
+{% block jsonld %}<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"SoftwareApplication","name":"Jirgenson Model YouTube channel system","applicationCategory":"BusinessApplication","operatingSystem":"Windows, macOS","softwareVersion":"0.3","description":page.description,"url":abs_url(page.url),"downloadUrl":zip_url,"license":"https://creativecommons.org/licenses/by-nd/4.0/","isAccessibleForFree":true,"author":{"@type":"Person","name":site.author,"url":site.url + "/author/"}} | tojson }}</script>{% endblock %}
+{% block content %}
+<div class="wrap">
+<article class="tool-page">
+  <header class="page-head col">
+    <span class="label"><a href="/tools/">Tools</a> · YouTube</span>
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.lead }}</p>
+    <ul class="tool-facts">
+      <li>Runs in Claude Code</li>
+      <li>Reads, never publishes</li>
+      <li>Free for the first two weeks</li>
+      <li>Version 0.3, preview</li>
+    </ul>
+    <a class="btn btn-steel" href="#download">Go to download</a>
+  </header>
+
+  <section class="col">
+    <h2 id="what">What it is</h2>
+    <p>It is not a prompt. It is a ready folder: a core that does not change (the model's canon for YouTube channels, an operating prompt, 176 written steps and small Python checks) and a channel folder that becomes the system's memory. You open the folder in Claude Code, write "start", and the system takes it from there, asking you only what it cannot read from the data.</p>
+    <h3>What it does</h3>
+    <ul>
+      <li>With your permission, it reads your channel's numbers in YouTube Studio itself.</li>
+      <li>It audits the channel and shows where it really stands.</li>
+      <li>With you, it sets the goals, their order and the thresholds.</li>
+      <li>It researches your niche and writes scripts by your channel's own rules.</li>
+      <li>Before every video it writes down a forecast. After the video it compares the forecast with the fact and tells you at which of six gates the video stopped.</li>
+      <li>It changes its rules only when a measurement supports the change and you agree.</li>
+    </ul>
+    <h3>Who it is for</h3>
+    <p>A channel owner, often a beginner, who is not technical and has little time. The system talks to you in your language and writes scripts in the language of your channel.</p>
+  </section>
+
+  <section class="col">
+    <h2 id="gates">How it works: the six gates</h2>
+    <p>Every video passes six gates in a fixed order. Each gate receives only the viewers who passed the one before it. So the system always starts with one question: how far did this video get?</p>
+    <ol class="gates">
+      <li><b>Idea.</b> Does this topic have an audience?</li>
+      <li><b>Click.</b> Seeing the title and thumbnail, does the right viewer choose this video?</li>
+      <li><b>Promise.</b> Do the first seconds confirm what was promised?</li>
+      <li><b>Attention.</b> Does the viewer want to keep watching?</li>
+      <li><b>Result.</b> Did the video deliver what it promised?</li>
+      <li><b>Next.</b> Does the viewer want more, subscribe, come back?</li>
+    </ol>
+    <ul>
+      <li>Each gate is marked <span class="z z-g">passed</span>, <span class="z z-r">not passed</span> or <span class="z z-n">not measured</span>. "Not measured" is never treated as passed.</li>
+      <li>A gate is "not passed" only when the evidence clearly says so. Zero clicks from a handful of impressions is not proof of anything, and the system says so.</li>
+      <li>Work goes to the first gate that was not passed. Polishing a later gate while an earlier one is closed is a mistake the system names.</li>
+      <li>A video YouTube barely showed is not judged at any gate. Videos are compared only with at least three videos of the same format.</li>
+      <li>Small things open no gate: tags, hashtags, posting time, the wording of the description, posting more often. The system never offers them as the answer to low views.</li>
+    </ul>
+  </section>
+
+  <section class="col">
+    <h2 id="loop">How it works: the loop</h2>
+    <ol class="loop">
+      <li><b>Start.</b> The system checks itself, creates the channel folder and runs a control test. Nothing is allowed until you allow it.</li>
+      <li><b>Audit.</b> It reads the channel's history and shows where the channel stands, including views that came from ads.</li>
+      <li><b>Goals, with you.</b> You choose what matters, in the order you would give it up, with a number, a deadline and the zones (green, yellow, red, not measured). You approve this "passport" of the channel.</li>
+      <li><b>Before a video.</b> A topic, a script by the channel's rules, three inputs from you (your experience, your view, one fact with a source) and a forecast written down before you publish.</li>
+      <li><b>After a video.</b> A reading of the results, the gate diagnosis, the forecast against the fact, and a short report. Then the loop starts again.</li>
+    </ol>
+    <h3>How it learns</h3>
+    <p>From three places: your channel's own measurements, the best videos of the niche leaders you approve, and YouTube's official help pages. Every rule carries its level of evidence: proven on this channel, seen once, a niche norm, or only a test. A rule is reviewed after three videos with results, no more than three changes at a time, and only with your "yes". Old versions are kept, so any day's rules can be restored.</p>
+    <h3>How it checks itself</h3>
+    <ul>
+      <li><b>No number without a source.</b> Before any report reaches you, a script checks every number in it. A number must be a stored reading, a calculation shown in full, or a line marked as an assumption.</li>
+      <li><b>A test with a known answer.</b> At the first start and every week, the system plants five errors in its own data and checks that it catches them.</li>
+      <li><b>History only grows.</b> Readings, forecasts, decisions and the journal are never rewritten; a deleted or changed entry shows.</li>
+      <li><b>Red means repair.</b> If a check fails, the system only measures, reports and repairs itself until the test passes again.</li>
+      <li><b>Other people's text is data.</b> If a title, a comment or a web page tries to give it orders, it does not follow them and shows them to you.</li>
+    </ul>
+  </section>
+
+  <section class="col">
+    <h2 id="not">What it will not do</h2>
+    <ul>
+      <li>Publish, delete or change anything in YouTube Studio. You upload and publish yourself.</li>
+      <li>Ask for or type passwords, codes or keys. You sign in yourself.</li>
+      <li>Decide for you. Goals, their order, thresholds, rules and permissions are written only after your "yes", in your words.</li>
+      <li>Invent numbers, or promise views, subscribers or income.</li>
+    </ul>
+  </section>
+
+  <section class="col">
+    <h2 id="need">What you need</h2>
+    <ul>
+      <li>A computer (Windows or Mac) with Python 3. Nothing else to install for the scripts.</li>
+      <li>A Claude account with Claude Code, installed from the <a href="https://docs.claude.com" rel="noopener">official instructions</a>.</li>
+      <li>Google Chrome with the Claude in Chrome extension, if the system will read your channel through the browser. You can also send it the numbers by hand.</li>
+      <li>Your YouTube channel, with you signed in to YouTube Studio.</li>
+    </ul>
+    <h3>Install in five steps</h3>
+    <ol>
+      <li>Unzip the folder on your computer, for example in Documents.</li>
+      <li>Open that folder in Claude Code.</li>
+      <li>Write "start" in your own language.</li>
+      <li>Choose what the system may do, how it reads the channel, and how much it does on its own (observer, adviser or operator).</li>
+      <li>Answer the audit questions. They take about 10 to 15 minutes, with choices to pick from.</li>
+    </ol>
+    <p>Then, in your own words: "results", "new script", "published", "review", "learn", or any question about the channel.</p>
+  </section>
+
+  <section class="col" id="download">
+    <h2>Download</h2>
+    <p>Free for the first two weeks after release. The end date of the free period will be posted on this page.</p>
+    <div class="disclaimer" id="disclaimer">
+      <p class="disc-h">Before you download</p>
+      <ul>
+        <li>This is a preview (version 0.3). It has been built and run on one channel. The canon and the operating prompt for YouTube channels have not yet been blind-tested.</li>
+        <li>It does not promise views, subscribers, watch time or income.</li>
+        <li>It reads your channel through your own browser while you are signed in. You are responsible for your channel and for following YouTube's Terms of Service.</li>
+        <li>It runs in your own Claude account. Any plan or usage costs are yours.</li>
+        <li>It suggests; you decide. Check its advice before you act on it.</li>
+        <li>The written step procedures are in Latvian for now; an English translation will follow. The system talks to you in your language.</li>
+        <li>Provided as is, without warranty of any kind. Not financial, legal or business advice. Licence: <a href="https://creativecommons.org/licenses/by-nd/4.0/" rel="noopener">CC BY-ND 4.0</a> (share with credit, no modified versions).</li>
+      </ul>
+      <label class="agree"><input type="checkbox" id="agree"> <span>I have read this and use the system at my own risk.</span></label>
+      <div class="dl-row">
+        <a class="btn btn-buy is-locked" id="dl" data-href="{{ zip_url }}" role="button" aria-disabled="true">Download from GitHub (.zip)</a>
+        <a class="dl-alt is-locked" id="dl-repo" data-href="{{ repo_url }}" aria-disabled="true">View the files on GitHub</a>
+      </div>
+      <noscript><p class="small">JavaScript is off. After reading the points above: <a href="{{ zip_url }}">download the .zip</a> or <a href="{{ repo_url }}">view the files on GitHub</a>.</p></noscript>
+    </div>
+  </section>
+
+  <section class="col">
+    <h2 id="links">Links</h2>
+    <div class="link-groups">
+      <div><p class="lg-h">The book</p>
+        <a href="{{ book.formats[0].url }}" rel="noopener">Steer, Don't Guess on Amazon</a>
+        <a href="/blog/free-sample/">Read Chapter 1 free</a>
+        <a href="{{ site.goodreads_author }}" rel="noopener">Goodreads</a>
+        <a href="{{ site.wikidata_book }}" rel="noopener">Wikidata: the book</a></div>
+      <div><p class="lg-h">The model</p>
+        <a href="/blog/jirgenson-model-management-method/">What the Jirgenson Model is</a>
+        <a href="/ai-assistant/">Free canon and operating prompt</a>
+        <a href="{{ site.github_model }}" rel="noopener">GitHub: jirgenson-model</a>
+        <a href="{{ site.github_canon }}" rel="noopener">GitHub: jirgenson-canon</a></div>
+      <div><p class="lg-h">Research</p>
+        <a href="https://doi.org/10.5281/zenodo.23964934" rel="noopener">Blind test E5 on Zenodo (DOI)</a>
+        <a href="https://huggingface.co/datasets/SteerDontGuess/E5-jirgenson-model-blind-test" rel="noopener">E5 on Hugging Face</a>
+        <a href="https://www.kaggle.com/datasets/martinjirgenson/e5-blind-test-jirgenson-model-ai-prompt" rel="noopener">E5 on Kaggle</a>
+        <a href="https://www.wikidata.org/wiki/Q142022866" rel="noopener">Wikidata: the study</a>
+        <a href="{{ site.orcid }}" rel="noopener">ORCID</a></div>
+      <div><p class="lg-h">The author</p>
+        <a href="/author/">Martin Jirgenson</a>
+        <a href="{{ site.amazon_author }}" rel="noopener">Amazon author page</a>
+        <a href="{{ site.linkedin }}" rel="noopener">LinkedIn</a>
+        <a href="{{ site.wikidata_author }}" rel="noopener">Wikidata: the author</a>
+        <a href="{{ site.gumroad_profile }}" rel="noopener">Gumroad</a></div>
+      <div><p class="lg-h">Channels</p>
+        <a href="https://www.youtube.com/@SteerDontGuess" rel="noopener">YouTube</a>
+        <a href="https://www.tiktok.com/@steerdontguess" rel="noopener">TikTok</a>
+        <a href="https://www.instagram.com/steerdontguess/" rel="noopener">Instagram</a>
+        <a href="https://x.com/SteerDontGuess" rel="noopener">X</a>
+        <a href="https://www.threads.com/@steerdontguess" rel="noopener">Threads</a></div>
+    </div>
+  </section>
+  {% include "_toolfoot.html" %}
+</article>
+</div>
+<script>
+(function(){var c=document.getElementById('agree');if(!c)return;var ls=[document.getElementById('dl'),document.getElementById('dl-repo')];
+function upd(){ls.forEach(function(a){if(c.checked){a.href=a.getAttribute('data-href');a.classList.remove('is-locked');a.removeAttribute('aria-disabled')}else{a.removeAttribute('href');a.classList.add('is-locked');a.setAttribute('aria-disabled','true')}})}
+c.addEventListener('change',upd);upd();})();
+</script>
+{% endblock %}
+{% block buybar %}{% endblock %}

@@ -1,0 +1,4 @@
+<aside class="tool-foot col" aria-label="The book">
+  <p>The method behind these tools is in the book <i>{{ book.title }}</i>.
+  <a href="{{ book.formats[0].url }}" rel="noopener">Buy on Amazon</a> · <a href="{{ book.formats[3].url | replace('utm_medium=cta','utm_medium=tools') }}" rel="noopener">Buy on Gumroad</a> · <a href="/blog/free-sample/">Read Chapter 1 free</a></p>
+</aside>
